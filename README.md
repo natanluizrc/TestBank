@@ -1,6 +1,6 @@
 # TestBank — Documentação Técnica
 
-v1.0 · Atualizado: 2026-05-10
+v1.0 · Atualizado: 2026-05-28
 
 ---
 
@@ -27,7 +27,7 @@ Todo o conteúdo roda no navegador — sem backend de aplicação. Lógica em Ja
 |----------|-----|
 | Produção | https://nl-testbank.web.app |
 | Alternativo | https://nl-testbank.firebaseapp.com |
-| Repositório | github.com/natanluizrc/TestBank |
+| Repositório | github.com/natanluizrc/QBank |
 
 ---
 
