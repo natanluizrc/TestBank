@@ -797,15 +797,6 @@
     },
     {
       "id": "cg-01a-55",
-      "banca": "CEBRASPE/PC DF/Contador/2025",
-      "tipo": "certo_errado",
-      "enunciado": "Ativo + patrimônio líquido < passivo exigível é uma expressão que sintetiza a situação de passivo a descoberto.",
-      "resposta": "errado",
-      "comentario": "A expressão correta do passivo a descoberto é Ativo < Passivo (ou, equivalentemente, PL < 0). A fórmula do enunciado, Ativo + PL < Passivo, não faz sentido algébrico porque o PL já é definido como Ativo − Passivo; somar PL ao Ativo seria uma tautologia incorreta. A situação de passivo a descoberto ocorre simplesmente quando Passivo > Ativo, resultando em PL negativo.",
-      "dificuldade": 3
-    },
-    {
-      "id": "cg-01a-56",
       "banca": "CEBRASPE/ANTT/Especialista em Regulação/2024",
       "tipo": "certo_errado",
       "enunciado": "Se no início de certo exercício uma empresa possuía situação patrimonial líquida zerada, e se, ao longo do exercício, as receitas e os ganhos superaram as despesas e as perdas, então, nesse contexto, a situação patrimonial líquida final da empresa é superavitária.",
@@ -814,7 +805,7 @@
       "dificuldade": 4
     },
     {
-      "id": "cg-01a-57",
+      "id": "cg-01a-56",
       "banca": "CEBRASPE/DPE RO/Técnico em Contabilidade/2022",
       "tipo": "multipla_escolha",
       "enunciado": "Na equação patrimonial,",
@@ -830,7 +821,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-58",
+      "id": "cg-01a-57",
       "banca": "CEBRASPE/APEX/Analista/Processos Contábeis/2022",
       "tipo": "multipla_escolha",
       "enunciado": "Em dado exercício social, uma entidade apresentou passivo a descoberto. Nessa situação,",
@@ -845,7 +836,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-59",
+      "id": "cg-01a-58",
       "banca": "CEBRASPE/PC RO/Agente de Polícia Civil/2022",
       "tipo": "multipla_escolha",
       "enunciado": "Considerando que as informações (em reais) a seguir se refiram ao primeiro exercício financeiro de determinada entidade, assinale a opção em que é apresentado corretamente o valor da situação líquida patrimonial desse período.\n\nFornecedores: R$ 22.000 | Ativo imobilizado: R$ 35.000 | Caixa e equivalentes: R$ 10.000 | Depreciação acumulada: R$ 4.000 | Estoques: R$ 24.000 | Empréstimos a pagar (longo prazo): R$ 30.000",
@@ -861,7 +852,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-60",
+      "id": "cg-01a-59",
       "banca": "CEBRASPE/PC RO/Agente de Polícia Civil/2022",
       "tipo": "multipla_escolha",
       "enunciado": "Uma entidade apresentou as seguintes informações (em reais) durante seu primeiro exercício financeiro:\n\nFornecedores: R$ 38.000 | Ativo imobilizado: R$ 36.000 | Caixa e equivalentes: R$ 12.000 | Depreciação acumulada: R$ 3.600 | Estoques: R$ 27.000 | Empréstimos a pagar (longo prazo): R$ 44.000\n\nCom base nessas informações, é correto afirmar que o valor da situação líquida patrimonial no período foi",
@@ -877,7 +868,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-61",
+      "id": "cg-01a-60",
       "banca": "CEBRASPE/PC PB/Agente Investigador/2022",
       "tipo": "multipla_escolha",
       "enunciado": "A situação patrimonial de uma entidade em dado momento é relatada",
@@ -893,7 +884,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-62",
+      "id": "cg-01a-61",
       "banca": "CEBRASPE/Polícia Federal/Agente/2021",
       "tipo": "certo_errado",
       "enunciado": "Determinada empresa apresentou, em 31 de dezembro de 2020, um patrimônio composto pelos seguintes elementos: Caixa R$ 20.000; Duplicatas a Receber R$ 50.000; Empréstimo a pagar R$ 30.000; Estoques R$ 40.000; Imóveis de uso próprio R$ 200.000; Depreciação Acumulada R$ 10.000; Capital Social R$ 220.000; Fornecedores R$ 20.000; Salários a pagar R$ 50.000; Reservas de Lucro R$ 10.000; Depósitos em banco R$ 10.000; Impostos a Recolher R$ 10.000; Aplicações Financeiras de Liquidez Imediata R$ 30.000.\n\nCom base nesses elementos, em 31 de dezembro de 2020, a situação patrimonial líquida da empresa alcançou o montante de R$ 230.000,00.",
@@ -902,7 +893,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-63",
+      "id": "cg-01a-62",
       "banca": "CEBRASPE/Polícia Federal/Agente/2021",
       "tipo": "certo_errado",
       "enunciado": "Considerando os mesmos elementos patrimoniais da questão anterior (empresa com patrimônio levantado em 31/12/2020), os saldos dos recursos aplicados no ativo da empresa totalizaram R$ 350.000,00 em 31 de dezembro de 2020; desse total, R$ 120.000 foram provenientes de capital de terceiros.",
@@ -911,7 +902,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-64",
+      "id": "cg-01a-63",
       "banca": "CEBRASPE/SEFAZ CE/Auditor Fiscal/2021",
       "tipo": "certo_errado",
       "enunciado": "Uma empresa com fins lucrativos prestadora de serviços ao governo do estado do Ceará contratou, no dia 1.º do último mês findo, um novo funcionário de relações públicas, com salário de R$ 10.000, mais encargos legais, a ser pago no 5.º dia útil após o mês de prestação dos serviços. A contratação do novo funcionário é um ato administrativo que impacta positivamente o patrimônio líquido da entidade contratante.",
@@ -920,7 +911,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-65",
+      "id": "cg-01a-64",
       "banca": "CEBRASPE/EBSERH/Técnico Contabilidade/2018",
       "tipo": "certo_errado",
       "enunciado": "Situação líquida e patrimônio líquido são expressões sinônimas, mas a primeira é mais adequada para expressar o estado patrimonial da entidade, enquanto a segunda é de utilização obrigatória no balanço patrimonial.",
@@ -929,7 +920,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-66",
+      "id": "cg-01a-65",
       "banca": "CEBRASPE/EBSERH/Técnico Contabilidade/2018",
       "tipo": "certo_errado",
       "enunciado": "No que diz respeito aos estados patrimoniais, é possível que ativo e passivo tenham valor igual a zero, respectivamente, na constituição e no encerramento das atividades da empresa.",
@@ -938,7 +929,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-67",
+      "id": "cg-01a-66",
       "banca": "CEBRASPE/EBSERH/Técnico Contabilidade/2018",
       "tipo": "certo_errado",
       "enunciado": "Uma entidade cujos bens e direitos somem R$ 2 milhões e que possua obrigações que totalizem R$ 5 milhões estará em uma situação líquida que pode ser definida como ativo a descoberto ou deficitária.",
@@ -947,7 +938,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-68",
+      "id": "cg-01a-67",
       "banca": "CESGRANRIO/BNDES/Técnico Administrativo/2013",
       "tipo": "multipla_escolha",
       "enunciado": "O Balanço Patrimonial da empresa Lucro Certo Ltda. apresenta os seguintes saldos: Ativo Circulante R$ 305.000; Ativo Não Circulante R$ 640.000; Passivo Circulante R$ 180.000; Passivo Não Circulante R$ 420.000; Patrimônio Líquido R$ 345.000.\n\nEssa empresa apresenta, em seu Balanço Patrimonial, o total da origem de seus recursos, em reais, no valor correspondente a",
@@ -963,7 +954,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-69",
+      "id": "cg-01a-68",
       "banca": "CESGRANRIO/BNDES/Técnico Administrativo/2010",
       "tipo": "multipla_escolha",
       "enunciado": "Sabendo-se que A = Ativo; P = Passivo e PL = Patrimônio Líquido, na equação patrimonial, ocorrerá situação patrimonial nula quando",
@@ -979,7 +970,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-70",
+      "id": "cg-01a-69",
       "banca": "FUNDATEC/ELETROCAR/Técnico Contabilidade/2023",
       "tipo": "multipla_escolha",
       "enunciado": "A equação fundamental contábil é:",
@@ -995,7 +986,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-71",
+      "id": "cg-01a-70",
       "banca": "FUNDATEC/IPE Saúde/Analista de Gestão em Saúde/Contabilidade/2022",
       "tipo": "multipla_escolha",
       "enunciado": "A situação patrimonial pode ser positiva, negativa ou nula. Qual das alternativas a seguir representa corretamente a situação patrimonial negativa?",
@@ -1011,7 +1002,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-72",
+      "id": "cg-01a-71",
       "banca": "FUNDATEC/Pref. Panambi/Contador/2020",
       "tipo": "multipla_escolha",
       "enunciado": "A situação patrimonial líquida negativa em relação ao ativo total será:",
@@ -1027,7 +1018,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-73",
+      "id": "cg-01a-72",
       "banca": "FUNDATEC/Pref. Caçapava do Sul/Técnico Contabilidade/2020",
       "tipo": "multipla_escolha",
       "enunciado": "As equações básicas consistem em avaliar a situação patrimonial das empresas, a partir da diferença entre os ativos e passivos circulantes e não circulantes. Há três situações: _____, quando o valor do passivo for _____ ao valor do ativo; situação líquida _____, quando ativo e passivo são iguais; e situação líquida _____, quando o ativo é _____ que o passivo.\n\nAssinale a alternativa que preenche correta e respectivamente as lacunas.",
@@ -1043,7 +1034,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-74",
+      "id": "cg-01a-73",
       "banca": "FUNDATEC/Pref. Chuí/Contador/2019",
       "tipo": "multipla_escolha",
       "enunciado": "Determinada entidade apresentou sua demonstração contábil com a seguinte situação patrimonial: Ativo menos situação líquida é igual a zero. Essa é uma característica da situação patrimonial líquida:",
@@ -1059,7 +1050,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-75",
+      "id": "cg-01a-74",
       "banca": "FUNDATEC/Pref. São Borja/Técnico Contabilidade/2019",
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que indica situação patrimonial líquida negativa.",
@@ -1075,7 +1066,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-76",
+      "id": "cg-01a-75",
       "banca": "FUNDATEC/Pref. Salvador das Missões/Tesoureiro/2019",
       "tipo": "multipla_escolha",
       "enunciado": "É sabido que a equação formada pelos direitos pertencentes à entidade, mais seus bens e menos suas obrigações resulta no que conhecemos como Patrimônio Líquido. Em relação ao assunto, analise as assertivas abaixo:\n\nI. Quando o ativo é menor que o passivo, temos um patrimônio líquido negativo.\nII. Os recursos aplicados na entidade têm origem em capitais próprios e de terceiros. Os capitais próprios são representados pelas contas do patrimônio líquido.\nIII. Na equação elementar do patrimônio contábil, ativo e passivo podem ser substituídos, respectivamente, por receita e despesa, uma vez que o resultado (patrimônio líquido) será o mesmo.\n\nQuais estão corretas?",
@@ -1091,7 +1082,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-77",
+      "id": "cg-01a-76",
       "banca": "AVANÇASP/Pref. Valinhos/Auditor/2024",
       "tipo": "multipla_escolha",
       "enunciado": "Uma empresa apresenta a seguinte situação patrimonial:\n\nAtivo Circulante: R$ 100.000,00 | Ativo Não Circulante: R$ 200.000,00\nPassivo Circulante: R$ 80.000,00 | Passivo Não Circulante: R$ 100.000,00\n\nCom base nesses dados, a situação líquida da empresa é de:",
@@ -1107,7 +1098,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-78",
+      "id": "cg-01a-77",
       "banca": "IBFC/Pref. Feira de Santana/Contador/2024",
       "tipo": "multipla_escolha",
       "enunciado": "Suponha que a empresa possua Bens no montante de R$ 200.000, Direitos totalizando R$ 100.000 e Obrigações resultando em R$ 180.000. Assinale a alternativa que corresponda à Situação Líquida Patrimonial referente a esta situação.",
@@ -1122,7 +1113,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-79",
+      "id": "cg-01a-78",
       "banca": "SELECON/Pref. Alto Araguaia/Contador/2024",
       "tipo": "multipla_escolha",
       "enunciado": "A empresa cujos sócios integralizaram o capital inicial por meio de depósito bancário na conta da pessoa jurídica, sem ter havido outra movimentação, demonstra a seguinte equação patrimonial:",
@@ -1137,7 +1128,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-80",
+      "id": "cg-01a-79",
       "banca": "Instituto ACCESS/CM Conquista/Controlador Geral/2024",
       "tipo": "multipla_escolha",
       "enunciado": "A situação líquida da empresa é apresentada pela diferença entre o Ativo e o Passivo. Considerando uma composição patrimonial hipotética em que o Ativo é maior que o Passivo e há mais capital próprio do que capital de terceiros, a situação líquida patrimonial apresentada é",
@@ -1152,7 +1143,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-81",
+      "id": "cg-01a-80",
       "banca": "Consulplan/Pref. Pouso Alegre/Contador/2024",
       "tipo": "multipla_escolha",
       "enunciado": "O Balanço Patrimonial contém informações agrupadas em contas de Ativo, de Passivo e de Patrimônio Líquido. A Equação Patrimonial pode ser apresentada como: Patrimônio Líquido = Ativo − Passivo. Na hipótese de a soma dos valores dos ativos ser menor que a soma dos valores dos passivos, o valor do patrimônio líquido será negativo, caracterizando o estado patrimonial chamado de:",
@@ -1167,7 +1158,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-82",
+      "id": "cg-01a-81",
       "banca": "MS Concursos/Pref. Mirante da Serra/Contador/2024",
       "tipo": "multipla_escolha",
       "enunciado": "Quando o ativo é reduzido e o passivo fica inalterado, o patrimônio líquido fica:",
@@ -1182,7 +1173,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-83",
+      "id": "cg-01a-82",
       "banca": "MS Concursos/Pref. Formigueiro/Tesoureiro/2024",
       "tipo": "multipla_escolha",
       "enunciado": "A situação patrimonial _____ ocorre quando o conjunto de bens e direitos é maior do que as obrigações. Neste caso, o Patrimônio Líquido será positivo. É também conhecida como situação líquida _____, pois o _____ é maior do que o passivo exigível.",
@@ -1197,7 +1188,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-84",
+      "id": "cg-01a-83",
       "banca": "AVANÇASP/Pref. Morungaba/Assessor Contábil/2023",
       "tipo": "multipla_escolha",
       "enunciado": "Suponha que, em determinada data, uma entidade detenha um patrimônio bruto de R$ 1.000.000,00, e um passivo a descoberto de R$ 500.000,00. Assim, considerando a equação fundamental da contabilidade, o Passivo Exigível desta entidade na mesma data é de:",
@@ -1213,7 +1204,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-85",
+      "id": "cg-01a-84",
       "banca": "DIRENS Aeronáutica/EEAR/Estágio de Adaptação/Administração/2023",
       "tipo": "multipla_escolha",
       "enunciado": "Qual Situação Líquida NÃO representa Ativo maior que Passivo?",
@@ -1228,7 +1219,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-86",
+      "id": "cg-01a-85",
       "banca": "Legalle/UFPEL/Administrador/2023",
       "tipo": "multipla_escolha",
       "enunciado": "Considerando aspectos básicos de administração financeira, é possível afirmar que a diferença entre os ativos e os passivos após a inclusão de outros recursos e a dedução de outras obrigações, reconhecida no Balanço Patrimonial como patrimônio líquido, podendo ser um montante positivo ou negativo, é:",
@@ -1244,7 +1235,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-87",
+      "id": "cg-01a-86",
       "banca": "CENTEC/SEDUC CE/Professor de Finanças/2023",
       "tipo": "multipla_escolha",
       "enunciado": "Analisando as contas abaixo, aponte o item que representa a CORRETA situação patrimonial.\n\nDados: Caixa = R$ 3.000; Aplicações Financeiras = R$ 7.000; Empréstimos a Pagar = R$ 5.000; Duplicatas a Pagar = R$ 15.000; Terrenos = R$ 30.000; Impostos a Pagar = R$ 20.000.",
@@ -1260,7 +1251,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-88",
+      "id": "cg-01a-87",
       "banca": "Instituto Verbena/UFG/Técnico Contabilidade/2023",
       "tipo": "multipla_escolha",
       "enunciado": "Considerando que uma empresa tem o passivo circulante duas vezes maior que o ativo circulante; que o ativo não circulante é três vezes maior que o passivo não circulante; e que o ativo circulante é igual ao passivo não circulante, qual é a situação do PL?",
@@ -1275,7 +1266,7 @@
       "dificuldade": 4
     },
     {
-      "id": "cg-01a-89",
+      "id": "cg-01a-88",
       "banca": "QUADRIX/CREF 3/Contador/2023",
       "tipo": "certo_errado",
       "enunciado": "Suponha-se que, em determinada data, uma entidade detenha um ativo total de R$ 500.000 e um passivo a descoberto de R$ 200.000. Nesse caso, considerando a equação fundamental da contabilidade, é correto afirmar que o passivo exigível dessa entidade na mesma data é de R$ 700.000.",
@@ -1284,7 +1275,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-90",
+      "id": "cg-01a-89",
       "banca": "IBFC/DPE MT/Controlador Interno/2022",
       "tipo": "multipla_escolha",
       "enunciado": "Sobre a Equação Fundamental do Patrimônio, leia o parágrafo a seguir:\n\n\"O balanço patrimonial é formado por _____, _____ e _____, e a equação fundamental é escrita na forma: _____.\"  \n\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
@@ -1299,7 +1290,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-91",
+      "id": "cg-01a-90",
       "banca": "IBFC/SESACRE/Técnico Contabilidade/2022",
       "tipo": "multipla_escolha",
       "enunciado": "A Situação Líquida do Patrimônio é a diferença entre Ativo e Passivo. As empresas podem apresentar diferentes situações líquidas. Diante do exposto, assinale a alternativa INCORRETA.",
@@ -1314,7 +1305,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-92",
+      "id": "cg-01a-91",
       "banca": "IBFC/SESACRE/Técnico Contabilidade/2022",
       "tipo": "multipla_escolha",
       "enunciado": "Em Contabilidade, sabe-se da existência da Equação Patrimonial, também conhecida como Equação Contábil Básica. Sobre sua composição, é correto afirmar:",
@@ -1329,7 +1320,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-93",
+      "id": "cg-01a-92",
       "banca": "IDECAN/TJ PI/Analista Judiciário/Contador/2022",
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que define corretamente como o saldo de uma conta é apurado e quando a empresa apresenta um passivo a descoberto, respectivamente.",
@@ -1345,7 +1336,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-94",
+      "id": "cg-01a-93",
       "banca": "IDECAN/UNILAB/Contador/2022",
       "tipo": "multipla_escolha",
       "enunciado": "A respeito dos elementos da equação patrimonial, assinale a afirmativa INCORRETA.",
@@ -1360,7 +1351,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-95",
+      "id": "cg-01a-94",
       "banca": "Consulplan/CFC/Exame de Suficiência/2022",
       "tipo": "multipla_escolha",
       "enunciado": "Um empresário do ramo imobiliário deseja ampliar seu conhecimento sobre conceitos contábeis. Relacione adequadamente os itens a seguir.\n\n1. Ativo.\n2. Passivo.\n3. Balanço Patrimonial.\n4. Patrimônio Líquido.\n5. Estoque.\n6. Capital Nominal.\n\n( ) Bens de propriedade da empresa; pertence ao ativo.\n( ) É o mais importante relatório gerado pela contabilidade; identifica a saúde financeira da empresa.\n( ) Importância que os proprietários investem inicialmente na empresa.\n( ) Obrigações exigíveis da empresa, denominado também passivo exigível.\n( ) Conjunto de bens e direitos de propriedade da empresa; itens positivos do patrimônio.\n( ) Representa o total das aplicações dos proprietários na empresa.\n\nA sequência está correta em",
@@ -1375,7 +1366,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-96",
+      "id": "cg-01a-95",
       "banca": "IDECAN/Pref. Campina Grande/Analista de Planejamento e Orçamento/2021",
       "tipo": "multipla_escolha",
       "enunciado": "A empresa XY possui R$ 100.000,00 em ativos e R$ 60.000,00 em passivos. Caso ela resolva distribuir R$ 20.000,00 de dividendos, é possível afirmar que:",
@@ -1390,7 +1381,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-97",
+      "id": "cg-01a-96",
       "banca": "Instituto AOCP/PC PA/Investigador de Polícia Civil/2021",
       "tipo": "multipla_escolha",
       "enunciado": "Acerca da situação líquida e da equação fundamental do patrimônio, analise as assertivas e assinale a alternativa que aponta a(s) correta(s).\n\nI. A situação líquida positiva é quando o total de bens e direitos é maior que o total das obrigações.\nII. A situação líquida negativa é quando o total de bens e direitos é menor que o total das obrigações.\nIII. Na equação fundamental do patrimônio, o patrimônio líquido é diretamente relacionado com o ativo e inversamente relacionado com o passivo.",
@@ -1406,7 +1397,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-98",
+      "id": "cg-01a-97",
       "banca": "Instituto AOCP/ITEP RN/Perito Criminal/Contabilidade e Economia/2021",
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à teoria da contabilidade, analise as assertivas e assinale a alternativa que aponta a(s) correta(s).\n\nI. O objetivo da contabilidade é fornecer informações úteis para a tomada de decisões.\nII. O valor registrado no patrimônio líquido de uma entidade não pode ser superior ao valor total de seus ativos.\nIII. As aplicações de recursos representam o ativo da entidade, enquanto os recursos de terceiros representam o seu passivo, origens de recursos.",
@@ -1422,7 +1413,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-99",
+      "id": "cg-01a-98",
       "banca": "Instituto AOCP/UFPB/Contabilidade/2019",
       "tipo": "multipla_escolha",
       "enunciado": "Em relação ao conceito de Patrimônio Líquido, assinale a alternativa INCORRETA.",
@@ -1438,7 +1429,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-100",
+      "id": "cg-01a-99",
       "banca": "IADES/IGEPPS/Técnico Administrativo e Financeiro/2018",
       "tipo": "multipla_escolha",
       "enunciado": "O balanço patrimonial encerrado em 31/12/20X1 evidenciou que o total do Ativo Não Circulante e parte do Ativo Circulante eram financiados por Capital Próprio. Com base apenas nessa informação, é correto afirmar, com absoluta certeza, que",
@@ -1454,7 +1445,7 @@
       "dificuldade": 4
     },
     {
-      "id": "cg-01a-101",
+      "id": "cg-01a-100",
       "banca": "IADES/ARCON PA/2018",
       "tipo": "multipla_escolha",
       "enunciado": "O patrimônio de uma entidade, em determinado momento, é o conjunto de bens, direitos e obrigações demonstrados no balanço patrimonial. Se uma empresa apresenta situação patrimonial negativa, então é correto afirmar que",
@@ -1470,7 +1461,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-102",
+      "id": "cg-01a-101",
       "banca": "IADES/HEMOCENTRO DF/Contabilidade/2017",
       "tipo": "multipla_escolha",
       "enunciado": "Considere hipoteticamente que o Ativo Total de uma empresa seja de R$ 285.000, e o Patrimônio Líquido, de R$ 114.000. Com base apenas nessas informações, assinale a alternativa correta.",
@@ -1486,7 +1477,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-103",
+      "id": "cg-01a-102",
       "banca": "COPS UEL/CM Londrina/Contador/2017",
       "tipo": "multipla_escolha",
       "enunciado": "Os bens de uma determinada empresa montam em R$ 60.000,00, sendo seu capital total equivalente a 250% do valor dos bens, tendo, ainda, obrigações equivalentes a 60% dos capitais circulantes e não circulantes.\n\nCom base nessas informações, considere as afirmativas a seguir.\nI. A situação líquida é positiva de R$ 60.000,00.\nII. O capital alheio é de R$ 90.000,00.\nIII. O capital próprio é de R$ 150.000,00.\nIV. O total do ativo é de R$ 210.000,00.\n\nAssinale a alternativa correta.",
@@ -1502,7 +1493,7 @@
       "dificuldade": 4
     },
     {
-      "id": "cg-01a-104",
+      "id": "cg-01a-103",
       "banca": "FUMARC/CM Dores do Rio Preto/Contador/2016",
       "tipo": "multipla_escolha",
       "enunciado": "Considerando-se A = Ativo, P = Passivo e SL = Situação Líquida, pode-se afirmar que a situação de Passivo a Descoberto ocorrerá quando:",
@@ -1517,7 +1508,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-105",
+      "id": "cg-01a-104",
       "banca": "IBFC/SES-PR/Contador/2016",
       "tipo": "multipla_escolha",
       "enunciado": "Determinada empresa está com a seguinte situação patrimonial: Ativo = R$ 500.000,00 e Passivo Exigível = R$ 500.000,00. Esta empresa apresenta situação líquida:",
@@ -1532,7 +1523,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-106",
+      "id": "cg-01a-105",
       "banca": "UFPR/UNILA/Contador/2014",
       "tipo": "multipla_escolha",
       "enunciado": "Determinada empresa apresenta em seu Balanço Patrimonial, no grupo Passivo (incluindo valores de curto e de longo prazo) o valor de R$ 32.500,00 e no grupo Patrimônio Líquido o valor de R$ 28.650,00. O valor do Capital de Terceiros na empresa será de:",
@@ -1548,7 +1539,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-107",
+      "id": "cg-01a-106",
       "banca": "FUMARC/PC MG/Analista da Polícia Civil/Ciências Contábeis/2013",
       "tipo": "multipla_escolha",
       "enunciado": "No balanço patrimonial levantado em 31/12/2012, a Cia. São Lucas possui bens e direitos no valor total de R$ 2.100.000,00. Sabendo-se que o Passivo Exigível da companhia representa 2/4 (dois quartos) do valor do Patrimônio Líquido nele registrado, é CORRETO afirmar que este último é da ordem de",
@@ -1563,7 +1554,7 @@
       "dificuldade": 4
     },
     {
-      "id": "cg-01a-108",
+      "id": "cg-01a-107",
       "banca": "CEV UECE/FUNCEME/Analista de Suporte à Pesquisa/Ciências Contábeis/2018",
       "tipo": "multipla_escolha",
       "enunciado": "Quanto à movimentação que sofrem, as contas contábeis podem ser classificadas em",
@@ -1578,7 +1569,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-109",
+      "id": "cg-01a-108",
       "banca": "CEV UECE/DETRAN CE/Analista de Trânsito e Transporte/Ciências Contábeis/2018",
       "tipo": "multipla_escolha",
       "enunciado": "Se o Ativo (bens + direitos) de uma empresa for R$ 1.000,00 e seu Passivo (obrigações com terceiros) R$ 800,00, o capital próprio será",
@@ -1593,7 +1584,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-110",
+      "id": "cg-01a-109",
       "banca": "CEV UECE/Pref. Sobral/Auditor Fiscal de Tributos Municipais/2018",
       "tipo": "multipla_escolha",
       "enunciado": "A situação patrimonial líquida positiva ocorre quando",
@@ -1608,7 +1599,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-111",
+      "id": "cg-01a-110",
       "banca": "CEV UECE/PEFOCE/Perito Criminal de 1ª Classe/Ciências Contábeis/2002",
       "tipo": "multipla_escolha",
       "enunciado": "Diz-se que a situação líquida é negativa quando o Ativo Total é:",
@@ -1623,7 +1614,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-112",
+      "id": "cg-01a-111",
       "banca": "IBADE/CM Vila Velha/Contador/2021",
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à situação líquida patrimonial de uma empresa, pode-se encontrar o caso em que o passivo é maior que o ativo. Esta situação denomina-se:",
@@ -1639,7 +1630,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-113",
+      "id": "cg-01a-112",
       "banca": "IBADE/CM Vila Velha/Auditor Interno/2021",
       "tipo": "multipla_escolha",
       "enunciado": "Analise as afirmativas abaixo:\nI. Situação líquida nula quando não houver Ativo.\nII. Ativo > obrigações = situação líquida ativa.\nIII. Situação líquida passiva é equivalente a passivo a descoberto.\nIV. O total das obrigações é equivalente à situação deficitária.\n\nEstão corretas, somente:",
@@ -1655,7 +1646,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-114",
+      "id": "cg-01a-113",
       "banca": "IBADE/Pref. Itapemirim/Contador/2019",
       "tipo": "multipla_escolha",
       "enunciado": "O Patrimônio Empresarial composto pelos ativos, passivos e pelo patrimônio líquido pode ser entendido como origens e aplicações de recursos. A alternativa que apresenta uma origem e uma aplicação, respectivamente, é:",
@@ -1671,7 +1662,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-115",
+      "id": "cg-01a-114",
       "banca": "IBADE/CM Vilhena/Auditor Interno/2018",
       "tipo": "multipla_escolha",
       "enunciado": "A alternativa que apresenta corretamente o que se pode entender como situação líquida negativa é:",
@@ -1687,7 +1678,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-116",
+      "id": "cg-01a-115",
       "banca": "IBADE/CAERN/Contador/2018",
       "tipo": "multipla_escolha",
       "enunciado": "A equação patrimonial caracteriza-se por apresentar o equilíbrio entre ativos e passivos na contabilidade. Pode ser entendida como Origens e Aplicações de recursos. Identifique nas alternativas aquela que apresenta somente exemplos de aplicações de recursos.",
@@ -1703,7 +1694,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-117",
+      "id": "cg-01a-116",
       "banca": "IBADE/Pref. Cujubim/Controlador Interno/2018",
       "tipo": "multipla_escolha",
       "enunciado": "Diferença entre o ativo e o passivo da organização, ou seja, entre os bens e direitos que ela possui e suas obrigações. Estamos diante do conceito de:",
@@ -1719,7 +1710,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-118",
+      "id": "cg-01a-117",
       "banca": "IBADE/Pref. Ji-Paraná/Fiscal Fazendário/2018",
       "tipo": "multipla_escolha",
       "enunciado": "Sabendo que uma empresa A possui Ativos no valor de R$ 10.000 e Passivos no valor de R$ 8.000, enquanto a empresa B possui Ativos no valor de R$ 18.000 e Passivos no valor de R$ 20.000, pode-se afirmar que os PL respectivos são:",
@@ -1735,7 +1726,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-119",
+      "id": "cg-01a-118",
       "banca": "IBADE/CM Vilhena/Contador/2018",
       "tipo": "multipla_escolha",
       "enunciado": "A equação patrimonial, de uma forma geral, pode ser interpretada como as Aplicações e as Origens de recursos, que determinam o patrimônio de uma entidade empresarial. A alternativa que apresenta, respectivamente, uma aplicação e uma origem de recursos é:",
@@ -1751,7 +1742,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-120",
+      "id": "cg-01a-119",
       "banca": "VUNESP/Contador/Desenvolvesp/2014",
       "tipo": "multipla_escolha",
       "enunciado": "De acordo com a equação fundamental do patrimônio, uma entidade ao ter o aumento da situação líquida positiva, ou a diminuição da situação líquida negativa, tal entidade terá:",
@@ -1767,7 +1758,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-121",
+      "id": "cg-01a-120",
       "banca": "VUNESP/Perito/PC SP/2014",
       "tipo": "multipla_escolha",
       "enunciado": "As demonstrações contábeis retratam os efeitos patrimoniais e financeiros das transações e outros eventos, por meio do grupamento dos mesmos em classes amplas de acordo com as suas características econômicas. Essas classes amplas são denominadas de elementos das demonstrações contábeis. Os elementos diretamente relacionados à mensuração da posição patrimonial e financeira no balanço patrimonial são os ativos, os passivos e o patrimônio líquido. Assim sendo, considerando que em 31 de dezembro de 2013 uma determinada companhia efetuou o pagamento de fornecedores, essa é uma operação que",
@@ -1783,7 +1774,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-122",
+      "id": "cg-01a-121",
       "banca": "VUNESP/Pref. São José dos Campos/Analista em Gestão Municipal — Ciências Contábeis/2012",
       "tipo": "multipla_escolha",
       "enunciado": "Em Ciências Contábeis, em que se entende por Ativo Circulante (AC), Ativo Não-Circulante (ANC), Passivo Circulante (PC), Passivo Não-Circulante (PNC), Patrimônio Líquido (PL) e Situação Líquida (SL), pode-se afirmar que a pior situação para uma entidade com fins lucrativos será",
@@ -1799,7 +1790,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-123",
+      "id": "cg-01a-122",
       "banca": "VUNESP/FUNSERV Sorocaba/Contador/2011",
       "tipo": "multipla_escolha",
       "enunciado": "Os componentes patrimoniais de uma entidade correspondem ao conjunto de",
@@ -1815,7 +1806,7 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-124",
+      "id": "cg-01a-123",
       "banca": "VUNESP/Pref. Sorocaba/Auditor Fiscal de Tributos Municipais/2006",
       "tipo": "multipla_escolha",
       "enunciado": "A situação líquida é positiva quando o ativo total é",
@@ -1831,7 +1822,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-125",
+      "id": "cg-01a-124",
       "banca": "VUNESP/Pref. Sorocaba/Contador/2006",
       "tipo": "multipla_escolha",
       "enunciado": "Segundo a Resolução CFC 1.049/05, o Patrimônio Líquido compreende os recursos próprios da Entidade, e o seu valor é a diferença positiva entre o valor do Ativo e o valor do Passivo. Quando o valor do Passivo for maior que o valor do Ativo, o resultado é denominado",
@@ -1847,7 +1838,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-126",
+      "id": "cg-01a-125",
       "banca": "VUNESP/Pref. Sorocaba/Contador/2006",
       "tipo": "multipla_escolha",
       "enunciado": "No Balanço Patrimonial, a situação líquida é negativa quando o passivo exigível é",
@@ -1863,7 +1854,7 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01a-127",
+      "id": "cg-01a-126",
       "banca": "FGV/FunSaúde CE/Técnico Contabilidade/2021",
       "tipo": "multipla_escolha",
       "enunciado": "Na elaboração das demonstrações contábeis, assinale a conta de origem devedora.",
@@ -1879,7 +1870,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-128",
+      "id": "cg-01a-127",
       "banca": "FGV/Contador/SUDENE/PE/2013",
       "tipo": "multipla_escolha",
       "enunciado": "Observe as contas: Fornecedores; Impostos a Recuperar; Reserva de Lucro; Adiantamento de Salários; Estoque; Custo de Vendas e Receita do período. Assinale a alternativa que indica a equação contábil que representa o método das partidas dobradas em relação às contas listadas acima.",
@@ -1895,7 +1886,7 @@
       "dificuldade": 4
     },
     {
-      "id": "cg-01a-129",
+      "id": "cg-01a-128",
       "banca": "FGV/Contador/AL MT/2013",
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que indica a composição patrimonial do capital total à disposição de uma empresa.",
@@ -1911,7 +1902,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-130",
+      "id": "cg-01a-129",
       "banca": "FGV/DETRAN RN/Assistente Técnico/Contabilidade/2010",
       "tipo": "multipla_escolha",
       "enunciado": "A equação patrimonial é a representação quantitativa do patrimônio de uma entidade. Se o passivo suplantar o ativo, tem-se a seguinte equação:",
@@ -1927,7 +1918,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-131",
+      "id": "cg-01a-130",
       "banca": "CEBRASPE/PC DF/Contador/2025",
       "tipo": "certo_errado",
       "enunciado": "No cotidiano das entidades contábeis, é impossível ocorrer uma situação patrimonial expressa por ativos + |passivos| = patrimônio líquido, em que a simbologia |x| representa o valor absoluto de x.",
@@ -1936,7 +1927,7 @@
       "dificuldade": 3
     },
     {
-      "id": "cg-01a-132",
+      "id": "cg-01a-131",
       "banca": "UFPR/Câmara de Araucária/Técnico em Contabilidade/2013",
       "tipo": "multipla_escolha",
       "enunciado": "A empresa Filippe S/A, em dado momento, apresenta o seguinte patrimônio (em R$):\n\nAtivo Circulante: Caixa 500 | Clientes 800 | Estoques 700\nAtivo Não Circulante: Imóveis 1.800\nPassivo Circulante: Fornecedores 600 | Salários a Pagar 400 | Impostos a Pagar 300\nPassivo Não Circulante: Empréstimos 500\nPatrimônio Líquido: ?\n\nSeu capital próprio é:",
