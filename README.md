@@ -27,7 +27,7 @@ Todo o conteúdo roda no navegador — sem backend de aplicação. Lógica em Ja
 |----------|-----|
 | Produção | https://nl-testbank.web.app |
 | Alternativo | https://nl-testbank.firebaseapp.com |
-| Repositório | github.com/natanluizrc/QBank |
+| Repositório | github.com/natanluizrc/TestBank |
 
 ---
 
