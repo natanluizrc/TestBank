@@ -111,7 +111,7 @@ async function inicializarApp() {
 // =====================================================================
 function renderBarraMaterias() {
   const barra = document.getElementById('barra-materias');
-  if (tabGlobal === 'docs' || tabGlobal === 'historico') { barra.style.display = 'none'; return; }
+  if (tabGlobal === 'historico') { barra.style.display = 'none'; return; }
   if (tabGlobal === 'simulado') {
     const s = simuladoState;
     if (!s || s.fase === 'config') { barra.style.display = 'none'; return; }
@@ -193,8 +193,6 @@ function renderConteudo() {
   if (tabGlobal === 'simulado') { renderSimuladoConfig(); return; }
   if (tabGlobal === 'historico') { renderHistorico(); return; }
   if (tabGlobal === 'revisao')  { renderRevisao();  return; }
-  if (tabGlobal === 'docs')     { renderDocs();     return; }
-
   renderQuestoes();
 }
 
@@ -1074,65 +1072,6 @@ function renderRevisao() {
   listaRespostas = {};
   conteudo.innerHTML = `<div id="questoes-area"></div>`;
   renderListaQuestoes(questoes);
-}
-
-// =====================================================================
-// DOCUMENTAÇÃO
-// =====================================================================
-async function renderDocs() {
-  const conteudo = document.getElementById('conteudo');
-  conteudo.innerHTML = '<p class="msg-vazio">Carregando...</p>';
-
-  let docs;
-  try {
-    const resp = await fetch('data/docs.json');
-    if (!resp.ok) throw new Error();
-    docs = await resp.json();
-  } catch {
-    conteudo.innerHTML = '<p class="msg-vazio">Erro ao carregar documentação.</p>';
-    return;
-  }
-
-  const renderBloco = b => {
-    switch (b.tipo) {
-      case 'texto':
-        return `<p class="docs-p">${b.conteudo}</p>`;
-      case 'subtitulo':
-        return `<h3 class="docs-h3">${b.conteudo}</h3>`;
-      case 'codigo':
-        return `<pre class="docs-pre">${b.conteudo}</pre>`;
-      case 'nota':
-        return `<div class="docs-nota">${b.conteudo}</div>`;
-      case 'tabela': {
-        const ths = b.cabecalho.map(h => `<th>${h}</th>`).join('');
-        const trs = b.linhas.map(l =>
-          `<tr>${l.map(c => `<td>${c}</td>`).join('')}</tr>`
-        ).join('');
-        return `<div class="docs-tabela-wrap"><table class="docs-tabela"><thead><tr>${ths}</tr></thead><tbody>${trs}</tbody></table></div>`;
-      }
-      default: return '';
-    }
-  };
-
-  const secoesHtml = docs.secoes.map(s => `
-    <div class="docs-secao" id="docs-${s.id}">
-      <h2 class="docs-titulo">${s.titulo}</h2>
-      ${s.blocos.map(renderBloco).join('')}
-    </div>
-  `).join('');
-
-  const tocItems = docs.secoes.map((s, i) =>
-    `<li><a href="#docs-${s.id}">${i + 1}. ${s.titulo}</a></li>`
-  ).join('');
-
-  const indiceHtml = `
-    <div class="docs-secao">
-      <h2 class="docs-titulo">Índice</h2>
-      <ol class="docs-indice">${tocItems}</ol>
-      <p class="docs-versao">v${docs.versao} · ${docs.atualizado}</p>
-    </div>`;
-
-  conteudo.innerHTML = indiceHtml + secoesHtml;
 }
 
 // =====================================================================
