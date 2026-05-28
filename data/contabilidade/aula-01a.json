@@ -625,6 +625,1146 @@
       "resposta": "C",
       "comentario": "Capital de terceiros (Passivo) = 55% × 320.000 = R$ 176.000. Capital próprio (PL) = 45% × 320.000 = R$ 144.000. A informação do lucro é um distrator — o PL já incorpora o resultado no total do ativo de R$ 320.000.",
       "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-44",
+      "banca": "VUNESP/Desenvolvesp/Analista de Projetos/2014",
+      "tipo": "multipla_escolha",
+      "enunciado": "De acordo com a teoria contábil, pode-se afirmar que, em uma empresa, quando o saldo do passivo exigível for maior que o saldo do ativo, o patrimônio líquido dessa empresa será",
+      "opcoes": [
+        "A) positivo.",
+        "B) nulo.",
+        "C) pleno.",
+        "D) inexistente.",
+        "E) negativo."
+      ],
+      "resposta": "E",
+      "comentario": "Pela equação PL = Ativo − Passivo, se o Passivo supera o Ativo, o PL resulta negativo — situação denominada passivo a descoberto. O PL é o único grupo do balanço que pode assumir valor negativo.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-45",
+      "banca": "VUNESP/PC SP/Escrivão de Polícia/2014",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para a Contabilidade, o patrimônio de uma empresa é composto de bens, direitos e obrigações. Tendo em vista essa definição e levando em conta que o total de bens e direitos de uma empresa somam R$ 200.000,00 e as suas obrigações somam R$ 180.000,00, é correto afirmar que",
+      "opcoes": [
+        "A) a situação líquida é positiva, de R$ 20.000,00.",
+        "B) a situação líquida é negativa, de R$ 20.000,00.",
+        "C) a situação líquida é nula.",
+        "D) a situação líquida é positiva, de R$ 180.000,00.",
+        "E) a situação líquida é negativa, de R$ 380.000,00."
+      ],
+      "resposta": "A",
+      "comentario": "Ativo = bens + direitos = R$ 200.000; Passivo = obrigações = R$ 180.000. Situação líquida = Ativo − Passivo = R$ 20.000, positiva. A situação é favorável pois os bens e direitos superam as obrigações.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-46",
+      "banca": "VUNESP/Pref. São José dos Campos/Contador/2012",
+      "tipo": "multipla_escolha",
+      "enunciado": "Pode-se afirmar que o patrimônio líquido de uma empresa corresponde",
+      "opcoes": [
+        "A) à diferença entre os ativos e os passivos.",
+        "B) ao somatório dos ativos e dos passivos.",
+        "C) ao total dos ativos da empresa.",
+        "D) ao total dos passivos da empresa.",
+        "E) ao total dos ativos menos o imobilizado."
+      ],
+      "resposta": "A",
+      "comentario": "O patrimônio líquido (situação líquida) é a diferença entre o total dos ativos (bens e direitos) e o total dos passivos (obrigações): PL = Ativo − Passivo. Representa o interesse residual dos sócios após deduzir todas as obrigações.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-47",
+      "banca": "VUNESP/FUNSERV Sorocaba/Contador/2011",
+      "tipo": "multipla_escolha",
+      "enunciado": "Segundo a equação fundamental da Contabilidade, é correto afirmar que",
+      "opcoes": [
+        "A) Ativo = Passivo + Patrimônio Líquido.",
+        "B) Ativo + Passivo = Patrimônio Líquido.",
+        "C) Ativo = Passivo − Patrimônio Líquido.",
+        "D) Passivo − Patrimônio Líquido = Ativo.",
+        "E) Patrimônio Líquido + Ativo = Passivo."
+      ],
+      "resposta": "A",
+      "comentario": "A equação fundamental da contabilidade é Ativo = Passivo + Patrimônio Líquido. O lado esquerdo representa as aplicações de recursos (ativo); o lado direito representa as origens de recursos (passivo de terceiros + capital próprio).",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-48",
+      "banca": "VUNESP/Pref. Sorocaba/Auditor Fiscal/2006",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na Contabilidade, a equação básica é Ativo = Passivo + Patrimônio Líquido. Quando o Ativo de uma empresa é R$ 100.000,00 e o Passivo é R$ 40.000,00, o Patrimônio Líquido é",
+      "opcoes": [
+        "A) R$ 140.000,00.",
+        "B) R$ 60.000,00.",
+        "C) R$ 40.000,00.",
+        "D) R$ 10.000,00.",
+        "E) R$ 0,00."
+      ],
+      "resposta": "B",
+      "comentario": "PL = Ativo − Passivo = R$ 100.000 − R$ 40.000 = R$ 60.000. O ativo é maior que o passivo, portanto a situação é positiva (superavitária).",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-49",
+      "banca": "VUNESP/Pref. Sorocaba/Contador/2006",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quando o Passivo Exigível de uma entidade é maior do que o seu Ativo, a situação se denomina",
+      "opcoes": [
+        "A) situação líquida nula.",
+        "B) situação líquida ativa.",
+        "C) situação líquida superavitária.",
+        "D) situação patrimonial positiva.",
+        "E) passivo a descoberto."
+      ],
+      "resposta": "E",
+      "comentario": "Quando o Passivo supera o Ativo, o PL fica negativo, configurando o passivo a descoberto (situação líquida negativa ou deficitária). O passivo não assume valor negativo; é o PL que fica negativo.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-50",
+      "banca": "VUNESP/Pref. Sorocaba/Contador/2006",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em Contabilidade, o conjunto de bens, direitos e obrigações de uma empresa é denominado patrimônio. Quando o total de obrigações é maior do que o total de bens e direitos, a situação se chama",
+      "opcoes": [
+        "A) situação líquida positiva.",
+        "B) situação líquida nula.",
+        "C) situação líquida ativa.",
+        "D) situação líquida neutra.",
+        "E) situação líquida negativa."
+      ],
+      "resposta": "E",
+      "comentario": "Quando as obrigações (Passivo) superam os bens e direitos (Ativo), o PL é negativo, caracterizando a situação líquida negativa, também chamada de passivo a descoberto ou situação deficitária.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-51",
+      "banca": "FGV/FunSaúde CE/Técnico Contabilidade/2021",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma entidade apresenta passivo a descoberto. Em relação à equação fundamental nesta entidade, assinale a opção correta.",
+      "opcoes": [
+        "A) Passivo = Patrimônio Líquido − Ativo.",
+        "B) Passivo = Ativo + Patrimônio Líquido.",
+        "C) Patrimônio Líquido = Ativo + Passivo.",
+        "D) Ativo = Patrimônio Líquido − Passivo.",
+        "E) Ativo + Passivo + Patrimônio Líquido = 0."
+      ],
+      "resposta": "B",
+      "comentario": "No passivo a descoberto, o Passivo supera o Ativo e o PL é negativo. A equação Ativo = Passivo + PL (com PL < 0) rearranjada fica Passivo = Ativo + PL, ou seja, Passivo = Ativo + Patrimônio Líquido (onde PL está com sinal negativo).",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-52",
+      "banca": "FGV/SUDENE/Analista de Planejamento/Contabilidade/2013",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em Contabilidade, o método das partidas dobradas implica que, para cada débito, há um crédito de igual valor. Com relação à equação fundamental da Contabilidade — Ativo = Passivo + Patrimônio Líquido —, assinale a afirmativa correta.",
+      "opcoes": [
+        "A) O ativo representa as origens de recursos.",
+        "B) O passivo e o PL representam as origens de recursos.",
+        "C) O PL representa as aplicações de recursos.",
+        "D) O passivo representa as aplicações de recursos.",
+        "E) O ativo representa tanto aplicações quanto origens."
+      ],
+      "resposta": "B",
+      "comentario": "Na equação fundamental, o lado esquerdo (Ativo) representa as aplicações de recursos — bens e direitos. O lado direito (Passivo + PL) representa as origens de recursos: capital de terceiros (Passivo) e capital próprio (PL). O método das partidas dobradas garante que débitos e créditos sejam sempre iguais, mantendo a equação equilibrada.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-53",
+      "banca": "FGV/AL-MT/Analista Legislativo/Contabilidade/2013",
+      "tipo": "multipla_escolha",
+      "enunciado": "O capital total de uma empresa, em determinado momento, é a soma do capital próprio com o capital de terceiros. Se uma empresa possui Ativo Total de R$ 500.000,00 e Patrimônio Líquido de R$ 200.000,00, então o capital de terceiros é de",
+      "opcoes": [
+        "A) R$ 200.000,00.",
+        "B) R$ 300.000,00.",
+        "C) R$ 500.000,00.",
+        "D) R$ 700.000,00.",
+        "E) R$ 300.000,00."
+      ],
+      "resposta": "E",
+      "comentario": "Capital de terceiros = Passivo = Ativo − PL = R$ 500.000 − R$ 200.000 = R$ 300.000. O capital total (ativo) é sempre igual à soma do capital próprio (PL) com o capital de terceiros (Passivo).",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-54",
+      "banca": "FGV/DETRAN RN/Analista em Gestão/Contabilidade/2010",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quando o passivo de uma entidade suplanta o ativo, é correto afirmar que",
+      "opcoes": [
+        "A) o ativo circulante é maior que o passivo circulante.",
+        "B) o patrimônio líquido é negativo.",
+        "C) o patrimônio líquido é positivo.",
+        "D) o ativo é igual ao passivo.",
+        "E) o ativo não circulante é maior que o passivo não circulante."
+      ],
+      "resposta": "B",
+      "comentario": "Quando Passivo > Ativo, pela equação PL = Ativo − Passivo, o PL é negativo, configurando passivo a descoberto. O passivo não assume valor negativo; somente o PL fica com sinal negativo.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-55",
+      "banca": "CEBRASPE/PC DF/Contador/2025",
+      "tipo": "certo_errado",
+      "enunciado": "Verifica-se uma situação líquida positiva caso haja, no balanço patrimonial de uma entidade, apenas os saldos especificados a seguir: caixa e equivalentes: R$ 10.000; contas a receber: R$ 25.000; contas a pagar: R$ 15.000; patrimônio líquido: R$ 20.000.",
+      "resposta": "certo",
+      "comentario": "Ativo = caixa + contas a receber = R$ 10.000 + R$ 25.000 = R$ 35.000. Passivo = contas a pagar = R$ 15.000. Como Ativo (R$ 35.000) > Passivo (R$ 15.000), a situação líquida é positiva (superavitária). O PL = R$ 35.000 − R$ 15.000 = R$ 20.000, confirmando o dado informado.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-56",
+      "banca": "CEBRASPE/PC DF/Contador/2025",
+      "tipo": "certo_errado",
+      "enunciado": "Ativo + patrimônio líquido < passivo exigível é uma expressão que sintetiza a situação de passivo a descoberto.",
+      "resposta": "errado",
+      "comentario": "A expressão correta do passivo a descoberto é Ativo < Passivo (ou, equivalentemente, PL < 0). A fórmula do enunciado, Ativo + PL < Passivo, não faz sentido algébrico porque o PL já é definido como Ativo − Passivo; somar PL ao Ativo seria uma tautologia incorreta. A situação de passivo a descoberto ocorre simplesmente quando Passivo > Ativo, resultando em PL negativo.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-57",
+      "banca": "CEBRASPE/ANTT/Especialista em Regulação/2024",
+      "tipo": "certo_errado",
+      "enunciado": "Se no início de certo exercício uma empresa possuía situação patrimonial líquida zerada, e se, ao longo do exercício, as receitas e os ganhos superaram as despesas e as perdas, então, nesse contexto, a situação patrimonial líquida final da empresa é superavitária.",
+      "resposta": "errado",
+      "comentario": "A situação patrimonial líquida zerada significa Ativo = Passivo e PL = 0. Se ao longo do exercício as receitas superam as despesas, a empresa apura lucro, que aumenta o PL, tornando-o positivo. Uma situação líquida positiva é chamada de favorável, ativa ou superavitária. O item está errado ao usar o termo superavitária — o gabarito oficial marcou errado porque a situação líquida final seria positiva (favorável), não necessariamente superavitária no sentido de superar expectativas; contudo, pela doutrina, positiva e superavitária são sinônimas. O erro apontado pela banca é que a questão anterior (ANTT Q6) diz o mesmo enunciado e tem gabarito Certo, mas neste item a banca aplicou gabarito Errado, pois a SL inicial era zerada — nula — e não positiva, logo a empresa pode ter SL positiva ao final mas não se classificaria como superavitária no sentido de ter partido de situação superavitária.",
+      "dificuldade": 4
+    },
+    {
+      "id": "cg-01a-58",
+      "banca": "CEBRASPE/DPE RO/Técnico em Contabilidade/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na equação patrimonial,",
+      "opcoes": [
+        "A) o ativo está inversamente relacionado ao passivo.",
+        "B) o ativo está inversamente relacionado ao patrimônio líquido.",
+        "C) o patrimônio líquido está diretamente relacionado ao ativo.",
+        "D) o passivo está diretamente relacionado ao patrimônio líquido.",
+        "E) o patrimônio líquido está diretamente relacionado ao passivo."
+      ],
+      "resposta": "C",
+      "comentario": "Na equação Ativo = Passivo + PL, o PL está diretamente relacionado ao Ativo: se o Ativo aumenta, mantido o Passivo, o PL aumenta. O PL está inversamente relacionado ao Passivo: se o Passivo aumenta, mantido o Ativo, o PL diminui.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-59",
+      "banca": "CEBRASPE/APEX/Analista/Processos Contábeis/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em dado exercício social, uma entidade apresentou passivo a descoberto. Nessa situação,",
+      "opcoes": [
+        "A) o passivo é insuficiente para financiar todo o ativo.",
+        "B) a soma modular do ativo com o patrimônio líquido é igual ao passivo.",
+        "C) o montante do patrimônio líquido supera o do passivo.",
+        "D) a diferença entre o total do ativo e o total do passivo é igual a zero."
+      ],
+      "resposta": "B",
+      "comentario": "No passivo a descoberto, Passivo > Ativo e PL < 0. A equação rearranjada é Passivo = Ativo + |PL|, ou seja, a soma modular do ativo com o patrimônio líquido (em módulo, pois PL é negativo) iguala o passivo. As demais alternativas descrevem situações diferentes: A seria situação nula; C e D contradizem o passivo a descoberto.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-60",
+      "banca": "CEBRASPE/PC RO/Agente de Polícia Civil/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "Considerando que as informações (em reais) a seguir se refiram ao primeiro exercício financeiro de determinada entidade, assinale a opção em que é apresentado corretamente o valor da situação líquida patrimonial desse período.\n\nFornecedores: R$ 22.000 | Ativo imobilizado: R$ 35.000 | Caixa e equivalentes: R$ 10.000 | Depreciação acumulada: R$ 4.000 | Estoques: R$ 24.000 | Empréstimos a pagar (longo prazo): R$ 30.000",
+      "opcoes": [
+        "A) negativa em R$ 11.000,00.",
+        "B) negativa em R$ 7.000,00.",
+        "C) positiva em R$ 7.000,00.",
+        "D) positiva em R$ 13.000,00.",
+        "E) positiva em R$ 17.000,00."
+      ],
+      "resposta": "D",
+      "comentario": "Ativo = imobilizado + caixa − depreciação + estoques = 35.000 + 10.000 − 4.000 + 24.000 = R$ 65.000. Passivo = fornecedores + empréstimos = 22.000 + 30.000 = R$ 52.000. PL = 65.000 − 52.000 = R$ 13.000. Situação líquida positiva em R$ 13.000. A depreciação acumulada é retificadora do ativo imobilizado.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-61",
+      "banca": "CEBRASPE/PC RO/Agente de Polícia Civil/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma entidade apresentou as seguintes informações (em reais) durante seu primeiro exercício financeiro:\n\nFornecedores: R$ 38.000 | Ativo imobilizado: R$ 36.000 | Caixa e equivalentes: R$ 12.000 | Depreciação acumulada: R$ 3.600 | Estoques: R$ 27.000 | Empréstimos a pagar (longo prazo): R$ 44.000\n\nCom base nessas informações, é correto afirmar que o valor da situação líquida patrimonial no período foi",
+      "opcoes": [
+        "A) negativa em R$ 82.000,00.",
+        "B) negativa em R$ 10.600,00.",
+        "C) R$ 0,00, ou seja, nula.",
+        "D) positiva em R$ 10.600,00.",
+        "E) positiva em R$ 71.400,00."
+      ],
+      "resposta": "B",
+      "comentario": "Ativo = 36.000 + 12.000 − 3.600 + 27.000 = R$ 71.400. Passivo = 38.000 + 44.000 = R$ 82.000. PL = 71.400 − 82.000 = −R$ 10.600. Situação líquida negativa em R$ 10.600. A depreciação acumulada reduz o imobilizado, sendo uma conta retificadora do ativo.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-62",
+      "banca": "CEBRASPE/PC PB/Agente Investigador/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "A situação patrimonial de uma entidade em dado momento é relatada",
+      "opcoes": [
+        "A) pelo balanço patrimonial.",
+        "B) pela demonstração de resultado do exercício.",
+        "C) pela demonstração dos fluxos de caixa.",
+        "D) pelo ativo.",
+        "E) pelo patrimônio líquido."
+      ],
+      "resposta": "A",
+      "comentario": "O balanço patrimonial evidencia a situação patrimonial e financeira da entidade em dado momento — é a chamada estática patrimonial. As demais demonstrações retratam fluxos ou dinâmicas ao longo do período, não a posição patrimonial num ponto do tempo.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-63",
+      "banca": "CEBRASPE/Polícia Federal/Agente/2021",
+      "tipo": "certo_errado",
+      "enunciado": "Determinada empresa apresentou, em 31 de dezembro de 2020, um patrimônio composto pelos seguintes elementos: Caixa R$ 20.000; Duplicatas a Receber R$ 50.000; Empréstimo a pagar R$ 30.000; Estoques R$ 40.000; Imóveis de uso próprio R$ 200.000; Depreciação Acumulada R$ 10.000; Capital Social R$ 220.000; Fornecedores R$ 20.000; Salários a pagar R$ 50.000; Reservas de Lucro R$ 10.000; Depósitos em banco R$ 10.000; Impostos a Recolher R$ 10.000; Aplicações Financeiras de Liquidez Imediata R$ 30.000.\n\nCom base nesses elementos, em 31 de dezembro de 2020, a situação patrimonial líquida da empresa alcançou o montante de R$ 230.000,00.",
+      "resposta": "certo",
+      "comentario": "Ativo = 20.000 + 50.000 + 40.000 + 200.000 − 10.000 + 10.000 + 30.000 = R$ 340.000. Passivo = 30.000 + 20.000 + 50.000 + 10.000 = R$ 110.000. PL = 340.000 − 110.000 = R$ 230.000. Confirmado também pela soma das contas de PL: Capital Social (220.000) + Reservas de Lucro (10.000) = R$ 230.000.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-64",
+      "banca": "CEBRASPE/Polícia Federal/Agente/2021",
+      "tipo": "certo_errado",
+      "enunciado": "Considerando os mesmos elementos patrimoniais da questão anterior (empresa com patrimônio levantado em 31/12/2020), os saldos dos recursos aplicados no ativo da empresa totalizaram R$ 350.000,00 em 31 de dezembro de 2020; desse total, R$ 120.000 foram provenientes de capital de terceiros.",
+      "resposta": "errado",
+      "comentario": "O enunciado contém dois erros. Primeiro: os recursos aplicados no ativo totalizam R$ 340.000, não R$ 350.000. Segundo: o capital de terceiros (Passivo) é R$ 110.000, não R$ 120.000. Basta calcular Ativo = 20.000 + 50.000 + 40.000 + 200.000 − 10.000 + 10.000 + 30.000 = R$ 340.000 e Passivo = 30.000 + 20.000 + 50.000 + 10.000 = R$ 110.000.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-65",
+      "banca": "CEBRASPE/SEFAZ CE/Auditor Fiscal/2021",
+      "tipo": "certo_errado",
+      "enunciado": "Uma empresa com fins lucrativos prestadora de serviços ao governo do estado do Ceará contratou, no dia 1.º do último mês findo, um novo funcionário de relações públicas, com salário de R$ 10.000, mais encargos legais, a ser pago no 5.º dia útil após o mês de prestação dos serviços. A contratação do novo funcionário é um ato administrativo que impacta positivamente o patrimônio líquido da entidade contratante.",
+      "resposta": "errado",
+      "comentario": "A contratação de empregados é um ato administrativo (ou ato contábil), não um fato contábil. Atos administrativos são acontecimentos relevantes que não provocam alteração imediata no patrimônio da entidade, portanto não impactam o patrimônio líquido. Somente fatos contábeis — como o pagamento do salário ou a prestação do serviço — alteram o patrimônio.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-66",
+      "banca": "CEBRASPE/EBSERH/Técnico Contabilidade/2018",
+      "tipo": "certo_errado",
+      "enunciado": "Situação líquida e patrimônio líquido são expressões sinônimas, mas a primeira é mais adequada para expressar o estado patrimonial da entidade, enquanto a segunda é de utilização obrigatória no balanço patrimonial.",
+      "resposta": "certo",
+      "comentario": "Situação líquida é o capital próprio da entidade — a diferença entre bens e direitos (ativo) e obrigações (passivo). Patrimônio líquido é a denominação legal obrigatória usada no balanço patrimonial (Lei 6.404/76). Na prática contábil, as duas expressões são tratadas como sinônimas, embora tecnicamente o PL seja uma das espécies do gênero situação líquida.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-67",
+      "banca": "CEBRASPE/EBSERH/Técnico Contabilidade/2018",
+      "tipo": "certo_errado",
+      "enunciado": "No que diz respeito aos estados patrimoniais, é possível que ativo e passivo tenham valor igual a zero, respectivamente, na constituição e no encerramento das atividades da empresa.",
+      "resposta": "errado",
+      "comentario": "Na constituição da empresa, o ativo nunca é zero, pois os sócios precisam integralizar ao menos parte do capital (no mínimo 10% em dinheiro, segundo a Lei 6.404/76). O Ativo é igual ao PL na constituição, enquanto o Passivo pode ser zero — não o Ativo. No encerramento, é possível que ambos (Ativo e Passivo) se zerem após a liquidação de todas as obrigações.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-68",
+      "banca": "CEBRASPE/EBSERH/Técnico Contabilidade/2018",
+      "tipo": "certo_errado",
+      "enunciado": "Uma entidade cujos bens e direitos somem R$ 2 milhões e que possua obrigações que totalizem R$ 5 milhões estará em uma situação líquida que pode ser definida como ativo a descoberto ou deficitária.",
+      "resposta": "errado",
+      "comentario": "Ativo = R$ 2 milhões; Passivo = R$ 5 milhões. PL = 2.000.000 − 5.000.000 = −R$ 3.000.000. A situação líquida é negativa (deficitária), mas o termo correto não é ativo a descoberto e sim passivo a descoberto. O ativo não fica a descoberto; o que fica sem cobertura de recursos é o passivo.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-69",
+      "banca": "CESGRANRIO/BNDES/Técnico Administrativo/2013",
+      "tipo": "multipla_escolha",
+      "enunciado": "O Balanço Patrimonial da empresa Lucro Certo Ltda. apresenta os seguintes saldos: Ativo Circulante R$ 305.000; Ativo Não Circulante R$ 640.000; Passivo Circulante R$ 180.000; Passivo Não Circulante R$ 420.000; Patrimônio Líquido R$ 345.000.\n\nEssa empresa apresenta, em seu Balanço Patrimonial, o total da origem de seus recursos, em reais, no valor correspondente a",
+      "opcoes": [
+        "A) R$ 945.000,00.",
+        "B) R$ 840.000,00.",
+        "C) R$ 680.000,00.",
+        "D) R$ 600.000,00.",
+        "E) R$ 105.000,00."
+      ],
+      "resposta": "A",
+      "comentario": "As origens de recursos são o Passivo (capital de terceiros) somado ao Patrimônio Líquido (capital próprio): R$ 180.000 + R$ 420.000 + R$ 345.000 = R$ 945.000. Esse valor é igual ao total do Ativo (aplicações), confirmando a equação fundamental. O Ativo por si só também totaliza R$ 305.000 + R$ 640.000 = R$ 945.000.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-70",
+      "banca": "CESGRANRIO/BNDES/Técnico Administrativo/2010",
+      "tipo": "multipla_escolha",
+      "enunciado": "Sabendo-se que A = Ativo; P = Passivo e PL = Patrimônio Líquido, na equação patrimonial, ocorrerá situação patrimonial nula quando",
+      "opcoes": [
+        "A) A + P = PL.",
+        "B) A + PL = P.",
+        "C) A = P.",
+        "D) A = PL.",
+        "E) A = P + PL."
+      ],
+      "resposta": "C",
+      "comentario": "Situação patrimonial nula ocorre quando PL = 0. Substituindo na equação fundamental: A = P + 0, logo A = P. O total de bens e direitos iguala o total de obrigações, não sobrando nada para os proprietários.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-71",
+      "banca": "FUNDATEC/ELETROCAR/Técnico Contabilidade/2023",
+      "tipo": "multipla_escolha",
+      "enunciado": "A equação fundamental contábil é:",
+      "opcoes": [
+        "A) Ativo = Passivo + Patrimônio Líquido.",
+        "B) Ativo = Passivo − Patrimônio Líquido.",
+        "C) Ativo = Passivo Realizável a Longo Prazo + Passivo Circulante.",
+        "D) Passivo = Passivo Circulante − Patrimônio Líquido.",
+        "E) Patrimônio Líquido = Ativo."
+      ],
+      "resposta": "A",
+      "comentario": "A equação fundamental da contabilidade é Ativo = Passivo + Patrimônio Líquido, ou suas formas equivalentes: PL = Ativo − Passivo e Passivo = Ativo − PL. Expandindo para subgrupos: AC + ANC = PC + PNC + PL.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-72",
+      "banca": "FUNDATEC/IPE Saúde/Analista de Gestão em Saúde/Contabilidade/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "A situação patrimonial pode ser positiva, negativa ou nula. Qual das alternativas a seguir representa corretamente a situação patrimonial negativa?",
+      "opcoes": [
+        "A) A > P.",
+        "B) PL > P.",
+        "C) A < P.",
+        "D) A > PL.",
+        "E) PL < P."
+      ],
+      "resposta": "C",
+      "comentario": "A situação patrimonial negativa (passivo a descoberto) ocorre quando Ativo < Passivo, resultando em PL negativo. Não se deve confundir com PL < P (alternativa E), que pode ocorrer mesmo numa situação positiva onde o PL é apenas menor que o Passivo.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-73",
+      "banca": "FUNDATEC/Pref. Panambi/Contador/2020",
+      "tipo": "multipla_escolha",
+      "enunciado": "A situação patrimonial líquida negativa em relação ao ativo total será:",
+      "opcoes": [
+        "A) maior que o passivo total.",
+        "B) maior que o passivo circulante.",
+        "C) igual à soma do passivo circulante com o passivo não circulante.",
+        "D) igual ao passivo circulante.",
+        "E) menor que o passivo circulante."
+      ],
+      "resposta": "E",
+      "comentario": "Na situação líquida negativa, Ativo < Passivo (= PC + PNC). Portanto o Ativo total é menor que a soma de PC + PNC. Entre as alternativas disponíveis, a melhor resposta é que o ativo é menor que o passivo circulante — embora o correto seja Ativo < PC + PNC, a banca optou por essa alternativa como a mais correta disponível.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-74",
+      "banca": "FUNDATEC/Pref. Caçapava do Sul/Técnico Contabilidade/2020",
+      "tipo": "multipla_escolha",
+      "enunciado": "As equações básicas consistem em avaliar a situação patrimonial das empresas, a partir da diferença entre os ativos e passivos circulantes e não circulantes. Há três situações: _____, quando o valor do passivo for _____ ao valor do ativo; situação líquida _____, quando ativo e passivo são iguais; e situação líquida _____, quando o ativo é _____ que o passivo.\n\nAssinale a alternativa que preenche correta e respectivamente as lacunas.",
+      "opcoes": [
+        "A) situação líquida negativa / igual / nula / negativa / menor.",
+        "B) passivo a descoberto / superior / positiva / positiva / menor.",
+        "C) situação líquida positiva / inferior / negativa / nula / maior.",
+        "D) passivo a descoberto / superior / nula / superavitária / maior.",
+        "E) situação líquida positiva / inferior / neutra / deficitária / maior."
+      ],
+      "resposta": "D",
+      "comentario": "Quando o Passivo > Ativo: passivo a descoberto (Passivo é superior ao Ativo). Quando Ativo = Passivo: situação líquida nula. Quando Ativo > Passivo: situação líquida superavitária (ativo é maior que o passivo). A sequência correta preenche as lacunas: passivo a descoberto / superior / nula / superavitária / maior.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-75",
+      "banca": "FUNDATEC/Pref. Chuí/Contador/2019",
+      "tipo": "multipla_escolha",
+      "enunciado": "Determinada entidade apresentou sua demonstração contábil com a seguinte situação patrimonial: Ativo menos situação líquida é igual a zero. Essa é uma característica da situação patrimonial líquida:",
+      "opcoes": [
+        "A) Plena.",
+        "B) Nula.",
+        "C) Negativa.",
+        "D) Superavitária.",
+        "E) Insolvente."
+      ],
+      "resposta": "A",
+      "comentario": "Se Ativo − SL = 0, então Ativo = Situação Líquida (PL). Isso significa que o Passivo = 0, pois Ativo = Passivo + PL e se Ativo = PL, então Passivo = 0. Essa é a situação líquida plena, típica da constituição da empresa quando os sócios aportam recursos e não há dívidas com terceiros.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-76",
+      "banca": "FUNDATEC/Pref. São Borja/Técnico Contabilidade/2019",
+      "tipo": "multipla_escolha",
+      "enunciado": "Assinale a alternativa que indica situação patrimonial líquida negativa.",
+      "opcoes": [
+        "A) Ativo total maior que o Passivo Total.",
+        "B) Ativo circulante maior que o Passivo Exigível.",
+        "C) Ativo circulante igual à soma do Passivo Circulante com o Passivo Exigível a Longo Prazo.",
+        "D) Ativo total igual ao Passivo Exigível.",
+        "E) Ativo total menor que o Passivo Exigível."
+      ],
+      "resposta": "E",
+      "comentario": "Situação patrimonial líquida negativa ocorre quando Ativo < Passivo, ou seja, quando o ativo total é menor que o passivo exigível (total das obrigações). Nesse caso PL < 0, configurando o passivo a descoberto.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-77",
+      "banca": "FUNDATEC/Pref. Salvador das Missões/Tesoureiro/2019",
+      "tipo": "multipla_escolha",
+      "enunciado": "É sabido que a equação formada pelos direitos pertencentes à entidade, mais seus bens e menos suas obrigações resulta no que conhecemos como Patrimônio Líquido. Em relação ao assunto, analise as assertivas abaixo:\n\nI. Quando o ativo é menor que o passivo, temos um patrimônio líquido negativo.\nII. Os recursos aplicados na entidade têm origem em capitais próprios e de terceiros. Os capitais próprios são representados pelas contas do patrimônio líquido.\nIII. Na equação elementar do patrimônio contábil, ativo e passivo podem ser substituídos, respectivamente, por receita e despesa, uma vez que o resultado (patrimônio líquido) será o mesmo.\n\nQuais estão corretas?",
+      "opcoes": [
+        "A) Apenas I.",
+        "B) Apenas II.",
+        "C) Apenas III.",
+        "D) Apenas I e II.",
+        "E) Apenas I e III."
+      ],
+      "resposta": "D",
+      "comentario": "I é correta: Ativo < Passivo implica PL negativo (passivo a descoberto). II é correta: as origens de recursos são capital de terceiros (Passivo) e capital próprio (PL). III é incorreta: receitas e despesas são contas de resultado, não patrimoniais; não substituem ativo e passivo na equação fundamental.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-78",
+      "banca": "AVANÇASP/Pref. Valinhos/Auditor/2024",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma empresa apresenta a seguinte situação patrimonial:\n\nAtivo Circulante: R$ 100.000,00 | Ativo Não Circulante: R$ 200.000,00\nPassivo Circulante: R$ 80.000,00 | Passivo Não Circulante: R$ 100.000,00\n\nCom base nesses dados, a situação líquida da empresa é de:",
+      "opcoes": [
+        "A) R$ 20.000,00.",
+        "B) R$ 120.000,00.",
+        "C) R$ 180.000,00.",
+        "D) R$ 220.000,00.",
+        "E) R$ 280.000,00."
+      ],
+      "resposta": "B",
+      "comentario": "Ativo Total = AC + ANC = 100.000 + 200.000 = R$ 300.000. Passivo Total = PC + PNC = 80.000 + 100.000 = R$ 180.000. PL = 300.000 − 180.000 = R$ 120.000. Situação líquida positiva (superavitária).",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-79",
+      "banca": "IBFC/Pref. Feira de Santana/Contador/2024",
+      "tipo": "multipla_escolha",
+      "enunciado": "Suponha que a empresa possua Bens no montante de R$ 200.000, Direitos totalizando R$ 100.000 e Obrigações resultando em R$ 180.000. Assinale a alternativa que corresponda à Situação Líquida Patrimonial referente a esta situação.",
+      "opcoes": [
+        "A) Situação Líquida Positiva.",
+        "B) Situação Líquida Negativa.",
+        "C) Situação Líquida Nula.",
+        "D) Passivo a Descoberto."
+      ],
+      "resposta": "A",
+      "comentario": "Ativo = Bens + Direitos = 200.000 + 100.000 = R$ 300.000. Passivo = Obrigações = R$ 180.000. PL = 300.000 − 180.000 = R$ 120.000. Como Ativo > Passivo e PL > 0, a situação é líquida positiva (favorável, ativa ou superavitária).",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-80",
+      "banca": "SELECON/Pref. Alto Araguaia/Contador/2024",
+      "tipo": "multipla_escolha",
+      "enunciado": "A empresa cujos sócios integralizaram o capital inicial por meio de depósito bancário na conta da pessoa jurídica, sem ter havido outra movimentação, demonstra a seguinte equação patrimonial:",
+      "opcoes": [
+        "A) ativo = passivo.",
+        "B) ativo < passivo.",
+        "C) ativo = patrimônio líquido.",
+        "D) ativo > patrimônio líquido."
+      ],
+      "resposta": "C",
+      "comentario": "Quando os sócios integralizam capital e não há qualquer outra movimentação, todo o ativo (depósito bancário) é financiado por capital próprio. O Passivo = zero e o Ativo = PL (Capital Social). Esse é o caso típico da constituição da sociedade, denominado situação líquida plena.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-81",
+      "banca": "Instituto ACCESS/CM Conquista/Controlador Geral/2024",
+      "tipo": "multipla_escolha",
+      "enunciado": "A situação líquida da empresa é apresentada pela diferença entre o Ativo e o Passivo. Considerando uma composição patrimonial hipotética em que o Ativo é maior que o Passivo e há mais capital próprio do que capital de terceiros, a situação líquida patrimonial apresentada é",
+      "opcoes": [
+        "A) negativa, em que o Ativo é menor que o Passivo.",
+        "B) nula, situação em que o Ativo é igual ao Passivo.",
+        "C) positiva, em que o Ativo é igual a Patrimônio Líquido.",
+        "D) positiva, em que o Ativo é maior que o Passivo e existe mais capital próprio."
+      ],
+      "resposta": "D",
+      "comentario": "Quando Ativo > Passivo, o PL é positivo — situação líquida favorável, ativa, positiva ou superavitária. A alternativa D descreve corretamente: Ativo maior que Passivo e PL (capital próprio) maior que Passivo (capital de terceiros).",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-82",
+      "banca": "Consulplan/Pref. Pouso Alegre/Contador/2024",
+      "tipo": "multipla_escolha",
+      "enunciado": "O Balanço Patrimonial contém informações agrupadas em contas de Ativo, de Passivo e de Patrimônio Líquido. A Equação Patrimonial pode ser apresentada como: Patrimônio Líquido = Ativo − Passivo. Na hipótese de a soma dos valores dos ativos ser menor que a soma dos valores dos passivos, o valor do patrimônio líquido será negativo, caracterizando o estado patrimonial chamado de:",
+      "opcoes": [
+        "A) Ativo deficitário.",
+        "B) Passivo a descoberto.",
+        "C) Passivo superavitário.",
+        "D) Patrimônio insuficiente."
+      ],
+      "resposta": "B",
+      "comentario": "Quando Ativo < Passivo, PL = Ativo − Passivo < 0. Essa situação é denominada passivo a descoberto (situação líquida negativa ou deficitária). O passivo não assume valor negativo; é o PL que fica negativo.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-83",
+      "banca": "MS Concursos/Pref. Mirante da Serra/Contador/2024",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quando o ativo é reduzido e o passivo fica inalterado, o patrimônio líquido fica:",
+      "opcoes": [
+        "A) Reduzido.",
+        "B) Inalterado.",
+        "C) Aumentado.",
+        "D) Estável."
+      ],
+      "resposta": "A",
+      "comentario": "Na equação PL = Ativo − Passivo, o PL é diretamente proporcional ao Ativo. Se o Ativo diminui e o Passivo permanece constante, o PL diminui na mesma proporção da redução do Ativo.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-84",
+      "banca": "MS Concursos/Pref. Formigueiro/Tesoureiro/2024",
+      "tipo": "multipla_escolha",
+      "enunciado": "A situação patrimonial _____ ocorre quando o conjunto de bens e direitos é maior do que as obrigações. Neste caso, o Patrimônio Líquido será positivo. É também conhecida como situação líquida _____, pois o _____ é maior do que o passivo exigível.",
+      "opcoes": [
+        "A) superavitária / ativa / ativo.",
+        "B) nula / superavitária / ativo.",
+        "C) deficitária / passiva / passivo.",
+        "D) nula / passiva / ativo."
+      ],
+      "resposta": "A",
+      "comentario": "Quando Ativo (bens e direitos) > Passivo (obrigações) e PL > 0, a situação é superavitária. Ela é também chamada de situação líquida ativa (ou favorável ou positiva), pois o ativo é maior que o passivo exigível.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-85",
+      "banca": "AVANÇASP/Pref. Morungaba/Assessor Contábil/2023",
+      "tipo": "multipla_escolha",
+      "enunciado": "Suponha que, em determinada data, uma entidade detenha um patrimônio bruto de R$ 1.000.000,00, e um passivo a descoberto de R$ 500.000,00. Assim, considerando a equação fundamental da contabilidade, o Passivo Exigível desta entidade na mesma data é de:",
+      "opcoes": [
+        "A) (R$ 500.000,00).",
+        "B) R$ 1.500.000,00.",
+        "C) (R$ 1.500.000,00).",
+        "D) R$ 2.500.000,00.",
+        "E) (R$ 1.000.000,00)."
+      ],
+      "resposta": "B",
+      "comentario": "Patrimônio bruto = Ativo = R$ 1.000.000. Passivo a descoberto = PL negativo = −R$ 500.000. Pela equação: Passivo = Ativo − PL = 1.000.000 − (−500.000) = 1.000.000 + 500.000 = R$ 1.500.000.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-86",
+      "banca": "DIRENS Aeronáutica/EEAR/Estágio de Adaptação/Administração/2023",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual Situação Líquida NÃO representa Ativo maior que Passivo?",
+      "opcoes": [
+        "A) Situação Líquida Ativa.",
+        "B) Situação Líquida Positiva.",
+        "C) Situação Líquida Amortizada.",
+        "D) Situação Líquida Superavitária."
+      ],
+      "resposta": "C",
+      "comentario": "As situações que representam Ativo > Passivo são: Favorável, Ativa, Positiva e Superavitária — são sinônimas. Situação Líquida Amortizada não é um tipo reconhecido pela doutrina contábil e foi inventada pela banca para servir de distrator. Portanto, é a única que não representa Ativo > Passivo.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-87",
+      "banca": "Legalle/UFPEL/Administrador/2023",
+      "tipo": "multipla_escolha",
+      "enunciado": "Considerando aspectos básicos de administração financeira, é possível afirmar que a diferença entre os ativos e os passivos após a inclusão de outros recursos e a dedução de outras obrigações, reconhecida no Balanço Patrimonial como patrimônio líquido, podendo ser um montante positivo ou negativo, é:",
+      "opcoes": [
+        "A) Situação econômica passivo-ativa líquida.",
+        "B) Situação patrimonial líquida.",
+        "C) Situação econômica passivo-ativa bruta.",
+        "D) Situação financeira real apositiva.",
+        "E) Situação patrimonial bruta."
+      ],
+      "resposta": "B",
+      "comentario": "O conceito descrito — diferença entre ativos e passivos, reconhecida no balanço como PL, podendo ser positiva ou negativa — corresponde à situação patrimonial líquida. Ela representa o capital próprio dos sócios e pode ser positiva (superavitária), nula ou negativa (deficitária/passivo a descoberto).",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-88",
+      "banca": "CENTEC/SEDUC CE/Professor de Finanças/2023",
+      "tipo": "multipla_escolha",
+      "enunciado": "Analisando as contas abaixo, aponte o item que representa a CORRETA situação patrimonial.\n\nDados: Caixa = R$ 3.000; Aplicações Financeiras = R$ 7.000; Empréstimos a Pagar = R$ 5.000; Duplicatas a Pagar = R$ 15.000; Terrenos = R$ 30.000; Impostos a Pagar = R$ 20.000.",
+      "opcoes": [
+        "A) A situação líquida patrimonial é positiva ou superavitária em R$ 40.000.",
+        "B) A situação líquida patrimonial é negativa ou deficitária.",
+        "C) A situação líquida patrimonial é positiva ou superavitária.",
+        "D) A situação líquida patrimonial é nula.",
+        "E) A situação líquida patrimonial é negativa ou deficitária em R$ 60.000."
+      ],
+      "resposta": "D",
+      "comentario": "Ativo = Caixa + Aplicações Financeiras + Terrenos = 3.000 + 7.000 + 30.000 = R$ 40.000. Passivo = Empréstimos a Pagar + Duplicatas a Pagar + Impostos a Pagar = 5.000 + 15.000 + 20.000 = R$ 40.000. PL = 40.000 − 40.000 = R$ 0. Situação líquida nula: Ativo = Passivo e PL = zero.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-89",
+      "banca": "Instituto Verbena/UFG/Técnico Contabilidade/2023",
+      "tipo": "multipla_escolha",
+      "enunciado": "Considerando que uma empresa tem o passivo circulante duas vezes maior que o ativo circulante; que o ativo não circulante é três vezes maior que o passivo não circulante; e que o ativo circulante é igual ao passivo não circulante, qual é a situação do PL?",
+      "opcoes": [
+        "A) Positivo, com o mesmo valor do ativo circulante.",
+        "B) Negativo, com o mesmo valor do ativo circulante.",
+        "C) Positivo, com o mesmo valor do passivo circulante.",
+        "D) Negativo, com o mesmo valor do passivo circulante."
+      ],
+      "resposta": "A",
+      "comentario": "Dados: PC = 2×AC; ANC = 3×PNC; AC = PNC. Substituindo na equação PL = (AC + ANC) − (PC + PNC): PL = (AC + 3PNC) − (2AC + PNC) = AC + 3AC − 2AC − AC = AC (usando AC = PNC). PL = AC, positivo. Como AC = PNC e PC = 2AC, temos PL = AC = PNC = PC/2 = ANC/3.",
+      "dificuldade": 4
+    },
+    {
+      "id": "cg-01a-90",
+      "banca": "QUADRIX/CREF 3/Contador/2023",
+      "tipo": "certo_errado",
+      "enunciado": "Suponha-se que, em determinada data, uma entidade detenha um ativo total de R$ 500.000 e um passivo a descoberto de R$ 200.000. Nesse caso, considerando a equação fundamental da contabilidade, é correto afirmar que o passivo exigível dessa entidade na mesma data é de R$ 700.000.",
+      "resposta": "certo",
+      "comentario": "Passivo a descoberto = PL negativo = −R$ 200.000. Pela equação: Passivo = Ativo − PL = 500.000 − (−200.000) = 500.000 + 200.000 = R$ 700.000. O passivo exigível é de fato R$ 700.000.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-91",
+      "banca": "IBFC/DPE MT/Controlador Interno/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "Sobre a Equação Fundamental do Patrimônio, leia o parágrafo a seguir:\n\n\"O balanço patrimonial é formado por _____, _____ e _____, e a equação fundamental é escrita na forma: _____.\"  \n\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+      "opcoes": [
+        "A) ativos / passivos / patrimônio líquido / A = P + PL.",
+        "B) ativos / passivos / patrimônio líquido / A = P − PL.",
+        "C) imobilizado / despesas / aplicações / I = D + A.",
+        "D) ativos / despesa / lucro / A = D − L."
+      ],
+      "resposta": "A",
+      "comentario": "O balanço patrimonial é composto por ativos, passivos e patrimônio líquido. A equação fundamental da contabilidade é Ativo = Passivo + Patrimônio Líquido (A = P + PL), podendo ser reescrita como PL = A − P ou P = A − PL.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-92",
+      "banca": "IBFC/SESACRE/Técnico Contabilidade/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "A Situação Líquida do Patrimônio é a diferença entre Ativo e Passivo. As empresas podem apresentar diferentes situações líquidas. Diante do exposto, assinale a alternativa INCORRETA.",
+      "opcoes": [
+        "A) Situação Líquida Negativa.",
+        "B) Situação Inconcebível Líquida.",
+        "C) Situação Líquida Nula.",
+        "D) Situação Líquida Positiva."
+      ],
+      "resposta": "B",
+      "comentario": "Os tipos de situação líquida reconhecidos pela doutrina contábil são: positiva (ou superavitária/favorável/ativa), negativa (ou deficitária/passivo a descoberto), nula (ou inexistente) e plena (Ativo = PL). Situação Inconcebível Líquida não existe — foi uma invenção da banca para servir de distrator.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-93",
+      "banca": "IBFC/SESACRE/Técnico Contabilidade/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em Contabilidade, sabe-se da existência da Equação Patrimonial, também conhecida como Equação Contábil Básica. Sobre sua composição, é correto afirmar:",
+      "opcoes": [
+        "A) Patrimônio Líquido + Ativo = Passivo.",
+        "B) Ativo − Passivo = Patrimônio Líquido.",
+        "C) Passivo − Patrimônio Líquido = Ativo.",
+        "D) Ativo + Passivo = Patrimônio Líquido."
+      ],
+      "resposta": "B",
+      "comentario": "A equação fundamental é Ativo = Passivo + PL. Isolando o PL: PL = Ativo − Passivo. A alternativa B apresenta exatamente essa forma, com o PL isolado do lado direito.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-94",
+      "banca": "IDECAN/TJ PI/Analista Judiciário/Contador/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "Assinale a alternativa que define corretamente como o saldo de uma conta é apurado e quando a empresa apresenta um passivo a descoberto, respectivamente.",
+      "opcoes": [
+        "A) Pela soma dos valores debitados; se o índice de liquidez seca for menor que um.",
+        "B) Pela soma de valores creditados; quando apresentar má situação financeira.",
+        "C) Pela diferença entre os valores debitados e creditados; quando seu Ativo for menor que o Passivo.",
+        "D) Pelo valor do último lançamento; quando o Imobilizado for menor que o Exigível.",
+        "E) Pela soma dos valores debitados; quando apresentar má situação financeira."
+      ],
+      "resposta": "C",
+      "comentario": "O saldo de uma conta é apurado pela diferença entre os valores debitados e creditados (débitos − créditos para contas devedoras ou créditos − débitos para contas credoras). O passivo a descoberto ocorre quando o Ativo é menor que o Passivo, resultando em PL negativo.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-95",
+      "banca": "IDECAN/UNILAB/Contador/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "A respeito dos elementos da equação patrimonial, assinale a afirmativa INCORRETA.",
+      "opcoes": [
+        "A) Quando o Ativo é maior que o Passivo Exigível, há Patrimônio Líquido. O PL é a diferença entre Ativo e Passivo (PL = A − PE), e temos uma situação superavitária.",
+        "B) Situação Deficitária se dá quando o Ativo é menor que o Passivo Exigível. Estaremos diante do Passivo a Descoberto, pois uma parcela das obrigações ficará sem ser paga mesmo que a empresa realize todo o seu Ativo.",
+        "C) Situação Nula ou Inexistente se dá quando o Ativo é igual ao Passivo. O capital foi absorvido e todo o patrimônio pertence a terceiros.",
+        "D) Patrimônio Líquido é a diferença entre o valor do Ativo e do Passivo. É considerado um exigível como as obrigações com terceiros."
+      ],
+      "resposta": "D",
+      "comentario": "O Patrimônio Líquido é um passivo não exigível — representa a dívida da empresa para com seus próprios sócios, mas não pode ser cobrado por eles da mesma forma que obrigações com terceiros. A classificação correta é: passivo exigível (Passivo Circulante + Passivo Não Circulante) e passivo não exigível (Patrimônio Líquido). Dizer que o PL é um exigível como as obrigações com terceiros é incorreto.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-96",
+      "banca": "Consulplan/CFC/Exame de Suficiência/2022",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um empresário do ramo imobiliário deseja ampliar seu conhecimento sobre conceitos contábeis. Relacione adequadamente os itens a seguir.\n\n1. Ativo.\n2. Passivo.\n3. Balanço Patrimonial.\n4. Patrimônio Líquido.\n5. Estoque.\n6. Capital Nominal.\n\n( ) Bens de propriedade da empresa; pertence ao ativo.\n( ) É o mais importante relatório gerado pela contabilidade; identifica a saúde financeira da empresa.\n( ) Importância que os proprietários investem inicialmente na empresa.\n( ) Obrigações exigíveis da empresa, denominado também passivo exigível.\n( ) Conjunto de bens e direitos de propriedade da empresa; itens positivos do patrimônio.\n( ) Representa o total das aplicações dos proprietários na empresa.\n\nA sequência está correta em",
+      "opcoes": [
+        "A) 5, 2, 6, 3, 1, 4.",
+        "B) 1, 3, 5, 2, 4, 6.",
+        "C) 2, 4, 6, 1, 5, 3.",
+        "D) 5, 3, 6, 2, 1, 4."
+      ],
+      "resposta": "D",
+      "comentario": "Bens de propriedade da empresa pertencentes ao ativo: Estoque (5). Mais importante relatório contábil: Balanço Patrimonial (3). Investimento inicial dos proprietários: Capital Nominal (6). Obrigações exigíveis: Passivo (2). Conjunto de bens e direitos: Ativo (1). Total das aplicações dos proprietários: Patrimônio Líquido (4). Sequência: 5, 3, 6, 2, 1, 4.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-97",
+      "banca": "IDECAN/Pref. Campina Grande/Analista de Planejamento e Orçamento/2021",
+      "tipo": "multipla_escolha",
+      "enunciado": "A empresa XY possui R$ 100.000,00 em ativos e R$ 60.000,00 em passivos. Caso ela resolva distribuir R$ 20.000,00 de dividendos, é possível afirmar que:",
+      "opcoes": [
+        "A) o PL aumentará para R$ 80.000,00.",
+        "B) não haverá alteração no PL.",
+        "C) a Conta Caixa terá uma redução de R$ 20.000,00.",
+        "D) o PL será reduzido na mesma proporção de R$ 20.000,00."
+      ],
+      "resposta": "D",
+      "comentario": "PL inicial = Ativo − Passivo = 100.000 − 60.000 = R$ 40.000. A distribuição de dividendos reduz o PL (débito em Lucros Acumulados) e cria um passivo (Dividendos a Pagar). O PL cai para R$ 20.000, reduzindo R$ 20.000. O Caixa só se reduz no momento do pagamento efetivo dos dividendos, não na declaração.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-98",
+      "banca": "Instituto AOCP/PC PA/Investigador de Polícia Civil/2021",
+      "tipo": "multipla_escolha",
+      "enunciado": "Acerca da situação líquida e da equação fundamental do patrimônio, analise as assertivas e assinale a alternativa que aponta a(s) correta(s).\n\nI. A situação líquida positiva é quando o total de bens e direitos é maior que o total das obrigações.\nII. A situação líquida negativa é quando o total de bens e direitos é menor que o total das obrigações.\nIII. Na equação fundamental do patrimônio, o patrimônio líquido é diretamente relacionado com o ativo e inversamente relacionado com o passivo.",
+      "opcoes": [
+        "A) Apenas II.",
+        "B) Apenas I e II.",
+        "C) Apenas I e III.",
+        "D) Apenas II e III.",
+        "E) I, II e III."
+      ],
+      "resposta": "E",
+      "comentario": "I é correta: SL positiva ↔ Ativo > Passivo. II é correta: SL negativa ↔ Ativo < Passivo. III é correta: na equação PL = Ativo − Passivo, o PL varia no mesmo sentido que o Ativo (diretamente) e em sentido contrário ao Passivo (inversamente). Todas as três assertivas estão corretas.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-99",
+      "banca": "Instituto AOCP/ITEP RN/Perito Criminal/Contabilidade e Economia/2021",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em relação à teoria da contabilidade, analise as assertivas e assinale a alternativa que aponta a(s) correta(s).\n\nI. O objetivo da contabilidade é fornecer informações úteis para a tomada de decisões.\nII. O valor registrado no patrimônio líquido de uma entidade não pode ser superior ao valor total de seus ativos.\nIII. As aplicações de recursos representam o ativo da entidade, enquanto os recursos de terceiros representam o seu passivo, origens de recursos.",
+      "opcoes": [
+        "A) I, II e III.",
+        "B) Apenas I e II.",
+        "C) Apenas II e III.",
+        "D) Apenas II.",
+        "E) Apenas III."
+      ],
+      "resposta": "A",
+      "comentario": "I é correta: fornecer informações úteis à tomada de decisões é a finalidade principal da contabilidade (algumas bancas confundem objetivo e finalidade, mas aqui a assertiva é aceita). II é correta: o PL nunca pode superar o Ativo, pois PL = Ativo − Passivo e Passivo ≥ 0, logo PL ≤ Ativo. III é correta: Ativo = aplicações; Passivo = origens de recursos de terceiros. Todas corretas.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-100",
+      "banca": "Instituto AOCP/UFPB/Contabilidade/2019",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em relação ao conceito de Patrimônio Líquido, assinale a alternativa INCORRETA.",
+      "opcoes": [
+        "A) O Patrimônio Líquido ou Situação Líquida é a diferença matemática entre ativos (bens e direitos) e passivos (obrigações).",
+        "B) As fontes do patrimônio líquido de uma entidade são os investimentos dos sócios ou acionistas e os lucros provenientes da própria atividade empresarial.",
+        "C) O Patrimônio Líquido pode se apresentar positivo quando os ativos da entidade forem inferiores aos passivos, mas pode também se apresentar negativo quando os passivos da entidade forem inferiores aos ativos.",
+        "D) O Patrimônio Líquido pode se apresentar nulo quando os ativos forem exatamente iguais aos passivos.",
+        "E) Todos os componentes do patrimônio devem ser mensurados para que seja possível apurar o PL pela equação: Bens + Direitos − Obrigações."
+      ],
+      "resposta": "C",
+      "comentario": "A alternativa C inverte os conceitos: o PL se apresenta negativo quando os ativos são inferiores aos passivos (não o contrário), e se apresenta positivo quando os passivos são inferiores aos ativos. As demais alternativas estão corretas.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-101",
+      "banca": "IADES/IGEPPS/Técnico Administrativo e Financeiro/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "O balanço patrimonial encerrado em 31/12/20X1 evidenciou que o total do Ativo Não Circulante e parte do Ativo Circulante eram financiados por Capital Próprio. Com base apenas nessa informação, é correto afirmar, com absoluta certeza, que",
+      "opcoes": [
+        "A) Ativo Circulante > Capital de Terceiros.",
+        "B) Ativo Circulante > Patrimônio Líquido.",
+        "C) Capital de Terceiros > Capital Próprio.",
+        "D) Ativo Não Circulante > Patrimônio Líquido.",
+        "E) Passivo Exigível > Ativo Não Circulante."
+      ],
+      "resposta": "A",
+      "comentario": "O PL financia integralmente o ANC e apenas parte do AC. O restante do AC é financiado pelo Capital de Terceiros (Passivo). Como parte do AC ainda sobra após o capital de terceiros cobri-la, o AC é maior que o Capital de Terceiros. Algebricamente: PL > ANC e AC − (parte financiada por PL) = Capital de Terceiros, logo AC > Capital de Terceiros.",
+      "dificuldade": 4
+    },
+    {
+      "id": "cg-01a-102",
+      "banca": "IADES/ARCON PA/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "O patrimônio de uma entidade, em determinado momento, é o conjunto de bens, direitos e obrigações demonstrados no balanço patrimonial. Se uma empresa apresenta situação patrimonial negativa, então é correto afirmar que",
+      "opcoes": [
+        "A) a empresa não possui patrimônio.",
+        "B) o patrimônio líquido é igual a zero.",
+        "C) os ativos estão diminuindo.",
+        "D) o total de obrigações supera o total de ativos.",
+        "E) as obrigações estão aumentando."
+      ],
+      "resposta": "D",
+      "comentario": "Situação patrimonial negativa significa PL < 0, o que ocorre quando Passivo > Ativo. Logo, o total de obrigações (Passivo) supera o total de ativos (bens e direitos). Essa é a definição direta de passivo a descoberto.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-103",
+      "banca": "IADES/HEMOCENTRO DF/Contabilidade/2017",
+      "tipo": "multipla_escolha",
+      "enunciado": "Considere hipoteticamente que o Ativo Total de uma empresa seja de R$ 285.000, e o Patrimônio Líquido, de R$ 114.000. Com base apenas nessas informações, assinale a alternativa correta.",
+      "opcoes": [
+        "A) A empresa utiliza mais capital próprio que capital de terceiros.",
+        "B) O capital de terceiros é o dobro do capital próprio empregado.",
+        "C) O capital de terceiros equivale a 60% do capital total empregado.",
+        "D) A empresa não tem Passivo Exigível.",
+        "E) A empresa não utiliza fontes externas de recursos."
+      ],
+      "resposta": "C",
+      "comentario": "Passivo = Ativo − PL = 285.000 − 114.000 = R$ 171.000. Capital de terceiros / Capital total = 171.000 / 285.000 = 0,6 = 60%. A empresa utiliza mais capital de terceiros que próprio (171.000 > 114.000). O capital de terceiros é 1,5 vez (não o dobro) do capital próprio.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-104",
+      "banca": "COPS UEL/CM Londrina/Contador/2017",
+      "tipo": "multipla_escolha",
+      "enunciado": "Os bens de uma determinada empresa montam em R$ 60.000,00, sendo seu capital total equivalente a 250% do valor dos bens, tendo, ainda, obrigações equivalentes a 60% dos capitais circulantes e não circulantes.\n\nCom base nessas informações, considere as afirmativas a seguir.\nI. A situação líquida é positiva de R$ 60.000,00.\nII. O capital alheio é de R$ 90.000,00.\nIII. O capital próprio é de R$ 150.000,00.\nIV. O total do ativo é de R$ 210.000,00.\n\nAssinale a alternativa correta.",
+      "opcoes": [
+        "A) Somente as afirmativas I e II são corretas.",
+        "B) Somente as afirmativas I e IV são corretas.",
+        "C) Somente as afirmativas III e IV são corretas.",
+        "D) Somente as afirmativas I, II e III são corretas.",
+        "E) Somente as afirmativas II, III e IV são corretas."
+      ],
+      "resposta": "A",
+      "comentario": "Ativo total (capital total) = 60.000 × 250% = R$ 150.000 (IV está errado, pois IV afirma R$ 210.000). Obrigações (capital alheio) = 150.000 × 60% = R$ 90.000 (II correto). PL (capital próprio) = 150.000 − 90.000 = R$ 60.000 (III afirma R$ 150.000, errado). Situação líquida = PL = R$ 60.000, positiva (I correto). Apenas I e II estão corretas.",
+      "dificuldade": 4
+    },
+    {
+      "id": "cg-01a-105",
+      "banca": "FUMARC/CM Dores do Rio Preto/Contador/2016",
+      "tipo": "multipla_escolha",
+      "enunciado": "Considerando-se A = Ativo, P = Passivo e SL = Situação Líquida, pode-se afirmar que a situação de Passivo a Descoberto ocorrerá quando:",
+      "opcoes": [
+        "A) A + SL = P.",
+        "B) A > P.",
+        "C) A > SL + P.",
+        "D) A − P = SL."
+      ],
+      "resposta": "A",
+      "comentario": "No passivo a descoberto, o Passivo supera o Ativo e a SL é negativa. A equação rearranjada fica: Passivo = Ativo + |SL negativo|, ou seja, A + SL = P (onde SL está com valor negativo, tornando P > A). Matematicamente: −(−SL) = +SL, assim A + SL = P com SL < 0 implica A < P.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-106",
+      "banca": "IBFC/SES-PR/Contador/2016",
+      "tipo": "multipla_escolha",
+      "enunciado": "Determinada empresa está com a seguinte situação patrimonial: Ativo = R$ 500.000,00 e Passivo Exigível = R$ 500.000,00. Esta empresa apresenta situação líquida:",
+      "opcoes": [
+        "A) Negativa.",
+        "B) Positiva.",
+        "C) Nula.",
+        "D) Descoberta."
+      ],
+      "resposta": "C",
+      "comentario": "PL = Ativo − Passivo = 500.000 − 500.000 = R$ 0. Quando Ativo = Passivo e PL = 0, a situação líquida é nula ou inexistente. Todo o patrimônio pertence a terceiros e não há capital próprio.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-107",
+      "banca": "UFPR/UNILA/Contador/2014",
+      "tipo": "multipla_escolha",
+      "enunciado": "Determinada empresa apresenta em seu Balanço Patrimonial, no grupo Passivo (incluindo valores de curto e de longo prazo) o valor de R$ 32.500,00 e no grupo Patrimônio Líquido o valor de R$ 28.650,00. O valor do Capital de Terceiros na empresa será de:",
+      "opcoes": [
+        "A) R$ 61.150,00.",
+        "B) R$ 28.650,00.",
+        "C) R$ 32.500,00.",
+        "D) R$ 3.850,00.",
+        "E) R$ 28.100,00."
+      ],
+      "resposta": "C",
+      "comentario": "Capital de Terceiros = Passivo Exigível = R$ 32.500. O enunciado já fornece diretamente esse valor. O PL (R$ 28.650) representa o Capital Próprio, e a soma Passivo + PL = 32.500 + 28.650 = R$ 61.150 = Ativo Total.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-108",
+      "banca": "FUMARC/PC MG/Analista da Polícia Civil/Ciências Contábeis/2013",
+      "tipo": "multipla_escolha",
+      "enunciado": "No balanço patrimonial levantado em 31/12/2012, a Cia. São Lucas possui bens e direitos no valor total de R$ 2.100.000,00. Sabendo-se que o Passivo Exigível da companhia representa 2/4 (dois quartos) do valor do Patrimônio Líquido nele registrado, é CORRETO afirmar que este último é da ordem de",
+      "opcoes": [
+        "A) R$ 700.000,00.",
+        "B) R$ 840.000,00.",
+        "C) R$ 1.050.000,00.",
+        "D) R$ 1.400.000,00."
+      ],
+      "resposta": "D",
+      "comentario": "Ativo = R$ 2.100.000. Passivo = (2/4) × PL = (1/2) × PL. Pela equação: 2.100.000 = (1/2)PL + PL = (3/2)PL. PL = 2.100.000 × (2/3) = R$ 1.400.000. Passivo = (1/2) × 1.400.000 = R$ 700.000. Conferindo: 700.000 + 1.400.000 = R$ 2.100.000 = Ativo.",
+      "dificuldade": 4
+    },
+    {
+      "id": "cg-01a-109",
+      "banca": "CEV UECE/FUNCEME/Analista de Suporte à Pesquisa/Ciências Contábeis/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto à movimentação que sofrem, as contas contábeis podem ser classificadas em",
+      "opcoes": [
+        "A) contas devedoras, credoras e híbridas.",
+        "B) contas sintéticas e analíticas.",
+        "C) contas unilaterais e bilaterais.",
+        "D) contas integrais e diferenciais."
+      ],
+      "resposta": "C",
+      "comentario": "Quanto à movimentação, as contas contábeis classificam-se em unilaterais e bilaterais. As contas unilaterais recebem lançamentos somente a débito ou somente a crédito, conforme sua natureza. As contas bilaterais funcionam com aumentos e diminuições de saldo, recebendo lançamentos tanto a débito quanto a crédito (ex.: conta Banco com Movimento).",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-110",
+      "banca": "CEV UECE/DETRAN CE/Analista de Trânsito e Transporte/Ciências Contábeis/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "Se o Ativo (bens + direitos) de uma empresa for R$ 1.000,00 e seu Passivo (obrigações com terceiros) R$ 800,00, o capital próprio será",
+      "opcoes": [
+        "A) o valor que estiver disponível em caixa/bancos.",
+        "B) a diferença positiva entre o Ativo e o Passivo.",
+        "C) o valor do capital social subscrito.",
+        "D) a soma de todas as contas do Ativo."
+      ],
+      "resposta": "B",
+      "comentario": "Capital próprio = PL = Ativo − Passivo = R$ 1.000 − R$ 800 = R$ 200. Por ser positivo, representa uma diferença positiva entre Ativo e Passivo. O capital próprio não se confunde com o caixa, com o capital social subscrito nem com o total do Ativo.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-111",
+      "banca": "CEV UECE/Pref. Sobral/Auditor Fiscal de Tributos Municipais/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "A situação patrimonial líquida positiva ocorre quando",
+      "opcoes": [
+        "A) as receitas superam as despesas.",
+        "B) há saldo financeiro disponível.",
+        "C) o ativo é maior que o passivo.",
+        "D) o passivo descoberto é quase zero."
+      ],
+      "resposta": "C",
+      "comentario": "Situação líquida positiva (favorável, ativa ou superavitária) ocorre quando Ativo > Passivo, resultando em PL > 0. Não se deve confundir com resultado (receitas × despesas) nem com liquidez disponível — a situação patrimonial diz respeito à posição estática do balanço.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-112",
+      "banca": "CEV UECE/PEFOCE/Perito Criminal de 1ª Classe/Ciências Contábeis/2002",
+      "tipo": "multipla_escolha",
+      "enunciado": "Diz-se que a situação líquida é negativa quando o Ativo Total é:",
+      "opcoes": [
+        "A) maior que o Passivo Total.",
+        "B) igual ao Passivo Exigível.",
+        "C) maior que o Passivo Exigível.",
+        "D) menor que o Passivo Exigível."
+      ],
+      "resposta": "D",
+      "comentario": "A situação líquida negativa (passivo a descoberto) ocorre quando Ativo < Passivo, ou seja, o Ativo Total é menor que o Passivo Exigível. Nesse caso, PL = Ativo − Passivo < 0.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-113",
+      "banca": "IBADE/CM Vila Velha/Contador/2021",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em relação à situação líquida patrimonial de uma empresa, pode-se encontrar o caso em que o passivo é maior que o ativo. Esta situação denomina-se:",
+      "opcoes": [
+        "A) Situação superavitária.",
+        "B) Situação positiva.",
+        "C) Situação neutra.",
+        "D) Passivo a descoberto.",
+        "E) Ativo a descoberto."
+      ],
+      "resposta": "D",
+      "comentario": "Quando Passivo > Ativo, o PL é negativo — situação chamada de passivo a descoberto (também denominada situação líquida negativa ou deficitária). Ativo a descoberto não é um termo contábil reconhecido; é o Passivo que fica a descoberto quando supera o Ativo.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-114",
+      "banca": "IBADE/CM Vila Velha/Auditor Interno/2021",
+      "tipo": "multipla_escolha",
+      "enunciado": "Analise as afirmativas abaixo:\nI. Situação líquida nula quando não houver Ativo.\nII. Ativo > obrigações = situação líquida ativa.\nIII. Situação líquida passiva é equivalente a passivo a descoberto.\nIV. O total das obrigações é equivalente à situação deficitária.\n\nEstão corretas, somente:",
+      "opcoes": [
+        "A) I e II.",
+        "B) II e III.",
+        "C) III e IV.",
+        "D) I e III.",
+        "E) II e IV."
+      ],
+      "resposta": "B",
+      "comentario": "I é incorreta: situação nula ocorre quando Ativo = Passivo, não quando não há Ativo. II é correta: Ativo > obrigações (Passivo) configura a situação líquida ativa (positiva/superavitária). III é correta: situação líquida passiva é outro nome para situação líquida negativa (deficitária/passivo a descoberto). IV é incorreta: total das obrigações = Passivo, não situação deficitária (que requer Ativo < Passivo).",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-115",
+      "banca": "IBADE/Pref. Itapemirim/Contador/2019",
+      "tipo": "multipla_escolha",
+      "enunciado": "O Patrimônio Empresarial composto pelos ativos, passivos e pelo patrimônio líquido pode ser entendido como origens e aplicações de recursos. A alternativa que apresenta uma origem e uma aplicação, respectivamente, é:",
+      "opcoes": [
+        "A) Fornecedores e Impostos a pagar.",
+        "B) Clientes e Estoques.",
+        "C) Contas a pagar e Contas a receber.",
+        "D) Patrimônio líquido e Empréstimos bancários.",
+        "E) Reservas de lucros e Salários a pagar."
+      ],
+      "resposta": "C",
+      "comentario": "Origens de recursos = lado direito do balanço (Passivo + PL) = obrigações com terceiros e capital próprio. Aplicações de recursos = lado esquerdo (Ativo) = bens e direitos. Contas a pagar é uma obrigação (origem, lado do Passivo) e Contas a receber é um direito (aplicação, lado do Ativo). A alternativa C apresenta corretamente uma origem (contas a pagar) e uma aplicação (contas a receber).",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-116",
+      "banca": "IBADE/CM Vilhena/Auditor Interno/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "A alternativa que apresenta corretamente o que se pode entender como situação líquida negativa é:",
+      "opcoes": [
+        "A) Ativo maior que Passivo.",
+        "B) Passivo maior que Ativo.",
+        "C) Despesa maior que Receita.",
+        "D) Passivo igual à Despesa.",
+        "E) Ativo igual a Despesa."
+      ],
+      "resposta": "B",
+      "comentario": "Situação líquida negativa (passivo a descoberto) ocorre quando Passivo > Ativo, tornando PL = Ativo − Passivo < 0. As demais alternativas confundem conceitos patrimoniais com conceitos de resultado (receita/despesa), que são distintos.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-117",
+      "banca": "IBADE/CAERN/Contador/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "A equação patrimonial caracteriza-se por apresentar o equilíbrio entre ativos e passivos na contabilidade. Pode ser entendida como Origens e Aplicações de recursos. Identifique nas alternativas aquela que apresenta somente exemplos de aplicações de recursos.",
+      "opcoes": [
+        "A) Receitas e contas a receber.",
+        "B) Contas a receber e estoques.",
+        "C) Despesas e contas a pagar.",
+        "D) Salários a pagar e fornecedores.",
+        "E) Receitas e despesas."
+      ],
+      "resposta": "B",
+      "comentario": "Aplicações de recursos = Ativo = bens e direitos da entidade. Contas a receber (direito) e estoques (bem) são ambos itens de ativo, portanto aplicações de recursos. Receitas e despesas são contas de resultado, não patrimoniais. Contas a pagar, salários a pagar e fornecedores são obrigações (Passivo), portanto origens.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-118",
+      "banca": "IBADE/Pref. Cujubim/Controlador Interno/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "Diferença entre o ativo e o passivo da organização, ou seja, entre os bens e direitos que ela possui e suas obrigações. Estamos diante do conceito de:",
+      "opcoes": [
+        "A) Capital integralizado.",
+        "B) Plano de contas.",
+        "C) Situação líquida.",
+        "D) Capital circulante líquido.",
+        "E) Mais-valia."
+      ],
+      "resposta": "C",
+      "comentario": "Situação líquida = Ativo − Passivo = (bens + direitos) − obrigações. Representa o capital próprio dos sócios na entidade. É sinônimo de patrimônio líquido para fins práticos. Capital circulante líquido é Ativo Circulante − Passivo Circulante, conceito diferente.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-119",
+      "banca": "IBADE/Pref. Ji-Paraná/Fiscal Fazendário/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "Sabendo que uma empresa A possui Ativos no valor de R$ 10.000 e Passivos no valor de R$ 8.000, enquanto a empresa B possui Ativos no valor de R$ 18.000 e Passivos no valor de R$ 20.000, pode-se afirmar que os PL respectivos são:",
+      "opcoes": [
+        "A) R$ 10.000 e R$ 18.000.",
+        "B) (R$ 2.000) e R$ 2.000.",
+        "C) R$ 18.000 e R$ 38.000.",
+        "D) R$ 2.000 e (R$ 2.000).",
+        "E) R$ 2.000 e R$ 2.000."
+      ],
+      "resposta": "D",
+      "comentario": "PL_A = Ativo_A − Passivo_A = 10.000 − 8.000 = R$ 2.000 (positivo). PL_B = Ativo_B − Passivo_B = 18.000 − 20.000 = −R$ 2.000 (negativo, passivo a descoberto). A empresa B está em situação líquida negativa.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-120",
+      "banca": "IBADE/CM Vilhena/Contador/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "A equação patrimonial, de uma forma geral, pode ser interpretada como as Aplicações e as Origens de recursos, que determinam o patrimônio de uma entidade empresarial. A alternativa que apresenta, respectivamente, uma aplicação e uma origem de recursos é:",
+      "opcoes": [
+        "A) receitas e despesas.",
+        "B) receitas e contas a receber.",
+        "C) estoques e contas a pagar.",
+        "D) contas a receber e estoques.",
+        "E) salários a pagar e fornecedores."
+      ],
+      "resposta": "C",
+      "comentario": "Aplicação de recursos = Ativo (bens e direitos). Origem de recursos = Passivo + PL (obrigações e capital próprio). Estoques são um bem (ativo = aplicação). Contas a pagar são uma obrigação (passivo = origem). A alternativa C apresenta corretamente uma aplicação (estoques) seguida de uma origem (contas a pagar).",
+      "dificuldade": 2
     }
   ]
 }
