@@ -1765,6 +1765,207 @@
       "resposta": "C",
       "comentario": "Aplicação de recursos = Ativo (bens e direitos). Origem de recursos = Passivo + PL (obrigações e capital próprio). Estoques são um bem (ativo = aplicação). Contas a pagar são uma obrigação (passivo = origem). A alternativa C apresenta corretamente uma aplicação (estoques) seguida de uma origem (contas a pagar).",
       "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-121",
+      "banca": "VUNESP/Contador/Desenvolvesp/2014",
+      "tipo": "multipla_escolha",
+      "enunciado": "De acordo com a equação fundamental do patrimônio, uma entidade ao ter o aumento da situação líquida positiva, ou a diminuição da situação líquida negativa, tal entidade terá:",
+      "opcoes": [
+        "A) diminuição da riqueza do titular do patrimônio.",
+        "B) um equilíbrio patrimonial.",
+        "C) necessidade de recursos.",
+        "D) um aumento na utilização de recursos financeiros da entidade.",
+        "E) aumento da riqueza do titular do patrimônio."
+      ],
+      "resposta": "E",
+      "comentario": "Na equação A = P + PL, o enunciado descreve aumento do PL. PL representa a riqueza própria dos titulares do patrimônio (sócios ou proprietários). Aumentando o PL, há aumento da riqueza do titular — o que descarta diminuição da riqueza (A), equilíbrio patrimonial indeterminado (B), necessidade de recursos (C) e aumento de uso de recursos financeiros (D), que não podem ser inferidos apenas do crescimento do PL.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-122",
+      "banca": "VUNESP/Perito/PC SP/2014",
+      "tipo": "multipla_escolha",
+      "enunciado": "As demonstrações contábeis retratam os efeitos patrimoniais e financeiros das transações e outros eventos, por meio do grupamento dos mesmos em classes amplas de acordo com as suas características econômicas. Essas classes amplas são denominadas de elementos das demonstrações contábeis. Os elementos diretamente relacionados à mensuração da posição patrimonial e financeira no balanço patrimonial são os ativos, os passivos e o patrimônio líquido. Assim sendo, considerando que em 31 de dezembro de 2013 uma determinada companhia efetuou o pagamento de fornecedores, essa é uma operação que",
+      "opcoes": [
+        "A) diminui o passivo e o ativo.",
+        "B) aumenta o passivo e o ativo.",
+        "C) aumenta o passivo e diminui o ativo.",
+        "D) aumenta o ativo e diminui o passivo.",
+        "E) diminui o ativo e aumenta o patrimônio líquido."
+      ],
+      "resposta": "A",
+      "comentario": "O pagamento de fornecedores a dinheiro é um fato permutativo: o caixa (ativo) diminui e a dívida com fornecedores (passivo) também diminui pelo mesmo valor. O PL não se altera. Exemplo: caixa cai de R$ 100.000 para R$ 30.000 e fornecedores zeram — tanto o ativo quanto o passivo diminuem.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-123",
+      "banca": "VUNESP/Pref. São José dos Campos/Analista em Gestão Municipal — Ciências Contábeis/2012",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em Ciências Contábeis, em que se entende por Ativo Circulante (AC), Ativo Não-Circulante (ANC), Passivo Circulante (PC), Passivo Não-Circulante (PNC), Patrimônio Líquido (PL) e Situação Líquida (SL), pode-se afirmar que a pior situação para uma entidade com fins lucrativos será",
+      "opcoes": [
+        "A) (AC + ANC) − (PC + PNC) < zero.",
+        "B) (AC + ANC) − (PC + PNC) > zero.",
+        "C) (AC + ANC) − (PC + PNC) = zero.",
+        "D) (AC + ANC) − (PC + PNC) = PL positivo.",
+        "E) (AC + ANC) − (PC + PNC) = SL nula."
+      ],
+      "resposta": "A",
+      "comentario": "A pior situação é o passivo a descoberto: a entidade deve mais do que tem. Nesse caso, o total do Ativo (AC + ANC) é menor que o total do Passivo (PC + PNC), resultando em PL negativo. Algebricamente: (AC + ANC) − (PC + PNC) < 0. As demais alternativas descrevem situações de equilíbrio (C, E) ou superávit (B, D).",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-124",
+      "banca": "VUNESP/FUNSERV Sorocaba/Contador/2011",
+      "tipo": "multipla_escolha",
+      "enunciado": "Os componentes patrimoniais de uma entidade correspondem ao conjunto de",
+      "opcoes": [
+        "A) bens, direitos e obrigações avaliáveis em moeda.",
+        "B) bens e direitos positivos, apenas.",
+        "C) ativos, deduzidos das obrigações a longo prazo.",
+        "D) realizáveis a longo prazo, deduzidas as obrigações a curto prazo.",
+        "E) bens e obrigações de longo ou curto prazos."
+      ],
+      "resposta": "A",
+      "comentario": "Patrimônio é o conjunto de bens, direitos e obrigações de uma entidade, avaliáveis em moeda. Os bens e direitos formam o lado positivo (Ativo); as obrigações formam o lado negativo (Passivo). Excluir as obrigações (B) ou restringir por prazo (C, D) desvirtua o conceito. A alternativa E omite os direitos, que são componente essencial do Ativo.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-01a-125",
+      "banca": "VUNESP/Pref. Sorocaba/Auditor Fiscal de Tributos Municipais/2006",
+      "tipo": "multipla_escolha",
+      "enunciado": "A situação líquida é positiva quando o ativo total é",
+      "opcoes": [
+        "A) maior que o passivo total.",
+        "B) maior que o passivo exigível.",
+        "C) igual à soma do passivo circulante com o passivo exigível a longo prazo.",
+        "D) igual ao passivo exigível.",
+        "E) menor que o passivo exigível."
+      ],
+      "resposta": "B",
+      "comentario": "A situação líquida positiva (favorável, ativa ou superavitária) ocorre quando o Ativo supera o Passivo exigível (obrigações com terceiros), gerando PL > 0. A alternativa A parece plausível, mas o enunciado usa passivo total, que incluiria o próprio PL — termo impreciso. A alternativa correta usa passivo exigível, que é o passivo de terceiros, terminologia tecnicamente adequada para a comparação com o Ativo.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-126",
+      "banca": "VUNESP/Pref. Sorocaba/Contador/2006",
+      "tipo": "multipla_escolha",
+      "enunciado": "Segundo a Resolução CFC 1.049/05, o Patrimônio Líquido compreende os recursos próprios da Entidade, e o seu valor é a diferença positiva entre o valor do Ativo e o valor do Passivo. Quando o valor do Passivo for maior que o valor do Ativo, o resultado é denominado",
+      "opcoes": [
+        "A) Patrimônio Líquido Negativo e será apresentado no ativo circulante, pois trata-se de contas a receber de sócios.",
+        "B) Patrimônio Negativo e será demonstrado no início do Passivo Circulante.",
+        "C) Prejuízo do Exercício e será apresentado em reservas de lucros.",
+        "D) Lucro do Exercício e será apresentado em reservas de lucros.",
+        "E) Passivo a Descoberto e sua apresentação não será alterada."
+      ],
+      "resposta": "E",
+      "comentario": "Quando o Passivo supera o Ativo, o PL torna-se negativo — situação denominada Passivo a Descoberto. O termo correto não é Patrimônio Líquido Negativo (nomenclatura informal) nem Patrimônio Negativo. O Passivo a Descoberto é apresentado no próprio grupo do PL (com sinal negativo), sem alterar a estrutura do balanço. Não se confunde com Prejuízo ou Lucro do Exercício, que são contas de resultado.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-127",
+      "banca": "VUNESP/Pref. Sorocaba/Contador/2006",
+      "tipo": "multipla_escolha",
+      "enunciado": "No Balanço Patrimonial, a situação líquida é negativa quando o passivo exigível é",
+      "opcoes": [
+        "A) maior que o passivo total.",
+        "B) maior que o passivo a longo prazo.",
+        "C) igual à soma do passivo circulante com o passivo exigível a longo prazo.",
+        "D) igual ao ativo circulante.",
+        "E) maior que o ativo total."
+      ],
+      "resposta": "E",
+      "comentario": "A situação líquida negativa (passivo a descoberto) ocorre quando o total das obrigações (passivo exigível) supera o total dos bens e direitos (ativo total), tornando o PL negativo. As alternativas A e B comparam o passivo exigível com partes do próprio passivo — relação interna sem sentido para definir a situação líquida. A alternativa C descreve o próprio passivo exigível total. A alternativa D relaciona passivo exigível com ativo circulante, que é apenas parte do ativo.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-128",
+      "banca": "FGV/FunSaúde CE/Técnico Contabilidade/2021",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na elaboração das demonstrações contábeis, assinale a conta de origem devedora.",
+      "opcoes": [
+        "A) Depreciação acumulada.",
+        "B) Perdas estimadas com créditos de liquidação duvidosa.",
+        "C) Reversão da despesa com perdas por teste de recuperabilidade.",
+        "D) Ajuste a valor presente na conta clientes.",
+        "E) Adiantamento a fornecedores."
+      ],
+      "resposta": "E",
+      "comentario": "Contas de natureza devedora: Ativo, retificadoras do Passivo/PL e Despesas. Contas de natureza credora: Passivo, PL, retificadoras do Ativo e Receitas. Depreciação acumulada (A) e Perdas estimadas com PCLD (B) são retificadoras do Ativo — natureza credora. Reversão de despesa (C) é receita — natureza credora. Ajuste a valor presente de clientes (D) é retificadora do Ativo — natureza credora. Adiantamento a fornecedores é um direito da empresa (Ativo) — natureza devedora.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-129",
+      "banca": "FGV/Contador/SUDENE/PE/2013",
+      "tipo": "multipla_escolha",
+      "enunciado": "Observe as contas: Fornecedores; Impostos a Recuperar; Reserva de Lucro; Adiantamento de Salários; Estoque; Custo de Vendas e Receita do período. Assinale a alternativa que indica a equação contábil que representa o método das partidas dobradas em relação às contas listadas acima.",
+      "opcoes": [
+        "A) Impostos a Recuperar + Estoque + Custo de Vendas = Adiantamento de Salários + Fornecedores + Reserva de Lucro + Receita do período.",
+        "B) Impostos a Recuperar + Adiantamento de Salários + Estoque + Custo de Vendas = Fornecedores + Reserva de Lucro + Receita do período.",
+        "C) Fornecedores − Impostos a Recuperar − Reserva de Lucro + Adiantamento de Salários + Estoque − Custo de Vendas + Receita do período = zero.",
+        "D) Adiantamento de Salários − Impostos a Recuperar − Reserva de Lucro + Fornecedores − Estoque + Custo de Vendas + Receita do período = zero.",
+        "E) Receita do período − Custo de Vendas + Adiantamento de Salários − Impostos a Recuperar − Reserva de Lucro + Fornecedores − Estoque = zero."
+      ],
+      "resposta": "B",
+      "comentario": "Classificação das contas: Fornecedores = Passivo (credora); Impostos a Recuperar = Ativo (devedora); Reserva de Lucro = PL (credora); Adiantamento de Salários = Ativo/direito (devedora); Estoque = Ativo (devedora); Custo de Vendas = Despesa/redutora do PL (devedora); Receita do período = credora. Pela equação A = P + PL, as contas devedoras (Impostos a Recuperar + Adiantamento de Salários + Estoque + Custo de Vendas) devem igualar as contas credoras (Fornecedores + Reserva de Lucro + Receita do período).",
+      "dificuldade": 4
+    },
+    {
+      "id": "cg-01a-130",
+      "banca": "FGV/Contador/AL MT/2013",
+      "tipo": "multipla_escolha",
+      "enunciado": "Assinale a alternativa que indica a composição patrimonial do capital total à disposição de uma empresa.",
+      "opcoes": [
+        "a) Ativo − Passivo.",
+        "b) Ativo + Patrimônio Líquido.",
+        "c) Passivo − Patrimônio Líquido.",
+        "d) Receita − Despesa.",
+        "e) Passivo + Patrimônio Líquido + Receita − Despesa."
+      ],
+      "resposta": "E",
+      "comentario": "O capital total à disposição da empresa é representado pelo Ativo. Pela equação fundamental: Ativo = Passivo + PL. O examinador expandiu o PL para incluir o efeito das contas de resultado — receitas aumentam o PL e despesas o reduzem — resultando na equação expandida: Ativo = Passivo + PL + Receita − Despesa. A alternativa E expressa exatamente essa formulação expandida.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-131",
+      "banca": "FGV/DETRAN RN/Assistente Técnico/Contabilidade/2010",
+      "tipo": "multipla_escolha",
+      "enunciado": "A equação patrimonial é a representação quantitativa do patrimônio de uma entidade. Se o passivo suplantar o ativo, tem-se a seguinte equação:",
+      "opcoes": [
+        "a) Ativo = Passivo + Patrimônio Líquido.",
+        "b) Ativo + Passivo a Descoberto = Passivo.",
+        "c) Ativo − Passivo a Descoberto = Patrimônio Líquido.",
+        "d) Ativo + Passivo = Patrimônio Líquido.",
+        "e) Ativo = Passivo − Passivo a Descoberto."
+      ],
+      "resposta": "B",
+      "comentario": "Quando o Passivo supera o Ativo, estamos diante do passivo a descoberto. Nessa situação, o PL é negativo e pode ser chamado de Passivo a Descoberto (valor positivo). A equação se reescreve como: Passivo = Ativo + Passivo a Descoberto, ou equivalentemente, Ativo + Passivo a Descoberto = Passivo. A alternativa A descreve a equação normal sem passivo a descoberto. As alternativas C, D e E erram a posição do Passivo a Descoberto na equação.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-132",
+      "banca": "CEBRASPE/PC DF/Contador/2025",
+      "tipo": "certo_errado",
+      "enunciado": "No cotidiano das entidades contábeis, é impossível ocorrer uma situação patrimonial expressa por ativos + |passivos| = patrimônio líquido, em que a simbologia |x| representa o valor absoluto de x.",
+      "resposta": "errado",
+      "comentario": "A equação fundamental é PL = Ativo − Passivo. Com o módulo, |passivos| trata o passivo como valor positivo. Se o Passivo = 0 (momento de constituição da entidade), então: PL = Ativo + |0| = Ativo + 0 = Ativo — situação plenamente possível. Portanto, a afirmativa de que tal situação é impossível está errada.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-133",
+      "banca": "UFPR/Câmara de Araucária/Técnico em Contabilidade/2013",
+      "tipo": "multipla_escolha",
+      "enunciado": "A empresa Filippe S/A, em dado momento, apresenta o seguinte patrimônio (em R$):\n\nAtivo Circulante: Caixa 500 | Clientes 800 | Estoques 700\nAtivo Não Circulante: Imóveis 1.800\nPassivo Circulante: Fornecedores 600 | Salários a Pagar 400 | Impostos a Pagar 300\nPassivo Não Circulante: Empréstimos 500\nPatrimônio Líquido: ?\n\nSeu capital próprio é:",
+      "opcoes": [
+        "a) R$ 1.900.",
+        "b) R$ 2.000.",
+        "c) R$ 3.000.",
+        "d) R$ 3.800.",
+        "e) R$ 4.800."
+      ],
+      "resposta": "B",
+      "comentario": "Capital próprio = Patrimônio Líquido = Ativo − Passivo. Ativo Total = 500 + 800 + 700 + 1.800 = R$ 3.800. Passivo Total = 600 + 400 + 300 + 500 = R$ 1.800. PL = 3.800 − 1.800 = R$ 2.000.",
+      "dificuldade": 2
     }
   ]
 }
