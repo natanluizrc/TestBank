@@ -1747,7 +1747,7 @@
         "E) R$ 2.000 e R$ 2.000."
       ],
       "resposta": "D",
-      "comentario": "PL_A = Ativo_A − Passivo_A = 10.000 − 8.000 = R$ 2.000 (positivo). PL_B = Ativo_B − Passivo_B = 18.000 − 20.000 = −R$ 2.000 (negativo, passivo a descoberto). A empresa B está em situação líquida negativa.",
+      "comentario": "Empresa A: PL = Ativo − Passivo = 10.000 − 8.000 = R$ 2.000 (positivo). Empresa B: PL = Ativo − Passivo = 18.000 − 20.000 = −R$ 2.000 (negativo, passivo a descoberto). A empresa B está em situação líquida negativa.",
       "dificuldade": 2
     },
     {
