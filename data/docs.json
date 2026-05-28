@@ -8,7 +8,7 @@
       "blocos": [
         {
           "tipo": "texto",
-          "conteudo": "O QBank é uma aplicação web para estudo de concursos públicos, multi-matéria. Questões de bancas reais organizadas por matéria e aula, sistema de fixadas para revisão, simulados cronometrados e histórico de desempenho."
+          "conteudo": "O TestBank é uma aplicação web para estudo de concursos públicos, multi-matéria. Questões de bancas reais organizadas por matéria e aula, sistema de fixadas para revisão, simulados cronometrados e histórico de desempenho."
         },
         {
           "tipo": "texto",
@@ -20,7 +20,7 @@
           "linhas": [
             ["Produção", "https://nl-testbank.web.app"],
             ["Alternativo", "https://nl-testbank.firebaseapp.com"],
-            ["Repositório", "github.com/natanluizrc/QBank"]
+            ["Repositório", "github.com/natanluizrc/TestBank"]
           ]
         }
       ]
@@ -291,7 +291,7 @@
       "blocos": [
         {
           "tipo": "codigo",
-          "conteudo": "QBank/\n├── index.html          ← Página principal (único HTML)\n├── firebase.json       ← Config do Firebase Hosting\n├── firestore.rules     ← Regras de segurança\n├── .firebaserc         ← Vínculo com o projeto qbank-v01\n├── .gitignore\n├── CLAUDE.md           ← Instruções para o Claude Code\n│\n├── js/app.js           ← Toda a lógica\n├── css/style.css       ← Toda a estilização\n│\n├── data/\n│   ├── docs.json           ← Conteúdo desta documentação\n│   ├── {materia-1}/        ← Pasta por matéria (slug sem acentos)\n│   │   ├── aula-00.json\n│   │   ├── aula-01a.json\n│   │   └── aula-XX.json\n│   └── {materia-2}/        ← Novas matérias seguem o mesmo padrão\n│       └── aula-XX.json\n│\n└── PDFs/               ← PDFs fonte (não servidos pelo Hosting)"
+          "conteudo": "TestBank/\n├── index.html          ← Página principal (único HTML)\n├── firebase.json       ← Config do Firebase Hosting\n├── firestore.rules     ← Regras de segurança\n├── .firebaserc         ← Vínculo com o projeto qbank-v01\n├── .gitignore\n├── CLAUDE.md           ← Instruções para o Claude Code\n│\n├── js/app.js           ← Toda a lógica\n├── css/style.css       ← Toda a estilização\n│\n├── data/\n│   ├── docs.json           ← Conteúdo desta documentação\n│   ├── {materia-1}/        ← Pasta por matéria (slug sem acentos)\n│   │   ├── aula-00.json\n│   │   ├── aula-01a.json\n│   │   └── aula-XX.json\n│   └── {materia-2}/        ← Novas matérias seguem o mesmo padrão\n│       └── aula-XX.json\n│\n└── PDFs/               ← PDFs fonte (não servidos pelo Hosting)"
         },
         {
           "tipo": "subtitulo",

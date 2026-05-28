@@ -4,7 +4,7 @@ Este arquivo orienta o Claude Code (claude.ai/code) ao trabalhar neste repositó
 
 ## Visão geral do projeto
 
-QBank é um banco de questões interativo para estudo pessoal de concursos públicos, multi-matéria. Conteúdo extraído de PDFs pelo Claude, armazenado como JSON estático. Firebase para autenticação, hospedagem e banco de dados do usuário.
+TestBank é um banco de questões interativo para estudo pessoal de concursos públicos, multi-matéria. Conteúdo extraído de PDFs pelo Claude, armazenado como JSON estático. Firebase para autenticação, hospedagem e banco de dados do usuário.
 
 ## Usuários-alvo
 
@@ -13,7 +13,7 @@ Fase futura: SaaS com acesso compartilhado/pago para outros estudantes.
 
 ## Objetivos do produto
 
-Facilitar o estudo a partir de PDFs nem sempre bem organizados. O usuário entrega um PDF e o QBank transforma o conteúdo em questões estruturadas, comentadas e navegáveis — com histórico de desempenho (acertos, erros, progresso) e, futuramente, elementos de gamificação para engajamento.
+Facilitar o estudo a partir de PDFs nem sempre bem organizados. O usuário entrega um PDF e o TestBank transforma o conteúdo em questões estruturadas, comentadas e navegáveis — com histórico de desempenho (acertos, erros, progresso) e, futuramente, elementos de gamificação para engajamento.
 
 Não é restrito a concursos públicos — qualquer material de estudo em PDF é válido.
 
