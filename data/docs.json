@@ -18,8 +18,8 @@
           "tipo": "tabela",
           "cabecalho": ["Ambiente", "URL"],
           "linhas": [
-            ["Produção", "https://qbank-v01.web.app"],
-            ["Alternativo", "https://qbank-v01.firebaseapp.com"],
+            ["Produção", "https://nl-testbank.web.app"],
+            ["Alternativo", "https://nl-testbank.firebaseapp.com"],
             ["Repositório", "github.com/natanluizrc/QBank"]
           ]
         }
@@ -266,9 +266,9 @@
           "tipo": "tabela",
           "cabecalho": ["Propriedade", "Valor"],
           "linhas": [
-            ["Project ID", "qbank-v01"],
-            ["Hosting URL", "https://qbank-v01.web.app"],
-            ["Console", "console.firebase.google.com/project/qbank-v01"]
+            ["Project ID", "nl-testbank"],
+            ["Hosting URL", "https://nl-testbank.web.app"],
+            ["Console", "console.firebase.google.com/project/nl-testbank"]
           ]
         },
         {

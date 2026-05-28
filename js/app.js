@@ -2,12 +2,12 @@
 // CONFIGURAÇÃO FIREBASE
 // =====================================================================
 const firebaseConfig = {
-  apiKey: "AIzaSyAEi9WCO_gujvA_LfplCZXF6Oo4GjyFIj8",
-  authDomain: "nl-qbank.firebaseapp.com",
-  projectId: "nl-qbank",
-  storageBucket: "nl-qbank.firebasestorage.app",
-  messagingSenderId: "229802939264",
-  appId: "1:229802939264:web:23c96f6ac3f53706916765"
+  apiKey: "AIzaSyCL2IZUtVUU0d8evu7-So6gsB1A9y2h5wI",
+  authDomain: "nl-testbank.firebaseapp.com",
+  projectId: "nl-testbank",
+  storageBucket: "nl-testbank.firebasestorage.app",
+  messagingSenderId: "1094588954081",
+  appId: "1:1094588954081:web:83975863adc7bf83360ea0"
 };
 
 firebase.initializeApp(firebaseConfig);
