@@ -264,7 +264,7 @@ TestBank/
 ├── .firebaserc         ← Vínculo com o projeto nl-testbank
 ├── .gitignore
 ├── CLAUDE.md           ← Instruções para o Claude Code
-├── DOCS.md             ← Esta documentação
+├── README.md           ← Esta documentação
 │
 ├── js/app.js           ← Toda a lógica
 ├── css/style.css       ← Toda a estilização

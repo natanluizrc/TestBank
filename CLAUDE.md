@@ -125,7 +125,7 @@ Organizados por matéria em `data/{materia}/aula-XX.json` — slug da matéria e
   - `resposta` em `certo_errado`: `"certo"` ou `"errado"` (string minúscula)
   - `dificuldade`: inteiro de 1 (muito fácil) a 5 (muito difícil) — exibido como estrelas (★★☆☆☆)
 
-Diagramas no enunciado usam caracteres box-drawing Unicode (`┌┐└┘│─┬┴┼├┤`) — detectados por regex e renderizados em `<pre class="diagrama">` com fonte monoespaçada.
+Diagramas no enunciado usam caracteres box-drawing Unicode (`┌┐└┘│─┬┴┼├┤`) — detectados por `DIAGRAMA_RE` e inseridos como `<pre class="diagrama">`, que são então convertidos para `<canvas>` pela função `diagramasParaCanvas()` usando Canvas API (suporta `devicePixelRatio` alto).
 
 Campo `comentario`: texto puro, sem markdown — nenhum `**negrito**`, `_itálico_` ou lista com `-`. Prosa direta e didática.
 
