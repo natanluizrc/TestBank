@@ -5,7 +5,29 @@ const fs = require('fs');
 const path = require('path');
 
 const INPUT = path.join(__dirname, 'ContG_0200A_extracted.txt');
-const lines = fs.readFileSync(INPUT, 'utf-8').split('\n').map(l => l.trimEnd());
+const rawLines = fs.readFileSync(INPUT, 'utf-8').split('\n');
+
+// Pré-processamento: separar questões coladas em uma mesma linha pelo pdftotext.
+// Caso 1: "instrução. N. (BANCA) texto" → instrução e questão separadas.
+const MIDLINE_Q = /(?<=[.!?])\s+(\d{1,3})\.\s+\([A-ZÁÉÍÓÚÀÃÕÂÊÔ]/;
+// Caso 2: "Gabarito: X N. (BANCA) texto" → gabarito e questão separadas.
+const GABARITO_MIDLINE = /(?<=Gabarito\s*:\s*(?:Certo|Errado|[A-E]))\s+(\d{1,3})\.\s+\([A-ZÁÉÍÓÚÀÃÕÂÊÔ]/;
+const lines = [];
+for (const raw of rawLines) {
+  let m = GABARITO_MIDLINE.exec(raw);
+  if (m && parseInt(m[1]) <= 60) {
+    lines.push(raw.slice(0, m.index).trimEnd());
+    lines.push(raw.slice(m.index + 1).trimEnd());
+    continue;
+  }
+  m = MIDLINE_Q.exec(raw);
+  if (m && parseInt(m[1]) <= 60) {
+    lines.push(raw.slice(0, m.index).trimEnd());
+    lines.push(raw.slice(m.index + 1).trimEnd());
+  } else {
+    lines.push(raw.trimEnd());
+  }
+}
 
 // ─── configuração ─────────────────────────────────────────────────────────
 
@@ -13,11 +35,11 @@ const lines = fs.readFileSync(INPUT, 'utf-8').split('\n').map(l => l.trimEnd());
 const SECTION_POLICY = {
   'QUESTÕES COMENTADAS ESCRITURAÇÃO MULTIBANCAS': 'all',
   'QUESTÕES COMENTADAS ESCRITURAÇÃO CEBRASPE': 'all',
-  'QUESTÕES COMENTADAS ESCRITURAÇÃO - FCC': 'fcc_only',   // só Q com banca FCC
+  'QUESTÕES COMENTADAS ESCRITURAÇÃO - FCC': 'all',
   'QUESTÕES COMENTADAS - ESCRITURAÇÃO FGV': 'all',
   'QUESTÕES COMENTADAS ESCRITURAÇÃO - VUNESP': 'all',
   'QUESTÕES COMENTADAS ESCRITURAÇÃO CESGRANRIO': 'all',
-  'QUESTÕES COMENTADAS ESCRITURAÇÃO': 'skip',
+  'QUESTÕES COMENTADAS ESCRITURAÇÃO': 'all',
   'QUESTÕES COMENTADAS': 'all',
 };
 
@@ -146,6 +168,11 @@ let policy = 'all';
 const blocks = [];
 let cur = null;
 
+// Detecta questões sem parênteses de banca que seguem imediatamente um Gabarito:
+// ex: "28. pagou ao fornecedor..." ou "11. CESGRANRIO - 2012 - ..."
+const BARE_Q_START = /^([0-9]+)\.\s+[A-Za-záéíóúàãõâêô]/;
+let afterGabarito = false;
+
 for (let i = 0; i < lines.length; i++) {
   const line = lines[i].trim();
   if (!line) { if (cur) cur.lines.push(''); continue; }
@@ -155,15 +182,20 @@ for (let i = 0; i < lines.length; i++) {
     if (cur) { blocks.push(cur); cur = null; }
     section = line;
     policy = SECTION_POLICY[line] || 'skip';
+    afterGabarito = false;
     continue;
   }
 
-  if (QUESTION_START.test(line)) {
+  const isNewQ = QUESTION_START.test(line) || (afterGabarito && BARE_Q_START.test(line));
+  if (isNewQ) {
     if (cur) blocks.push(cur);
     cur = { section, policy, lineN: i+1, lines: [line] };
   } else if (cur) {
     cur.lines.push(line);
   }
+
+  if (GABARITO_RE.test(line)) afterGabarito = true;
+  else if (line) afterGabarito = false;
 }
 if (cur) blocks.push(cur);
 
@@ -175,15 +207,36 @@ function parseBlock(b) {
   // Extrai número e banca da primeira linha
   const firstLine = b.lines[0];
   const headM = /^([0-9]+)[.\s]*\(((?:[^()]+|\([^)]*\))*)\)\s*(.*)/.exec(firstLine);
-  if (!headM) return null;
 
-  const qNum = parseInt(headM[1]);
-  const banca = clean(headM[2]);
+  let qNum, banca, restFirstLine;
+  if (headM) {
+    qNum = parseInt(headM[1]);
+    banca = clean(headM[2]);
+    restFirstLine = headM[3];
+  } else {
+    // Fallback: formato sem parênteses de banca — "N. texto..." ou "N. BANCA - ano - ..."
+    const altHeadM = /^([0-9]+)\.\s+(.*)/.exec(firstLine);
+    if (!altHeadM) return null;
+    qNum = parseInt(altHeadM[1]);
+    banca = b.section
+      .replace(/^QUESTÕES COMENTADAS ESCRITURAÇÃO\s*/i, '')
+      .replace(/^QUESTÕES COMENTADAS\s*/i, '')
+      .replace(/^-\s*/, '')
+      .trim() || 'Desconhecida';
+    restFirstLine = altHeadM[2];
+    // Strip "BANCA - year - Contest/Role " prefix when banca name leads the line
+    // e.g. "CESGRANRIO - 2012 - Profissional de Nível Superior (CHESF)/Ciências Contábeis NÃO provoca..."
+    if (banca && restFirstLine.startsWith(banca)) {
+      const stripped = restFirstLine.replace(/^[A-Z][^\n]*?\s+(?=[A-ZÁÉÍÓÚÀÃÕÂÊÔÇ]{2})/, '');
+      if (stripped && stripped !== restFirstLine && stripped.length > 20) {
+        restFirstLine = stripped;
+      }
+    }
+  }
 
   // Filtro FCC: só questões 1-6 para evitar duplicatas de MULTIBANCAS
   if (b.policy === 'fcc_only' && qNum > FCC_PROPER_UNTIL_Q) return null;
 
-  const restFirstLine = headM[3];
   const allLines = [restFirstLine, ...b.lines.slice(1)];
 
   // Encontra Comentários: e Gabarito:
