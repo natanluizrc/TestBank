@@ -165,7 +165,8 @@ Confirmar antes apenas para ações destrutivas e irreversíveis de alto impacto
 Ao finalizar qualquer tarefa que altere arquivos do projeto:
 
 1. **Commit + push** — commitar as alterações com mensagem descritiva e fazer push para o GitHub (`git push`)
-2. **Deploy** — publicar o site com `firebase deploy --only hosting`
+2. **Deploy Hosting** — publicar o site com `firebase deploy --only hosting`
+3. **Deploy Firestore rules** — se `firestore.rules` foi alterado, rodar também `firebase deploy --only firestore:rules`
 
 Esses dois passos são obrigatórios e automáticos — executar sem pedir confirmação ao usuário.
 
