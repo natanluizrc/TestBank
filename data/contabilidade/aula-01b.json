@@ -1606,6 +1606,24 @@
       "resposta": "certo",
       "comentario": "As sete contas credoras do rol são: juros ativos a transcorrer (retificadora do ativo), provisão para perdas esperadas (retificadora do ativo), depreciação acumulada (retificadora do ativo), duplicatas descontadas (passivo), fornecedores (passivo), empréstimos bancários (passivo) e capital social (PL). As cinco devedoras são: caixa e equivalentes (ativo), créditos a receber (ativo), imóveis de uso (ativo), juros passivos a transcorrer (retificadora do passivo) e ações em tesouraria (retificadora do PL).",
       "dificuldade": 3
+    },
+    {
+      "id": "cg-01b-114",
+      "banca": "CEBRASPE/FUB/Técnico em Contabilidade/2022",
+      "tipo": "certo_errado",
+      "enunciado": "O saldo final encontrado em uma conta não altera a sua natureza, ainda que esteja errado.",
+      "resposta": "certo",
+      "comentario": "A natureza de uma conta é determinada pelo grupo ao qual pertence — ativo, passivo, PL, receita ou despesa —, não pelo saldo que ela apresenta. Erros de escrituração podem gerar um saldo contrário à natureza da conta (por exemplo, saldo credor em conta de ativo), mas isso não muda sua natureza. O saldo anômalo é um indicativo de erro, e a natureza permanece devedora ou credora conforme o grupo.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01b-115",
+      "banca": "CEBRASPE/FUB/Técnico em Contabilidade/2022",
+      "tipo": "certo_errado",
+      "enunciado": "As contas sintéticas são as que agregam os valores dos grupos e subgrupos no plano de contas.",
+      "resposta": "certo",
+      "comentario": "As contas sintéticas são as contas resumidas e agregadoras que totalizam os saldos de outras contas, representando grupos e subgrupos do plano de contas. Elas não recebem lançamentos contábeis diretamente — os lançamentos sempre ocorrem nas contas analíticas, que são as mais detalhadas. As contas sintéticas existem para apresentar informações consolidadas e facilitar a leitura das demonstrações.",
+      "dificuldade": 2
     }
   ]
 }
