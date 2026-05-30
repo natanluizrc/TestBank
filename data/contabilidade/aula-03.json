@@ -1016,7 +1016,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "Em janeiro de 2013, uma empresa contratou um especialista em informática, para realizar dez sessões de treinamento com seus funcionários por R$ 1.800,00. O pagamento foi feito por meio de duas parcelas iguais de R$ 900,00, a primeira em fevereiro e a segunda em março. As sessões foram realizadas do seguinte modo: Janeiro de 2013: três sessões. Fevereiro de 2013: quatro sessões. Março de 2013: nenhuma sessão. Abril de 2013: duas sessões. Maio de 2013: uma sessão. contratada uma sessão avulsa. Em maio, o valor da sessão já tinha aumentado, de modo que a empresa pagou R$ 200,00 pela sessão extra de treinamento. De acordo com o Regime de Competência, a despesa reconhecida em relação às sessões de informática foi de",
       "resposta": "D",
-      "comentario": "",
+      "comentario": "Pelo regime de competência, a despesa é reconhecida quando o serviço é efetivamente prestado, independentemente do pagamento. O valor por sessão é R$ 1.800 ÷ 10 = R$ 180. Em abril foram realizadas 2 sessões: 2 × R$ 180 = R$ 360. Os pagamentos de fevereiro e março representam adiantamentos e não devem influenciar o reconhecimento da despesa em cada mês.",
       "dificuldade": 2,
       "opcoes": [
         "A) R$ 1.800,00 em janeiro.",
