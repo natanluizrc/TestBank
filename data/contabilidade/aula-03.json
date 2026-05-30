@@ -4,21 +4,6 @@
   "materia": "ContG",
   "questoes": [
     {
-      "id": "cg-03-125",
-      "tipo": "multipla_escolha",
-      "enunciado": "Pagou em moeda corrente 50% da compra, com 5% de desconto, e aceitou uma duplicata pela dívida restante.\n\nCom essa operação, pode-se afirmar que o ativo da empresa:",
-      "opcoes": [
-        "A) Aumentou em R$20.000.",
-        "B) Diminuiu em R$9.500.",
-        "C) Aumentou em R$9.500.",
-        "D) Aumentou em R$10.500.",
-        "E) Diminuiu em R$10.500."
-      ],
-      "resposta": "C",
-      "comentario": "O desconto obtido no momento da aquisição é considerado incondicional e não é considerado como receita. Na verdade, não há necessidade de contabilização. Temos que o veículo custa 20.000 e foi concedido um desconto de 5%, isto é, 1.000. Portanto, o adquirente fez a aquisição por 19.000, pagando 50% à vista, isto é, 9.500 em dinheiro e 9.500 serão pagos a prazo: D Veículos (ativo) C Caixa (ativo circulante) C Duplicatas a pagar (passivo) 19.000 9.500 9.500 Percebam que o Ativo da empresa aumentou em 19.000 9.500 = 9.500.",
-      "dificuldade": 2
-    },
-    {
       "id": "cg-03-080",
       "banca": "ACCESS",
       "orgao": "CRBio 08",
@@ -2101,6 +2086,24 @@
         "D) lucro de R$ 45.000,00",
         "E) lucro de R$ 15.000,00"
       ]
+    },
+    {
+      "id": "cg-03-125",
+      "tipo": "multipla_escolha",
+      "enunciado": "Certa empresa adquiriu um veículo por R$20.000. Pagou em moeda corrente 50% da compra, com 5% de desconto, e aceitou uma duplicata pela dívida restante.\n\nCom essa operação, pode-se afirmar que o ativo da empresa:",
+      "opcoes": [
+        "A) Aumentou em R$20.000.",
+        "B) Diminuiu em R$9.500.",
+        "C) Aumentou em R$9.500.",
+        "D) Aumentou em R$10.500.",
+        "E) Diminuiu em R$10.500."
+      ],
+      "resposta": "C",
+      "comentario": "O desconto obtido no momento da aquisição é considerado incondicional e não é considerado como receita. Na verdade, não há necessidade de contabilização. Temos que o veículo custa 20.000 e foi concedido um desconto de 5%, isto é, 1.000. Portanto, o adquirente fez a aquisição por 19.000, pagando 50% à vista, isto é, 9.500 em dinheiro e 9.500 serão pagos a prazo: D Veículos (ativo) C Caixa (ativo circulante) C Duplicatas a pagar (passivo) 19.000 9.500 9.500 Percebam que o Ativo da empresa aumentou em 19.000 9.500 = 9.500.",
+      "dificuldade": 2,
+      "banca": "Não identificado",
+      "orgao": "Não identificado",
+      "cargo": "Não identificado"
     },
     {
       "id": "cg-03-122",

@@ -988,6 +988,24 @@
       ]
     },
     {
+      "id": "cg-02a-135",
+      "banca": "CESGRANRIO",
+      "tipo": "multipla_escolha",
+      "enunciado": "NÃO provoca alteração no valor do Patrimônio Líquido, mas pode modificar a composição dos demais elementos patrimoniais o seguinte fato contábil:",
+      "resposta": "A",
+      "comentario": "",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) permutativo",
+        "B) composto",
+        "C) modificativo",
+        "D) superveniência",
+        "E) Insubsistência"
+      ],
+      "orgao": "Não identificado",
+      "cargo": "Não identificado"
+    },
+    {
       "id": "cg-02a-139",
       "banca": "CESGRANRIO",
       "orgao": "PETROBRAS",
@@ -1212,22 +1230,6 @@
       ]
     },
     {
-      "id": "cg-02a-135",
-      "banca": "CESGRANRIO",
-      "tipo": "multipla_escolha",
-      "enunciado": "NÃO provoca alteração no valor do Patrimônio Líquido, mas pode modificar a composição dos demais elementos patrimoniais o seguinte fato contábil:",
-      "resposta": "A",
-      "comentario": "",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) permutativo",
-        "B) composto",
-        "C) modificativo",
-        "D) superveniência",
-        "E) Insubsistência"
-      ]
-    },
-    {
       "id": "cg-02a-032",
       "banca": "CONSULPLAN",
       "orgao": "Exame CFC",
@@ -1242,7 +1244,8 @@
         "B) Método aceito universalmente pela contabilidade; tem como princípio fundamental que para cada aplicação de recursos corresponde uma fonte de recursos de igual valor.",
         "C) Método menos utilizado pela contabilidade, sendo o Método das Partidas Simples universalmente aceito devido a seu princípio de que o total de débitos tem que ser diferente do total de créditos.",
         "D) Método pelo qual se registra por meio de lançamentos a débito ou a crédito em uma ou mais contas as alterações ocorridas no patrimônio de uma entidade, permitindo que ele permaneça equilibrado."
-      ]
+      ],
+      "cargo": "Exame de Suficiência"
     },
     {
       "id": "cg-02a-053",
@@ -2696,7 +2699,9 @@
         "B) Fato modificativo diminutivo",
         "C) Fato modificativo aumentativo",
         "D) Fato misto diminutivo"
-      ]
+      ],
+      "orgao": "Não identificado",
+      "cargo": "Não identificado"
     },
     {
       "id": "cg-02a-008",

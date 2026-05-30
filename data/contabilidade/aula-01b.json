@@ -1099,7 +1099,8 @@
       ],
       "resposta": "A",
       "comentario": "Elementos de natureza devedora aumentam pelo débito e diminuem pelo crédito. Nessa categoria estão o Ativo (bens e direitos) e as Despesas. Receita, Passivo e Patrimônio Líquido são de natureza credora — aumentam pelo crédito e diminuem pelo débito.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "cargo": "Exame de Suficiência"
     },
     {
       "id": "cg-01b-28",
@@ -1116,7 +1117,8 @@
       ],
       "resposta": "C",
       "comentario": "Adiantamento a sócio é uma conta do ativo (direito a receber), portanto devedora. Ações em tesouraria é uma retificadora do patrimônio líquido, que possui natureza contrária ao seu grupo — como o PL é credor, a retificadora é devedora. Receitas antecipadas são contas do passivo (credoras), portanto não são devedoras.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "cargo": "Exame de Suficiência"
     },
     {
       "id": "cg-01b-36",

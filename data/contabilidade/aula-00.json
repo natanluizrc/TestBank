@@ -152,6 +152,18 @@
       "dificuldade": 1
     },
     {
+      "id": "cg-00-15",
+      "banca": "CEBRASPE",
+      "cargo": "Agente de Polícia Federal",
+      "ano": 2018,
+      "tipo": "certo_errado",
+      "enunciado": "Considerando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da finalidade organizacional, julgue o item:\n\nPara o estudo da contabilidade, patrimônio é a diferença entre ativos e passivos detidos pelas entidades.",
+      "resposta": "errado",
+      "comentario": "Errado. O que foi descrito é o Patrimônio Líquido (PL = Ativo – Passivo). O patrimônio (ou ativo total) é o conjunto completo de bens, direitos e obrigações — inclui o passivo, não o subtrai.",
+      "dificuldade": 2,
+      "orgao": "Polícia Federal"
+    },
+    {
       "id": "cg-00-12",
       "banca": "CEBRASPE",
       "orgao": "Polícia Federal",
@@ -181,18 +193,6 @@
       "resposta": "D",
       "comentario": "Conforme o CPC 00 (R2), item 1.5: investidores, credores por empréstimos e outros credores existentes e potenciais são os principais usuários dos relatórios financeiros de propósito geral — porque eles não podem exigir informações diretamente das entidades e precisam se basear nos relatórios publicados.",
       "dificuldade": 2
-    },
-    {
-      "id": "cg-00-15",
-      "banca": "CEBRASPE",
-      "cargo": "Agente de Polícia Federal",
-      "ano": 2018,
-      "tipo": "certo_errado",
-      "enunciado": "Considerando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da finalidade organizacional, julgue o item:\n\nPara o estudo da contabilidade, patrimônio é a diferença entre ativos e passivos detidos pelas entidades.",
-      "resposta": "errado",
-      "comentario": "Errado. O que foi descrito é o Patrimônio Líquido (PL = Ativo – Passivo). O patrimônio (ou ativo total) é o conjunto completo de bens, direitos e obrigações — inclui o passivo, não o subtrai.",
-      "dificuldade": 2,
-      "orgao": "Polícia Federal"
     },
     {
       "id": "cg-00-48",
@@ -362,7 +362,8 @@
       ],
       "resposta": "D",
       "comentario": "Orçamento não é uma técnica contábil. As quatro técnicas são: escrituração, elaboração das demonstrações contábeis, auditoria e análise de balanços. Orçamento é uma ferramenta de gestão financeira.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "cargo": "Não identificado"
     },
     {
       "id": "cg-00-62",
@@ -379,7 +380,8 @@
       ],
       "resposta": "B",
       "comentario": "A sequência correta: \"Contabilidade é uma ciência que possibilita, por meio de suas técnicas, o controle permanente do Patrimônio das empresas.\" A letra D erra ao colocar \"escrituração\" no lugar de \"técnica\" — a escrituração é apenas uma das técnicas contábeis, não o conjunto delas.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "cargo": "Não identificado"
     },
     {
       "id": "cg-00-64",
