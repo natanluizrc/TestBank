@@ -574,7 +574,7 @@
       "cargo": "Contador",
       "ano": 2013,
       "tipo": "multipla_escolha",
-      "enunciado": "Com relação aos conceitos básicos da Contabilidade Geral, relacione os tópicos a seguir.\n\n1. Objeto de estudo | 2. Campo de aplicação | 3. Finalidade econômica | 4. Usuário Externo | 5. Técnica Contábil\n\nAssocie cada conceito abaixo com o número correspondente:\n( ) Escrituração\n( ) Fornecedor\n( ) Entidade\n( ) Resultado\n( ) Patrimônio\n\nAssinale a sequência correta, de cima para baixo.",
+      "enunciado": "Com relação aos conceitos básicos da Contabilidade Geral, relacione os tópicos a seguir.\n\n1. Objeto de estudo\n2. Campo de aplicação\n3. Finalidade econômica\n4. Usuário Externo\n5. Técnica Contábil\n\nAssocie cada conceito abaixo com o número correspondente:\n( ) Escrituração\n( ) Fornecedor\n( ) Entidade\n( ) Resultado\n( ) Patrimônio\n\nAssinale a sequência correta, de cima para baixo.",
       "opcoes": [
         "A) 1 – 3 – 2 – 4 – 5",
         "B) 3 – 4 – 1 – 5 – 2",
