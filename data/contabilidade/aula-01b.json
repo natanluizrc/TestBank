@@ -434,6 +434,18 @@
       "dificuldade": 2
     },
     {
+      "id": "cg-01b-53",
+      "banca": "CEBRASPE",
+      "orgao": "Polícia Federal",
+      "ano": 2021,
+      "tipo": "certo_errado",
+      "enunciado": "Caixa e Estoques são elementos patrimoniais cujas contas apresentam saldos de natureza credora.",
+      "resposta": "errado",
+      "comentario": "Tanto Caixa quanto Estoques são contas do ativo. Contas do ativo possuem natureza devedora — seus saldos aumentam pelo débito e diminuem pelo crédito. O saldo normal dessas contas é devedor, e não credor como erroneamente afirmado na questão.",
+      "dificuldade": 1,
+      "cargo": "Agente de Polícia Federal"
+    },
+    {
       "id": "cg-01b-96",
       "banca": "CEBRASPE",
       "orgao": "Polícia Federal",
@@ -444,17 +456,6 @@
       "resposta": "certo",
       "comentario": "As contas de resultado do balancete são: despesa de aluguel R$ 3.000 (despesa) e receita de serviços R$ 6.800 (receita). O confronto gera lucro de R$ 6.800 - R$ 3.000 = R$ 3.800. As demais são patrimoniais e não integram o cálculo do resultado.",
       "dificuldade": 3
-    },
-    {
-      "id": "cg-01b-53",
-      "banca": "CEBRASPE",
-      "orgao": "Polícia Federal",
-      "ano": 2021,
-      "tipo": "certo_errado",
-      "enunciado": "Caixa e Estoques são elementos patrimoniais cujas contas apresentam saldos de natureza credora.",
-      "resposta": "errado",
-      "comentario": "Tanto Caixa quanto Estoques são contas do ativo. Contas do ativo possuem natureza devedora — seus saldos aumentam pelo débito e diminuem pelo crédito. O saldo normal dessas contas é devedor, e não credor como erroneamente afirmado na questão.",
-      "dificuldade": 1
     },
     {
       "id": "cg-01b-52",
@@ -833,7 +834,8 @@
       ],
       "resposta": "B",
       "comentario": "A alternativa B contém apenas contas credoras: Impostos a recolher (passivo), Depreciação acumulada (retificadora do ativo, credora) e Adiantamento de clientes (passivo — a empresa recebeu adiantamento e tem obrigação de prestar o serviço). As demais incluem contas devedoras: veículos, imposto a recuperar, equipamentos, adiantamento a fornecedores, adiantamento a empregados e depósito compulsório são ativos.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "cargo": "Agente Técnico Legislativo Especializado"
     },
     {
       "id": "cg-01b-72",
@@ -1585,7 +1587,8 @@
       ],
       "resposta": "D",
       "comentario": "A correspondência é: controle da riqueza corresponde ao Controlismo (4); direitos e obrigações dos donos corresponde ao Personalismo (5); empresa como objeto de estudo corresponde ao Aziendalismo (3); lucro como objetivo corresponde ao Reditualismo (2); dedicar-se às contas corresponde ao Contismo (6); patrimônio como objeto corresponde ao Patrimonialismo (1). Sequência: 4-5-3-2-6-1.",
-      "dificuldade": 4
+      "dificuldade": 4,
+      "orgao": "Pref. Campo Grande"
     },
     {
       "id": "cg-01b-16",

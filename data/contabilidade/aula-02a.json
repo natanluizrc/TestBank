@@ -4,6 +4,25 @@
   "materia": "ContG",
   "questoes": [
     {
+      "id": "cg-02a-052",
+      "banca": "AOCP",
+      "ano": 2016,
+      "tipo": "multipla_escolha",
+      "enunciado": "A operação de uma venda de imobilizado com lucro apresenta que tipo de fato contábil?",
+      "resposta": "A",
+      "comentario": "Exemplo Hipotético: Valor Contábil do Ativo = R$ 10.000 Valor Venda = R$ 12.000 Ganho na operação = R$ 2.000 Contabilização D Bancos ou Valores a Receber C Imobilizado C Outras Receitas R$ 12.000 R$ 10.000 R$ 2.000",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) Misto aumentativo.",
+        "B) Modificativo diminutivo.",
+        "C) Permutativo diminutivo.",
+        "D) Modificativo aumentativo.",
+        "E) Misto diminutivo."
+      ],
+      "cargo": "Analista Legislativo / Contabilidade",
+      "orgao": "CM Rio Branco"
+    },
+    {
       "id": "cg-02a-018",
       "banca": "AOCP",
       "orgao": "IFNMG",
@@ -132,24 +151,6 @@
         "D) 2 - 1 - 4 - 3.",
         "E) 3 - 4 - 1 - 2. ( ) Integralização de capital no valor de R$ 200.000,00, 40% em dinheiro e 60% em equipamentos. ( ) Aquisição de móveis por R$ 50.000,00 com pagamento à vista em cheque. ( ) Pagamento de R$ 5.600,00 de aluguel e R$ 400,00 de IPTU referentes ao imóvel alugado, sendo R$ 1.000,00 em dinheiro e R$ 5.000,00 em cheque. ( ) Aquisição de móveis por R$ 20.000,00, com pagamento de 20% à vista em cheque e 80% a prazo."
       ]
-    },
-    {
-      "id": "cg-02a-052",
-      "banca": "AOCP",
-      "ano": 2016,
-      "tipo": "multipla_escolha",
-      "enunciado": "A operação de uma venda de imobilizado com lucro apresenta que tipo de fato contábil?",
-      "resposta": "A",
-      "comentario": "Exemplo Hipotético: Valor Contábil do Ativo = R$ 10.000 Valor Venda = R$ 12.000 Ganho na operação = R$ 2.000 Contabilização D Bancos ou Valores a Receber C Imobilizado C Outras Receitas R$ 12.000 R$ 10.000 R$ 2.000",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) Misto aumentativo.",
-        "B) Modificativo diminutivo.",
-        "C) Permutativo diminutivo.",
-        "D) Modificativo aumentativo.",
-        "E) Misto diminutivo."
-      ],
-      "cargo": "Analista Legislativo / Contabilidade"
     },
     {
       "id": "cg-02a-001",
@@ -1351,7 +1352,8 @@
         "B) terceira fórmula",
         "C) quarta fórmula",
         "D) quinta fórmula"
-      ]
+      ],
+      "orgao": "IF AL"
     },
     {
       "id": "cg-02a-046",
@@ -1369,7 +1371,8 @@
         "C) Permutativo, permutativo, permutativo, misto aumentativo, modificativo diminutivo, modificativo aumentativo",
         "D) Permutativo, permutativo, permutativo, modificativo aumentativo, modificativo diminutivo, modificativo aumentativo",
         "E) Permutativo, permutativo, modificativo aumentativo, misto aumentativo, modificativo diminutivo, modificativo aumentativo"
-      ]
+      ],
+      "orgao": "IF AL"
     },
     {
       "id": "cg-02a-017",
@@ -1476,7 +1479,8 @@
         "C) permutativas ou modificativas.",
         "D) qualitativa ou permutativas.",
         "E) quantitativas ou relativas."
-      ]
+      ],
+      "cargo": "Técnico em Contabilidade"
     },
     {
       "id": "cg-02a-097",
@@ -1650,6 +1654,25 @@
       ]
     },
     {
+      "id": "cg-02a-110",
+      "banca": "FGV",
+      "cargo": "Oficial de Chancelaria",
+      "ano": 2016,
+      "tipo": "multipla_escolha",
+      "enunciado": "Os sistemas de contabilidade registram fatos que podem afetar o patrimônio das entidades quantitativa ou qualitativamente. Quando do registro de um fato contábil modificativo, uma das contrapartidas será necessariamente uma conta:",
+      "resposta": "C",
+      "comentario": "",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) de receita ou de passivo;",
+        "B) de despesa ou de ativo;",
+        "C) de receita ou de despesa;",
+        "D) de patrimônio líquido;",
+        "E) retificadora do ativo ou do passivo."
+      ],
+      "orgao": "MRE"
+    },
+    {
       "id": "cg-02a-107",
       "banca": "FGV",
       "orgao": "PC-RN",
@@ -1799,24 +1822,6 @@
         "C) quitação de dívidas oriundas de captação de recursos junto a instituições financeiras;",
         "D) quitação de um crédito de curto prazo;",
         "E) comissões sobre empréstimos bancários."
-      ]
-    },
-    {
-      "id": "cg-02a-110",
-      "banca": "FGV",
-      "cargo": "Oficial de Chancelaria",
-      "ano": 2016,
-      "tipo": "multipla_escolha",
-      "enunciado": "Os sistemas de contabilidade registram fatos que podem afetar o patrimônio das entidades quantitativa ou qualitativamente. Quando do registro de um fato contábil modificativo, uma das contrapartidas será necessariamente uma conta:",
-      "resposta": "C",
-      "comentario": "",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) de receita ou de passivo;",
-        "B) de despesa ou de ativo;",
-        "C) de receita ou de despesa;",
-        "D) de patrimônio líquido;",
-        "E) retificadora do ativo ou do passivo."
       ]
     },
     {
@@ -2828,7 +2833,8 @@
         "C) partidas dobradas.",
         "D) métodos contábeis.",
         "E) elementos patrimoniais."
-      ]
+      ],
+      "cargo": "Contador"
     },
     {
       "id": "cg-02a-120",

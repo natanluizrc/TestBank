@@ -1350,7 +1350,8 @@
       ],
       "resposta": "D",
       "comentario": "Situação patrimonial negativa significa PL < 0, o que ocorre quando Passivo > Ativo. Logo, o total de obrigações (Passivo) supera o total de ativos (bens e direitos). Essa é a definição direta de passivo a descoberto.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "cargo": "Controlador de Serviços Públicos"
     },
     {
       "id": "cg-01a-36",

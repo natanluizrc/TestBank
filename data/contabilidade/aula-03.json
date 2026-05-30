@@ -4,6 +4,21 @@
   "materia": "ContG",
   "questoes": [
     {
+      "id": "cg-03-125",
+      "tipo": "multipla_escolha",
+      "enunciado": "Pagou em moeda corrente 50% da compra, com 5% de desconto, e aceitou uma duplicata pela dívida restante.\n\nCom essa operação, pode-se afirmar que o ativo da empresa:",
+      "opcoes": [
+        "A) Aumentou em R$20.000.",
+        "B) Diminuiu em R$9.500.",
+        "C) Aumentou em R$9.500.",
+        "D) Aumentou em R$10.500.",
+        "E) Diminuiu em R$10.500."
+      ],
+      "resposta": "C",
+      "comentario": "O desconto obtido no momento da aquisição é considerado incondicional e não é considerado como receita. Na verdade, não há necessidade de contabilização. Temos que o veículo custa 20.000 e foi concedido um desconto de 5%, isto é, 1.000. Portanto, o adquirente fez a aquisição por 19.000, pagando 50% à vista, isto é, 9.500 em dinheiro e 9.500 serão pagos a prazo: D Veículos (ativo) C Caixa (ativo circulante) C Duplicatas a pagar (passivo) 19.000 9.500 9.500 Percebam que o Ativo da empresa aumentou em 19.000 9.500 = 9.500.",
+      "dificuldade": 2
+    },
+    {
       "id": "cg-03-080",
       "banca": "ACCESS",
       "orgao": "CRBio 08",
@@ -286,6 +301,25 @@
       ]
     },
     {
+      "id": "cg-03-128",
+      "banca": "COPEVE",
+      "cargo": "Contador",
+      "ano": 2009,
+      "tipo": "multipla_escolha",
+      "enunciado": "Na apuração do resultado do exercício pelo Regime de Caixa, são levadas em conta as Adespesas incorridas e não pagas. B receitas recebidas antecipadamente. C despesas provisionadas. D receitas ganhas e não recebidas. E depreciações a amortizações do período.",
+      "resposta": "B",
+      "comentario": "Para o regime de caixa, só importa as entradas e saídas de dinheiro. Sempre pergunte o seguinte: Entrou ou saiu dinheiro? Apenas na alternativa B houve entrada de dinheiro, assim esse é o nosso gabarito.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) despesas incorridas e não pagas.",
+        "B) receitas recebidas antecipadamente.",
+        "C) despesas provisionadas.",
+        "D) receitas ganhas e não recebidas.",
+        "E) depreciações e amortizações do período."
+      ],
+      "orgao": "UFAL"
+    },
+    {
       "id": "cg-03-094",
       "banca": "COPEVE",
       "orgao": "UFAL",
@@ -324,24 +358,6 @@
       ]
     },
     {
-      "id": "cg-03-128",
-      "banca": "COPEVE",
-      "cargo": "Contador",
-      "ano": 2009,
-      "tipo": "multipla_escolha",
-      "enunciado": "Na apuração do resultado do exercício pelo Regime de Caixa, são levadas em conta as Adespesas incorridas e não pagas. B receitas recebidas antecipadamente. C despesas provisionadas. D receitas ganhas e não recebidas. E depreciações a amortizações do período.",
-      "resposta": "B",
-      "comentario": "Para o regime de caixa, só importa as entradas e saídas de dinheiro. Sempre pergunte o seguinte: Entrou ou saiu dinheiro? Apenas na alternativa B houve entrada de dinheiro, assim esse é o nosso gabarito.",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) despesas incorridas e não pagas.",
-        "B) receitas recebidas antecipadamente.",
-        "C) despesas provisionadas.",
-        "D) receitas ganhas e não recebidas.",
-        "E) depreciações e amortizações do período."
-      ]
-    },
-    {
       "id": "cg-03-119",
       "banca": "COPS-UEL",
       "orgao": "SEFA-PR",
@@ -358,22 +374,6 @@
         "C) um passivo.",
         "D) uma perda.",
         "E) uma receita."
-      ]
-    },
-    {
-      "id": "cg-03-097",
-      "banca": "DESCONHECIDA",
-      "tipo": "multipla_escolha",
-      "enunciado": "(IADES/SES DF/ Contador/2018 20X1. As despesas com a prestação do serviço totalizaram R$ 10.100,00, sendo 70% desembolsados em maio e o restante no mês seguinte. e Caixa, foi, respectivamente,",
-      "resposta": "D",
-      "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas. Um deles, é mais simplificado, e se preocupa com as entradas e saídas de caixa ou equivalentes de caixa, por isso, é chamado de Regime de Caixa. Mas temos outro regime de apuração, mais aprofundado, e que se preocupa com o MOMENTO DA OCORRÊNCIA DO FATO GERADOR das receitas e despesas, o que não é, necessariamente a entrada ou saída de caixa. Esse é o Regime de Competência. Vamos apurar, assim, o resultado pelos dois regimes: Resultado pelo Regime de competência - maio de 20X1 Receitas relativas a maio de 20X1 recebidas em junho de 20X1 Despesas relativas a maio de 20X1 pagas em maio e junho de 20X1 Resultado pelo regime de competência - maio de 20X1 Resultado pelo Regime de caixa - maio de 20X1 Despesas relativas a maio de 20X1 pagas em maio (70%) Resultado pelo regime de caixa - maio de 20X1 Resultado pelo Regime de caixa - junho de 20X1 Receitas relativas a maio de 20X1 recebidas em junho de 20X1 Despesas relativas a maio de 20X1 pagas junho de 20X1 (30%) Resultado pelo regime de caixa - junho de 20X1 R$ 15.600,00 -R$ 10.100,00 R$ 5.500,00 -R$ 7.070,00 -R$ 7.070,00 R$ 15.600,00 -R$ 3.030,00 -R$ 12.570,00",
-      "dificuldade": 4,
-      "opcoes": [
-        "A) lucro de R$ 5.500,00 e lucro zero, em junho de 20X1.",
-        "B) lucro R$ 5.500,00 e lucro de R$ 12.570,00, em junho de 20X1.",
-        "C) prejuízo de R$ 7.070,00 e lucro de R$ 12.570,00, em maio de 20X1.",
-        "D) lucro de R$ 5.500,00 e prejuízo de R$ 7.070,00, em maio de 20X1.",
-        "E) lucro de R$ 5.500,00 e prejuízo de R$ 3.030,00, em maio de 20X1."
       ]
     },
     {
@@ -491,6 +491,44 @@
       ]
     },
     {
+      "id": "cg-03-028",
+      "banca": "FCC",
+      "orgao": "DPE-SP",
+      "ano": 2009,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma empresa efetua a quitação antecipada, de uma fatura relativa ao fornecimento de suprimentos, no valor de R$ 20.000,00 obtendo um desconto de 10%. No registro dessa operação a empresa",
+      "resposta": "E",
+      "comentario": "A contabilização do pagamento deve ser registrada da seguinte forma: D Fornecedores (Passivo Circulante) C Receita Financeira (Descontos obtidos) C Caixa ou Bancos (Ativo Circulante) 20.000 2.000 18.000 Análise das alternativas: A) Alternativa Incorreta. Há um crédito em conta de ativo, no valor de 18.000 B) Alternativa Incorreta. O valor do débito em conta de passivo é de 20.000 C) Alternativa Incorreta. O valor do desconto obtido é lançado como Receita Financeira. D) Alternativa Incorreta. A conta de Passivo é debitada em 20.000, e não creditada. E) Alternativa Correta. Os descontos financeiros obtidos são contabilizados como Receita Financeira.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) registra um débito em conta de ativo no valor de R$ 20.000.",
+        "B) contabiliza um débito de R$ 18.000 em conta do passivo.",
+        "C) lança o valor do desconto como despesas comerciais.",
+        "D) efetua um crédito de R$ 20.000 em conta de passivo.",
+        "E) reconhece uma receita pelo valor do desconto obtido."
+      ],
+      "cargo": "Agente de Defensoria"
+    },
+    {
+      "id": "cg-03-029",
+      "banca": "FCC",
+      "orgao": "DPE-SP",
+      "ano": 2009,
+      "tipo": "multipla_escolha",
+      "enunciado": "O registro da venda à vista de um estoque provoca",
+      "resposta": "E",
+      "comentario": "Exemplo: Venda à vista de um estoque registrado por R$ 1.000,00 ao preço de R$ 1.500,00 Pela venda do estoque, lançamos: D Caixa C Receita de vendas 1.500 1.500 Pela baixa da mercadoria, lançamos: D Custo da mercadoria vendida 1.000 C Estoque 1.000 Analisemos as assertivas. (A) um aumento do passivo circulante. Incorreto. A venda à vista não tem efeitos sobre o passivo circulante. (B) a diminuição do patrimônio líquido. Incorreto. O PL é aumentado com a apuração do lucro na venda e a consequente transferência do resultado para o balanço. (C) um crédito em conta de ativo. Incorreto. Esta questão contém uma pegadinha. Vejam que ele está pedindo que trabalhemos com o registro da venda. Não falou a questão sobre a baixa do estoque. Devemos levar em consideração tão somente o lançamento: D Caixa C Receita de vendas 1.500 1.500 Assim, não há, neste lançamento, crédito em conta de ativo. Se levássemos ambos os lançamentos em consideração, aí sim teríamos crédito em conta do ativo. (D) uma diminuição de um passivo circulante. Incorreto. Não há alteração do passivo neste registro. (E) alteração na situação líquida da empresa. Correto. O resultado do exercício aumenta com a venda de mercadorias acima do preço de custo. Este resultado, como sabido, é transferido para o capital próprio. Assim, o registro de uma venda à vista altera sim a situação líquida da empresa. Repare que, nessa questão, a FCC também não considerou a baixa do estoque e a contabilização do Custo da Mercadoria Vendida.",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) um aumento do passivo circulante.",
+        "B) a diminuição do patrimônio líquido.",
+        "C) um crédito em conta de ativo.",
+        "D) uma diminuição de um passivo circulante.",
+        "E) alteração na situação líquida da empresa."
+      ],
+      "cargo": "Agente de Defensoria"
+    },
+    {
       "id": "cg-03-024",
       "banca": "FCC",
       "orgao": "DPE-SP",
@@ -526,42 +564,6 @@
         "C) lança o valor do desconto como despesas comerciais.",
         "D) efetua um crédito de R$ 20.000 em conta de passivo.",
         "E) reconhece uma receita pelo valor do desconto obtido."
-      ]
-    },
-    {
-      "id": "cg-03-028",
-      "banca": "FCC",
-      "orgao": "DPE-SP",
-      "ano": 2009,
-      "tipo": "multipla_escolha",
-      "enunciado": "Uma empresa efetua a quitação antecipada, de uma fatura relativa ao fornecimento de suprimentos, no valor de R$ 20.000,00 obtendo um desconto de 10%. No registro dessa operação a empresa",
-      "resposta": "E",
-      "comentario": "A contabilização do pagamento deve ser registrada da seguinte forma: D Fornecedores (Passivo Circulante) C Receita Financeira (Descontos obtidos) C Caixa ou Bancos (Ativo Circulante) 20.000 2.000 18.000 Análise das alternativas: A) Alternativa Incorreta. Há um crédito em conta de ativo, no valor de 18.000 B) Alternativa Incorreta. O valor do débito em conta de passivo é de 20.000 C) Alternativa Incorreta. O valor do desconto obtido é lançado como Receita Financeira. D) Alternativa Incorreta. A conta de Passivo é debitada em 20.000, e não creditada. E) Alternativa Correta. Os descontos financeiros obtidos são contabilizados como Receita Financeira.",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) registra um débito em conta de ativo no valor de R$ 20.000.",
-        "B) contabiliza um débito de R$ 18.000 em conta do passivo.",
-        "C) lança o valor do desconto como despesas comerciais.",
-        "D) efetua um crédito de R$ 20.000 em conta de passivo.",
-        "E) reconhece uma receita pelo valor do desconto obtido."
-      ]
-    },
-    {
-      "id": "cg-03-029",
-      "banca": "FCC",
-      "orgao": "DPE-SP",
-      "ano": 2009,
-      "tipo": "multipla_escolha",
-      "enunciado": "O registro da venda à vista de um estoque provoca",
-      "resposta": "E",
-      "comentario": "Exemplo: Venda à vista de um estoque registrado por R$ 1.000,00 ao preço de R$ 1.500,00 Pela venda do estoque, lançamos: D Caixa C Receita de vendas 1.500 1.500 Pela baixa da mercadoria, lançamos: D Custo da mercadoria vendida 1.000 C Estoque 1.000 Analisemos as assertivas. (A) um aumento do passivo circulante. Incorreto. A venda à vista não tem efeitos sobre o passivo circulante. (B) a diminuição do patrimônio líquido. Incorreto. O PL é aumentado com a apuração do lucro na venda e a consequente transferência do resultado para o balanço. (C) um crédito em conta de ativo. Incorreto. Esta questão contém uma pegadinha. Vejam que ele está pedindo que trabalhemos com o registro da venda. Não falou a questão sobre a baixa do estoque. Devemos levar em consideração tão somente o lançamento: D Caixa C Receita de vendas 1.500 1.500 Assim, não há, neste lançamento, crédito em conta de ativo. Se levássemos ambos os lançamentos em consideração, aí sim teríamos crédito em conta do ativo. (D) uma diminuição de um passivo circulante. Incorreto. Não há alteração do passivo neste registro. (E) alteração na situação líquida da empresa. Correto. O resultado do exercício aumenta com a venda de mercadorias acima do preço de custo. Este resultado, como sabido, é transferido para o capital próprio. Assim, o registro de uma venda à vista altera sim a situação líquida da empresa. Repare que, nessa questão, a FCC também não considerou a baixa do estoque e a contabilização do Custo da Mercadoria Vendida.",
-      "dificuldade": 4,
-      "opcoes": [
-        "A) um aumento do passivo circulante.",
-        "B) a diminuição do patrimônio líquido.",
-        "C) um crédito em conta de ativo.",
-        "D) uma diminuição de um passivo circulante.",
-        "E) alteração na situação líquida da empresa."
       ]
     },
     {
@@ -694,7 +696,8 @@
         "C) Dividendos a Pagar",
         "D) D Lucros Acumulados C Dividendos a Pagar",
         "E) D Lucros Acumulados C Reserva de Lucros"
-      ]
+      ],
+      "cargo": "Contador"
     },
     {
       "id": "cg-03-010",
@@ -1834,6 +1837,25 @@
       ]
     },
     {
+      "id": "cg-03-097",
+      "banca": "IADES",
+      "tipo": "multipla_escolha",
+      "enunciado": "(IADES/SES DF/ Contador/2018 20X1. As despesas com a prestação do serviço totalizaram R$ 10.100,00, sendo 70% desembolsados em maio e o restante no mês seguinte. e Caixa, foi, respectivamente,",
+      "resposta": "D",
+      "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas. Um deles, é mais simplificado, e se preocupa com as entradas e saídas de caixa ou equivalentes de caixa, por isso, é chamado de Regime de Caixa. Mas temos outro regime de apuração, mais aprofundado, e que se preocupa com o MOMENTO DA OCORRÊNCIA DO FATO GERADOR das receitas e despesas, o que não é, necessariamente a entrada ou saída de caixa. Esse é o Regime de Competência. Vamos apurar, assim, o resultado pelos dois regimes: Resultado pelo Regime de competência - maio de 20X1 Receitas relativas a maio de 20X1 recebidas em junho de 20X1 Despesas relativas a maio de 20X1 pagas em maio e junho de 20X1 Resultado pelo regime de competência - maio de 20X1 Resultado pelo Regime de caixa - maio de 20X1 Despesas relativas a maio de 20X1 pagas em maio (70%) Resultado pelo regime de caixa - maio de 20X1 Resultado pelo Regime de caixa - junho de 20X1 Receitas relativas a maio de 20X1 recebidas em junho de 20X1 Despesas relativas a maio de 20X1 pagas junho de 20X1 (30%) Resultado pelo regime de caixa - junho de 20X1 R$ 15.600,00 -R$ 10.100,00 R$ 5.500,00 -R$ 7.070,00 -R$ 7.070,00 R$ 15.600,00 -R$ 3.030,00 -R$ 12.570,00",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) lucro de R$ 5.500,00 e lucro zero, em junho de 20X1.",
+        "B) lucro R$ 5.500,00 e lucro de R$ 12.570,00, em junho de 20X1.",
+        "C) prejuízo de R$ 7.070,00 e lucro de R$ 12.570,00, em maio de 20X1.",
+        "D) lucro de R$ 5.500,00 e prejuízo de R$ 7.070,00, em maio de 20X1.",
+        "E) lucro de R$ 5.500,00 e prejuízo de R$ 3.030,00, em maio de 20X1."
+      ],
+      "orgao": "SES DF",
+      "cargo": "Contador",
+      "ano": 2018
+    },
+    {
       "id": "cg-03-078",
       "banca": "IBADE",
       "orgao": "RBPREV",
@@ -2392,21 +2414,6 @@
       "resposta": "certo",
       "comentario": "No mês de maio de 2023, a empresa F. realizou as seguintes transações: Venda de mercadorias no valor de R$ 5.000,00 a prazo. O custo das mercadorias vendidas foi de R$ 2.000,00, sendo que a metade do valor referente a compra foi paga no mês de abril e a outra metade, em maio; Reconhecimento da Receita D Clientes R$ 5.000,00 C Receita de Vendas R$ 5.000,00 Baixa no Estoque D CMV R$ 2.000,00 C - Estoque R$ 2.000,00 Recebimento de R$ 6.000,00 referente a serviço prestado no mês anterior; Fato 1: Reconhecimento da receita em abril (mês anterior) D Clientes R$ 5.000,00 C Receita de Vendas R$ 5.000,00 Fato 2: Recebimento dessa receita em maio D Caixa R$ 6.000,00 C Clientes R$ 6.000,00 Pagamento de salário referente ao mês anterior no valor de R$ 1.000,00; Fato 1: Reconhecimento da despesa em abril (mês anterior) D Despesa com Salários R$ 1.000,00 C - Salários a pagar R$12.000,00 Fato 2: Pagamento de salário referente ao mês anterior D Salários a pagar R$ 1.000,00 C Caixa R$ 1.000,00 Reconhecimento da despesa de salários de maio no valor de R$ 2.100,00 para pagamento no mês seguinte; Fato 1: Reconhecimento da despesa em maio. D Despesa com Salários R$ 2.100,00 C - Salários a pagar R$ 2.100,00 Fato 2: Pagamento de salários em junho (no mês seguinte) D Salários a pagar R$ 2.100,00 C Caixa R$ 2.100,00 Pagamento de R$ 1.200,00 referente a seguro para os próximos 12 meses, com reconhecimento de 1/12 nesse mês como despesa. Fato 1: Pagamento de R$ 1.200,00 referente a seguro para os próximos 12 meses D Despesa antecipada com seguros R$ 1.200,00 C Caixa R$ 1.200,00 Fato 2: Apropriação da despesa com seguros: D Despesa com Seguros R$ 100,00 C - Despesa antecipada com seguros R$ 100,00 Com base nessas informações, o resultado do regime de competência no período foi de: Resultado em maio/22 = 5.000 - 2.000 2.100 100 = 5.000 4.200 = 800",
       "dificuldade": 4
-    },
-    {
-      "id": "cg-03-125",
-      "tipo": "multipla_escolha",
-      "enunciado": "Pagou em moeda corrente 50% da compra, com 5% de desconto, e aceitou uma duplicata pela dívida restante.\n\nCom essa operação, pode-se afirmar que o ativo da empresa:",
-      "opcoes": [
-        "A) Aumentou em R$20.000.",
-        "B) Diminuiu em R$9.500.",
-        "C) Aumentou em R$9.500.",
-        "D) Aumentou em R$10.500.",
-        "E) Diminuiu em R$10.500."
-      ],
-      "resposta": "C",
-      "comentario": "O desconto obtido no momento da aquisição é considerado incondicional e não é considerado como receita. Na verdade, não há necessidade de contabilização. Temos que o veículo custa 20.000 e foi concedido um desconto de 5%, isto é, 1.000. Portanto, o adquirente fez a aquisição por 19.000, pagando 50% à vista, isto é, 9.500 em dinheiro e 9.500 serão pagos a prazo: D Veículos (ativo) C Caixa (ativo circulante) C Duplicatas a pagar (passivo) 19.000 9.500 9.500 Percebam que o Ativo da empresa aumentou em 19.000 9.500 = 9.500.",
-      "dificuldade": 2
     }
   ]
 }

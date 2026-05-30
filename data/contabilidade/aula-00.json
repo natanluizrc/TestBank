@@ -191,7 +191,8 @@
       "enunciado": "Considerando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da finalidade organizacional, julgue o item:\n\nPara o estudo da contabilidade, patrimônio é a diferença entre ativos e passivos detidos pelas entidades.",
       "resposta": "errado",
       "comentario": "Errado. O que foi descrito é o Patrimônio Líquido (PL = Ativo – Passivo). O patrimônio (ou ativo total) é o conjunto completo de bens, direitos e obrigações — inclui o passivo, não o subtrai.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "orgao": "Polícia Federal"
     },
     {
       "id": "cg-00-48",
@@ -396,7 +397,8 @@
       ],
       "resposta": "A",
       "comentario": "O campo de aplicação da Contabilidade exige patrimônio sendo gerido (azienda = patrimônio + gestão). O conceito independe de legalidade — até atividades ilícitas têm patrimônio. Só as simples reuniões de pessoas sem organização, sem finalidade e sem recursos ficam de fora, pois não há patrimônio a ser contabilizado.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "cargo": "Agente Fiscal de Tributos Estaduais"
     },
     {
       "id": "cg-00-63",
@@ -546,7 +548,8 @@
       ],
       "resposta": "D",
       "comentario": "Administrar recursos escassos compatibilizando-os com as necessidades da sociedade é objetivo da Economia, não da Contabilidade. Os objetivos contábeis giram em torno de mensurar, evidenciar e fornecer informações sobre o patrimônio.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "cargo": "Auditor do Tesouro Municipal"
     },
     {
       "id": "cg-00-04",
@@ -751,7 +754,8 @@
       ],
       "resposta": "C",
       "comentario": "A letra C está correta: a Contabilidade é um sistema de informação que controla o patrimônio e auxilia usuários na tomada de decisão. A A erra ao excluir pessoas físicas; a B erra ao dizer \"tempo real\"; a E descreve o Patrimônio Líquido, não o patrimônio.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "cargo": "Técnico em Contabilidade"
     },
     {
       "id": "cg-00-55",

@@ -92,7 +92,8 @@
         "C) 325.000,00.",
         "D) 329.000,00.",
         "E) 257.000,00."
-      ]
+      ],
+      "cargo": "Contador"
     },
     {
       "id": "cg-02b-008",
@@ -454,7 +455,8 @@
       "enunciado": "No Livro Razão devem ser apresentados os saldos das contas representativas dos elementos patrimoniais de uma entidade. 79 179 08155932443 - Natan Luiz Rodrigues Chaves",
       "resposta": "certo",
       "comentario": "O livro Razão é um livro sistemático e ele apresenta os saldos de cada conta em determinado momento. Serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "cargo": "Escrivão de Polícia Federal"
     },
     {
       "id": "cg-02b-090",
@@ -1136,7 +1138,7 @@
     {
       "id": "cg-02b-013",
       "banca": "FUNDATEC",
-      "orgao": "Pref. Estância Velha Tesoureiro",
+      "orgao": "Pref. Estância Velha",
       "ano": 2020,
       "tipo": "multipla_escolha",
       "enunciado": "O livro de escrituração contábil, no qual se registram todos os fatos patrimoniais que ocorrem em uma empresa ou entidade, organizado por ordem de data, de natureza obrigatória e considerado, por lei, como o livro central ou principal, é denominado:",
@@ -1148,7 +1150,8 @@
         "B) Diário",
         "C) DRE",
         "D) Razão"
-      ]
+      ],
+      "cargo": "Tesoureiro"
     },
     {
       "id": "cg-02b-014",
@@ -1378,7 +1381,7 @@
     {
       "id": "cg-02b-101",
       "banca": "IBADE",
-      "orgao": "Pref. Jaru Fiscal Tributário",
+      "orgao": "Pref. Jaru",
       "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "O(a) é um dos principais registros contábeis utilizados pelas empresas para acompanhar e registrar todas as movimentações financeiras e contábeis. Ele é composto por uma lista organizada de todas as contas da empresa, como caixa, bancos, contas a receber, contas a pagar, entre outras. Marque a alternativa que substitui corretamente a lacuna no texto acima.",
@@ -1390,7 +1393,8 @@
         "B) Livro razão",
         "C) Balanço patrimonial",
         "D) Proposta orçamentária E Orçamento participativo"
-      ]
+      ],
+      "cargo": "Fiscal Tributário"
     },
     {
       "id": "cg-02b-108",
@@ -1613,7 +1617,10 @@
         "B) Conta a ser debitada, conta a ser creditada, data de registro da operação, histórico da operação e valor da operação em moeda nacional. 43 179 08155932443 - Natan Luiz Rodrigues Chaves C Conta a ser creditada, conta a ser debitada, histórico da operação, valor da operação em moeda nacional ou estrangeira e data de referência de atualização de valores",
         "C) Histórico da operação, valor da operação em moeda nacional ou estrangeira, data de referência de atualização de valores e conta a ser creditada",
         "D) Valor da operação, data de realização da operação, duas contas a serem debitadas e histórico da operação"
-      ]
+      ],
+      "orgao": "SES DF",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2018
     },
     {
       "id": "cg-02b-114",
