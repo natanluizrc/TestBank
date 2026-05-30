@@ -13,7 +13,7 @@
       "enunciado": "Uma sociedade empresária efetuou as seguintes operações em janeiro/2023: 15/1 Subscrição e integralização do Capital Social no valor de R$ 5.000,00, por depósito em conta bancária. 18/1 Compra de um imóvel por R$ 3.000,00 a prazo. 25/1 Pagamento de R$ 2.000 para amortização de parte da dívida contraída pela compra efetuada em 18/1. Assinale a alternativa que apresente os lançamentos contábeis que registram corretamente as operações. A Débito Bancos conta movimento R$ 5.000,00 Crédito Capital Social R$ 5.000,00 Débito Imóvel R$ 3.000,00 Crédito Títulos a Pagar R$ 3.000,00 Débito Títulos a Pagar R$ 2.000,00 Crédito Bancos conta movimento R$ 2.000,00 B Débito Caixa R$ 5.000,00 Crédito Capital Social R$ 5.000,00 Débito Imóvel R$ 3.000,00 Crédito Bancos conta movimento R$ 3.000,00 C Débito Capital Social R$ 5.000,00 Crédito Bancos conta movimento R$ 5.000,00 Débito Títulos a Pagar R$ 5.000,00 Crédito Bancos conta movimento R$ 5.000,00 D Débito Capital Social R$ 5.000,00 Crédito Caixa R$ 5.000,00 Débito Títulos a Pagar R$ 1.000,00 Débito Imóveis R$ 2.000,00 Crédito Bancos conta movimento R$ 3.000,00",
       "resposta": "A",
       "comentario": "Vamos efetuar a contabilização de cada fato: 15/1 Subscrição e integralização do Capital Social no valor de R$ 5.000,00, por depósito em conta bancária. D Bancos (+Ativo) C Capital Social (+PL) R$ 5.000 R$ 5.000 Aqui já podemos eliminar as alternativas B, C e D. 18/1 Compra de um imóvel por R$ 3.000,00 a prazo. Débito Imóvel (+Ativo) R$ 3.000,00 Crédito Títulos a Pagar (+Passivo) R$ 3.000,00 25/1 Pagamento de R$ 2.000 para amortização de parte da dívida contraída pela compra efetuada em 18/1 Débito Títulos a Pagar (- Passivo) R$ 2.000,00 Crédito Bancos conta movimento (-Ativo) R$ 2.000,00",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) D: Bancos R$ 5.000 / C: Capital Social R$ 5.000 | D: Imóvel R$ 3.000 / C: Títulos a Pagar R$ 3.000 | D: Títulos a Pagar R$ 2.000 / C: Bancos R$ 2.000",
         "B) D: Caixa R$ 5.000 / C: Capital Social R$ 5.000 | D: Imóvel R$ 3.000 / C: Bancos R$ 3.000",
@@ -50,7 +50,7 @@
       "enunciado": "Desconto condicional é concedido sob condição de determinado ato por parte do beneficiário. Assim, assinale a alternativa que apresenta o conceito de desconto condicional.",
       "resposta": "B",
       "comentario": "Na Contabilidade, temos basicamente dois tipos de desconto: desconto financeiro (CONDICIONAL) ou desconto comercial (INCONDICIONAL). O desconto COMERCIAL ou INCONDICIONAL é aquele concedido NO MOMENTO DA NEGOCIAÇÃO, dado Quem obtém esse desconto não precisa contabilizá-lo, não representa uma receita. Por sua vez, o desconto condicional ou desconto financeiro é aquele que depende de determinada condição a ser cumprida pelo cliente, como, por exemplo, a quitação antecipada de título de crédito, recebendo um desconto de 10%. Esse desconto é concedido em MOMENTO POSTERIOR À NEGOCIAÇÃO. Anotem esse bizu, pessoal! O desconto financeiro CONCEDIDO representa uma despesa FINANCEIRA; NÃO É DESPESA DE VENDA. O desconto financeiro OBTIDO representa uma receita FINANCEIRA; NÃO É receita DE VENDA. Agora, vamos analisar as alternativas: a) Esse desconto é concedido no ato da venda das mercadorias. Errado, o desconto condicional é concedido após o ato da venda. b) Esse desconto é concedido após a emissão da nota. Correto, como o desconto é concedido para antecipar o pagamento, ele é concedido após a emissão da nota fiscal de venda. c) Esse desconto é concedido no ato da compra e é uma dedução da receita. Errado, o desconto condicional é concedido após a venda é uma despesa financeira e não uma dedução da receita. d) Esse desconto é concedido no ato da compra das mercadorias e não é dedutível na DR. Errado, como já dissemos, o desconto condicional não é concedido no ato da compra. e) Esse desconto é concedido somente na compra de mercadorias para revenda ou de bens para uso. Errado, a natureza da operação não é relevante para a classificação do desconto; o que é relevante é quando ele é concedido e qual a condição.",
-      "dificuldade": 4,
+      "dificuldade": 3,
       "opcoes": [
         "A) Esse desconto é concedido no ato da venda das mercadorias.",
         "B) Esse desconto é concedido após a emissão da nota.",
@@ -69,7 +69,7 @@
       "enunciado": "A empresa FFG iniciou suas atividades com um capital social de R$ 300.000,00. Com esse recurso, a empresa adquiriu um terreno a vista pelo mesmo valor, para a construção da sede. Qual das alternativas a seguir apresenta o fato contábil decorrente da compra do terreno?",
       "resposta": "A",
       "comentario": "A LSA afirma que: Art. 179. As contas serão classificadas do seguinte modo: IV no ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à companhia os benefícios, riscos e controle desses bens; (Redação dada pela Lei nº 11.638,de 2007) Portanto, um terreno adquirido para receber a sede da empresa deverá ser classificado no Ativo Imobilizado e a contabilização dessa aquisição será: D - Imobilizado Terreno C - Banco c/ movimento.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) D - Imobilizado Terreno / C - Banco c/ movimento.",
         "B) D - Banco c/ movimento / C - Capital Social.",
@@ -107,7 +107,7 @@
       "enunciado": "Segundo a doutrina, o regime contábil que considera o reconhecimento das receitas e das despesas com base nos seus respectivos fatos geradores, independente de qualquer recebimento ou pagamento, é denominado",
       "resposta": "A",
       "comentario": "Na contabilidade utilizamos o regime de competência, no qual as despesas são reconhecidas quando ocorridas e independente do pagamento. Assim, caso a entidade pague antecipado, ela não poderá reconhecer uma despesa, dado que o fato gerador dessa obrigação não ocorreu. Enquanto não ocorre, a entidade contabilizará um ativo. Assim, somente despesas antecipadas podem ser contabilizadas no ativo enquanto não são apropriadas no resultado. Também não podemos reconhecer a receita antes de sua realização. Enquanto ela não se realize (ocorra o fato gerador, geralmente é a entrega da mercadoria - tradição), contabilizaremos um passivo. Assim, apenas as receitas antecipadas são contabilizadas no passivo enquanto não são reconhecidas no resultado. Vejamos o texto da lei 6.404/76: Art. 177. A escrituração da companhia será mantida em registros permanentes, com obediência aos preceitos da legislação comercial e desta Lei e aos princípios de contabilidade geralmente aceitos, devendo observar métodos ou critérios contábeis uniformes no tempo e registrar as mutações patrimoniais segundo o regime de competência. Art. 187 § 1º Na determinação do resultado do exercício serão computados: a) as receitas e os rendimentos ganhos no período, independentemente da sua realização em moeda; e b) os custos, despesas, encargos e perdas, pagos ou incorridos, correspondentes a essas receitas e rendimentos.",
-      "dificuldade": 4,
+      "dificuldade": 2,
       "opcoes": [
         "A) regime de competência.",
         "B) regime de caixa.",
@@ -164,7 +164,7 @@
       "enunciado": "No final do mês de janeiro/2014 a Cia Porche S/A procede a apropriação de 1/12 do Prêmio de Seguro a apropriar. Assinale a alternativa que apresenta o lançamento que corresponde a essa apropriação.",
       "resposta": "C",
       "comentario": "Pessoal, já dissemos que na contabilidade vige o chamado princípio da competência, segundo o qual as receitas e despesas são apropriadas conforme incorrem, independentemente de pagamento ou recebimento. Com efeito, pensem comigo, estamos pagando uma despesa de seguro hoje! A prestação de serviço se dá no momento do pagamento ou ao longo do ano? Ora, ao longo do ano! Assim, dissemos que a contabilidade tem que refletir ao máximo a situação econômica, financeira e patrimonial da entidade. Então, ao efetuar o pagamento antecipado de uma despesa, seja ela de seguros, de aluguel, de assinatura de periódico, de salários ou qualquer outra coisa, devemos: Lançamentos relativos a despesas antecipadas: 1 No momento do pagamento: Debita a conta despesas antecipadas (direito do ativo, portanto, aumentando este grupo) e credita a conta disponível caixa ou bancos, já que está saindo dinheiro para o pagamento. 2 Com o transcurso do tempo: Debita a conta despesa (despesa de seguros, de aluguel, etc.) e credita a conta despesa antecipada (reduzindo o valor do direito conforme o tempo vai passando). Vejamos! Lançamentos: 1 Pelo pagamento: D Despesas antecipadas Seguros (ativo circulante) C Caixa (ativo circulante) 2 Pelo reconhecimento do primeiro mês do seguro: D Despesa de seguros (resultado) C Despesas antecipadas Seguros (ativo circulante) 12.000,00 12.000,00 1.000,00 1.000,00",
-      "dificuldade": 4,
+      "dificuldade": 3,
       "opcoes": [
         "A) D- Despesas com Prêmio de Seguros. C- Caixa ou banco.",
         "B) D- Prêmio de Seguro a apropriar. C- Despesas com Prêmio de Seguros",
@@ -183,7 +183,7 @@
       "enunciado": "Existem dois tipos de regimes contábeis para apuração do resultado do exercício: 1º Os registros contábeis que são efetuados no momento em que os valores são pagos ou recebidos, considerando, na apuração do resultado, os valores do período. 2º Os registros contábeis que são efetuados para todas as receitas e despesas ocorridas no período independentemente do recebimento ou do pagamento. Assinale a alternativa com as duas opções de regimes contábeis.",
       "resposta": "C",
       "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas. o recebimento. Mesmo que a venda ou prestação de serviço, fatos geradores de receitas tenham ocorrido em momento distinto. Por seu turno, a despesa ocorrerá quando for efetuado o PAGAMENTO, mesmo que o fato gerador ocorra em outro momento. Ademais, pelo chamado Regime de Competência, a receita de venda de uma mercadoria é reconhecida quando da entrega da mercadoria, isto é, quando a venda é efetuada. Uma receita de aluguel é reconhecida quando o inquilino, por exemplo, utiliza o imóvel. Tudo isso, independentemente do recebimento ou pagamento. Já a despesa é quando INCORRIDA, ainda que não tenha sido paga. O que vale é o fato gerador. Esquematizando: Regime de Caixa Regime de Competência Receita quando recebida Receita quando ganha (ainda que não recebida) Despesa quando paga Despesa quando incorrida (ainda que não paga) Utilizado em situações específicas É a \"regra\"!",
-      "dificuldade": 3,
+      "dificuldade": 1,
       "opcoes": [
         "A) Débito e Caixa;",
         "B) Competência e Crédito;",
@@ -202,7 +202,7 @@
       "enunciado": "Ainda nos termos da NBC TG Estrutura Conceitual, o reflete os efeitos de transações e outros eventos e circunstâncias sobre reivindicações e recursos econômicos da entidade que reporta nos períodos em que esses efeitos ocorrem, mesmo que os pagamentos e recebimentos à vista resultantes ocorram em período diferente. Assinale a alternativa que preenche corretamente a lacuna.",
       "resposta": "D",
       "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas. Pelo chamado Regime de Competência, a receita de venda de uma mercadoria é reconhecida quando da entrega da mercadoria, isto é, quando a venda é efetuada. Uma receita de aluguel é reconhecida quando o inquilino, por exemplo, utiliza o imóvel. Tudo isso, independentemente do recebimento ou pagamento. Já a despesa é quando INCORRIDA, ainda que não tenha sido paga. O que vale é o fato gerador. De acordo com o CPC 00 (R2): 1.17 O regime de competência reflete os efeitos de transações e outros eventos e circunstâncias sobre reivindicações e recursos econômicos da entidade que reporta nos períodos em que esses efeitos ocorrem, mesmo que os pagamentos e recebimentos à vista resultantes ocorram em período diferente o recebimento. Mesmo que a venda ou prestação de serviço, fatos geradores de receitas tenham ocorrido em momento distinto. Por seu turno, a despesa ocorrerá quando for efetuado o PAGAMENTO, mesmo que o fato gerador ocorra em outro momento.",
-      "dificuldade": 3,
+      "dificuldade": 2,
       "opcoes": [
         "A) regime misto",
         "B) regime de base modificada",
@@ -277,7 +277,7 @@
       "enunciado": "É o regime contábil segundo o qual transações e outros eventos são reconhecidos quando ocorrem (não necessariamente quando caixa e equivalentes de caixa são recebidos ou pagos). Portanto, as transações e os eventos são registrados contabilmente e reconhecidos nas demonstrações contábeis dos períodos a que se referem. O texto acima faz referência ao conceito de:",
       "resposta": "B",
       "comentario": "= 2e 6f 5= = Na contabilidade utilizamos o regime de competência, no qual as despesas são reconhecidas quando ocorridas e independente do pagamento. Assim, caso a entidade pague antecipado, ela não poderá reconhecer uma despesa, dado que o fato gerador dessa obrigação não ocorreu. Enquanto não ocorre, a entidade contabilizará um ativo. Assim, somente despesas antecipadas podem ser contabilizadas no ativo enquanto não são apropriadas no resultado. Também não podemos reconhecer a receita antes de sua realização. Enquanto ela não se realize (ocorra o fato gerador, geralmente é a entrega da mercadoria - tradição), contabilizaremos um passivo. Assim, apenas as receitas antecipadas são contabilizadas no passivo enquanto não são reconhecidas no resultado. Vejamos o texto da lei 6.404/76: Art. 177. A escrituração da companhia será mantida em registros permanentes, com obediência aos preceitos da legislação comercial e desta Lei e aos princípios de contabilidade geralmente aceitos, devendo observar métodos ou critérios contábeis uniformes no tempo e registrar as mutações patrimoniais segundo o regime de competência. Art. 187 § 1º Na determinação do resultado do exercício serão computados: a) as receitas e os rendimentos ganhos no período, independentemente da sua realização em moeda; e b) os custos, despesas, encargos e perdas, pagos ou incorridos, correspondentes a essas receitas e rendimentos.",
-      "dificuldade": 4,
+      "dificuldade": 1,
       "opcoes": [
         "A) Regime de Caixa.",
         "B) Regime de Competência.",
@@ -294,7 +294,7 @@
       "enunciado": "Na apuração do resultado do exercício pelo Regime de Caixa, são levadas em conta as Adespesas incorridas e não pagas. B receitas recebidas antecipadamente. C despesas provisionadas. D receitas ganhas e não recebidas. E depreciações a amortizações do período.",
       "resposta": "B",
       "comentario": "Para o regime de caixa, só importa as entradas e saídas de dinheiro. Sempre pergunte o seguinte: Entrou ou saiu dinheiro? Apenas na alternativa B houve entrada de dinheiro, assim esse é o nosso gabarito.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) despesas incorridas e não pagas.",
         "B) receitas recebidas antecipadamente.",
@@ -352,7 +352,7 @@
       "enunciado": "A receita e as despesas relacionadas à mesma transação são reconhecidas simultaneamente. Esse processo está vinculado ao princípio da confrontação das despesas com as receitas (regime de competência). Porém, quando as despesas não podem ser mensuradas confiavelmente, a receita fica impossibilitada de ser reconhecida. Em tais circunstâncias, quaisquer valores já recebidos pela venda dos bens serão reconhecidos como",
       "resposta": "C",
       "comentario": "Precisamos recorrer ao CPC 47: 16. A entidade deve reconhecer a contraprestação recebida de cliente como passivo até que uma das hipóteses do item 15 ocorra ou até que os critérios do item 9 sejam subsequentemente atendidos (ver item 14). Dependendo dos fatos e circunstâncias relativos ao contrato, o passivo reconhecido representa a obrigação da entidade de transferir bens ou serviços no futuro ou de restituir a contraprestação recebida. Em qualquer dos casos, o passivo deve ser mensurado pelo valor da contraprestação recebida do cliente.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) um ativo.",
         "B) um custo.",
@@ -371,7 +371,7 @@
       "enunciado": "O regime contábil que considera o reconhecimento das receitas e das despesas com base nos seus respectivos fatos geradores, independente de qualquer recebimento ou pagamento, é denominado:",
       "resposta": "E",
       "comentario": "Na contabilidade utilizamos o regime de competência, no qual as despesas são reconhecidas quando ocorridas e independente do pagamento. Assim, caso a entidade pague antecipado, ela não poderá reconhecer uma despesa, dado que o fato gerador dessa obrigação não ocorreu. Enquanto não ocorre, a entidade contabilizará um ativo. Assim, somente despesas antecipadas podem ser contabilizadas no ativo enquanto não são apropriadas no resultado. Também não podemos reconhecer a receita antes de sua realização. Enquanto ela não se realize (ocorra o fato gerador, geralmente é a entrega da mercadoria - tradição), contabilizaremos um passivo. Assim, apenas as receitas antecipadas são contabilizadas no passivo enquanto não são reconhecidas no resultado.",
-      "dificuldade": 3,
+      "dificuldade": 1,
       "opcoes": [
         "A) regime de caixa.",
         "B) regime misto.",
@@ -540,7 +540,7 @@
       "enunciado": "O registro da venda à vista de um estoque provoca",
       "resposta": "E",
       "comentario": "Exemplo: Venda à vista de um estoque registrado por R$ 1.000,00 ao preço de R$ 1.500,00 Pela venda do estoque, lançamos: D Caixa C Receita de vendas 1.500 1.500 Pela baixa da mercadoria, lançamos: D Custo da mercadoria vendida 1.000 C Estoque 1.000 Analisemos as assertivas. (A) um aumento do passivo circulante. Incorreto. A venda à vista não tem efeitos sobre o passivo circulante. (B) a diminuição do patrimônio líquido. Incorreto. O PL é aumentado com a apuração do lucro na venda e a consequente transferência do resultado para o balanço. (C) um crédito em conta de ativo. Incorreto. Esta questão contém uma pegadinha. Vejam que ele está pedindo que trabalhemos com o registro da venda. Não falou a questão sobre a baixa do estoque. Devemos levar em consideração tão somente o lançamento: D Caixa C Receita de vendas 1.500 1.500 Assim, não há, neste lançamento, crédito em conta de ativo. Se levássemos ambos os lançamentos em consideração, aí sim teríamos crédito em conta do ativo. (D) uma diminuição de um passivo circulante. Incorreto. Não há alteração do passivo neste registro. (E) alteração na situação líquida da empresa. Correto. O resultado do exercício aumenta com a venda de mercadorias acima do preço de custo. Este resultado, como sabido, é transferido para o capital próprio. Assim, o registro de uma venda à vista altera sim a situação líquida da empresa. Repare que, nessa questão, a FCC também não considerou a baixa do estoque e a contabilização do Custo da Mercadoria Vendida.",
-      "dificuldade": 4,
+      "dificuldade": 3,
       "opcoes": [
         "A) um aumento do passivo circulante.",
         "B) a diminuição do patrimônio líquido.",
@@ -635,7 +635,7 @@
       "enunciado": "De acordo com a legislação societária o registro das mutações patrimoniais deve ser feito de acordo com",
       "resposta": "E",
       "comentario": "Vimos que o regime de competência deve ser adotado pelas entidades como regra. Inclusive, há previsão expressa na Lei 6404/76: Art. 177. A escrituração da companhia será mantida em registros permanentes, com obediência aos preceitos da legislação comercial e desta Lei e aos princípios de contabilidade geralmente aceitos, devendo observar métodos ou critérios contábeis uniformes no tempo e REGISTRAR AS MUTAÇÕES PATRIMONIAIS SEGUNDO O REGIME DE COMPETÊNCIA. Obs.: podemos considerar como mutações patrimoniais, as receitas e despesas da entidade.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) o custo de oportunidade.",
         "B) regime de caixa.",
@@ -921,7 +921,7 @@
       "enunciado": "Pelo regime de competência,",
       "resposta": "D",
       "comentario": "a) as receitas e as despesas não são atribuídas aos exercícios de acordo com a real incorrência. b) a receita é reconhecida no período em que é arrecadada e a despesa paga nesse mesmo período. c) as receitas e as despesas são atribuídas ao exercício de acordo com o recebimento ou pagamento em dinheiro. Erradas, já que são características do regime de caixa. d) as receitas e as despesas são atribuídas aos exercícios, de acordo com a data do fato gerador. Correto, essa alternativa trouxe características do regime de competência.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) as receitas e as despesas não são atribuídas aos exercícios de acordo com a real incorrência.",
         "B) a receita é reconhecida no período em que é arrecadada e a despesa paga nesse mesmo período.",
@@ -1280,7 +1280,7 @@
       "enunciado": "Um requisito essencial para que um evento seja reconhecido pelo regime de competência é o",
       "resposta": "C",
       "comentario": "O CPC 00 Estrutura Conceitual Básica nos apresenta alguns conceitos importantes sobre o Regime de Competência: O regime de competência reflete os efeitos de transações e outros eventos e circunstâncias sobre reivindicações e recursos econômicos da entidade que reporta nos períodos em que esses efeitos ocorrem (fato gerador), mesmo que os pagamentos e recebimentos à vista resultantes ocorram em período diferente. Isso é importante porque informações sobre os recursos econômicos e reivindicações da entidade que reporta e mudanças em seus recursos econômicos e reivindicações durante o período fornecem uma base melhor para a avaliação do desempenho passado e futuro da entidade do que informações exclusivamente sobre recebimentos e pagamentos à vista durante esse período",
-      "dificuldade": 3,
+      "dificuldade": 2,
       "opcoes": [
         "A) emissão da nota fiscal;",
         "B) manutenção dos riscos e benefícios;",
@@ -1337,7 +1337,7 @@
       "enunciado": "Assinale a opção que indica a situação em que a receita mensal contabilizada pelo Regime de Competência e pelo Regime de Caixa é a mesma.",
       "resposta": "B",
       "comentario": "A Receita pelo Regime de Caixa e pelo Regime de Competência podem ser iguais em determinado período? Sim, desde que o fato gerador da receita e o seu recebimento ocorram no mesmo período. Vamos analisar as alternativas: A) Venda a prazo de passagem aérea para ser utilizada imediatamente. Errado, se a venda for a prazo, pelo regime de caixa, a receita só será reconhecida no recebimento. Por seu turno, para o Regime de Competência ela será reconhecida no momento da prestação do serviço. Portanto, no caso apresentado, o momento de reconhecimento da receita pelos dois regimes não será o mesmo. B) Venda de curso mensal de informática, cujo pagamento ocorre no último dia útil do mês das aulas. Correto, considerando que a venda do curso, a prestação do serviço de aulas e o recebimento será no mesmo período, podemos afirmar que a receita pelo regime de caixa e a receita pelo regime de competência no período serão iguais. C) Venda à vista de plano trimestral em uma academia. Errado, para o Regime de Caixa, a Receita será reconhecida no momento do recebimento. Para o Regime de Competência, a receita será reconhecida conforme o serviço for disponibilizado para o cliente, ou seja, a cada mês, ao longo do tempo. D) Venda à vista de assinatura anual de revista. Errado, a mesma lógica do exemplo da academia. A Receita pelo Regime de Competência será reconhecida ao longo do tempo, conforme o serviço for disponibilizado para o cliente. Já para o Regime de Caixa, o reconhecimento será imediato, quando ocorreu o pagamento. E) Recebimento de dinheiro por encomenda de roupa que ficará pronta em dois meses. Errado, para o Regime de Caixa, a Receita será reconhecida quando ocorrer o recebimento, por sua vez, para o Regime de Competência, quando ocorrer a entrega da encomenda.",
-      "dificuldade": 4,
+      "dificuldade": 3,
       "opcoes": [
         "A) Venda a prazo de passagem aérea para ser utilizada imediatamente.",
         "B) Venda de curso mensal de informática, cujo pagamento ocorre no último dia útil do mês das aulas.",
@@ -1442,6 +1442,25 @@
       ]
     },
     {
+      "id": "cg-03-034",
+      "banca": "FGV",
+      "orgao": "Pref. Caraguatatuba",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma entidade usa o Regime de Caixa para contabilizar as suas transações. De acordo com o Regime de Caixa, uma receita deve ser contabilizada de acordo com",
+      "resposta": "C",
+      "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas: Regime de Caixa e Regime de Competência. Um deles, é mais simplificado, e se preocupa com as entradas e saídas de caixa ou equivalentes de caixa, por isso, é chamado de Regime de Caixa. Por exemplo: efetuei uma venda de mercadorias no dia 26 de janeiro de 20x0, mas só vou receber em março. março, ainda que a venda tenha sido feita em janeiro. Portanto, nosso gabarito é a alternativa C.",
+      "dificuldade": 1,
+      "opcoes": [
+        "A) a assinatura de contrato.",
+        "B) o acontecimento do fato gerador.",
+        "C) o ingresso de bens e numerários.",
+        "D) a transferência dos riscos e benefícios.",
+        "E) a prestação de serviço ou entrega de produto."
+      ]
+    },
+    {
       "id": "cg-03-033",
       "banca": "FGV",
       "orgao": "Pref. Caraguatatuba",
@@ -1458,25 +1477,6 @@
         "C) R$600.",
         "D) R$1.200.",
         "E) R$21.200."
-      ]
-    },
-    {
-      "id": "cg-03-034",
-      "banca": "FGV",
-      "orgao": "Pref. Caraguatatuba",
-      "cargo": "Técnico em Contabilidade",
-      "ano": 2024,
-      "tipo": "multipla_escolha",
-      "enunciado": "Uma entidade usa o Regime de Caixa para contabilizar as suas transações. De acordo com o Regime de Caixa, uma receita deve ser contabilizada de acordo com",
-      "resposta": "C",
-      "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas: Regime de Caixa e Regime de Competência. Um deles, é mais simplificado, e se preocupa com as entradas e saídas de caixa ou equivalentes de caixa, por isso, é chamado de Regime de Caixa. Por exemplo: efetuei uma venda de mercadorias no dia 26 de janeiro de 20x0, mas só vou receber em março. março, ainda que a venda tenha sido feita em janeiro. Portanto, nosso gabarito é a alternativa C.",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) a assinatura de contrato.",
-        "B) o acontecimento do fato gerador.",
-        "C) o ingresso de bens e numerários.",
-        "D) a transferência dos riscos e benefícios.",
-        "E) a prestação de serviço ou entrega de produto."
       ]
     },
     {
@@ -1735,7 +1735,7 @@
       "enunciado": "A Cia. JMAP vende o produto PAMJ. A empresa apresenta o seguinte Balanço em 31.08.X8: ATIVO Disponibilidades Estoques Móveis e Utensílios (-) Depreciação acumulada Total Total 76.000 25.000 200.000 -16.000 285.000 285.000 PASSIVO + PATRIMÔNIOLÍQUIDO Fornecedores 26.500 Contas a Pagar 20.000 Capital Social 180.000 Lucros Acumulados 58.500 Informações adicionais: i) o Estoque é constituído por 1.000 unidades adquiridas por R$ 25,00 cada. A empresa adota o CMPM (Custo médio ponderado móvel) controle permanente; ii) os Móveis e Utensílios são depreciados à taxa de 12% ao ano. A empresa efetuou as seguintes operações no mês de setembro de X8: Data Evento A empresa efetuou o seguro anual de seu patrimônio, mediante o pagamento do prêmio de seguro no valor total de R$ 6.000,00, à vista. 02 Compra 1.000 unidades de PAMJ por R$ 26,00 cada, para pagar em outubro/X8. 05 Compra 2.500 unidades de PAMJ por R$ 24,80 cada, à vista. Venda de 3.000 unidades de PAMJ por R$ 35,00 cada, sendo que metade à vista e metade a prazo para recebimento em 30 dias. 15 Venda de 1.100 unidades de PAMJ por R$ 30,00 cada, à vista. 22 Compra 2.000 unidades de PAMJ por R$ 25,50, para pagamento em 60 dias. Aumento do Capital Social em R$ 35.000,00, sendo R$ 5.000,00 em dinheiro e o restante em integralização de parte do saldo de lucros acumulados. 26 Pagamento de R$ 38.000,00 aos fornecedores e da totalidade do saldo das contas a pagar. Reconhecimento e pagamento de despesas administrativas e comerciais no montante total 30 de R$ 18.000,00, sendo R$ 8.000,00 relativos a serviços de terceiros e o restante a pessoal próprio. 30 Apropriação mensal da despesa de seguro e depreciação dos móveis e utensílios. 30 Constatou que o valor realizável líquido, por unidade de PAMJ, é R$ 25,00. 30 Pagamento de dividendos, em dinheiro, no valor correspondente a 40% do lucro do período. Considerando somente os dados do enunciado, quando da apropriação da despesa de seguro relativa ao mês de setembro/X8, assinale o lançamento contábil adequado.",
       "resposta": "E",
       "comentario": "Quando do pagamento do seguro anual, o lançamento foi o seguinte: D Despesa Antecipada seguro (AC) C Caixa/ bancos (AC) 6.000,00 6.000,00 Mensalmente, ocorre a apropriação da despesa por competência: D - Despesas Operacionais seguro (DRE) C- Despesas Antecipadas seguro (AC) 500,00 500,00 Até zerar a conta Despesa Antecipada, transferindo todo o seu valor para despesa.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) D- Despesas Antecipadas seguro (AC) R$ 6.000,00 / C- Disponibilidades (AC) R$ 6.000,00",
         "B) D- Despesas Operacionais seguro (DRE) R$ 500,00 / C- Disponibilidades (AC) R$ 500,00",
@@ -1754,7 +1754,7 @@
       "enunciado": "Considere uma empresa em que os funcionários trabalham durante o mês de dezembro e somente irão receber o pagamento no 5º dia útil do próximo mês. Indique o impacto nos relatórios contábeis, do mês de dezembro, do fato descrito acima, analisado pelo regime de caixa e pelo regime competência, respectivamente:",
       "resposta": "D",
       "comentario": "Vamos fazer um comparativo da apuração do resultado da empresa usando, primeiro, o Regime de Caixa e, em seguida, o Regime de Competência. Regime de Caixa: No mês de dezembro não haverá reconhecimento algum, pois não há pagamento. No mês de janeiro haverá o reconhecimento da despesa e a redução do ativo, visto que ocorrerá o pagamento. Regime de Competência: No mês de dezembro haverá o reconhecimento de uma despesa e o surgimento de um passivo, pois o fato gerador da despesa ocorreu, mas o pagamento não. No mês de janeiro haverá ocorrerá o pagamento dessa despesa, gerando a diminuição de um ativo e a diminuição do passivo. Agora, para encontrarmos o gabarito que o examinador queria, temos que analisar como que adoção de cada um dos regimes afetou o resultado no mês de dezembro. Vejam que, pelo Regime de Caixa, uma despesa DEIXOU de ser reconhecida, bem com um Passivo. Portanto, ao adotar o regime de caixa, em dezembro, a empresa deixou de reconhecer uma despesa, ou como a questão apresentou, ocorreu a redução de uma despesa. Já, pela adoção do Regime de Competência em dezembro, houve um aumento do passivo. Essa foi a linha de pensamento da banca. Um pouco confusa...",
-      "dificuldade": 4,
+      "dificuldade": 3,
       "opcoes": [
         "A) Aumento da Despesa e Redução do Passivo;",
         "B) Aumento do Passivo e Redução da Despesa;",
@@ -1773,7 +1773,7 @@
       "enunciado": "O processo de registro no qual as transações e outros eventos contábeis são reconhecidos no momento em que ocorrem, independentemente de quando os valores são recebidos ou pagos, é denominado regime de:",
       "resposta": "E",
       "comentario": "Segundo o regime de competência, as receitas e despesas devem ser reconhecidas quando incorridas, independentemente de pagamento ou recebimento. Já pelo regime de caixa, as receitas e despesas são reconhecidas apenas quando recebidas ou pagas. Vejamos a previsão na lei n° 6.404/76: Escrituração Art. 177. A escrituração da companhia será mantida em registros permanentes, com obediência aos preceitos da legislação comercial e desta Lei e aos princípios de contabilidade geralmente aceitos, devendo observar métodos ou critérios contábeis uniformes no tempo e registrar as mutações patrimoniais segundo o regime de competência. Art. 187 § 1º Na determinação do resultado do exercício serão computados: a) as receitas e os rendimentos ganhos no período, independentemente da sua realização em moeda; e b) os custos, despesas, encargos e perdas, pagos ou incorridos, correspondentes a essas receitas e rendimentos.",
-      "dificuldade": 3,
+      "dificuldade": 1,
       "opcoes": [
         "A) Apuração.",
         "B) Ocorrência.",
@@ -1792,7 +1792,7 @@
       "enunciado": "O registro de um fato contábil em que a receita foi recebida antecipadamente, mas o fato gerador ainda não ocorreu, será efetuado, pelo regime de competência, a débito de uma conta de disponibilidades e a crédito de uma conta",
       "resposta": "E",
       "comentario": "Na contabilidade utilizamos o regime de competência, no qual as despesas são reconhecidas quando ocorridas e independente do pagamento. Assim, caso a entidade pague antecipado, ela não poderá reconhecer uma despesa, dado que o fato gerador dessa obrigação não ocorreu. Enquanto não ocorre, a entidade contabilizará um ativo. Assim, somente despesas antecipadas podem ser contabilizadas no ativo enquanto não são apropriadas no resultado. Também não podemos reconhecer a receita antes de sua realização. Enquanto ela não se realize (ocorra o fato gerador, geralmente é a entrega da mercadoria - tradição), contabilizaremos um passivo. Assim, apenas as receitas antecipadas são contabilizadas no passivo enquanto não são reconhecidas no resultado.",
-      "dificuldade": 3,
+      "dificuldade": 2,
       "opcoes": [
         "A) patrimonial do ativo não circulante.",
         "B) de resultado (receitas).",
@@ -1849,7 +1849,7 @@
       "enunciado": "O regime contábil em que são consideradas como receitas e despesas do exercício tudo o que se receber ou pagar durante o exercício financeiro, mesmo que sejam débitos e créditos referentes a outros exercícios, é denominado:",
       "resposta": "B",
       "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas. o recebimento. Mesmo que a venda ou prestação de serviço, fatos geradores de receitas tenham ocorrido em momento distinto. Por seu turno, a despesa ocorrerá quando for efetuado o PAGAMENTO, mesmo que o fato gerador ocorra em outro momento. Ademais, pelo chamado Regime de Competência, a receita de venda de uma mercadoria é reconhecida quando da entrega da mercadoria, isto é, quando a venda é efetuada. Uma receita de aluguel é reconhecida quando o inquilino, por exemplo, utiliza o imóvel. Tudo isso, independentemente do recebimento ou pagamento. Já a despesa é quando INCORRIDA, ainda que não tenha sido paga. O que vale é o fato gerador. Esquematizando: Regime de Caixa Regime de Competência Receita quando recebida Receita quando ganha (ainda que não recebida) Despesa quando paga Despesa quando incorrida (ainda que não paga) Utilizado em situações específicas É a \"regra\"!",
-      "dificuldade": 3,
+      "dificuldade": 1,
       "opcoes": [
         "A) Regime Orçamentário.",
         "B) Regime de Caixa.",
@@ -2046,7 +2046,7 @@
       "enunciado": "A empresa WXS resolveu quitar uma dívida. Dessa operação irá resultar",
       "resposta": "D",
       "comentario": "O termo dívida é equivalente a obrigação. Ou seja, representa um Passivo. Consequentemente, possui saldo credor e, em razão disso, devemos debitar a conta a pagar (deixando de existir, assim, a obrigação perante terceiros) e credita o meio utilizado para pagamento. A contabilização é a seguinte: D Contas a pagar (- Passivo, conta patrimonial) C Caixa (-Ativo, conta patrimonial) Veja que envolveu apenas contas patrimoniais, ou seja, permutações. Por conta disso, o pagamento de dívidas é considerado um fato permutativo.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) diminuição e aumento do Patrimônio Líquido.",
         "B) diminuição do Ativo e do Passivo e aumento do Patrimônio Líquido.",
@@ -2209,7 +2209,7 @@
       "enunciado": "A possibilidade de se reconhecer contabilmente determinada operação, independentemente de sua realização em moeda, é contabilmente conhecido como:",
       "resposta": "C",
       "comentario": "Segundo o regime de competência, as receitas e despesas devem ser reconhecidas quando incorridas, independentemente de pagamento ou recebimento. Já pelo regime de caixa, as receitas e despesas são reconhecidas apenas quando recebidas ou pagas. Vejamos a previsão na lei n° 6.404/76: Escrituração Art. 177. A escrituração da companhia será mantida em registros permanentes, com obediência aos preceitos da legislação comercial e desta Lei e aos princípios de contabilidade geralmente aceitos, devendo observar métodos ou critérios contábeis uniformes no tempo e registrar as mutações patrimoniais segundo o regime de competência. Art. 187 § 1º Na determinação do resultado do exercício serão computados: a) as receitas e os rendimentos ganhos no período, independentemente da sua realização em moeda; e b) os custos, despesas, encargos e perdas, pagos ou incorridos, correspondentes a essas receitas e rendimentos.",
-      "dificuldade": 3,
+      "dificuldade": 2,
       "opcoes": [
         "A) regime de caixa.",
         "B) mutação patrimonial.",
@@ -2227,7 +2227,7 @@
       "enunciado": "Quando a empresa liquida uma dívida e obtém um desconto:",
       "resposta": "B",
       "comentario": "Um exemplo seria o pagamento de uma duplicata no valor de R$ 1.000,00, com desconto de R$ 200,00: D Duplicatas a pagar 1.000,00 (- Passivo) C Bancos 800,00 (- Ativo) C Descontos financeiros 200,00 (+ Resultado = Receita) Nota-se que houve uma diminuição do passivo e um aumento do PL. Adendo! As contas de resultado são contas transitórias, ou seja, são zeradas a cada exercício. A entidade irá confrontar suas receitas com suas despesas e apurará o resultado do exercício. Esse resultado será transferido para o PL, especificadamente para conta Lucros ou Prejuízos Acumulados. Assim, podemos entender que o desconto obtido provocará um aumento do PL.",
-      "dificuldade": 3,
+      "dificuldade": 2,
       "opcoes": [
         "A) Ocorre a entrada de um ativo para a empresa, que é proveniente de uma atividade rotineira.",
         "B) Ocorre a redução de um passivo que se reflete como um aumento do Patrimônio Líquido.",
@@ -2264,7 +2264,7 @@
       "enunciado": "Representa um aumento do Passivo a seguinte provisão:",
       "resposta": "A",
       "comentario": "Dentre as alternativas a única que provocaria um aumento no Passivo seria a Provisão para Férias.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) para férias.",
         "B) para créditos de liquidação duvidosa.",
@@ -2283,7 +2283,7 @@
       "enunciado": "Que lançamentos devem gerar a compra de estoque a prazo?",
       "resposta": "E",
       "comentario": "Lançamentos: D Estoque xx C Fornecedores xx Razonetes: 33. seguinte situação patrimonial: Caixa: $ 20.000; Ordenados a pagar: $ 17.000; Estoques de mercadorias: $ 60.000; Prejuízos acumulados: $ 10.000; Duplicatas a receber: $ 7.000; Fornecedores: $ 35.000; Capital inicial: $ 45.000. Em abril de 2012, realizou uma venda de 10% de seu estoque, sendo 50% à vista e 50% a prazo, com lucro de $ 4.000. Assinale a alternativa que apresenta, respectivamente, os saldos das contas de mercadorias, caixa, duplicatas a receber e lucros acumulados. a) $ 60.000; $ 35.000; $ 7.000; $ 6.000. b) $ 54.000; $ 20.000; $ 12.000; $ 10.000. c) $ 54.000; $ 25.000; $ 12.000; $ 6.000. d) $ 60.000; $ 25.000; $ 12.000; $ 10.000. e) $ 56.000; $ 20.000; $ 7.000; $ 6.000. Comentários: A questão nos informa que 10% do estoque foi vendido, ou seja, o valor de custo do estoque é de: 60.000 x 0,10 = 6.000. Além disso, houve lucro na venda de 4.000, assim o valor de venda foi: 4.000 + 6.000 = 10.000 Contabilização da Venda: Venda de Mercadorias: D Caixa D Duplicatas a Receber C Receita de Vendas 5.000 5.000 10.000 Baixa do Estoque D CMV C Estoques 6.000 6.000 O saldo inicial da conta caixa era de 10.000 e houve entrada de 26.400, portanto, o saldo final é de 36.400. Agora vamos analisar os saldos das contas solicitados: Mercadorias = 60.000 6.000 = 54.000 Caixa = 20.000 + 5.000 = 25.000 Duplicatas a receber = 7.000 + 5.000 = 12.000 Lucros acumulados = - 10.000 (prejuízos) + 4.000 = (6.000)",
-      "dificuldade": 4,
+      "dificuldade": 2,
       "opcoes": [
         "A) Aumenta estoque e diminui caixa.",
         "B) Aumenta estoque e diminui fornecedores.",
@@ -2302,13 +2302,32 @@
       "enunciado": "O Regime de Competência estabelece que:",
       "resposta": "C",
       "comentario": "Sabemos que na contabilidade vige o chamado regime da competência, segundo o qual as receitas e despesas são incorridas independentemente de pagamento ou recebimento. Assim, devemos olhar para o período de referência da receita/despesa",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) receitas e despesas devem ser contabilizadas na ocasião de seu recebimento ou pagamento.",
         "B) os lucros da entidade devem ser repassados integralmente aos acionistas, não podendo a entidade manter reservas.",
         "C) receitas e despesas devem ser contabilizadas em função do fato gerador, independentemente dos recebimentos e pagamentos.",
         "D) receitas e despesas devem ser contabilizadas excluindo-se a incidência de impostos, para melhor entendimento do resultado efetivo da entidade.",
         "E) o pagamento de juros de dívidas não deve ser considerado como despesa, uma vez que não expressa o sacrifício da entidade para a geração de receita."
+      ]
+    },
+    {
+      "id": "cg-03-127",
+      "banca": "UFPR",
+      "orgao": "PROGEPE",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2010,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma determinada empresa comprou um refrigerador marca Gelado, 320 litros, à vista, conforme a nota fiscal nº 7.245, no valor R$ 1.500,00, para uso próprio. Nessa operação, o débito efetuado origina aumento na conta de:",
+      "resposta": "D",
+      "comentario": "Lançamentos: D Móveis e Utensílios xx C Bancos xx Razonetes:",
+      "dificuldade": 1,
+      "opcoes": [
+        "A) duplicatas a pagar.",
+        "B) caixa.",
+        "C) empréstimos bancários.",
+        "D) móveis e utensílios.",
+        "E) capital social."
       ]
     },
     {
@@ -2328,25 +2347,6 @@
         "C) Débito de contas a pagar e Crédito de veículos.",
         "D) Débito de veículos e Crédito de caixa.",
         "E) Débito de veículos e Crédito de contas a receber."
-      ]
-    },
-    {
-      "id": "cg-03-127",
-      "banca": "UFPR",
-      "orgao": "PROGEPE",
-      "cargo": "Técnico em Contabilidade",
-      "ano": 2010,
-      "tipo": "multipla_escolha",
-      "enunciado": "Uma determinada empresa comprou um refrigerador marca Gelado, 320 litros, à vista, conforme a nota fiscal nº 7.245, no valor R$ 1.500,00, para uso próprio. Nessa operação, o débito efetuado origina aumento na conta de:",
-      "resposta": "D",
-      "comentario": "Lançamentos: D Móveis e Utensílios xx C Bancos xx Razonetes:",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) duplicatas a pagar.",
-        "B) caixa.",
-        "C) empréstimos bancários.",
-        "D) móveis e utensílios.",
-        "E) capital social."
       ]
     },
     {
@@ -2397,7 +2397,7 @@
       "enunciado": "O regime contábil que considera, na apuração do resultado do exercício, todas as despesas pagas e todas as receitas recebidas no respectivo exercício, independentemente da ocorrência de seus fatos geradores, é denominado de",
       "resposta": "D",
       "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas. Pelo chamado Regime de Competência, a receita de venda de uma mercadoria é reconhecida quando da entrega da mercadoria, isto é, quando a venda é efetuada. Uma receita de aluguel é reconhecida quando o inquilino, por exemplo, utiliza o imóvel. Tudo isso, independentemente do recebimento ou pagamento. Já a despesa é quando INCORRIDA, ainda que não tenha sido paga. O que vale é o fato gerador. o recebimento. Mesmo que a venda ou prestação de serviço, fatos geradores de receitas tenham ocorrido em momento distinto. Por seu turno, a despesa ocorrerá quando for efetuado o PAGAMENTO, mesmo que o fato gerador ocorra em outro momento.",
-      "dificuldade": 3,
+      "dificuldade": 1,
       "opcoes": [
         "A) regime misto.",
         "B) regime de competência.",

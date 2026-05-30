@@ -126,7 +126,7 @@
       "enunciado": "Contas representativas de bens e direitos são contas devedoras, enquanto contas representativas de obrigações são contas credoras, contudo, nem toda conta do passivo é credora.",
       "resposta": "certo",
       "comentario": "A afirmativa está correta. Bens e direitos (ativo) são devedores e obrigações (passivo) são credoras. Porém existem contas retificadoras do passivo, que possuem natureza oposta ao grupo — são devedoras, mesmo estando classificadas no passivo. Por isso, nem toda conta do passivo é necessariamente credora.",
-      "dificuldade": 3
+      "dificuldade": 2
     },
     {
       "id": "cg-01b-50",
@@ -455,7 +455,7 @@
       "enunciado": "O balancete de uma sociedade anônima em 31/12/20x0 apresenta os seguintes saldos: caixa (devedor R$ 25.300), aplicação financeira (devedor R$ 5.700), estoques (devedor R$ 4.000), móveis e utensílios (devedor R$ 10.000), despesa de aluguel (devedor R$ 3.000), duplicatas a pagar (credor R$ 8.200), aluguel a pagar (credor R$ 3.000), capital social (credor R$ 30.000) e receita de serviços (credor R$ 6.800). Nessa situação hipotética, separando-se as contas patrimoniais das contas de resultado, será identificado um lucro no período.",
       "resposta": "certo",
       "comentario": "As contas de resultado do balancete são: despesa de aluguel R$ 3.000 (despesa) e receita de serviços R$ 6.800 (receita). O confronto gera lucro de R$ 6.800 - R$ 3.000 = R$ 3.800. As demais são patrimoniais e não integram o cálculo do resultado.",
-      "dificuldade": 3
+      "dificuldade": 4
     },
     {
       "id": "cg-01b-52",
@@ -703,7 +703,7 @@
       ],
       "resposta": "D",
       "comentario": "As contas de resultado registram receitas e despesas ao longo do exercício social. São contas temporárias — seus saldos começam e terminam o exercício zerados. Confrontando receitas com despesas, apura-se o resultado: lucro (se receitas maiores) ou prejuízo (se despesas maiores), que é então transferido para o PL.",
-      "dificuldade": 1
+      "dificuldade": 2
     },
     {
       "id": "cg-01b-108",

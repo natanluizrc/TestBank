@@ -38,7 +38,7 @@
       ],
       "resposta": "A",
       "comentario": "I é correta: fornecer informações úteis à tomada de decisões é a finalidade principal da contabilidade (algumas bancas confundem objetivo e finalidade, mas aqui a assertiva é aceita). II é correta: o PL nunca pode superar o Ativo, pois PL = Ativo − Passivo e Passivo ≥ 0, logo PL ≤ Ativo. III é correta: Ativo = aplicações; Passivo = origens de recursos de terceiros. Todas corretas.",
-      "dificuldade": 2
+      "dificuldade": 3
     },
     {
       "id": "cg-01a-96",
@@ -57,7 +57,7 @@
       ],
       "resposta": "E",
       "comentario": "I é correta: SL positiva ↔ Ativo > Passivo. II é correta: SL negativa ↔ Ativo < Passivo. III é correta: na equação PL = Ativo − Passivo, o PL varia no mesmo sentido que o Ativo (diretamente) e em sentido contrário ao Passivo (inversamente). Todas as três assertivas estão corretas.",
-      "dificuldade": 2
+      "dificuldade": 3
     },
     {
       "id": "cg-01a-98",
@@ -271,7 +271,7 @@
       "enunciado": "A situação patrimonial líquida em que o total de passivos supera o montante do patrimônio líquido é denominada passivo a descoberto.",
       "resposta": "errado",
       "comentario": "Errado. Passivo a descoberto ocorre quando Passivo > Ativo (PL < 0), não quando Passivo > PL. Numa situação superavitária normal, o Passivo pode superar o PL sem que haja passivo a descoberto.",
-      "dificuldade": 3
+      "dificuldade": 2
     },
     {
       "id": "cg-01a-25",
@@ -283,7 +283,7 @@
       "enunciado": "Em uma entidade em que o total de passivos se iguala ao total de seus ativos, ocorre o chamado passivo a descoberto.",
       "resposta": "errado",
       "comentario": "Errado. Quando Ativo = Passivo, a situação líquida é nula (PL = 0), não passivo a descoberto. O passivo a descoberto ocorre apenas quando Passivo > Ativo (PL < 0).",
-      "dificuldade": 1
+      "dificuldade": 2
     },
     {
       "id": "cg-01a-60",
@@ -581,7 +581,7 @@
       ],
       "resposta": "C",
       "comentario": "Quanto à movimentação, as contas contábeis classificam-se em unilaterais e bilaterais. As contas unilaterais recebem lançamentos somente a débito ou somente a crédito, conforme sua natureza. As contas bilaterais funcionam com aumentos e diminuições de saldo, recebendo lançamentos tanto a débito quanto a crédito (ex.: conta Banco com Movimento).",
-      "dificuldade": 3
+      "dificuldade": 2
     },
     {
       "id": "cg-01a-110",

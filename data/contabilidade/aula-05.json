@@ -37,7 +37,7 @@
       "enunciado": "Considere que uma entidade comercial adquira uma mercadoria para revenda tributada pelo ICMS e pelo IPI e que o valor do ICMS recuperável seja de R$ 9.000; considere, também, que, dias depois, essa mercadoria seja vendida a um cliente, com ICMS de R$ 12.600, sendo apurado o ICMS a recolher. Nessa hipótese, essas transações geram um débito e um crédito na conta de ICMS a recuperar, no valor de R$ 9.000, e um crédito de R$ 12.600 na conta de ICMS a recolher.",
       "resposta": "certo",
       "comentario": "Item correto. Na compra, debita-se ICMS a Recuperar por R$ 9.000 (ativo). Na venda, credita-se ICMS a Recolher por R$ 12.600 (passivo). Na apuração, transfere-se o saldo do ICMS a Recuperar para compensar o ICMS a Recolher: débito em ICMS a Recolher e crédito em ICMS a Recuperar por R$ 9.000 — gerando o crédito na conta de ICMS a recuperar descrito no item. O saldo líquido a recolher ao fisco é R$ 3.600 (12.600 - 9.000). O item está incompleto (não menciona os débitos subsequentes), mas para o CEBRASPE um item incompleto não é considerado errado.",
-      "dificuldade": 2
+      "dificuldade": 3
     },
     {
       "id": "cg-05-004",
@@ -56,7 +56,7 @@
       ],
       "resposta": "D",
       "comentario": "O CPC 16 define valor realizável líquido como o preço de venda estimado no curso normal dos negócios, deduzidos os custos estimados para a conclusão do produto e os gastos estimados necessários para concretizar a venda. Para estoques em elaboração (ainda não acabados), os custos estimados de conclusão devem ser subtraídos do preço de venda para chegar ao VRL. Os demais itens (reinvestimento, oportunidade, gestão, reposição) não constam da definição do CPC 16.",
-      "dificuldade": 2
+      "dificuldade": 3
     },
     {
       "id": "cg-05-005",
@@ -125,7 +125,7 @@
       ],
       "resposta": "E",
       "comentario": "O CPC 16 determina que tributos recuperáveis junto ao fisco não devem ser incluídos no custo dos estoques. Para empresas comerciais (revenda), o ICMS é recuperável. Portanto, ao adquirir mercadoria para revenda, o ICMS destacado na nota fiscal é reconhecido como um ativo representativo de um direito — a conta ICMS a Recuperar. O custo do estoque é registrado pelo valor já líquido do ICMS.",
-      "dificuldade": 1
+      "dificuldade": 2
     },
     {
       "id": "cg-05-009",
@@ -192,7 +192,7 @@
       "enunciado": "Considere que, em uma economia inflacionária, uma entidade tenha realizado vendas de uma quantidade determinada de estoques de mercadorias em um período. Nesse caso, considerando que todas as demais características sejam constantes, a venda de estoques com custos avaliados pelo método do primeiro a entrar, primeiro a sair (PEPS) geraria maior lucro do exercício do que a mesma venda de estoques com custos avaliados pela média ponderada móvel.",
       "resposta": "certo",
       "comentario": "Item correto. Em ambiente inflacionário, os estoques mais antigos foram adquiridos a preços menores. O PEPS dá baixa ao estoque mais antigo primeiro, gerando um CMV menor. Com CMV menor, o lucro bruto e o resultado do exercício são maiores. O custo médio ponderado fica em posição intermediária. A ordem em ambiente inflacionário é: LB(PEPS) > LB(Média Ponderada) > LB(UEPS); já o EF(PEPS) > EF(Média Ponderada) > EF(UEPS).",
-      "dificuldade": 1
+      "dificuldade": 2
     },
     {
       "id": "cg-05-014",
@@ -204,7 +204,7 @@
       "enunciado": "Considere que uma indústria, contribuinte do imposto sobre produtos industrializados (IPI) e do imposto sobre circulação de mercadorias e serviços (ICMS), tenha adquirido a prazo R$ 73 mil em matérias-primas para industrialização, incorrendo em R$ 10 mil de IPI e R$ 17 mil de ICMS, com frete por conta do fornecedor. Nessa situação, para espelhar a referida transação na sua contabilidade, a entidade deve contabilizar conforme apresentado a seguir. Diversos: Estoque de matérias-primas R$ 73 mil / IPI a recuperar R$ 10 mil / ICMS a recuperar R$ 17 mil / A fornecedores R$ 100 mil.",
       "resposta": "certo",
       "comentario": "Item correto. Para uma indústria, tanto o IPI quanto o ICMS são recuperáveis na aquisição de matérias-primas (destinadas à industrialização). Portanto, nenhum dos dois entra no custo do estoque de MP. O valor da nota fiscal é R$ 73 mil (MP) + R$ 10 mil (IPI) + R$ 17 mil (ICMS) = R$ 100 mil a crédito de Fornecedores. O estoque de MP fica registrado por R$ 73 mil. O lançamento com a palavra Diversos indica múltiplas contas debitadas, o que está correto.",
-      "dificuldade": 3
+      "dificuldade": 4
     },
     {
       "id": "cg-05-015",
@@ -235,7 +235,7 @@
       ],
       "resposta": "C",
       "comentario": "Receita = 10 × R$ 2.000 = R$ 20.000. CMV pelo PEPS (baixa os mais antigos): Estoque inicial (2 un. × R$ 1.000 = R$ 2.000) + Compra 1 (4 un. × R$ 1.100 = R$ 4.400) + Compra 2 (3 un. × R$ 1.200 = R$ 3.600) + Compra 3 (1 un. × R$ 1.300 = R$ 1.300) = CMV de R$ 11.300. Estoque final: 5 unidades da Compra 3 × R$ 1.300 = R$ 6.500. Lucro bruto = R$ 20.000 - R$ 11.300 = R$ 8.700.",
-      "dificuldade": 3
+      "dificuldade": 4
     },
     {
       "id": "cg-05-017",
@@ -425,7 +425,7 @@
       ],
       "resposta": "E",
       "comentario": "O CPC 16, item 23, determina que o custo dos estoques de itens não intercambiáveis e de bens ou serviços produzidos e segregados para projetos específicos deve ser atribuído pela identificação específica dos custos individuais. Esse método é adequado quando os itens podem ser individualizados — como aeronaves, veículos específicos ou obras sob encomenda. O item 24 ressalva que, quando há grandes quantidades de itens intercambiáveis, a identificação específica não é apropriada, e deve-se usar PEPS ou custo médio.",
-      "dificuldade": 1
+      "dificuldade": 2
     },
     {
       "id": "cg-05-027",

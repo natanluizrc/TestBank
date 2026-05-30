@@ -111,7 +111,7 @@
       "enunciado": "Uma sociedade anônima aberta do setor de varejo apresenta o seguinte balancete de verificação, com contas em ordem alfabética e saldos em módulo (em R$): Ações em tesouraria (500), Caixa (100), Capital social (3.000), Clientes (600), Contas a pagar em 3 anos (1.500), Contas a receber em 1.000 dias (2.500), Depreciação acumulada (200), Estoques (500), Fornecedores (200), Impostos a recolher (100), Máquinas (700), Provisões cíveis (100), Reserva legal (600), Terrenos (800). Com base nessas informações, julgue o item a seguir. As disponibilidades da empresa em questão totalizam R$ 100.",
       "resposta": "certo",
       "comentario": "As disponibilidades são elementos que representam dinheiro ou que nele possam ser convertidos de forma imediata: caixa, contas bancárias de livre movimentação, numerários em trânsito e aplicações financeiras de curto prazo de alta liquidez. Do balancete apresentado, a única conta de disponibilidades é o Caixa, com saldo de R$ 100. As demais contas do ativo não constituem disponibilidades. Portanto, as disponibilidades totalizam R$ 100.",
-      "dificuldade": 1
+      "dificuldade": 2
     },
     {
       "id": "cg-04-009",
