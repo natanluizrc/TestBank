@@ -751,15 +751,16 @@
       "cargo": "Técnico em Regulação de Petróleo e Derivados, Álcool Combustível e Gás Natural / Contabilidade",
       "ano": 2008,
       "tipo": "multipla_escolha",
-      "enunciado": "linha vertical e os créditos, no lado direito. da(o) A espécie da conta.",
-      "resposta": "C",
+      "enunciado": "Na Conta \"T\", utilizada nas explicações e solução de problemas, os débitos são feitos no lado esquerdo da linha vertical e os créditos, no lado direito.\nA determinação do lado do razonete ou conta \"T\" a ser utilizado para aumentos ou para diminuições decorre da(o)",
+      "resposta": "D",
       "comentario": "Podemos representar as contas graficamente chamado de razonete. Por uma convenção, o lado esquerdo é sempre o lado do débito, e o lado direito é o lado do crédito. Assim... lado? O outro lado só pode ser o do crédito. Atenção! Considere que é apenas uma convenção. Há uma série de teorias que tentam explicar o motivo de o funcionamento de tais contas serem a débito e crédito, mas, para nós, ficará muito mais fácil assimilar que é uma convenção e decorar o que foi dito (até ficar no automático). da natureza da conta. As contas com natureza devedora vão aumentar pelos débitos que são lançados no lado direito e diminuir pelos créditos que são lançados no lado esquerdo. As contas com natureza credoras vão aumentar pelos créditos que são lançados no lado esquerdo e diminuir pelos débitos que são lançados no lado direito.",
       "dificuldade": 2,
       "opcoes": [
-        "A) função da conta",
-        "B) natureza da conta",
-        "C) funcionamento da conta",
-        "D) tipo da conta"
+        "A) espécie da conta.",
+        "B) função da conta.",
+        "C) natureza da conta.",
+        "D) funcionamento da conta.",
+        "E) tipo da conta."
       ]
     },
     {
