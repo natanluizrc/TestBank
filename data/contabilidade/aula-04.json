@@ -1,0 +1,516 @@
+{
+  "slug": "aula-04",
+  "titulo": "Aula 04",
+  "materia": "ContG",
+  "questoes": [
+    {
+      "id": "cg-04-001",
+      "banca": "CEBRASPE",
+      "orgao": "CAGEPA",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Conforme a mais recente estrutura conceitual da contabilidade, o balanço patrimonial",
+      "opcoes": [
+        "A) é um retrato estático das informações de eventos passados da entidade.",
+        "B) representa de forma exata a realidade da entidade.",
+        "C) é produzido sem qualquer tipo de estimativa.",
+        "D) representa os fluxos de caixa passados da entidade.",
+        "E) é uma projeção dinâmica das informações futuras da entidade."
+      ],
+      "resposta": "A",
+      "comentario": "O Balanço Patrimonial evidencia a posição patrimonial e financeira da entidade em uma data específica — é uma representação estática de informações sobre eventos passados, como uma foto. A alternativa B está errada porque relatórios financeiros se baseiam em estimativas, julgamentos e modelos, não em representações exatas. A C está errada porque o uso de estimativas razoáveis é parte essencial da elaboração das demonstrações contábeis. A D está errada: fluxos de caixa passados são representados pela Demonstração dos Fluxos de Caixa. A E está errada porque o balanço é estático e retrata o passado, não projeta o futuro.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-002",
+      "banca": "CEBRASPE",
+      "orgao": "CAU-BR",
+      "cargo": "Técnico Financeiro",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "As perdas esperadas em créditos de liquidação duvidosa são estimativas contábeis que devem ser registradas em contas retificadoras de ativo.",
+      "resposta": "certo",
+      "comentario": "Item correto. A conta Perdas Estimadas com Créditos de Liquidação Duvidosa (PECLD) é retificadora de ativo — especificamente, retificadora da conta Clientes/Duplicatas a Receber. Exemplo: uma empresa vende R$ 100.000 a prazo e constitui PECLD de 3% (R$ 3.000). O lançamento é débito em Despesa com PECLD (resultado) e crédito em PECLD (retificadora do ativo circulante). O valor líquido de Clientes no balanço passa a ser R$ 97.000.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-04-003",
+      "banca": "CEBRASPE",
+      "orgao": "CAU-BR",
+      "cargo": "Técnico Financeiro",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "A despesa antecipada é um direito que pode ser classificado no balanço patrimonial como ativo circulante ou como ativo realizável a longo prazo, conforme o prazo para a conversão desse direito em bens ou serviços.",
+      "resposta": "certo",
+      "comentario": "Item correto. As despesas antecipadas são pagamentos efetuados cujo fato gerador ainda não ocorreu — o benefício será usufruído no futuro. Podem ser classificadas no ativo circulante ou no ativo não circulante realizável a longo prazo, a depender do prazo de conversão desse direito em bens ou serviços: porção a ser usufruída nos próximos 12 meses vai ao circulante; porção além desse prazo vai ao realizável a longo prazo.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-004",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "A entidade deve elaborar o conjunto de suas demonstrações contábeis por meio da utilização do regime de competência, sendo vedada a utilização de outro regime contábil.",
+      "resposta": "errado",
+      "comentario": "Item errado. De fato, as demonstrações contábeis devem ser elaboradas pelo regime de competência, pelo qual receitas e despesas são reconhecidas quando incorridas, independentemente de pagamento ou recebimento. Contudo, a Demonstração dos Fluxos de Caixa é elaborada pelo regime de caixa. Portanto, é incorreto afirmar que nenhum outro regime é admitido no conjunto das demonstrações.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-04-005",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "Devem ser classificados no ativo circulante os ativos financeiros que estejam sendo mantidos essencialmente com o propósito de serem negociados, bem como a parcela a realizar no prazo de até doze meses após a data do balanço de ativos financeiros não circulantes.",
+      "resposta": "certo",
+      "comentario": "Item correto. O CPC 26 (R1), item 66, define os critérios para classificar um ativo como circulante: espera-se que seja realizado ou vendido no ciclo operacional; está mantido essencialmente para ser negociado; espera-se que seja realizado até doze meses após a data do balanço; ou é caixa ou equivalente de caixa. O item 68 acrescenta que, quando um ativo de longo prazo contiver parcela realizável nos próximos doze meses, essa porção deve ser segregada e classificada no ativo circulante.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-006",
+      "banca": "CEBRASPE",
+      "orgao": "Pref. Camaçari",
+      "cargo": "Técnico Fazendário",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "De acordo com as disposições da Lei n.º 6.404/1976 em vigor, assinale a opção correta.",
+      "opcoes": [
+        "A) O ativo não circulante é composto por ativo realizável a longo prazo, investimentos, imobilizado e permanente.",
+        "B) No ativo, as contas deverão ser dispostas em ordem crescente do grau de liquidez.",
+        "C) As participações permanentes em outras sociedades que não se destinem à manutenção da atividade da companhia ou da empresa devem ser contabilizadas no ativo intangível.",
+        "D) Os bens corpóreos destinados à manutenção das atividades da companhia deverão ser contabilizados no ativo imobilizado.",
+        "E) Quando o ciclo operacional da empresa tiver duração menor que doze meses, a classificação no circulante ou no longo prazo terá por base o prazo desse ciclo."
+      ],
+      "resposta": "D",
+      "comentario": "A está errada: o ativo não circulante é composto por realizável a longo prazo, investimentos, imobilizado e intangível — o subgrupo 'permanente' não existe na lei vigente. B está errada: as contas do ativo são dispostas em ordem decrescente (não crescente) do grau de liquidez, conforme o art. 178, §1º. C está errada: as participações permanentes em outras sociedades que não se destinem à manutenção da atividade são classificadas em Investimentos, não em Intangível. D está correta: o art. 179, IV, classifica no imobilizado os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades. E está errada: a classificação pelo prazo do ciclo operacional ocorre somente quando este for maior que doze meses; se for menor, prevalece o exercício social de doze meses.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-007",
+      "banca": "CEBRASPE",
+      "orgao": "SEPLAG-CE",
+      "cargo": "Analista",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "O ativo não circulante é composto por ativo realizável a longo prazo, investimentos, imobilizado e intangível.",
+      "resposta": "certo",
+      "comentario": "Item correto. O art. 179 da Lei 6.404/76 define as subdivisões do ativo não circulante: realizável a longo prazo (direitos realizáveis após o término do exercício seguinte, incluindo créditos com pessoas ligadas em operações não usuais); investimentos (participações permanentes em outras sociedades e direitos não classificáveis no circulante que não se destinem à manutenção da atividade); imobilizado (bens corpóreos destinados à manutenção das atividades); intangível (bens incorpóreos destinados à manutenção da companhia, inclusive fundo de comércio adquirido).",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-04-008",
+      "banca": "CEBRASPE",
+      "orgao": "TRF-6ª Região",
+      "cargo": "Analista",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "Uma sociedade anônima aberta do setor de varejo apresenta o seguinte balancete de verificação, com contas em ordem alfabética e saldos em módulo (em R$): Ações em tesouraria (500), Caixa (100), Capital social (3.000), Clientes (600), Contas a pagar em 3 anos (1.500), Contas a receber em 1.000 dias (2.500), Depreciação acumulada (200), Estoques (500), Fornecedores (200), Impostos a recolher (100), Máquinas (700), Provisões cíveis (100), Reserva legal (600), Terrenos (800). Com base nessas informações, julgue o item a seguir. As disponibilidades da empresa em questão totalizam R$ 100.",
+      "resposta": "certo",
+      "comentario": "As disponibilidades são elementos que representam dinheiro ou que nele possam ser convertidos de forma imediata: caixa, contas bancárias de livre movimentação, numerários em trânsito e aplicações financeiras de curto prazo de alta liquidez. Do balancete apresentado, a única conta de disponibilidades é o Caixa, com saldo de R$ 100. As demais contas do ativo não constituem disponibilidades. Portanto, as disponibilidades totalizam R$ 100.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-04-009",
+      "banca": "CEBRASPE",
+      "orgao": "TRF-6ª Região",
+      "cargo": "Analista",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "Uma sociedade anônima aberta do setor de varejo apresenta o seguinte balancete de verificação, com contas em ordem alfabética e saldos em módulo (em R$): Ações em tesouraria (500), Caixa (100), Capital social (3.000), Clientes (600), Contas a pagar em 3 anos (1.500), Contas a receber em 1.000 dias (2.500), Depreciação acumulada (200), Estoques (500), Fornecedores (200), Impostos a recolher (100), Máquinas (700), Provisões cíveis (100), Reserva legal (600), Terrenos (800). Com base nessas informações, julgue o item a seguir. O total do ativo da referida empresa é de R$ 5.500.",
+      "resposta": "errado",
+      "comentario": "O total do ativo é R$ 5.000, não R$ 5.500. Identificando as contas do ativo: Caixa (100) — disponibilidades; Clientes (600) — ativo circulante; Estoques (500) — ativo circulante; Contas a receber em 1.000 dias (2.500) — realizável a longo prazo; Máquinas (700) — imobilizado; (-) Depreciação acumulada (200) — redutora do imobilizado; Terrenos (800) — imobilizado. Ações em tesouraria (500) é conta retificadora do patrimônio líquido, não do ativo. Total do ativo = 100 + 600 + 500 + 2.500 - 200 + 700 + 800 = R$ 5.000.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-010",
+      "banca": "CEBRASPE",
+      "orgao": "TRF-6ª Região",
+      "cargo": "Técnico",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "Na contratação de um seguro anual por uma entidade, a contabilização correta, pelo montante total da despesa, é a apresentada a seguir. Débito: despesas de seguros. Crédito: caixa, bancos ou seguros a pagar.",
+      "resposta": "errado",
+      "comentario": "Item errado. A contabilidade utiliza o regime de competência: despesas só são reconhecidas quando incorridas. Ao contratar e pagar um seguro anual antecipadamente, a entidade não pode reconhecer a despesa integral de imediato, pois o fato gerador (o período segurado) ainda não ocorreu. O lançamento correto na contratação é: débito em Seguros Antecipados (ativo) e crédito em Caixa/Bancos ou Seguros a Pagar. A cada mês, conforme o período segurado transcorre, apropria-se 1/12 do valor como despesa: débito em Despesas de Seguros e crédito em Seguros Antecipados.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-011",
+      "banca": "FGV",
+      "orgao": "AL-TO",
+      "cargo": "Analista",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "De acordo com a Lei nº 6.404/1976 e modificações, ao fim de cada exercício social, as seguintes demonstrações deverão ser elaboradas pelas companhias, à exceção de uma. Assinale-a.",
+      "opcoes": [
+        "A) Balanço patrimonial.",
+        "B) Demonstração dos fluxos de caixa.",
+        "C) Demonstração do resultado do exercício.",
+        "D) Demonstração dos lucros ou prejuízos acumulados.",
+        "E) Demonstração das origens e aplicações de recursos."
+      ],
+      "resposta": "E",
+      "comentario": "A Demonstração de Origens e Aplicações de Recursos (DOAR) deixou de ser obrigatória com as modificações da Lei 11.638/2007 e da Lei 11.941/2009, sendo substituída pela DFC. As demonstrações obrigatórias são: Balanço Patrimonial (todas as companhias), DRE (todas), DLPA (todas, podendo ser substituída pela DMPL nas abertas), DFC (todas, exceto companhia fechada com PL inferior a R$ 2.000.000) e DVA (somente companhias abertas). A DOAR não é mais exigida, embora não tenha sido extinta pela lei.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-012",
+      "banca": "FGV",
+      "orgao": "AL-TO",
+      "cargo": "Analista",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma loja realiza vendas à vista ou a prazo. Em 31/12/2022, a loja contabilizou receita de vendas de R$500.000, para recebimento em 2024. Na data, estimava inadimplência de 4%. Em 31/12/2023, a loja auferiu receita de vendas de R$400.000, para recebimento em 2025. Na data, sua estimativa em relação ao risco de inadimplência foi reduzida para 3%. Assinale a opção que indica o saldo em perdas estimadas com crédito de liquidação duvidosa em 31/12/2022 e em 31/12/2023, respectivamente.",
+      "opcoes": [
+        "A) R$15.000 e R$12.000.",
+        "B) R$15.000 e R$27.000.",
+        "C) R$20.000 e R$12.000.",
+        "D) R$20.000 e R$27.000.",
+        "E) R$20.000 e R$32.000."
+      ],
+      "resposta": "D",
+      "comentario": "Em 31/12/2022: receita de R$ 500.000 com inadimplência de 4%. PECLD constituída = R$ 20.000 (500.000 × 4%). Em 31/12/2023: nova venda de R$ 400.000, inadimplência de 3%. O total de contas a receber passa a R$ 900.000 (500.000 + 400.000) e a PECLD necessária passa a R$ 27.000 (900.000 × 3%). Como já existe saldo de R$ 20.000 na PECLD, constitui-se apenas R$ 7.000 adicionais, chegando ao saldo final de R$ 27.000. Portanto: saldo em 31/12/2022 = R$ 20.000 e saldo em 31/12/2023 = R$ 27.000.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-04-013",
+      "banca": "FGV",
+      "orgao": "ALEP",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 10/01/2023, uma sociedade empresária emprestou R$25.000 a seu sócio, para pagamento em 6 meses. Em 10/06/2023, o sócio comunicou à sociedade empresária que pagaria o empréstimo em novembro de 2024. Assinale a opção que indica a classificação do empréstimo no balanço patrimonial da sociedade empresária antes e depois do anúncio de atraso no pagamento.",
+      "opcoes": [
+        "A) Ativo Circulante e Ativo Circulante.",
+        "B) Passivo Circulante e Passivo Circulante.",
+        "C) Passivo não Circulante e Passivo não Circulante.",
+        "D) Ativo Circulante e Ativo Realizável a Longo Prazo.",
+        "E) Ativo Realizável a Longo Prazo e Ativo Realizável a Longo Prazo."
+      ],
+      "resposta": "E",
+      "comentario": "Transações não usuais com pessoas ligadas — coligadas, controladas, diretores, administradores, sócios, acionistas ou participantes no lucro — são classificadas no ativo não circulante realizável a longo prazo, independentemente do prazo de recebimento. Isso está previsto no art. 179, II, da Lei 6.404/76. Portanto, tanto antes quanto depois do anúncio de atraso, o empréstimo ao sócio é classificado no ativo realizável a longo prazo. O prazo de recebimento não altera essa classificação.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-014",
+      "banca": "FGV",
+      "orgao": "ALEP",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Um supermercado apresentava os seguintes saldos em 31/12/2023: Caixa: R$40.000; Estoque de produtos perecíveis: R$80.000; Estoque de produtos não perecíveis: R$100.000; Contas a receber em até 60 dias: R$120.000; Conta corrente no banco: R$150.000; Investimentos no banco para resgate em um ano: R$170.000. Assinale a opção que indica o saldo de Caixa e equivalentes de Caixa, apresentado na Demonstração dos Fluxos de Caixa em 31/12/2023.",
+      "opcoes": [
+        "A) R$190.000.",
+        "B) R$270.000.",
+        "C) R$310.000.",
+        "D) R$390.000.",
+        "E) R$560.000."
+      ],
+      "resposta": "A",
+      "comentario": "Caixa e equivalentes de caixa incluem: caixa, contas bancárias de livre movimentação e aplicações financeiras de curto prazo de alta liquidez, prontamente conversíveis em caixa e com insignificante risco de variação de valor. Do balancete: Caixa (R$ 40.000) — disponibilidade; Conta corrente no banco (R$ 150.000) — disponibilidade. Estoques não são disponibilidades; contas a receber não são disponibilidades; investimentos para resgate em um ano não são equivalentes de caixa, pois o prazo de aplicação supera 90 dias. Total de caixa e equivalentes = R$ 40.000 + R$ 150.000 = R$ 190.000.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-015",
+      "banca": "FGV",
+      "orgao": "ALEP",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em janeiro de 2024, uma sociedade empresária estimou que as suas perdas com crédito de liquidação duvidosa no período seriam de R$200.000. Assinale a opção que indica o impacto do reconhecimento no balanço patrimonial da sociedade empresária neste mês.",
+      "opcoes": [
+        "A) não há impacto.",
+        "B) diminuição no saldo da conta Caixa.",
+        "C) diminuição no saldo da conta Clientes.",
+        "D) diminuição no saldo da conta Estoques.",
+        "E) aumento no saldo da conta Estoques."
+      ],
+      "resposta": "C",
+      "comentario": "A constituição da PECLD gera o lançamento: débito em Despesa com PECLD (resultado, diminui o PL) e crédito em PECLD — Perdas Estimadas com Créditos de Liquidação Duvidosa (conta retificadora de Clientes, reduz o ativo). Como a PECLD é retificadora de Clientes, sua constituição diminui o valor líquido da conta Clientes no balanço. A conta Caixa não é afetada pois não há movimentação financeira. A conta Estoques tampouco é afetada — não confundir PECLD com perdas estimadas com desvalorização de estoques.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-016",
+      "banca": "FGV",
+      "orgao": "ALEP",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 01/08/2023, um restaurante pagou antecipadamente R$36.000, referente ao seguro de três anos das motos que faziam as entregas. A vigência do seguro teve início em 01/09/2023. Em 31/12/2023, a parcela do seguro apresentada no ativo realizável a longo prazo era de",
+      "opcoes": [
+        "A) R$16.000.",
+        "B) R$18.000.",
+        "C) R$19.000.",
+        "D) R$20.000.",
+        "E) R$24.000."
+      ],
+      "resposta": "D",
+      "comentario": "O seguro tem vigência de 36 meses a partir de 01/09/2023, ao custo mensal de R$ 1.000 (36.000 ÷ 36). Entre setembro e dezembro de 2023 decorreram 4 meses, portanto R$ 4.000 foram apropriados como despesa. Restam 32 meses: 12 meses a apropriar no exercício seguinte (jan–dez/2024), classificados no ativo circulante; 20 meses além disso (jan/2025–ago/2026), classificados no ativo realizável a longo prazo. Saldo no realizável a longo prazo em 31/12/2023 = 20 × R$ 1.000 = R$ 20.000.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-04-017",
+      "banca": "FGV",
+      "orgao": "CFC",
+      "cargo": "Exame de Suficiência",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Conforme a Lei n.º 6.404/76, no Balanço Patrimonial, as contas do ativo são apresentadas de acordo com a ordem decrescente de grau de",
+      "opcoes": [
+        "A) liquidez.",
+        "B) relevância.",
+        "C) objetividade.",
+        "D) valor monetário."
+      ],
+      "resposta": "A",
+      "comentario": "O art. 178, §1º, da Lei 6.404/76 determina que no ativo as contas sejam dispostas em ordem decrescente do grau de liquidez. Liquidez representa a facilidade de conversão de um ativo em dinheiro. Assim, inicia-se pelo Caixa (já é dinheiro), seguido por Bancos, aplicações de liquidez imediata, contas a receber de curto prazo, estoques, e por último os itens de menor liquidez, como terrenos e demais imobilizados.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-04-018",
+      "banca": "FGV",
+      "orgao": "CFC",
+      "cargo": "Exame de Suficiência",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em relação aos ativos, no Balanço Patrimonial de uma entidade, assinale a afirmativa correta, de acordo com a Lei nº 6.404/76 e alterações.",
+      "opcoes": [
+        "A) No intangível estão as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante.",
+        "B) No imobilizado estão os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia ou exercidos com essa finalidade.",
+        "C) Em investimentos estão os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da entidade ou exercidos com essa finalidade.",
+        "D) No circulante estão as disponibilidades, os direitos realizáveis no curso do exercício social subsequente e as aplicações de recursos em despesas do exercício seguinte."
+      ],
+      "resposta": "D",
+      "comentario": "A alternativa A traz a definição de Investimentos — não de Intangível. B apresenta a definição de Intangível (bens incorpóreos) atribuída ao Imobilizado. C apresenta a definição de Imobilizado (bens corpóreos) atribuída a Investimentos. D está correta: o art. 179, I, da Lei 6.404/76 define o ativo circulante como composto pelas disponibilidades, pelos direitos realizáveis no curso do exercício social subsequente e pelas aplicações de recursos em despesas do exercício seguinte.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-019",
+      "banca": "FGV",
+      "orgao": "CFC",
+      "cargo": "Exame de Suficiência",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 31/12/2023, a Cia Lua apresentava os seguintes saldos em seu ativo: Aplicações financeiras com vencimento em 720 dias: R$70.000; Clientes com previsão de recebimento em 380 dias: R$60.000; Disponibilidades: R$50.000; Estoques com previsão de venda em até 180 dias: R$40.000; Perdas estimadas com crédito de liquidação duvidosa: R$6.000; Perdas estimadas com desvalorização de estoque: R$8.000. Assinale a opção que indica o saldo do ativo circulante em 31/12/2023.",
+      "opcoes": [
+        "A) R$76.000.",
+        "B) R$82.000.",
+        "C) R$90.000.",
+        "D) R$136.000."
+      ],
+      "resposta": "B",
+      "comentario": "Ativo circulante: Disponibilidades (R$ 50.000) e Estoques com venda em até 180 dias (R$ 40.000), menos (-) Perdas estimadas com desvalorização de estoque (R$ 8.000). Ativo não circulante: Clientes com recebimento em 380 dias (acima de 365 dias do balanço — realizável a longo prazo), menos (-) PECLD (R$ 6.000); Aplicações financeiras com vencimento em 720 dias (realizável a longo prazo). Saldo do ativo circulante = R$ 50.000 + R$ 40.000 - R$ 8.000 = R$ 82.000.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-04-020",
+      "banca": "FGV",
+      "orgao": "CGM Niterói",
+      "cargo": "Auditor",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 30/09/2024, uma loja de roupas apresentava em seu Balanço Patrimonial um saldo de R$12.000, em conta corrente bancária e R$10.000, em estoque. Em outubro de 2024 a loja vendeu todo o estoque por R$60.000. O valor foi recebido do seguinte modo: R$10.000 em dinheiro; R$14.000, perante emissão de boleto bancário, que poderia ser pago a partir de 05/11/2024 e cuja data de vencimento era 30/11/2024; R$36.000, em cartão de crédito, sendo que devem ser recebidos R$3.000, mensalmente, nos meses seguintes, a partir de novembro. Considerando apenas esses fatos, assinale a opção que indica o saldo em Disponibilidades, no Ativo Circulante, em 31/10/2024.",
+      "opcoes": [
+        "A) R$22.000,00.",
+        "B) R$31.000,00.",
+        "C) R$36.000,00.",
+        "D) R$39.000,00.",
+        "E) R$45.000,00."
+      ],
+      "resposta": "A",
+      "comentario": "Disponibilidades incluem caixa e contas bancárias de livre movimentação. Em 31/10/2024: conta corrente bancária (R$ 12.000, saldo inicial) e recebimento em dinheiro em outubro (R$ 10.000). O boleto de R$ 14.000 tem data de pagamento a partir de 05/11/2024 — não foi recebido em outubro, portanto não integra disponibilidades em 31/10. O cartão de crédito de R$ 36.000 começa a ser recebido somente em novembro — tampouco compõe disponibilidades em 31/10. Total de disponibilidades em 31/10/2024 = R$ 12.000 + R$ 10.000 = R$ 22.000.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-04-021",
+      "banca": "FGV",
+      "orgao": "CM Fortaleza",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma sociedade empresária realizou as seguintes vendas a prazo no ano de 2023: em 10/jan (R$50.000, recebimento em 10/12/2023), em 11/mar (R$80.000, recebimento em 10/02/2024), em 15/mai (R$70.000, recebimento em 12/05/2024), em 18/jul (R$90.000, recebimento em 30/07/2024), em 12/set (R$40.000, recebimento em 05/12/2024) e em 14/nov (R$100.000, recebimento em 08/01/2025). A sociedade empresária estima inadimplência de 4%. Assinale a opção que indica o saldo das contas a receber de clientes classificadas no ativo circulante da sociedade empresária, em seu balanço patrimonial, em 31/12/2023.",
+      "opcoes": [
+        "A) R$144.000.",
+        "B) R$230.400.",
+        "C) R$268.800.",
+        "D) R$280.000.",
+        "E) R$318.800."
+      ],
+      "resposta": "C",
+      "comentario": "A venda de 10/jan (R$ 50.000) foi recebida em 10/12/2023 — sem saldo a receber em 31/12. A venda de 14/nov (R$ 100.000) tem recebimento em 08/01/2025, após o final do exercício subsequente (31/12/2024) — vai para o ativo não circulante. As demais vendas (março, maio, julho, setembro), com recebimento até 05/12/2024, ficam no ativo circulante. Total bruto de clientes no AC = R$ 80.000 + R$ 70.000 + R$ 90.000 + R$ 40.000 = R$ 280.000. PECLD de 4% = R$ 11.200. Saldo líquido do AC = R$ 280.000 - R$ 11.200 = R$ 268.800.",
+      "dificuldade": 4
+    },
+    {
+      "id": "cg-04-022",
+      "banca": "FGV",
+      "orgao": "EPE",
+      "cargo": "Analista",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma loja apresentava os seguintes dados em seu ativo, em 01/12/2023: Disponibilidades: R$10.000; Estoques com previsão de venda em até 6 meses: R$40.000; Clientes com previsão de recebimento em 18 meses: R$50.000; Terrenos destinados à valorização: R$60.000; Perdas estimadas com crédito de liquidação duvidosa: R$500. Em dezembro de 2023, a loja constatou que a inadimplência era estimada em 4% e que os estoques tinham perdas estimadas de 10%. Considerando apenas esses fatos, assinale a opção que indica o ativo circulante da loja, em 31/12/2023.",
+      "opcoes": [
+        "A) R$40.000.",
+        "B) R$46.000.",
+        "C) R$50.000.",
+        "D) R$44.000.",
+        "E) R$94.000."
+      ],
+      "resposta": "B",
+      "comentario": "Ativo circulante em 01/12/2023: Disponibilidades (R$ 10.000) + Estoques (R$ 40.000) = R$ 50.000. Clientes com recebimento em 18 meses ficam no ativo não circulante realizável a longo prazo. Em dezembro: a PECLD passou para 4% sobre R$ 50.000 = R$ 2.000 — afeta o ANC (retificadora de Clientes). Os estoques sofreram perda estimada de 10% sobre R$ 40.000 = R$ 4.000, reduzindo o circulante. Ativo circulante em 31/12/2023 = R$ 10.000 + R$ 40.000 - R$ 4.000 = R$ 46.000.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-04-023",
+      "banca": "FGV",
+      "orgao": "Pref. Caraguatatuba",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma entidade possui uma conta bancária especial destinada ao pagamento de sua folha salarial. A conta é mantida como medida interna de controle, para facilitar a operação e pode ser movimentada pela entidade por meio de transferências bancárias. Assinale a opção que indica a classificação dessa conta no balanço patrimonial da entidade.",
+      "opcoes": [
+        "A) Contas a pagar, no passivo circulante.",
+        "B) Disponibilidades, no ativo circulante.",
+        "C) Despesas a pagar, no passivo circulante.",
+        "D) Despesas antecipadas, no ativo circulante.",
+        "E) Aplicações financeiras, no ativo circulante."
+      ],
+      "resposta": "B",
+      "comentario": "Disponibilidades incluem contas bancárias — inclusive as com destinação específica, como as destinadas ao pagamento de folha de pagamento, dividendos ou filiais. O fato de a conta ter destinação específica não altera sua natureza de disponibilidade, pois pode ser livremente movimentada por transferência bancária. Portanto, classifica-se como disponibilidades, no ativo circulante.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-024",
+      "banca": "FGV",
+      "orgao": "Pref. Caraguatatuba",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 31/12/2022, uma sociedade empresária apresentava as seguintes contas em seus ativos: Contas a receber de clientes: R$50.000; Contas a receber de partes relacionadas, decorrentes de transações operacionais: R$45.000; Contas a receber de partes relacionadas, não decorrentes de transações operacionais: R$30.000. Os três recebimentos estavam previstos para março de 2023. No Balanço Patrimonial da sociedade empresária, os saldos do ativo circulante e do ativo realizável a longo prazo, em 31/12/2022, eram, respectivamente, de",
+      "opcoes": [
+        "A) Zero e R$125.000.",
+        "B) R$50.000 e R$75.000.",
+        "C) R$80.000 e R$45.000.",
+        "D) R$95.000 e R$30.000.",
+        "E) R$125.000 e zero."
+      ],
+      "resposta": "D",
+      "comentario": "Pela Lei 6.404/76, art. 179, II, créditos derivados de transações não usuais com pessoas ligadas são classificados no realizável a longo prazo, independentemente do prazo. Contas a receber de clientes (R$ 50.000): transação usual, prazo curto — ativo circulante. Contas a receber de partes relacionadas operacionais (R$ 45.000): transação usual (operacional), prazo de março/2023 dentro do exercício subsequente — ativo circulante. Contas a receber de partes relacionadas não operacionais (R$ 30.000): transação não usual — realizável a longo prazo, independentemente do prazo. Ativo circulante = R$ 50.000 + R$ 45.000 = R$ 95.000. Realizável a longo prazo = R$ 30.000.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-04-025",
+      "banca": "FGV",
+      "orgao": "Pref. Caraguatatuba",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma sociedade empresária que trabalhava com a venda de livros adquiriu, em junho de 2022, R$20.000 em estoque, com a intenção de vendê-lo até janeiro de 2023. Ainda, adquiriu, por R$30.000, participação permanente em outra sociedade. As compras resultaram no aumento dos seguintes grupos de ativos, respectivamente,",
+      "opcoes": [
+        "A) Circulante e Investimentos.",
+        "B) Circulante e Imobilizado.",
+        "C) Realizável a Longo Prazo e Intangível.",
+        "D) Realizável a Longo Prazo e Imobilizado.",
+        "E) Realizável a Longo Prazo e Investimentos."
+      ],
+      "resposta": "A",
+      "comentario": "O estoque de mercadorias destinado à revenda no curto prazo é classificado no ativo circulante: enquadra-se no critério do CPC 26, item 66a — pretende-se que seja vendido no ciclo operacional normal. A participação permanente em outra sociedade é classificada em Investimentos, conforme o art. 179, III, da Lei 6.404/76: as participações permanentes em outras sociedades, não classificáveis no circulante e que não se destinem à manutenção da atividade, vão para Investimentos.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-026",
+      "banca": "FGV",
+      "orgao": "Pref. São José dos Campos",
+      "cargo": "Analista em Gestão Municipal",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "A Cia Contábil presta serviços de consultoria. Ela tem participação permanente na Cia Decoração, classificando-a como coligada. Em 30/12/2022, a Cia Contábil emprestou à Cia Decoração R$50.000 para recebimento em 31/10/2023. Assinale a opção que indica, respectivamente, a contabilização da participação na Cia Decoração e do empréstimo realizado a ela, no balanço patrimonial da Cia Contábil, em 31/12/2022.",
+      "opcoes": [
+        "A) Investimentos, Investimentos.",
+        "B) Investimentos, Ativo Circulante.",
+        "C) Ativo Imobilizado, Ativo Circulante.",
+        "D) Investimentos, Ativo Realizável a Longo Prazo.",
+        "E) Ativo Realizável a Longo Prazo, Ativo Realizável a Longo Prazo."
+      ],
+      "resposta": "D",
+      "comentario": "A participação permanente na Cia Decoração (coligada) é classificada em Investimentos: o art. 179, III, da Lei 6.404/76 prevê que as participações permanentes em outras sociedades, não classificáveis no circulante e que não se destinem à manutenção da atividade, vão para Investimentos. O empréstimo de R$ 50.000 à coligada, ainda que com prazo de recebimento inferior a 12 meses, vai para o ativo realizável a longo prazo. O art. 179, II, determina que empréstimos a coligadas que não constituam negócios usuais são classificados no realizável a longo prazo, independentemente do prazo. A atividade usual da Cia Contábil é consultoria — empréstimos não são negócio usual.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-027",
+      "banca": "FGV",
+      "orgao": "SES-MT",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Os seguintes saldos são apresentados no balanço patrimonial de uma sociedade empresária, que presta serviços de arquitetura, em 31/12/2023: adiantamentos concedidos a acionistas (90 dias): R$30.000; disponibilidades: R$50.000; empréstimos à sociedade coligada (120 dias): R$70.000; clientes (60 dias): R$80.000; terreno utilizado na atividade fim: R$90.000. Assinale a opção que indica o saldo do ativo realizável a longo prazo da sociedade empresária, em 31/12/2023.",
+      "opcoes": [
+        "A) Zero.",
+        "B) R$30.000.",
+        "C) R$50.000.",
+        "D) R$100.000."
+      ],
+      "resposta": "D",
+      "comentario": "Disponibilidades (R$ 50.000) — ativo circulante. Clientes, 60 dias (R$ 80.000) — ativo circulante (prazo dentro do exercício subsequente). Terreno utilizado na atividade fim (R$ 90.000) — ativo imobilizado (bem corpóreo destinado à manutenção das atividades). Adiantamentos a acionistas, 90 dias (R$ 30.000) — realizável a longo prazo, independentemente do prazo, pois é transação não usual com pessoa ligada. Empréstimos à coligada, 120 dias (R$ 70.000) — realizável a longo prazo, independentemente do prazo, pois empréstimos a coligadas não são negócio usual de empresa de arquitetura. Saldo do realizável a longo prazo = R$ 30.000 + R$ 70.000 = R$ 100.000.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-04-028",
+      "banca": "FGV",
+      "orgao": "SES-MT",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma sociedade empresária oferece palestras motivacionais por R$1.000. Em janeiro de 2024, ela realizou dez palestras, sendo que todos os clientes receberam prazo de 90 dias para o pagamento. A sociedade empresária estima inadimplência total de 2%. Assinale a opção que indica a variação dos saldos no balanço patrimonial da sociedade empresária, em janeiro.",
+      "opcoes": [
+        "A) Aumento de R$10.000 no ativo e no passivo.",
+        "B) Aumento de R$9.800 no ativo e no passivo.",
+        "C) Aumento de R$9.800 no ativo e no patrimônio líquido.",
+        "D) Aumento de R$10.000 no ativo, de R$9.800 no patrimônio líquido e de R$200 no passivo."
+      ],
+      "resposta": "C",
+      "comentario": "Lançamento da prestação de serviços (10 × R$ 1.000): débito em Clientes (ativo +R$ 10.000) e crédito em Receita de Vendas (PL +R$ 10.000). Lançamento da PECLD de 2% sobre R$ 10.000 = R$ 200: débito em Despesa com PECLD (PL -R$ 200) e crédito em PECLD (retificadora de ativo, ativo -R$ 200). Efeito líquido: ativo +R$ 10.000 - R$ 200 = +R$ 9.800; PL +R$ 10.000 - R$ 200 = +R$ 9.800; passivo: sem variação. A equação patrimonial se mantém: variação do ativo = variação do passivo + variação do PL.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-04-029",
+      "banca": "FGV",
+      "orgao": "TCE-PA",
+      "cargo": "Auditor",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "No Balanço Patrimonial de uma sociedade empresária, os direitos derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas, diretores, acionistas ou participantes no lucro da companhia não são classificados como ativo realizável a longo prazo quando",
+      "opcoes": [
+        "A) envolvem valores considerados sem verificabilidade.",
+        "B) constituem negócios usuais na exploração do objeto da companhia.",
+        "C) apresentam prazo de realização de até um ano a partir da data final do balanço.",
+        "D) apresentam prazo de realização no exercício social corrente ao da data final do balanço.",
+        "E) têm por objeto bens corpóreos destinados à manutenção das atividades ou exercidos com essa finalidade."
+      ],
+      "resposta": "B",
+      "comentario": "O art. 179, II, da Lei 6.404/76 determina que créditos derivados de vendas, adiantamentos ou empréstimos a pessoas ligadas que não constituam negócios usuais sejam classificados no realizável a longo prazo, independentemente do prazo. A exceção ocorre quando a operação constitui negócio usual na exploração do objeto da companhia — nesse caso, segue a regra geral do prazo (circulante se realizável no exercício seguinte). A verificabilidade (A) e o prazo de realização (C e D) são irrelevantes para essa classificação. A descrição de bens corpóreos (E) caracteriza o imobilizado, não o realizável.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-04-030",
+      "banca": "FGV",
+      "orgao": "TCE-RR",
+      "cargo": "Auditor",
+      "ano": 2025,
+      "tipo": "multipla_escolha",
+      "enunciado": "Das contas a seguir, a que pode ser classificada como ativo circulante ou realizável a longo prazo, dependendo do prazo de realização é",
+      "opcoes": [
+        "A) disponibilidades.",
+        "B) ativo contingente.",
+        "C) estoques.",
+        "D) receita antecipada.",
+        "E) adiantamento a diretores."
+      ],
+      "resposta": "C",
+      "comentario": "Disponibilidades (A) sempre ficam no ativo circulante, pela Lei 6.404/76, art. 179, I. Ativo contingente (B) não é reconhecido nas demonstrações contábeis. Receita antecipada (D) é conta do passivo. Adiantamento a diretores (E) é classificado no realizável a longo prazo independentemente do prazo — trata-se de transação não usual com pessoa ligada, conforme art. 179, II. Estoques (C) são, em regra, circulantes, mas se o prazo de venda for informado e superar o exercício social subsequente, devem ser classificados no ativo não circulante. Portanto, podem ser circulantes ou realizáveis a longo prazo dependendo do prazo informado.",
+      "dificuldade": 2
+    }
+  ]
+}
