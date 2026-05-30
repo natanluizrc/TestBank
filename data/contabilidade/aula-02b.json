@@ -5,7 +5,7 @@
   "questoes": [
     {
       "id": "cg-02b-001",
-      "banca": "Verbena",
+      "banca": "VERBENA",
       "orgao": "UFG",
       "cargo": "Contador",
       "ano": 2023,
@@ -22,7 +22,7 @@
     },
     {
       "id": "cg-02b-002",
-      "banca": "Verbena",
+      "banca": "VERBENA",
       "orgao": "UFG",
       "cargo": "Contador",
       "ano": 2023,
@@ -183,7 +183,7 @@
     },
     {
       "id": "cg-02b-011",
-      "banca": "Legalle",
+      "banca": "LEGALLE",
       "orgao": "SANEP",
       "cargo": "Escrevente",
       "ano": 2021,
@@ -1645,7 +1645,7 @@
     },
     {
       "id": "cg-02b-097",
-      "banca": "Verbena",
+      "banca": "VERBENA",
       "orgao": "TJ AC",
       "cargo": "Contador",
       "ano": 2024,
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "cg-02b-099",
-      "banca": "CONSULPAM",
+      "banca": "CONSULPLAN",
       "orgao": "ICTIM",
       "cargo": "Contador",
       "ano": 2023,

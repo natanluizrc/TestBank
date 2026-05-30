@@ -1443,7 +1443,7 @@
     },
     {
       "id": "cg-03-077",
-      "banca": "Verbena",
+      "banca": "VERBENA",
       "orgao": "IF GOIANO",
       "cargo": "Contador",
       "ano": 2023,
@@ -1480,7 +1480,7 @@
     },
     {
       "id": "cg-03-079",
-      "banca": "CONSULPAM",
+      "banca": "CONSULPLAN",
       "orgao": "TCM PA",
       "cargo": "Técnico de Controle Externo",
       "ano": 2023,
@@ -1609,7 +1609,7 @@
     },
     {
       "id": "cg-03-086",
-      "banca": "Verbena",
+      "banca": "VERBENA",
       "orgao": "UFG",
       "cargo": "Técnico em Contabilidade",
       "ano": 2023,
@@ -1794,7 +1794,7 @@
     },
     {
       "id": "cg-03-097",
-      "banca": "Desconhecida",
+      "banca": "DESCONHECIDA",
       "tipo": "multipla_escolha",
       "enunciado": "(IADES/SES DF/ Contador/2018 20X1. As despesas com a prestação do serviço totalizaram R$ 10.100,00, sendo 70% desembolsados em maio e o restante no mês seguinte. e Caixa, foi, respectivamente,",
       "resposta": "D",
