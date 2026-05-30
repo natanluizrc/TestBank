@@ -330,21 +330,7 @@ button:disabled { cursor: default; }
 .opcao.errada { background: #fdf0f0; border-color: #c05050; color: #8a3030; }
 
 /* ---- Certo/Errado ---- */
-.btn-ce {
-  height: 2rem;
-  padding: 0 1.5rem;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  font-size: 0.9rem;
-  transition: background 0.1s, border-color 0.1s;
-}
-
-.btn-ce:hover:not(:disabled) { background: #f9f9f9; }
-.btn-ce.correta { background: #f0faf0; border-color: #4a9a5a; color: #2d6a3a; }
-.btn-ce.errada { background: #fdf0f0; border-color: #c05050; color: #8a3030; }
+/* .btn-ce herda todo o estilo de .opcao; sem overrides visuais */
 
 /* ---- Gabarito inline ---- */
 .gabarito-inline {
