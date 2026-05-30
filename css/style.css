@@ -409,8 +409,8 @@ button:disabled { cursor: default; }
 }
 
 .filtro-select.ativo {
-  border-color: #1d4ed8;
-  color: #1d4ed8;
+  border-color: #1a1a1a;
+  color: #1a1a1a;
   font-weight: 600;
 }
 
