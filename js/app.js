@@ -289,42 +289,32 @@ function renderListaQuestoes(questoes) {
     if (pl) pl.innerHTML = placarHtml();
   };
 
-  const FILTROS = ['filtro-banca', 'filtro-orgao', 'filtro-cargo', 'filtro-ano', 'filtro-tipo', 'filtro-dif'];
+  const FILTRO_CAMPO = {
+    'filtro-banca': q => q.banca,
+    'filtro-orgao': q => q.orgao,
+    'filtro-cargo': q => q.cargo,
+    'filtro-ano':   q => String(q.ano ?? ''),
+    'filtro-tipo':  q => q.tipo,
+    'filtro-dif':   q => String(q.dificuldade ?? ''),
+  };
+  const FILTROS = Object.keys(FILTRO_CAMPO);
+
+  const val = id => document.getElementById(id)?.value || '';
 
   const aplicarFiltros = () => {
-    const banca = document.getElementById('filtro-banca').value;
-    const orgao = document.getElementById('filtro-orgao').value;
-    const cargo = document.getElementById('filtro-cargo').value;
-    const ano   = document.getElementById('filtro-ano').value;
-    const dif   = document.getElementById('filtro-dif').value;
-    const tipo  = document.getElementById('filtro-tipo').value;
-
     questoesFiltradas = questoes.filter(q =>
-      (!banca || q.banca === banca) &&
-      (!orgao || q.orgao === orgao) &&
-      (!cargo || q.cargo === cargo) &&
-      (!ano   || String(q.ano) === ano) &&
-      (!dif   || String(q.dificuldade) === dif) &&
-      (!tipo  || q.tipo === tipo)
+      FILTROS.every(id => { const v = val(id); return !v || FILTRO_CAMPO[id](q) === v; })
     );
-
     const ids = new Set(questoesFiltradas.map(q => q.id));
-    area.querySelectorAll('.questao-card').forEach(card => {
-      card.classList.toggle('hidden', !ids.has(card.dataset.qid));
-    });
-
-    FILTROS.forEach(id => {
-      document.getElementById(id)?.classList.toggle('ativo', !!document.getElementById(id).value);
-    });
-
-    const algum = banca || orgao || cargo || ano || dif || tipo;
-    document.getElementById('btn-limpar-filtros')?.classList.toggle('hidden', !algum);
+    area.querySelectorAll('.questao-card').forEach(card =>
+      card.classList.toggle('hidden', !ids.has(card.dataset.qid))
+    );
+    FILTROS.forEach(id => document.getElementById(id)?.classList.toggle('ativo', !!val(id)));
+    document.getElementById('btn-limpar-filtros')?.classList.toggle('hidden', !FILTROS.some(id => val(id)));
     atualizarPlacar();
   };
 
-  FILTROS.forEach(id => {
-    document.getElementById(id)?.addEventListener('change', aplicarFiltros);
-  });
+  FILTROS.forEach(id => document.getElementById(id)?.addEventListener('change', aplicarFiltros));
 
   document.getElementById('btn-limpar-filtros')?.addEventListener('click', () => {
     FILTROS.forEach(id => {
