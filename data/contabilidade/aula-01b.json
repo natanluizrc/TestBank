@@ -30,11 +30,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à natureza contábil das contas, analise as assertivas e assinale a alternativa que aponta a(s) correta(s). I. As contas do ativo aumentam a débito e consequentemente diminuem a crédito. II. As contas do passivo e patrimônio líquido aumentam a crédito e consequentemente diminuem a débito. III. As contas de receitas e despesas têm natureza devedora e consequentemente diminuem a crédito.",
       "opcoes": [
-        "a) I, II e III.",
-        "b) Apenas I e II.",
-        "c) Apenas I e III.",
-        "d) Apenas II.",
-        "e) Apenas III."
+        "A) I, II e III.",
+        "B) Apenas I e II.",
+        "C) Apenas I e III.",
+        "D) Apenas II.",
+        "E) Apenas III."
       ],
       "resposta": "B",
       "comentario": "As afirmativas I e II estão corretas. I: contas de ativo são devedoras — aumentam a débito e diminuem a crédito. II: contas de passivo e PL são credoras — aumentam a crédito e diminuem a débito. A afirmativa III está errada: as contas de receitas possuem natureza credora (não devedora). Apenas as despesas têm natureza devedora.",
@@ -49,11 +49,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "A Cia. Felix Ltda. vendeu um produto que estava registrado pelo custo de aquisição de R$ 20.000,00. O preço da venda foi pelo valor de R$ 40.000,00, sendo o pagamento realizado da seguinte forma: metade do valor à vista e metade para recebimento em 90 dias. Com base apenas nessas informações, é correto afirmar que, após o lançamento da venda, o(a):",
       "opcoes": [
-        "a) empresa apresentou um resultado negativo de R$ 20.000,00.",
-        "b) passivo circulante da empresa aumentou em R$ 10.000,00.",
-        "c) passivo total da empresa diminuiu em R$ 20.000,00.",
-        "d) ativo total da empresa aumentou em R$ 20.000,00.",
-        "e) ativo da empresa aumentou em R$ 40.000,00."
+        "A) empresa apresentou um resultado negativo de R$ 20.000,00.",
+        "B) passivo circulante da empresa aumentou em R$ 10.000,00.",
+        "C) passivo total da empresa diminuiu em R$ 20.000,00.",
+        "D) ativo total da empresa aumentou em R$ 20.000,00.",
+        "E) ativo da empresa aumentou em R$ 40.000,00."
       ],
       "resposta": "D",
       "comentario": "Com a venda, a empresa recebeu R$ 20.000 à vista (aumento do caixa) e gerou um direito a receber de R$ 20.000 (novo ativo). Paralelamente, os estoques foram baixados em R$ 20.000 (redução do ativo). O resultado líquido no ativo é 20.000 + 20.000 - 20.000 = R$ 20.000 de aumento. O lucro de R$ 20.000 aumentou o patrimônio líquido. Não houve efeito no passivo.",
@@ -68,11 +68,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Em relação ao conceito de Patrimônio Líquido, assinale a alternativa INCORRETA.",
       "opcoes": [
-        "a) O Patrimônio Líquido ou Situação Líquida é a diferença matemática entre ativos (bens e direitos) e passivos (obrigações).",
-        "b) As fontes do patrimônio líquido de uma entidade são os investimentos dos sócios ou acionistas e os lucros provenientes da própria atividade empresarial.",
-        "c) O Patrimônio Líquido pode se apresentar positivo quando os ativos da entidade forem inferiores aos passivos, mas pode também se apresentar negativo quando os passivos da entidade forem inferiores aos ativos.",
-        "d) O Patrimônio Líquido pode se apresentar nulo quando os ativos forem exatamente iguais aos passivos.",
-        "e) Todos os componentes do patrimônio (bens, direitos e obrigações) devem ser mensurados para que seja possível apurar o Patrimônio Líquido."
+        "A) O Patrimônio Líquido ou Situação Líquida é a diferença matemática entre ativos (bens e direitos) e passivos (obrigações).",
+        "B) As fontes do patrimônio líquido de uma entidade são os investimentos dos sócios ou acionistas e os lucros provenientes da própria atividade empresarial.",
+        "C) O Patrimônio Líquido pode se apresentar positivo quando os ativos da entidade forem inferiores aos passivos, mas pode também se apresentar negativo quando os passivos da entidade forem inferiores aos ativos.",
+        "D) O Patrimônio Líquido pode se apresentar nulo quando os ativos forem exatamente iguais aos passivos.",
+        "E) Todos os componentes do patrimônio (bens, direitos e obrigações) devem ser mensurados para que seja possível apurar o Patrimônio Líquido."
       ],
       "resposta": "C",
       "comentario": "A alternativa C está incorreta porque os conceitos foram invertidos. O PL é positivo quando os ativos superam os passivos, e negativo quando os passivos superam os ativos. A alternativa afirmou o contrário. As demais estão corretas: PL = Ativo - Passivo; suas fontes são capital de sócios e lucros; pode ser nulo quando ativo igual passivo.",
@@ -155,11 +155,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "A respeito das contas de receitas e despesas, assinale a opção correta.",
       "opcoes": [
-        "a) As contas de receitas e despesas são contas de resultado, também denominadas de contas temporárias, pois seus saldos são encerrados para a apuração do resultado da entidade.",
-        "b) As contas de receitas e despesas, denominadas contas patrimoniais, são encerradas no final do período para a apuração do resultado.",
-        "c) Despesa corresponde à entrada de elementos para o ativo, sob a forma de dinheiro ou de direitos a receber.",
-        "d) Receitas representam o reconhecimento de um passivo, com o aumento de obrigações a serem cumpridas para com clientes.",
-        "e) As contas de despesas são de natureza credora, e as contas de receita são de natureza devedora."
+        "A) As contas de receitas e despesas são contas de resultado, também denominadas de contas temporárias, pois seus saldos são encerrados para a apuração do resultado da entidade.",
+        "B) As contas de receitas e despesas, denominadas contas patrimoniais, são encerradas no final do período para a apuração do resultado.",
+        "C) Despesa corresponde à entrada de elementos para o ativo, sob a forma de dinheiro ou de direitos a receber.",
+        "D) Receitas representam o reconhecimento de um passivo, com o aumento de obrigações a serem cumpridas para com clientes.",
+        "E) As contas de despesas são de natureza credora, e as contas de receita são de natureza devedora."
       ],
       "resposta": "A",
       "comentario": "A alternativa A está correta. As contas de receitas e despesas formam o grupo das contas de resultado, chamadas temporárias porque são zeradas ao final do exercício para apuração do resultado. As demais estão erradas: receitas e despesas são contas de resultado (não patrimoniais); despesa representa consumo de recursos (não entrada de ativos); receita decorre do ganho de recursos (não reconhecimento de passivo); despesas são devedoras e receitas são credoras.",
@@ -174,11 +174,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Um registro de débito na contabilidade de uma empresa tem o efeito de:",
       "opcoes": [
-        "a) aumentar os ativos e reduzir os passivos.",
-        "b) aumentar tanto os ativos como os passivos.",
-        "c) reduzir tanto os ativos como os passivos.",
-        "d) neutralidade: não altera nem os ativos nem os passivos.",
-        "e) reduzir os ativos e aumentar os passivos."
+        "A) aumentar os ativos e reduzir os passivos.",
+        "B) aumentar tanto os ativos como os passivos.",
+        "C) reduzir tanto os ativos como os passivos.",
+        "D) neutralidade: não altera nem os ativos nem os passivos.",
+        "E) reduzir os ativos e aumentar os passivos."
       ],
       "resposta": "A",
       "comentario": "Um lançamento a débito aumenta o saldo de contas devedoras (ativos e despesas) e diminui o saldo de contas credoras (passivos, PL e receitas). Portanto, um débito no ativo aumenta seu saldo, e um débito no passivo diminui seu saldo — o que equivale a dizer que o débito aumenta ativos e reduz passivos quando aplicado a essas contas especificamente.",
@@ -619,11 +619,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "De acordo com a teoria patrimonialista adotada pela contabilidade brasileira, são contas de origem devedora ou contas devedoras as seguintes contas:",
       "opcoes": [
-        "a) do Ativo; de Despesas; Retificadoras do Passivo Exigível; Retificadoras do PL.",
-        "b) do Ativo; de Receitas; Retificadoras do Ativo.",
-        "c) do Ativo; Retificadoras do Ativo; de Custos e Despesas.",
-        "d) do Passivo Exigível; Retificadoras do PL; Retificadoras do Passivo Exigível.",
-        "e) do Passivo; de Custos; de Despesas."
+        "A) do Ativo; de Despesas; Retificadoras do Passivo Exigível; Retificadoras do PL.",
+        "B) do Ativo; de Receitas; Retificadoras do Ativo.",
+        "C) do Ativo; Retificadoras do Ativo; de Custos e Despesas.",
+        "D) do Passivo Exigível; Retificadoras do PL; Retificadoras do Passivo Exigível.",
+        "E) do Passivo; de Custos; de Despesas."
       ],
       "resposta": "A",
       "comentario": "As contas de natureza devedora são: contas do Ativo (bens e direitos), contas de Despesas (resultado), Retificadoras do Passivo Exigível (natureza contrária ao passivo que é credor) e Retificadoras do PL (natureza contrária ao PL que é credor). A alternativa a lista exatamente essas quatro categorias.",
@@ -638,11 +638,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "De acordo com os elementos técnicoconceituais do método das partidas dobradas, na Contabilidade brasileira, os débitos são realizados, somente, nas contas:",
       "opcoes": [
-        "a) Credoras.",
-        "b) Devedoras.",
-        "c) do Ativo e do Passivo.",
-        "d) do Ativo, Passivo e do Patrimônio Líquido.",
-        "e) Patrimoniais e de Resultado."
+        "A) Credoras.",
+        "B) Devedoras.",
+        "C) do Ativo e do Passivo.",
+        "D) do Ativo, Passivo e do Patrimônio Líquido.",
+        "E) Patrimoniais e de Resultado."
       ],
       "resposta": "E",
       "comentario": "No método das partidas dobradas, lançamentos a débito podem ser feitos em qualquer tipo de conta — tanto patrimoniais (ativo, passivo e PL) quanto de resultado (receitas e despesas). O débito numa conta devedora aumenta seu saldo; numa conta credora, reduz. Portanto, débitos se realizam em contas patrimoniais e de resultado, ou seja, em qualquer conta.",
@@ -714,11 +714,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Duas contas contábeis que representam, respectivamente, uma conta patrimonial e uma conta de resultado são as contas de:",
       "opcoes": [
-        "a) fornecedor e de banco.",
-        "b) caixa e de receita.",
-        "c) despesa e de receita.",
-        "d) capital social e de veículo.",
-        "e) duplicatas a receber e de duplicatas a pagar."
+        "A) fornecedor e de banco.",
+        "B) caixa e de receita.",
+        "C) despesa e de receita.",
+        "D) capital social e de veículo.",
+        "E) duplicatas a receber e de duplicatas a pagar."
       ],
       "resposta": "B",
       "comentario": "Caixa é conta patrimonial (ativo circulante) e Receita é conta de resultado. Na alternativa A, fornecedor (passivo) e banco (ativo) são ambas patrimoniais. Na C, despesa e receita são ambas de resultado. Na D, capital social (PL) e veículo (ativo) são ambas patrimoniais. Na E, duplicatas a receber (ativo) e duplicatas a pagar (passivo) são ambas patrimoniais.",
@@ -846,11 +846,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Em relação ao plano de conta das empresas, a conta Ações em Tesouraria tem natureza:",
       "opcoes": [
-        "a) credora e é classificada no Patrimônio Líquido.",
-        "b) devedora e é classificada no Ativo Não Circulante.",
-        "c) devedora e é classificada no Patrimônio Líquido.",
-        "d) devedora e é classificada no Resultado do período.",
-        "e) credora e é classificada no Passivo Circulante ou Não circulante, dependendo do seu prazo de pagamento."
+        "A) credora e é classificada no Patrimônio Líquido.",
+        "B) devedora e é classificada no Ativo Não Circulante.",
+        "C) devedora e é classificada no Patrimônio Líquido.",
+        "D) devedora e é classificada no Resultado do período.",
+        "E) credora e é classificada no Passivo Circulante ou Não circulante, dependendo do seu prazo de pagamento."
       ],
       "resposta": "C",
       "comentario": "Ações em tesouraria são ações da própria empresa adquiridas e mantidas pela sociedade. Classificam-se como redutoras do Patrimônio Líquido, sendo uma conta retificadora desse grupo. Como o PL tem natureza credora, sua retificadora tem natureza devedora. Portanto, a conta é devedora e classificada no PL.",
@@ -884,11 +884,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à escrituração contábil, é correto afirmar que as contas:",
       "opcoes": [
-        "a) do Ativo são debitadas quando aumentam de valor.",
-        "b) do Patrimônio Líquido são creditadas quando diminuem de valor.",
-        "c) do Passivo Exigível são estornadas quando aumentam de valor.",
-        "d) de resultado são sempre creditadas.",
-        "e) patrimoniais são sempre debitadas quando seu valor diminui."
+        "A) do Ativo são debitadas quando aumentam de valor.",
+        "B) do Patrimônio Líquido são creditadas quando diminuem de valor.",
+        "C) do Passivo Exigível são estornadas quando aumentam de valor.",
+        "D) de resultado são sempre creditadas.",
+        "E) patrimoniais são sempre debitadas quando seu valor diminui."
       ],
       "resposta": "A",
       "comentario": "A alternativa A está correta. As contas do ativo possuem natureza devedora, portanto aumentam quando são debitadas. As demais estão erradas: o PL diminui ao ser debitado (não creditado); o estorno não é a forma de aumento do passivo; contas de despesa (resultado) são debitadas, não creditadas; o efeito de débito e crédito nas patrimoniais varia conforme a natureza de cada uma.",
@@ -903,11 +903,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Na escrituração contábil, as contas classificadas no Passivo Exigível:",
       "opcoes": [
-        "a) representam créditos de funcionamento.",
-        "b) aumentam por crédito.",
-        "c) representam créditos contra terceiros.",
-        "d) diminuem por crédito.",
-        "e) aumentam por débito."
+        "A) representam créditos de funcionamento.",
+        "B) aumentam por crédito.",
+        "C) representam créditos contra terceiros.",
+        "D) diminuem por crédito.",
+        "E) aumentam por débito."
       ],
       "resposta": "B",
       "comentario": "As contas do passivo exigível possuem natureza credora. Isso significa que seus saldos aumentam quando são creditadas e diminuem quando são debitadas. A alternativa b está correta: aumentam por crédito.",
@@ -922,11 +922,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Contas cujos saldos no Balanço Patrimonial são devedores:",
       "opcoes": [
-        "a) Fornecedores e honorários a pagar.",
-        "b) Capital Social e ICMS a recolher.",
-        "c) Lucros Acumulados e Dividendos a Receber.",
-        "d) Duplicatas a Receber e Estoques.",
-        "e) Despesas Antecipadas e Empréstimos de Longo Prazo."
+        "A) Fornecedores e honorários a pagar.",
+        "B) Capital Social e ICMS a recolher.",
+        "C) Lucros Acumulados e Dividendos a Receber.",
+        "D) Duplicatas a Receber e Estoques.",
+        "E) Despesas Antecipadas e Empréstimos de Longo Prazo."
       ],
       "resposta": "D",
       "comentario": "Duplicatas a Receber e Estoques são contas do ativo, portanto de natureza devedora — seus saldos no balanço são devedores. As demais alternativas incluem contas credoras: Fornecedores e Honorários a pagar são passivos; Capital Social e ICMS a recolher são PL e passivo; Lucros Acumulados é PL; Empréstimos de Longo Prazo é passivo.",
@@ -941,11 +941,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "É uma conta patrimonial que é creditada quando aumenta de valor:",
       "opcoes": [
-        "a) Duplicatas a Receber.",
-        "b) Receitas Financeiras.",
-        "c) Depreciação Acumulada.",
-        "d) Despesas Antecipadas.",
-        "e) Ações em Tesouraria."
+        "A) Duplicatas a Receber.",
+        "B) Receitas Financeiras.",
+        "C) Depreciação Acumulada.",
+        "D) Despesas Antecipadas.",
+        "E) Ações em Tesouraria."
       ],
       "resposta": "C",
       "comentario": "A questão pede uma conta patrimonial que aumenta a crédito, ou seja, de natureza credora. Depreciação Acumulada é classificada no ativo (grupo imobilizado) como retificadora, tendo natureza credora — seu saldo aumenta quando é creditada. Duplicatas a Receber e Despesas Antecipadas são ativos devedores; Receitas Financeiras é conta de resultado; Ações em Tesouraria é devedora (retificadora do PL).",
@@ -960,11 +960,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à escrituração contábil, é correto afirmar que as contas:",
       "opcoes": [
-        "a) representativas de ativos da entidade aumentam por crédito, exceto as contas redutoras, que aumentam por débito.",
-        "b) classificadas no Patrimônio Líquido podem ter saldo devedor ou credor, conforme a sua natureza.",
-        "c) classificadas no Passivo diminuem por crédito.",
-        "d) representativas de despesas têm sempre saldo credor.",
-        "e) do Ativo são estornadas por meio de um lançamento a débito da conta."
+        "A) representativas de ativos da entidade aumentam por crédito, exceto as contas redutoras, que aumentam por débito.",
+        "B) classificadas no Patrimônio Líquido podem ter saldo devedor ou credor, conforme a sua natureza.",
+        "C) classificadas no Passivo diminuem por crédito.",
+        "D) representativas de despesas têm sempre saldo credor.",
+        "E) do Ativo são estornadas por meio de um lançamento a débito da conta."
       ],
       "resposta": "B",
       "comentario": "A alternativa B está correta. As contas do Patrimônio Líquido, em regra, têm natureza credora e saldo credor. Porém, as retificadoras do PL (como ações em tesouraria e capital a integralizar) têm natureza devedora e saldo devedor. Logo, o PL pode ter contas com saldo devedor ou credor dependendo da sua natureza.",
@@ -979,11 +979,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Na escrituração contábil, os saldos das contas do Ativo, do Passivo Exigível e do Patrimônio Líquido diminuem quando, respectivamente, são:",
       "opcoes": [
-        "a) debitadas, creditadas e debitadas.",
-        "b) debitadas, debitadas e creditadas.",
-        "c) creditadas, debitadas e debitadas.",
-        "d) creditadas, creditadas e debitadas.",
-        "e) creditadas, debitadas e creditadas."
+        "A) debitadas, creditadas e debitadas.",
+        "B) debitadas, debitadas e creditadas.",
+        "C) creditadas, debitadas e debitadas.",
+        "D) creditadas, creditadas e debitadas.",
+        "E) creditadas, debitadas e creditadas."
       ],
       "resposta": "C",
       "comentario": "O ativo tem natureza devedora — diminui quando é creditado. O passivo tem natureza credora — diminui quando é debitado. O PL tem natureza credora — diminui quando é debitado. Portanto, os saldos diminuem quando as contas são, respectivamente: creditadas (ativo), debitadas (passivo) e debitadas (PL).",
@@ -998,11 +998,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Em relação ao plano de contas: contas cujos saldos no Balanço Patrimonial são devedores incluem:",
       "opcoes": [
-        "a) Fornecedores e honorários a pagar.",
-        "b) Capital Social e ICMS a recolher.",
-        "c) Lucros Acumulados e Dividendos a Receber.",
-        "d) Duplicatas a Receber e Estoques.",
-        "e) Despesas Antecipadas e Empréstimos de Longo Prazo."
+        "A) Fornecedores e honorários a pagar.",
+        "B) Capital Social e ICMS a recolher.",
+        "C) Lucros Acumulados e Dividendos a Receber.",
+        "D) Duplicatas a Receber e Estoques.",
+        "E) Despesas Antecipadas e Empréstimos de Longo Prazo."
       ],
       "resposta": "D",
       "comentario": "Duplicatas a Receber e Estoques são contas de ativo — ambas devedoras. Fornecedores, Honorários a pagar, Capital Social, ICMS a recolher, Lucros Acumulados e Empréstimos são credores (passivos ou PL). Dividendos a Receber é ativo devedor, mas está combinado com Lucros Acumulados (credor).",
@@ -1017,11 +1017,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "O aspecto qualitativo do patrimônio é expresso:",
       "opcoes": [
-        "a) pelo patrimônio líquido.",
-        "b) pelo título e grupo a que pertence a respectiva conta.",
-        "c) pela diferença entre o ativo e passivo financeiro.",
-        "d) pelo montante da conta.",
-        "e) pelo tipo de saldo da conta."
+        "A) pelo patrimônio líquido.",
+        "B) pelo título e grupo a que pertence a respectiva conta.",
+        "C) pela diferença entre o ativo e passivo financeiro.",
+        "D) pelo montante da conta.",
+        "E) pelo tipo de saldo da conta."
       ],
       "resposta": "B",
       "comentario": "O patrimônio pode ser analisado sob dois aspectos: qualitativo — o que a conta representa — e quantitativo — o valor em moeda. O aspecto qualitativo é expresso pelo título da conta e pelo grupo patrimonial ao qual ela pertence (ativo, passivo, PL), indicando a natureza do elemento representado.",
@@ -1055,11 +1055,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que apresenta contas com saldo credor.",
       "opcoes": [
-        "a) Fornecedores, salário a pagar e clientes.",
-        "b) Provisão para férias, adiantamento a fornecedores e impostos a recolher.",
-        "c) Empréstimos bancários, juros ativos e capital.",
-        "d) Juros passivos, mercadorias e estoques.",
-        "e) Contas a pagar, depreciação acumulada e imóveis para uso."
+        "A) Fornecedores, salário a pagar e clientes.",
+        "B) Provisão para férias, adiantamento a fornecedores e impostos a recolher.",
+        "C) Empréstimos bancários, juros ativos e capital.",
+        "D) Juros passivos, mercadorias e estoques.",
+        "E) Contas a pagar, depreciação acumulada e imóveis para uso."
       ],
       "resposta": "C",
       "comentario": "A alternativa C contém apenas contas credoras: Empréstimos bancários (passivo), Juros ativos (receita de juros, conta credora) e Capital (PL). A alternativa A inclui Clientes, que é ativo (devedor). A B inclui Adiantamento a fornecedores (ativo, devedor). A D inclui Mercadorias e Estoques (ativo, devedores). A E inclui Imóveis para uso (ativo, devedor).",
@@ -1186,11 +1186,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Em janeiro de X2, uma sociedade empresária vendeu todo o seu saldo em estoque à vista com lucro. Além disso, comprou um veículo para entrega a prazo. Assinale a opção que indica o impacto dos dois eventos no balanço patrimonial da sociedade empresária em 31/01/X2.",
       "opcoes": [
-        "a) Aumento no ativo e no passivo, apenas.",
-        "b) Diminuição no ativo e no passivo, apenas.",
-        "c) Aumento no ativo e no patrimônio líquido, apenas.",
-        "d) Aumento no ativo, no passivo e no patrimônio líquido.",
-        "e) Aumento no ativo e no patrimônio líquido e diminuição no passivo."
+        "A) Aumento no ativo e no passivo, apenas.",
+        "B) Diminuição no ativo e no passivo, apenas.",
+        "C) Aumento no ativo e no patrimônio líquido, apenas.",
+        "D) Aumento no ativo, no passivo e no patrimônio líquido.",
+        "E) Aumento no ativo e no patrimônio líquido e diminuição no passivo."
       ],
       "resposta": "D",
       "comentario": "A venda do estoque com lucro gera aumento líquido no ativo (caixa entra, estoque sai com custo menor) e aumento no PL (lucro). A compra do veículo a prazo gera aumento no ativo (veículo) e surgimento de um passivo (obrigação de pagar). Combinando os dois eventos: houve aumento no ativo, aumento no passivo e aumento no PL.",
@@ -1581,11 +1581,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Faça a correlação a seguir para as principais correntes doutrinárias da contabilidade. 1) Patrimonialista 2) Reditualista 3) Aziendalista 4) Controlista 5) Personalista 6) Contistas. ( ) Admite que o objetivo era estudar a matéria sob o ângulo do controle da riqueza. ( ) Defende o estudo dos aspectos de direitos e das obrigações que envolve os donos da riqueza. ( ) Admite que a instituição, a empresa, é o objeto de estudo. ( ) Observa a predominância do lucro como objetivo. ( ) Imagina que a Contabilidade deve dedicar-se ao estudo das contas. ( ) Reconhece que o objeto de estudos da Contabilidade é o patrimônio, enquanto riqueza gerida para cumprir o fim aziendal. Assinale a opção com a sequência CORRETA.",
       "opcoes": [
-        "a) 5-3-2-6-1-4.",
-        "b) 3-2-6-1-4-5.",
-        "c) 2-6-1-4-5-3.",
-        "d) 4-5-3-2-6-1.",
-        "e) 6-1-4-5-3-2."
+        "A) 5-3-2-6-1-4.",
+        "B) 3-2-6-1-4-5.",
+        "C) 2-6-1-4-5-3.",
+        "D) 4-5-3-2-6-1.",
+        "E) 6-1-4-5-3-2."
       ],
       "resposta": "D",
       "comentario": "A correspondência é: controle da riqueza corresponde ao Controlismo (4); direitos e obrigações dos donos corresponde ao Personalismo (5); empresa como objeto de estudo corresponde ao Aziendalismo (3); lucro como objetivo corresponde ao Reditualismo (2); dedicar-se às contas corresponde ao Contismo (6); patrimônio como objeto corresponde ao Patrimonialismo (1). Sequência: 4-5-3-2-6-1.",
@@ -1656,11 +1656,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Numere a coluna da direita de acordo com sua correspondência com a coluna da esquerda. 1. Devemos debitar — 2. Devemos creditar. ( ) para aumentar ativo. ( ) para aumentar passivo. ( ) para aumentar patrimônio líquido. ( ) para diminuir despesas. ( ) para diminuir receita. Assinale a alternativa que apresenta a numeração correta da coluna da direita, de cima para baixo.",
       "opcoes": [
-        "a) 2 1 1 1 2.",
-        "b) 2 2 2 1 1.",
-        "c) 1 1 1 2 2.",
-        "d) 1 2 2 2 1.",
-        "e) 1 2 2 1 2."
+        "A) 2 1 1 1 2.",
+        "B) 2 2 2 1 1.",
+        "C) 1 1 1 2 2.",
+        "D) 1 2 2 2 1.",
+        "E) 1 2 2 1 2."
       ],
       "resposta": "D",
       "comentario": "Para aumentar o ativo, que tem natureza devedora, devemos debitar (1). Para aumentar o passivo (credora), devemos creditar (2). Para aumentar o PL (credora), devemos creditar (2). Para diminuir despesas (devedora), devemos creditar (2). Para diminuir receita (credora), devemos debitar (1). Sequência: 1-2-2-2-1.",
@@ -1713,11 +1713,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que contenha uma conta de resultado:",
       "opcoes": [
-        "a) Receitas Diferidas.",
-        "b) Receita de Equivalência Patrimonial.",
-        "c) Despesas Antecipadas.",
-        "d) Depreciação Acumulada.",
-        "e) Provisão para Garantias de Assistência Técnica."
+        "A) Receitas Diferidas.",
+        "B) Receita de Equivalência Patrimonial.",
+        "C) Despesas Antecipadas.",
+        "D) Depreciação Acumulada.",
+        "E) Provisão para Garantias de Assistência Técnica."
       ],
       "resposta": "B",
       "comentario": "Receita de Equivalência Patrimonial é uma conta de resultado (receita), utilizada para registrar o ganho obtido pela variação positiva do valor do investimento em coligadas e controladas pelo método da equivalência patrimonial. As demais são patrimoniais: Receitas Diferidas e Provisão para Garantias são passivos; Despesas Antecipadas é ativo; Depreciação Acumulada é retificadora do ativo.",
@@ -1751,11 +1751,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "Para o registro das transações dos eventos econômicos ocorridos numa entidade, a Contabilidade se utiliza de um sistema de partidas dobradas no qual existem contas de natureza devedora e contas de natureza credora. Considerado esse fato, é correto afirmar que, no plano de contas de uma entidade,",
       "opcoes": [
-        "a) contas devedoras sempre controlam as obrigações a pagar e as contas credoras sempre controlam os direitos a receber.",
-        "b) contas devedoras são as contas de receita e contas credoras são as contas de despesa.",
-        "c) desconsideradas as provisões, as contas do ativo são contas débito e as contas do passivo são contas crédito.",
-        "d) o ativo tem seu valor aumentado por lançamento a crédito e o passivo tem uma diminuição de valor com um lançamento a débito.",
-        "e) o ativo diminui de valor com um lançamento a débito e aumenta com um lançamento a crédito."
+        "A) contas devedoras sempre controlam as obrigações a pagar e as contas credoras sempre controlam os direitos a receber.",
+        "B) contas devedoras são as contas de receita e contas credoras são as contas de despesa.",
+        "C) desconsideradas as provisões, as contas do ativo são contas débito e as contas do passivo são contas crédito.",
+        "D) o ativo tem seu valor aumentado por lançamento a crédito e o passivo tem uma diminuição de valor com um lançamento a débito.",
+        "E) o ativo diminui de valor com um lançamento a débito e aumenta com um lançamento a crédito."
       ],
       "resposta": "C",
       "comentario": "A alternativa C está correta. Desconsideradas as retificadoras (como provisões), as contas do ativo são de natureza devedora (contas débito) e as do passivo são credoras (contas crédito). As demais alternativas invertem os conceitos: obrigações são passivos (credores, não devedores); receitas são credoras e despesas são devedoras; ativo aumenta a débito; passivo diminui a débito.",
@@ -1941,11 +1941,11 @@
       "tipo": "multipla_escolha",
       "enunciado": "As variações positivas nas contas dos passivos ocorrem quando:",
       "opcoes": [
-        "a) há fatos e atos permutativos.",
-        "b) essas contas são debitadas e creditadas.",
-        "c) os débitos são maiores que os créditos.",
-        "d) as contas são debitadas.",
-        "e) as contas são creditadas."
+        "A) há fatos e atos permutativos.",
+        "B) essas contas são debitadas e creditadas.",
+        "C) os débitos são maiores que os créditos.",
+        "D) as contas são debitadas.",
+        "E) as contas são creditadas."
       ],
       "resposta": "E",
       "comentario": "As contas de passivo têm natureza credora. Variações positivas — isto é, aumento do saldo — ocorrem por lançamentos a crédito. Um crédito numa conta de passivo aumenta o seu saldo; um débito o reduz.",

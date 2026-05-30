@@ -2904,7 +2904,7 @@
       "ano": 2016,
       "tipo": "multipla_escolha",
       "enunciado": "De acordo com as Normas Brasileiras de Contabilidade, no que tange a escrituração contábil, a retificação de lançamento contábil é o processo técnico de correção de um registro realizado com erro na escrituração contábil da entidade e pode ser feito por meio de A ajuste, ratificação e complementação.",
-      "resposta": "E",
+      "resposta": "D",
       "comentario": "Retificação de lançamento é o processo técnico de correção de registro realizado com erro na escrituração contábil da entidade e pode ser feito por meio de: estorno; transferência; e complementação.",
       "dificuldade": 2,
       "opcoes": [
@@ -2976,15 +2976,16 @@
       "cargo": "Tesoureiro",
       "ano": 2024,
       "tipo": "multipla_escolha",
-      "enunciado": "O pagamento de uma duplicata com juros no seu valor total constitui um fato A modificativo aumentativo.",
+      "enunciado": "O pagamento de uma duplicata com juros no seu valor total constitui um fato:",
       "resposta": "E",
       "comentario": "No tocante ao fato misto, ele envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. A contabilização é a seguinte: D Duplicatas a pagar (- Passivo) D Juros Passivos (- Resultado = Despesa) C Disponibilidades (- Ativo) Aqui temos um fato misto diminutivo (negativo), visto que ele envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Para facilitar a visualização, vamos dividi-lo em dois lançamentos: Fato permutativo: D Duplicatas a pagar (- Passivo) C Disponibilidades (- Ativo) Fato modificativo Diminutivo: D Juros Passivos (- Resultado = Despesa) C Disponibilidades (- Ativo)",
       "dificuldade": 2,
       "opcoes": [
-        "A) permutativo",
-        "B) compensativo diminutivo",
-        "C) misto positivo",
-        "D) misto negativo"
+        "A) modificativo aumentativo.",
+        "B) permutativo.",
+        "C) compensativo diminutivo.",
+        "D) misto positivo.",
+        "E) misto negativo."
       ]
     }
   ]
