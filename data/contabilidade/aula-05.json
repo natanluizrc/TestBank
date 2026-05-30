@@ -1,0 +1,583 @@
+{
+  "slug": "aula-05",
+  "titulo": "Aula 05",
+  "materia": "ContG",
+  "questoes": [
+    {
+      "id": "cg-05-001",
+      "banca": "CEBRASPE",
+      "orgao": "ANTT",
+      "cargo": "Especialista em Regulação",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "Se uma empresa adiantou cinquenta mil reais, via transferência bancária, a um de seus fornecedores para acelerar a produção de determinada mercadoria, então, nessas condições, a empresa deverá registrar o valor adiantado como um direito, em conta de adiantamento a fornecedores, ou similar, contra a respectiva conta bancária utilizada.",
+      "resposta": "certo",
+      "comentario": "Item correto. A concessão de adiantamento a fornecedores gera um direito para a empresa, reconhecido no ativo circulante. O lançamento é: débito em Adiantamentos a Fornecedores (ativo) e crédito em Bancos (ativo). Quando a mercadoria for entregue, o adiantamento é baixado e o estoque reconhecido.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-05-002",
+      "banca": "CEBRASPE",
+      "orgao": "CAU-BR",
+      "cargo": "Técnico",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "Estoques de mercadorias para revenda devem ser evidenciados no balanço patrimonial pelo seu valor justo.",
+      "resposta": "errado",
+      "comentario": "Item errado. De acordo com o CPC 16, os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor. O valor justo é um conceito distinto do valor realizável líquido: o VRL é específico para a entidade (considera seus gastos particulares para concretizar a venda), enquanto o valor justo é externo, definido a partir das condições de mercado. Portanto, estoques não são avaliados pelo valor justo.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-05-003",
+      "banca": "CEBRASPE",
+      "orgao": "CODEVASF",
+      "cargo": "Analista de Contabilidade",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "Considere que uma entidade comercial adquira uma mercadoria para revenda tributada pelo ICMS e pelo IPI e que o valor do ICMS recuperável seja de R$ 9.000; considere, também, que, dias depois, essa mercadoria seja vendida a um cliente, com ICMS de R$ 12.600, sendo apurado o ICMS a recolher. Nessa hipótese, essas transações geram um débito e um crédito na conta de ICMS a recuperar, no valor de R$ 9.000, e um crédito de R$ 12.600 na conta de ICMS a recolher.",
+      "resposta": "certo",
+      "comentario": "Item correto. Na compra, debita-se ICMS a Recuperar por R$ 9.000 (ativo). Na venda, credita-se ICMS a Recolher por R$ 12.600 (passivo). Na apuração, transfere-se o saldo do ICMS a Recuperar para compensar o ICMS a Recolher: débito em ICMS a Recolher e crédito em ICMS a Recuperar por R$ 9.000 — gerando o crédito na conta de ICMS a recuperar descrito no item. O saldo líquido a recolher ao fisco é R$ 3.600 (12.600 - 9.000). O item está incompleto (não menciona os débitos subsequentes), mas para o CEBRASPE um item incompleto não é considerado errado.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-004",
+      "banca": "CEBRASPE",
+      "orgao": "ITAIPU",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Na apuração do valor realizável líquido de um estoque em elaboração, é levado em conta o preço de venda estimado no curso normal dos negócios deduzido dos gastos necessários para a realização da venda. Além dessas informações, devem ser considerados, para a referida apuração, os custos",
+      "opcoes": [
+        "A) estimados de reinvestimento.",
+        "B) de oportunidade.",
+        "C) de gestão da entidade.",
+        "D) estimados de conclusão.",
+        "E) de reposição de estoques."
+      ],
+      "resposta": "D",
+      "comentario": "O CPC 16 define valor realizável líquido como o preço de venda estimado no curso normal dos negócios, deduzidos os custos estimados para a conclusão do produto e os gastos estimados necessários para concretizar a venda. Para estoques em elaboração (ainda não acabados), os custos estimados de conclusão devem ser subtraídos do preço de venda para chegar ao VRL. Os demais itens (reinvestimento, oportunidade, gestão, reposição) não constam da definição do CPC 16.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-005",
+      "banca": "CEBRASPE",
+      "orgao": "PGM Mossoró",
+      "cargo": "Analista",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "O melhor critério para avaliação de estoques em empresas que comercializem produtos homogêneos é o custo específico.",
+      "resposta": "errado",
+      "comentario": "Item errado. O custo específico é adequado para itens identificados individualmente ou segregados para projetos específicos — como veículos, obras de arte ou aeronaves. Quando há grandes quantidades de itens intercambiáveis (homogêneos), a identificação específica não é apropriada, pois qualquer unidade pode ser substituída por outra da mesma espécie sem prejuízo. Nesses casos, o CPC 16 recomenda o PEPS ou o custo médio ponderado.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-05-006",
+      "banca": "CEBRASPE",
+      "orgao": "SEFAZ-AC",
+      "cargo": "Auditor",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Assinale a opção que corresponde aos ativos que, de acordo com os pronunciamentos técnicos do Comitê de Pronunciamentos Contábeis (CPC), devem ser mensurados escolhendo-se o menor valor entre o seu custo de aquisição e o seu valor realizável líquido.",
+      "opcoes": [
+        "A) instrumentos financeiros",
+        "B) propriedades para investimento",
+        "C) itens do ativo imobilizado",
+        "D) itens do ativo intangível",
+        "E) mercadorias para revenda"
+      ],
+      "resposta": "E",
+      "comentario": "O CPC 16, item 9, determina que os estoques — incluindo mercadorias para revenda — devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor. As demais opções (instrumentos financeiros, propriedades para investimento, imobilizado e intangível) são regidas por outros pronunciamentos com critérios de mensuração distintos do custo ou VRL.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-05-007",
+      "banca": "CEBRASPE",
+      "orgao": "SEFAZ-AC",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Assinale a opção em que é indicada a informação relacionada ao próprio estoque a qual deve ser levada em conta por uma companhia quando da mensuração contábil do referido item patrimonial.",
+      "opcoes": [
+        "A) valor realizável líquido",
+        "B) custo calculado pelo método do custeio variável",
+        "C) valor justo",
+        "D) depreciação",
+        "E) custo corrente"
+      ],
+      "resposta": "A",
+      "comentario": "O CPC 16 determina que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor. O VRL é o preço de venda estimado no curso normal dos negócios, deduzidos os custos de conclusão e os gastos para concretizar a venda. O valor justo é diferente do VRL: é externo e não específico para a entidade. Os demais termos (custeio variável, depreciação, custo corrente) não são mencionados pelo CPC 16 como base de mensuração de estoques.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-05-008",
+      "banca": "CEBRASPE",
+      "orgao": "SEFAZ-AC",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "O ICMS incidente sobre a aquisição de mercadoria para revenda implica o reconhecimento contábil, no ato da compra, de",
+      "opcoes": [
+        "A) um passivo.",
+        "B) um item classificado em outros resultados abrangentes.",
+        "C) uma despesa.",
+        "D) um ativo representativo de um estoque.",
+        "E) um ativo representativo de um direito."
+      ],
+      "resposta": "E",
+      "comentario": "O CPC 16 determina que tributos recuperáveis junto ao fisco não devem ser incluídos no custo dos estoques. Para empresas comerciais (revenda), o ICMS é recuperável. Portanto, ao adquirir mercadoria para revenda, o ICMS destacado na nota fiscal é reconhecido como um ativo representativo de um direito — a conta ICMS a Recuperar. O custo do estoque é registrado pelo valor já líquido do ICMS.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-05-009",
+      "banca": "CEBRASPE",
+      "orgao": "SEFAZ-AC",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "No início do mês de março de 2023, uma empresa comercial típica possuía em estoque 10 calças contabilizadas pelo valor total de R$ 1.600,00. Durante o referido mês, a empresa adquiriu um lote com mais 10 unidades. O valor total da nota fiscal foi de R$ 2.090,00, e nela foi informada a aplicação da alíquota de IPI de 10% sobre o preço das mercadorias. O ICMS da operação foi calculado pela alíquota de 18%. Após realização do inventário no final do mês, constatou-se a existência de 8 calças em estoque. Foi utilizada a média ponderada para fins de cálculo do custo da mercadoria vendida. Na situação hipotética em apreço, o valor do estoque, em 31 de março de 2023, e o custo da mercadoria vendida, em março de 2023, foram, respectivamente,",
+      "opcoes": [
+        "A) R$ 1.263,20 e R$ 1.894,80.",
+        "B) R$ 1.324,00 e R$ 1.986,00.",
+        "C) R$ 1.339,20 e R$ 2.008,80.",
+        "D) R$ 1.400,00 e R$ 2.100,00.",
+        "E) R$ 1.460,00 e R$ 2.191,20."
+      ],
+      "resposta": "C",
+      "comentario": "Empresa comercial: ICMS é recuperável; IPI não é recuperável (comerciante compra de indústria para revenda). A NF de R$ 2.090 já inclui IPI. Como IPI não entra na base do ICMS para comerciante: base ex-IPI = R$ 2.090 / 1,10 = R$ 1.900; ICMS = R$ 1.900 × 18% = R$ 342. Custo da compra = R$ 2.090 - R$ 342 = R$ 1.748 (10 unidades × R$ 174,80). Custo médio: (R$ 1.600 + R$ 1.748) / 20 = R$ 167,40. Estoque final = 8 × R$ 167,40 = R$ 1.339,20. CMV = 12 × R$ 167,40 = R$ 2.008,80.",
+      "dificuldade": 4
+    },
+    {
+      "id": "cg-05-010",
+      "banca": "CEBRASPE",
+      "orgao": "SEPLAG-CE",
+      "cargo": "Analista",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "A equação que sintetiza a lógica do inventário permanente estabelece que o custo da mercadoria vendida é igual ao montante do estoque inicial adicionado às compras e subtraído do montante do estoque final.",
+      "resposta": "errado",
+      "comentario": "Item errado. A fórmula CMV = Estoque Inicial + Compras - Estoque Final descreve o inventário periódico, não o permanente. No inventário periódico, o estoque é apurado por contagem física na data do balanço, sem registro de baixa a cada venda. No inventário permanente, a empresa controla o estoque continuamente, registrando a baixa em cada operação de venda, com critérios como PEPS, custo médio ponderado ou custo específico.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-05-011",
+      "banca": "CEBRASPE",
+      "orgao": "SEPLAG-CE",
+      "cargo": "Analista",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "Com base nos custos específicos, a valoração de estoques destinados à venda que possam ser identificados individualmente, distinguindo-se uns dos outros, é recomendada nos casos em que há muitas unidades do produto nesses estoques.",
+      "resposta": "errado",
+      "comentario": "Item errado. O custo específico é recomendado para itens não intercambiáveis — aqueles que podem ser identificados individualmente e são distintos entre si (como veículos, obras de arte ou aeronaves). Quando há grandes quantidades de itens geralmente intercambiáveis (homogêneos, substituíveis uns pelos outros), a identificação específica não é apropriada, pois seria arbitrária. Nesses casos, o CPC 16 recomenda o PEPS ou o custo médio ponderado.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-012",
+      "banca": "CEBRASPE",
+      "orgao": "STJ",
+      "cargo": "Analista",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "O montante dos estoques registrados no balanço não pode exceder o valor de realização desses ativos, devendo ser adotado o menor desses dois valores caso o valor do custo seja superior ao valor de mercado.",
+      "resposta": "errado",
+      "comentario": "Item errado. A primeira parte está correta: o estoque registrado no balanço não pode exceder o valor realizável líquido. O erro está na segunda parte: o CPC 16 compara o custo com o valor realizável líquido (VRL), não com o valor de mercado. O VRL é específico para a entidade — preço de venda estimado deduzido dos gastos necessários para concretizar a venda. Já o valor de mercado (valor justo) é externo, não específico para a entidade. São conceitos distintos, e a banca trocou o VRL por valor de mercado.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-013",
+      "banca": "CEBRASPE",
+      "orgao": "TRF-6ª Região",
+      "cargo": "Analista",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "Considere que, em uma economia inflacionária, uma entidade tenha realizado vendas de uma quantidade determinada de estoques de mercadorias em um período. Nesse caso, considerando que todas as demais características sejam constantes, a venda de estoques com custos avaliados pelo método do primeiro a entrar, primeiro a sair (PEPS) geraria maior lucro do exercício do que a mesma venda de estoques com custos avaliados pela média ponderada móvel.",
+      "resposta": "certo",
+      "comentario": "Item correto. Em ambiente inflacionário, os estoques mais antigos foram adquiridos a preços menores. O PEPS dá baixa ao estoque mais antigo primeiro, gerando um CMV menor. Com CMV menor, o lucro bruto e o resultado do exercício são maiores. O custo médio ponderado fica em posição intermediária. A ordem em ambiente inflacionário é: LB(PEPS) > LB(Média Ponderada) > LB(UEPS); já o EF(PEPS) > EF(Média Ponderada) > EF(UEPS).",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-05-014",
+      "banca": "CEBRASPE",
+      "orgao": "TRF-6ª Região",
+      "cargo": "Técnico",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "Considere que uma indústria, contribuinte do imposto sobre produtos industrializados (IPI) e do imposto sobre circulação de mercadorias e serviços (ICMS), tenha adquirido a prazo R$ 73 mil em matérias-primas para industrialização, incorrendo em R$ 10 mil de IPI e R$ 17 mil de ICMS, com frete por conta do fornecedor. Nessa situação, para espelhar a referida transação na sua contabilidade, a entidade deve contabilizar conforme apresentado a seguir. Diversos: Estoque de matérias-primas R$ 73 mil / IPI a recuperar R$ 10 mil / ICMS a recuperar R$ 17 mil / A fornecedores R$ 100 mil.",
+      "resposta": "certo",
+      "comentario": "Item correto. Para uma indústria, tanto o IPI quanto o ICMS são recuperáveis na aquisição de matérias-primas (destinadas à industrialização). Portanto, nenhum dos dois entra no custo do estoque de MP. O valor da nota fiscal é R$ 73 mil (MP) + R$ 10 mil (IPI) + R$ 17 mil (ICMS) = R$ 100 mil a crédito de Fornecedores. O estoque de MP fica registrado por R$ 73 mil. O lançamento com a palavra Diversos indica múltiplas contas debitadas, o que está correto.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-05-015",
+      "banca": "CEBRASPE",
+      "orgao": "TSE",
+      "cargo": "Analista",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "Considere que uma indústria tenha adquirido um lote significativo de determinado componente para seu principal produto e que, decorridos alguns meses, um novo componente, com tecnologia mais avançada, tenha chegado ao mercado, tornando mais difícil a venda de produtos fabricados com o componente anterior. Considere, ainda, que, em função disso, a indústria tenha estimado a necessidade de aplicar um desconto para facilitar a venda do produto final com o componente anterior. Nessa situação, o critério do custo ou do valor de mercado, dos dois o menor, deverá ser aplicado, podendo implicar o reconhecimento de uma perda de valor do estoque de produto final.",
+      "resposta": "errado",
+      "comentario": "Item errado. A situação descrita implica, de fato, a aplicação do critério de mensuração pelo menor valor entre custo e VRL, podendo gerar reconhecimento de perda. Contudo, o critério correto é custo ou valor realizável líquido, não custo ou valor de mercado. O VRL é específico para a entidade e é a medida prevista no CPC 16 para estoques. O valor de mercado (valor justo) é externo e não se confunde com o VRL. A troca desses conceitos torna o item errado.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-016",
+      "banca": "FGV",
+      "orgao": "AL-TO",
+      "cargo": "Analista Legislativo",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 01/02/2024, uma loja de celulares tinha em seu estoque 2 unidades do modelo X contabilizadas por R$2.000. Em fevereiro, a loja adquiriu mais unidades do modelo X: em 10/02, compra à vista de 4 unidades por R$1.100 cada; em 15/02, compra a prazo de 3 unidades por R$1.200 cada; em 22/02, compra à vista de 6 unidades por R$1.300 cada. Em fevereiro, não houve vendas. Em março, foram vendidas 10 unidades por R$2.000 cada. Assinale a opção que indica o lucro bruto da loja, considerando que ela utiliza o método PEPS para controle de estoque.",
+      "opcoes": [
+        "A) R$8.100.",
+        "B) R$8.400.",
+        "C) R$8.700.",
+        "D) R$9.100.",
+        "E) R$10.000."
+      ],
+      "resposta": "C",
+      "comentario": "Receita = 10 × R$ 2.000 = R$ 20.000. CMV pelo PEPS (baixa os mais antigos): Estoque inicial (2 un. × R$ 1.000 = R$ 2.000) + Compra 1 (4 un. × R$ 1.100 = R$ 4.400) + Compra 2 (3 un. × R$ 1.200 = R$ 3.600) + Compra 3 (1 un. × R$ 1.300 = R$ 1.300) = CMV de R$ 11.300. Estoque final: 5 unidades da Compra 3 × R$ 1.300 = R$ 6.500. Lucro bruto = R$ 20.000 - R$ 11.300 = R$ 8.700.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-05-017",
+      "banca": "FGV",
+      "orgao": "ALEP",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma loja de material de construção controla o seu estoque exclusivamente através de contagem física, realizada trimestralmente, antes da elaboração das demonstrações contábeis trimestrais. Pode-se afirmar que a loja controla o seu estoque por meio do inventário",
+      "opcoes": [
+        "A) padrão.",
+        "B) periódico.",
+        "C) ponderado.",
+        "D) permanente.",
+        "E) de observação."
+      ],
+      "resposta": "B",
+      "comentario": "O inventário periódico consiste em avaliar o estoque por meio de contagem física em datas determinadas (no caso, trimestralmente), sem registrar baixas a cada venda. O CMV é calculado pela fórmula: CMV = Estoque inicial + Compras - Estoque final. O inventário permanente, ao contrário, registra a movimentação do estoque continuamente, dando baixa a cada operação de venda, utilizando critérios como PEPS, custo médio ou custo específico.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-05-018",
+      "banca": "FGV",
+      "orgao": "ALEP",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 01/09/2023, uma loja de material escolar adquiriu 100 cadernos para revenda por R$12 cada. No mês, cada caderno era vendido por R$16. Em outubro, o caderno passou a ser vendido por R$10. Em novembro, o preço voltou para R$18 e todos os cadernos foram vendidos. Em relação ao reconhecimento da despesa com a redução do estoque para o valor realizável líquido na Demonstração do Resultado do Exercício da loja, assinale a opção correta.",
+      "opcoes": [
+        "A) É reconhecida em setembro, que representa o mês em que os cadernos foram comprados.",
+        "B) É reconhecida em outubro, que representa o mês seguinte à compra dos cadernos.",
+        "C) É reconhecida em outubro, que representa o mês em que a redução do valor ocorreu.",
+        "D) É reconhecida em novembro, que representa o mês em que a reversão é observada.",
+        "E) É reconhecida em novembro, que representa o mês em que a receita com a venda é contabilizada."
+      ],
+      "resposta": "C",
+      "comentario": "Em setembro: custo R$ 12 < VRL R$ 16 — sem ajuste. Em outubro: custo R$ 12 > VRL R$ 10 — reconhece-se a perda (write-down) no próprio mês em que a redução ocorreu. A despesa com ajuste ao VRL é reconhecida em outubro. Em novembro: VRL R$ 18 > custo original R$ 12 — reverte-se a perda anterior, mas o estoque não ultrapassa o custo original de R$ 12. A reversão gera receita em novembro, não uma nova despesa. A letra B está incorreta porque a justificativa (mês seguinte à compra) é errada — o critério é o mês em que a redução ocorreu.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-019",
+      "banca": "FGV",
+      "orgao": "Câmara dos Deputados",
+      "cargo": "Analista Legislativo",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma loja começou suas operações de vendas de lustres em 01/01/2023. Na data, ela adquiriu 40 lustres por R$4.000 à vista. O preço unitário de venda do lustre era de R$150,00. 30 lustres ficaram guardados no interior da loja, enquanto o restante foi exposto na loja e utilizado para iluminação, já que não havia outra fonte de luz. Assinale a opção que indica a apresentação dos lustres no balanço patrimonial da loja.",
+      "opcoes": [
+        "A) Ativo circulante: R$4.000.",
+        "B) Ativo circulante: R$6.000.",
+        "C) Ativo circulante: R$3.000; Ativo imobilizado: R$1.000.",
+        "D) Ativo circulante: R$4.500; Ativo imobilizado: R$1.500.",
+        "E) Ativo circulante: R$3.000; ativo realizável a longo prazo: R$1.000."
+      ],
+      "resposta": "A",
+      "comentario": "Todos os lustres são mantidos para venda no curso normal dos negócios — são estoques, independentemente de estarem em uso temporário para iluminação. O fato de 10 lustres estarem sendo usados não altera sua essência, pois dificilmente permanecerão em uso por mais de um exercício (requisito do imobilizado) ou serão realizados além do exercício subsequente (requisito do realizável a longo prazo). Aplicando o teste custo vs VRL: custo unitário = R$ 100 (4.000/40) e VRL = R$ 150 — usa-se o custo. Total no ativo circulante = 40 × R$ 100 = R$ 4.000.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-020",
+      "banca": "FGV",
+      "orgao": "CM Fortaleza",
+      "cargo": "Contador",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em dezembro de 2023, uma loja de esportes adquiriu raquetes para revender. O preço unitário da raquete era R$500, porém, como a loja comprou em grande quantidade, obteve um desconto de 10%. A raquete foi colocada à venda por R$600. Em janeiro de 2024, observou-se um aumento de popularidade no esporte e a loja averiguou que o fornecedor vendia cada raquete por R$580. A loja aumentou o preço para R$700. Em 31/01/2024, havia 10 raquetes em estoque. Nesta data, o estoque de raquetes estava contabilizado no balanço patrimonial por",
+      "opcoes": [
+        "A) R$4.500.",
+        "B) R$5.000.",
+        "C) R$5.800.",
+        "D) R$6.000.",
+        "E) R$7.000."
+      ],
+      "resposta": "A",
+      "comentario": "O custo de aquisição considera o preço menos descontos comerciais: R$ 500 - 10% = R$ 450 por raquete. O CPC 16 determina que descontos comerciais devem ser deduzidos na determinação do custo. Em dezembro/2023: custo R$ 450 < VRL R$ 600 — usa-se o custo. Em janeiro/2024: custo R$ 450 < VRL R$ 700 — usa-se o custo. Como o VRL permanece maior durante todo o período, não há ajuste. O estoque em 31/01/2024 = 10 × R$ 450 = R$ 4.500.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-021",
+      "banca": "FGV",
+      "orgao": "CVM",
+      "cargo": "Inspetor de Contabilidade e Auditoria",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Durante 2024, uma empresa S.A. decidiu alterar o critério de valoração de seus estoques, de PEPS para custo médio ponderado. As vendas do ano foram de R$ 20 milhões e as compras totais foram de R$ 10 milhões. Os valores de estoques segundo cada critério são: em 31/12/2023, ambos R$ 3.000.000; em 31/12/2024, PEPS R$ 4.000.000 e custo médio R$ 2.000.000. Considerando as informações apresentadas, o lucro bruto ajustado conforme o novo critério, em 31 de dezembro de 2024, é de:",
+      "opcoes": [
+        "A) R$ 2.000.000.",
+        "B) R$ 4.000.000.",
+        "C) R$ 9.000.000.",
+        "D) R$ 11.000.000.",
+        "E) R$ 14.000.000."
+      ],
+      "resposta": "C",
+      "comentario": "Usando o custo médio ponderado: CMV = EI + Compras - EF = R$ 3.000.000 + R$ 10.000.000 - R$ 2.000.000 = R$ 11.000.000. Lucro bruto = Receita - CMV = R$ 20.000.000 - R$ 11.000.000 = R$ 9.000.000. Pelo PEPS (para comparação): EF = R$ 4.000.000; CMV = R$ 3.000.000 + R$ 10.000.000 - R$ 4.000.000 = R$ 9.000.000; Lucro bruto PEPS = R$ 11.000.000. O custo médio gera maior CMV (menor EF) e menor lucro, confirmando o padrão em ambiente inflacionário.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-05-022",
+      "banca": "FGV",
+      "orgao": "Pref. Abreu e Lima",
+      "cargo": "Técnico em Controle Interno",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 01/07/2024, uma loja de brinquedos tinha em estoque 7 bonecas compradas por R$50,00 cada. O preço de venda era R$100,00. Em 10/07, a loja adquiriu 5 bonecas pelo custo unitário de R$60,00. Em 20/07, a loja realizou uma venda de 10 bonecas por R$1.100. Assinale a opção que indica o custo das mercadorias vendidas, considerando que a loja utiliza o método PEPS para avaliar o seu estoque.",
+      "opcoes": [
+        "A) R$500.",
+        "B) R$530.",
+        "C) R$542.",
+        "D) R$550.",
+        "E) R$600."
+      ],
+      "resposta": "B",
+      "comentario": "Método PEPS — baixa os mais antigos primeiro. Estoque inicial: 7 un. × R$ 50 = R$ 350. Compra: 5 un. × R$ 60 = R$ 300. Venda de 10 unidades: 7 un. do estoque inicial × R$ 50 = R$ 350 + 3 un. da compra × R$ 60 = R$ 180. CMV = R$ 350 + R$ 180 = R$ 530. Estoque final: 2 un. × R$ 60 = R$ 120.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-023",
+      "banca": "FGV",
+      "orgao": "Pref. Cuiabá",
+      "cargo": "Auditor Fiscal",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma loja vendia esteiras. Cada esteira tinha custo de R$ 2.000 e era vendida por R$ 2.500. A loja pagava a seus vendedores uma comissão de 10% sobre o preço da venda e oferecia frete grátis, responsabilizando-se pela entrega. Em junho de 2024, o valor pago pela entrega de cada esteira era de R$ 200. Em julho, esse valor passou para R$ 300 devido a aumento no preço do combustível. Assinale a opção que indica o valor unitário da esteira mensurado como estoque no balanço patrimonial da loja em 30/06/2024 e em 31/07/2024:",
+      "opcoes": [
+        "A) R$ 2.000 e R$ 1.950.",
+        "B) R$ 2.000 e R$ 2.000.",
+        "C) R$ 2.050 e R$ 1.950.",
+        "D) R$ 2.250 e R$ 2.250.",
+        "E) R$ 2.300 e R$ 2.200."
+      ],
+      "resposta": "A",
+      "comentario": "O estoque é mensurado pelo menor entre custo e VRL. O VRL = preço de venda - gastos necessários para concretizar a venda (comissão + frete de entrega). Junho: VRL = R$ 2.500 - (10% × R$ 2.500) - R$ 200 = R$ 2.500 - R$ 250 - R$ 200 = R$ 2.050. Custo R$ 2.000 < VRL R$ 2.050 → usa-se o custo R$ 2.000. Julho: VRL = R$ 2.500 - R$ 250 - R$ 300 = R$ 1.950. Custo R$ 2.000 > VRL R$ 1.950 → usa-se o VRL R$ 1.950 (write-down).",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-05-024",
+      "banca": "FGV",
+      "orgao": "Pref. Macaé",
+      "cargo": "Auditor Municipal de Controle Interno",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 30/01/2024, uma loja de roupas de festa tinha dez vestidos em estoque. O custo do vestido era de R$800. O preço de venda era de R$880, sendo que, para concretizar a venda, eram gastos R$100 em um tratamento especial do vestido. Ainda, o valor justo na data era de R$790. Assinale a opção que indica o valor do estoque em 31/01/2024, apresentado em seu balanço patrimonial.",
+      "opcoes": [
+        "A) R$6.700.",
+        "B) R$7.800.",
+        "C) R$7.900.",
+        "D) R$8.000.",
+        "E) R$8.800."
+      ],
+      "resposta": "B",
+      "comentario": "O estoque é mensurado pelo menor entre custo e VRL. VRL = preço de venda estimado - gastos necessários para concretizar a venda = R$ 880 - R$ 100 = R$ 780. Custo R$ 800 > VRL R$ 780 → usa-se o VRL. O valor justo de R$ 790 é irrelevante para a mensuração pelo CPC 16 — o VRL é específico para a entidade, diferente do valor justo. Valor do estoque = 10 × R$ 780 = R$ 7.800.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-025",
+      "banca": "FGV",
+      "orgao": "Pref. São José dos Campos",
+      "cargo": "Auditor Fiscal de Tributos Municipais",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 01/01/2023, uma loja adquiriu 100 unidades de mochilas para revenda, por R$8.500. No primeiro semestre de 2023, 30 mochilas foram vendidas por R$110 cada. Em 01/07/2023, o preço de venda da mochila era R$90, sendo que, para concretizar a venda, eram estimados gastos necessários de 10% do preço. Considerando que não houve vendas no segundo semestre, assinale a opção que indica o valor do estoque apresentado no balanço patrimonial da loja em 31/12/2023.",
+      "opcoes": [
+        "A) R$5.355.",
+        "B) R$5.670.",
+        "C) R$5.950.",
+        "D) R$6.300.",
+        "E) R$6.930."
+      ],
+      "resposta": "B",
+      "comentario": "Custo unitário = R$ 8.500 / 100 = R$ 85. Após 30 vendas no 1º semestre, restam 70 unidades ao custo de R$ 85 = R$ 5.950. Em 01/07/2023: VRL = R$ 90 - 10% × R$ 90 = R$ 90 - R$ 9 = R$ 81. Custo R$ 85 > VRL R$ 81 → write-down. Perda = (R$ 85 - R$ 81) × 70 = R$ 280. Valor do estoque em 31/12/2023 = 70 × R$ 81 = R$ 5.670. Contabilização: débito em Despesa com Ajuste ao VRL (resultado) e crédito em Ajuste ao VRL dos Estoques (retificadora do ativo).",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-05-026",
+      "banca": "FGV",
+      "orgao": "Receita Federal",
+      "cargo": "Analista Tributário",
+      "ano": 2023,
+      "tipo": "multipla_escolha",
+      "enunciado": "O custo dos estoques de bens ou serviços produzidos e segregados para projetos específicos deve ser atribuído pelo uso",
+      "opcoes": [
+        "A) do custo médio ponderado fixo.",
+        "B) do custo médio ponderado móvel.",
+        "C) do último que entra, primeiro que sai.",
+        "D) do primeiro que entra, primeiro que sai.",
+        "E) da identificação específica dos custos individuais."
+      ],
+      "resposta": "E",
+      "comentario": "O CPC 16, item 23, determina que o custo dos estoques de itens não intercambiáveis e de bens ou serviços produzidos e segregados para projetos específicos deve ser atribuído pela identificação específica dos custos individuais. Esse método é adequado quando os itens podem ser individualizados — como aeronaves, veículos específicos ou obras sob encomenda. O item 24 ressalva que, quando há grandes quantidades de itens intercambiáveis, a identificação específica não é apropriada, e deve-se usar PEPS ou custo médio.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-05-027",
+      "banca": "FGV",
+      "orgao": "Receita Federal",
+      "cargo": "Analista Tributário",
+      "ano": 2023,
+      "tipo": "multipla_escolha",
+      "enunciado": "Na contabilização do estoque de uma entidade do setor industrial, os gastos com armazenamento foram incluídos no valor dos estoques, reconhecidos no ativo. Em relação a esses gastos, pode-se afirmar que",
+      "opcoes": [
+        "A) foram pagos à vista.",
+        "B) seu montante é considerado material, frente ao custo das mercadorias.",
+        "C) foram incorridos para trazer os estoques à sua condição e localização atuais.",
+        "D) foram necessários ao processo produtivo entre uma e outra fase de produção.",
+        "E) deverão ser amortizados mensalmente, com base na vida útil estimada do estoque."
+      ],
+      "resposta": "D",
+      "comentario": "O CPC 16, item 16(b), exclui do custo dos estoques os gastos com armazenamento, salvo quando necessários ao processo produtivo entre uma e outra fase de produção. Para matéria-prima industrial, pode ser necessário armazená-la antes de utilizá-la na próxima etapa da produção — nesse caso, o custo de armazenagem é incorporado ao custo do estoque. Já para mercadorias prontas ou produtos acabados, a armazenagem é despesa do período.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-028",
+      "banca": "FGV",
+      "orgao": "Receita Federal",
+      "cargo": "Auditor Fiscal",
+      "ano": 2023,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma entidade vende canetas personalizadas. Em 01/01/X0, não havia estoque. Em 02/01/X0, ela adquiriu 500 unidades por R$6.000, para pagamento em 3 meses; se adquiridas à vista, o custo unitário seria de R$10,00. Na aquisição, a entidade incorreu em frete de R$800 e seguro de R$700. Para a personalização das 500 canetas são gastos R$1.000 em material. Além disso, é utilizada uma máquina adquirida por R$10.000, com capacidade estimada em 5.000 canetas, depreciada pelo método dos benefícios gerados (sem valor residual). Os gastos com armazenamento das 500 canetas prontas eram de R$1.500. Após prontas, 50 canetas foram descartadas por qualidade inferior. Em 31/01/X0, as canetas foram colocadas à venda por R$20,00, com comissão de 10% sobre o preço de venda. Assinale a opção que indica o valor contabilizado como estoque em 31/01/X0.",
+      "opcoes": [
+        "A) R$5.850.",
+        "B) R$6.750.",
+        "C) R$7.650.",
+        "D) R$8.100.",
+        "E) R$9.000."
+      ],
+      "resposta": "C",
+      "comentario": "Custo de aquisição: 500 un. × R$ 10 (à vista) = R$ 5.000 (juros de R$ 1.000 = encargos financeiros, fora do custo). Frete R$ 800 + seguro R$ 700 = R$ 1.500 → entra no custo. Personalização R$ 1.000 → entra no custo (traz ao estado determinado). Depreciação da máquina: (500/5.000) × R$ 10.000 = R$ 1.000 → entra no custo (máquina usada na produção). Armazenagem R$ 1.500 → despesa (produto acabado, não entre fases produtivas). Custo total acumulado: R$ 5.000 + R$ 1.500 + R$ 1.000 + R$ 1.000 = R$ 8.500 (custo unitário R$ 17). 50 canetas descartadas (perda de produto acabado): R$ 850 → despesa. Estoque remanescente: 450 un. × R$ 17 = R$ 7.650. VRL = R$ 20 - (10% × R$ 20) = R$ 18 > custo R$ 17 → usa-se o custo.",
+      "dificuldade": 4
+    },
+    {
+      "id": "cg-05-029",
+      "banca": "FGV",
+      "orgao": "SEFAZ-MG",
+      "cargo": "Auditor Fiscal",
+      "ano": 2023,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma loja vendia calculadoras. Em 31/12/X0, não havia calculadoras no estoque. Em 02/01/X1, a loja adquiriu 100 calculadoras: preço unitário R$ 100,00 com desconto de 10%, frete de R$ 200,00 e custo de estocagem estimado em R$ 400,00. No 1º trimestre, 30 calculadoras foram vendidas por R$ 110,00 cada. Em 01/04, o preço caiu para R$ 95,00 e foram vendidas 10 no 2º trimestre. Em 01/07, o preço caiu para R$ 85,00 e foram vendidas 40 no 3º trimestre. Em 01/10, o preço subiu para R$ 100,00 e foram vendidas 8 no 4º trimestre. Assinale a opção que indica o lucro bruto da loja, no ano de X1.",
+      "opcoes": [
+        "A) R$ 178,00.",
+        "B) R$ 250,00.",
+        "C) R$ 354,00.",
+        "D) R$ 538,00.",
+        "E) R$ 634,00."
+      ],
+      "resposta": "E",
+      "comentario": "Custo unitário: R$ 100 - 10% + R$ 2 frete = R$ 92. Armazenagem → despesa (mercadoria pronta). Receita total: (30 × 110) + (10 × 95) + (40 × 85) + (8 × 100) = R$ 3.300 + R$ 950 + R$ 3.400 + R$ 800 = R$ 8.450. CMV trimestral: Q1: custo R$ 92, VRL R$ 110 → custo. CMV = 30 × R$ 92 = R$ 2.760. Q2: custo R$ 92, VRL R$ 95 → custo. CMV = 10 × R$ 92 = R$ 920. Q3: custo R$ 92 > VRL R$ 85 → write-down para R$ 85. CMV = 40 × R$ 85 = R$ 3.400. Q4: preço subiu para R$ 100 → reverte write-down até o custo original R$ 92 (não acima). CMV = 8 × R$ 92 = R$ 736. CMV total = R$ 7.816. Lucro bruto = R$ 8.450 - R$ 7.816 = R$ 634.",
+      "dificuldade": 4
+    },
+    {
+      "id": "cg-05-030",
+      "banca": "FGV",
+      "orgao": "STN",
+      "cargo": "Auditor Federal de Finanças e Controle",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma livraria vende livros de contabilidade. Em janeiro de 2024, não havia livros em estoque. Em cada pedido, incorre em frete fixo de R$100 e seguro de 20% do valor pago ao fornecedor. Realizou dois pedidos do livro Contabilidade Avançada: no primeiro, 10 livros por R$100 cada; no segundo, 20 livros por R$110 cada. Em 31/01/2024, foram vendidos 15 desses livros por R$200. Assinale a opção que indica o lucro bruto em 31/01/2024, considerando que a livraria controla o estoque pelo custo médio ponderado móvel.",
+      "opcoes": [
+        "A) R$980.",
+        "B) R$1.015.",
+        "C) R$1.080.",
+        "D) R$1.300.",
+        "E) R$1.400."
+      ],
+      "resposta": "A",
+      "comentario": "Custo total do pedido 1: (10 × R$ 100) + R$ 100 frete + (20% × R$ 1.000) seguro = R$ 1.000 + R$ 100 + R$ 200 = R$ 1.300. Custo total do pedido 2: (20 × R$ 110) + R$ 100 frete + (20% × R$ 2.200) seguro = R$ 2.200 + R$ 100 + R$ 440 = R$ 2.740. Total: R$ 4.040 para 30 livros. Custo médio = R$ 4.040 / 30 = R$ 134,67. Como a venda ocorreu após ambas as compras, médias fixa e móvel coincidem. CMV = 15 × R$ 134,67 ≈ R$ 2.020. Receita = 15 × R$ 200 = R$ 3.000. Lucro bruto = R$ 3.000 - R$ 2.020 = R$ 980.",
+      "dificuldade": 4
+    },
+    {
+      "id": "cg-05-031",
+      "banca": "FGV",
+      "orgao": "TCE-PA",
+      "cargo": "Auditor de Controle Externo",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 31/12/2023, uma loja de roupas apresentava os seguintes saldos: Disponibilidades R$30.000; Capital Social R$30.000. Em 05/01/2024, a loja comprou R$10.000 em estoque para revenda à vista, com alíquota de ICMS de 18% destacada na nota fiscal. Em 31/01/2024, a loja vendeu 80% do estoque por R$21.000, para recebimento em 3 meses, com alíquota de ICMS de 18% sobre a operação. Em 31/01/2024, considerando que não houve pagamento de ICMS, o passivo da loja era",
+      "opcoes": [
+        "A) zero.",
+        "B) R$540.",
+        "C) R$1.980.",
+        "D) R$2.340.",
+        "E) R$3.780."
+      ],
+      "resposta": "C",
+      "comentario": "Na compra: ICMS a recuperar = R$ 10.000 × 18% = R$ 1.800 (ativo). Na venda: ICMS a recolher = R$ 21.000 × 18% = R$ 3.780 (passivo). Na apuração: o ICMS a recuperar compensa parte do ICMS a recolher. ICMS líquido a recolher = R$ 3.780 - R$ 1.800 = R$ 1.980. Como não houve pagamento, o passivo da loja em 31/01/2024 é R$ 1.980 (ICMS a recolher).",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-05-032",
+      "banca": "FGV",
+      "orgao": "TCE-RR",
+      "cargo": "Auditor de Controle Externo",
+      "ano": 2025,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 01/12/2024, uma loja adquiriu estoque para revenda por R$ 30.000, com pagamento previsto para quatorze meses. Caso a compra tivesse sido feita à vista, a loja teria pago R$ 28.000. A alíquota do ICMS incidente sobre a compra é de 18%. Qualquer montante relacionado ao ICMS será compensado no curto prazo. Assinale a opção que indica o valor contabilizado como estoque no momento da compra.",
+      "opcoes": [
+        "A) R$ 22.600.",
+        "B) R$ 22.960.",
+        "C) R$ 24.600.",
+        "D) R$ 28.000.",
+        "E) R$ 30.000."
+      ],
+      "resposta": "A",
+      "comentario": "O estoque deve ser registrado pelo preço à vista (R$ 28.000), e os juros embutidos (R$ 30.000 - R$ 28.000 = R$ 2.000) devem ser reconhecidos como encargos financeiros ao longo do prazo. Pela Lei Kandir, os juros integram a base de cálculo do ICMS: base = R$ 28.000 + R$ 2.000 = R$ 30.000; ICMS = R$ 30.000 × 18% = R$ 5.400 (recuperável, pois é revenda, compensável no curto prazo). Custo do estoque = R$ 30.000 - R$ 2.000 (juros) - R$ 5.400 (ICMS recuperável) = R$ 22.600.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-05-033",
+      "banca": "FGV",
+      "orgao": "TJ-SC",
+      "cargo": "Analista",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "No estoque do escritório constavam, em 1 de junho, 50 unidades de determinado insumo ao preço unitário de R$20,00. No dia 12 de junho, entraram no estoque mais 100 unidades ao preço de R$25,00 por unidade. Em 25 de junho, foi registrada a saída de 60 unidades do insumo, sem mais entradas ou saídas no mês. Na situação descrita, em 30 de junho, o valor do saldo do estoque do insumo, com base no método PEPS, era de:",
+      "opcoes": [
+        "A) R$2.050,00.",
+        "B) R$2.200,00.",
+        "C) R$2.250,00.",
+        "D) R$2.300,00.",
+        "E) R$2.500,00."
+      ],
+      "resposta": "C",
+      "comentario": "Método PEPS — baixa os mais antigos primeiro. Estoque inicial: 50 un. × R$ 20 = R$ 1.000. Compra: 100 un. × R$ 25 = R$ 2.500. Saída de 60 unidades: as 50 do estoque inicial (R$ 1.000) + 10 da compra (R$ 250) = CMV de R$ 1.250. Estoque final: 90 unidades restantes da compra × R$ 25 = R$ 2.250.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-05-034",
+      "banca": "FGV",
+      "orgao": "TRF-1ª Região",
+      "cargo": "Técnico Judiciário",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Considerando-se os preceitos do CPC 16 Estoques, em um período de aumento de preços, os métodos de controle de estoque que tendem a resultar em um maior lucro bruto e em um maior estoque final são, respectivamente:",
+      "opcoes": [
+        "A) PEPS e PEPS.",
+        "B) PEPS e média ponderada.",
+        "C) PEPS e UEPS.",
+        "D) UEPS e PEPS.",
+        "E) UEPS e média móvel."
+      ],
+      "resposta": "A",
+      "comentario": "Em ambiente inflacionário: o PEPS dá baixa primeiro ao estoque mais antigo (mais barato), gerando CMV menor e, consequentemente, maior lucro bruto. O estoque final é composto pelas aquisições mais recentes (mais caras), sendo, portanto, o maior. O UEPS produz o efeito contrário (maior CMV, menor estoque final, menor lucro). A média ponderada fica em posição intermediária. Assim, tanto o maior lucro bruto quanto o maior estoque final são produzidos pelo PEPS.",
+      "dificuldade": 1
+    }
+  ]
+}
