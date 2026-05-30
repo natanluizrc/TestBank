@@ -1122,16 +1122,38 @@ function toggleRevisao(q, qNum) {
   }
 }
 
-function renderRevisao() {
+async function renderRevisao() {
   const conteudo = document.getElementById('conteudo');
+
+  // Garante que todas as aulas referenciadas pelas fixadas estejam no cache
+  const slugsUnicos = [...new Set(
+    revisaoQuestoes.map(q => q._materiaId && q._slug ? `${q._materiaId}/${q._slug}` : null).filter(Boolean)
+  )];
+  await Promise.all(slugsUnicos.map(k => {
+    const [mid, slug] = k.split('/');
+    return carregarAulaDados(mid, slug);
+  }));
+
+  // Monta lookup id → questão atual do JSON
+  const lookup = {};
+  for (const k of slugsUnicos) {
+    aulaCache[k]?.questoes?.forEach(q => { lookup[q.id] = q; });
+  }
+
+  // Enriquece com dados frescos, preservando metadados do Firestore
   const questoes = (salvosFiltroSlug
     ? revisaoQuestoes.filter(q => q._slug === salvosFiltroSlug && q._materiaId === materiaAtiva.id)
     : revisaoQuestoes
-  ).slice().sort((a, b) =>
+  ).map(q => {
+    const fresh = lookup[q.id];
+    if (!fresh) return q;
+    return { ...fresh, _materia: q._materia, _materiaId: q._materiaId, _aula: q._aula, _slug: q._slug, _qNum: q._qNum, marcadoEm: q.marcadoEm };
+  }).slice().sort((a, b) =>
     (a._materiaId || '').localeCompare(b._materiaId || '') ||
     (a._slug || '').localeCompare(b._slug || '') ||
     (a._qNum || 0) - (b._qNum || 0)
   );
+
   if (!questoes.length) {
     conteudo.innerHTML = `<p class="msg-vazio">${salvosFiltroSlug ? 'Nenhuma questão salva nesta aula.' : 'Nenhuma questão salva ainda.'}</p>`;
     return;
