@@ -5,7 +5,7 @@
   "questoes": [
     {
       "id": "cg-02b-001",
-      "banca": "Instituto Verbena",
+      "banca": "Verbena",
       "orgao": "UFG",
       "cargo": "Contador",
       "ano": 2023,
@@ -22,7 +22,7 @@
     },
     {
       "id": "cg-02b-002",
-      "banca": "Instituto Verbena",
+      "banca": "Verbena",
       "orgao": "UFG",
       "cargo": "Contador",
       "ano": 2023,
@@ -1645,7 +1645,7 @@
     },
     {
       "id": "cg-02b-097",
-      "banca": "Instituto Verbena",
+      "banca": "Verbena",
       "orgao": "TJ AC",
       "cargo": "Contador",
       "ano": 2024,
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "cg-02b-099",
-      "banca": "Instituto CONSULPAM",
+      "banca": "CONSULPAM",
       "orgao": "ICTIM",
       "cargo": "Contador",
       "ano": 2023,
