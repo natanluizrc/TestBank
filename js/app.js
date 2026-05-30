@@ -204,7 +204,7 @@ async function carregarAulaDados(materiaId, slug) {
   const key = `${materiaId}/${slug}`;
   if (aulaCache[key]) return aulaCache[key];
   try {
-    const resp = await fetch(`data/${materiaId}/${slug}.json`);
+    const resp = await fetch(`data/${materiaId}/${slug}.json`, { cache: 'no-cache' });
     if (!resp.ok) throw new Error();
     const dados = await resp.json();
     aulaCache[key] = dados;
