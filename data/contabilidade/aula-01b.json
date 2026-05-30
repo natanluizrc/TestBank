@@ -187,7 +187,7 @@
     {
       "id": "cg-01b-84",
       "banca": "CEBRASPE",
-      "orgao": "CAU BR",
+      "orgao": "CAU-BR",
       "cargo": "Técnico",
       "ano": 2024,
       "tipo": "certo_errado",
@@ -199,7 +199,7 @@
     {
       "id": "cg-01b-47",
       "banca": "CEBRASPE",
-      "orgao": "DPE RO",
+      "orgao": "DPE-RO",
       "cargo": "Técnico em Contabilidade",
       "ano": 2022,
       "tipo": "multipla_escolha",
@@ -218,7 +218,7 @@
     {
       "id": "cg-01b-60",
       "banca": "CEBRASPE",
-      "orgao": "DPE RO",
+      "orgao": "DPE-RO",
       "cargo": "Técnico em Contabilidade",
       "ano": 2022,
       "tipo": "multipla_escolha",
@@ -367,54 +367,6 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01b-45",
-      "banca": "CEBRASPE",
-      "orgao": "PC DF",
-      "cargo": "Contador",
-      "ano": 2025,
-      "tipo": "certo_errado",
-      "enunciado": "No mesmo rol de contas, os saldos devedores somam R$ 89 mil (seguros antecipados R$ 1.000, caixa e equivalentes R$ 1.000, contas a receber R$ 30.000, estoques R$ 12.000, empréstimos a dirigentes R$ 10.000, adiantamento a fornecedores R$ 10.000 e imobilizado R$ 25.000).",
-      "resposta": "certo",
-      "comentario": "Somando os saldos das sete contas devedoras: 1.000 + 1.000 + 30.000 + 12.000 + 10.000 + 10.000 + 25.000 = R$ 89.000. Portanto, a afirmativa está correta.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-01b-43",
-      "banca": "CEBRASPE",
-      "orgao": "PC DF",
-      "cargo": "Contador",
-      "ano": 2025,
-      "tipo": "certo_errado",
-      "enunciado": "No rol de contas composto por: depreciação acumulada, seguros antecipados, caixa e equivalentes, contas a receber, estoques, empréstimos a dirigentes, adiantamento a fornecedores, adiantamento de clientes, imobilizado, capital social, contas a pagar e reserva para contingências — há duas contas credoras que não pertencem ao passivo exigível.",
-      "resposta": "errado",
-      "comentario": "As contas credoras que não pertencem ao passivo exigível são: depreciação acumulada (retificadora do ativo), capital social (PL) e reserva para contingências (PL) — total de três, não duas como afirmado. O adiantamento de clientes e contas a pagar são passivos exigíveis. Por isso a afirmativa está errada.",
-      "dificuldade": 3
-    },
-    {
-      "id": "cg-01b-44",
-      "banca": "CEBRASPE",
-      "orgao": "PC DF",
-      "cargo": "Contador",
-      "ano": 2025,
-      "tipo": "certo_errado",
-      "enunciado": "No rol de contas composto por: depreciação acumulada, seguros antecipados, caixa e equivalentes, contas a receber, estoques, empréstimos a dirigentes, adiantamento a fornecedores, adiantamento de clientes, imobilizado, capital social, contas a pagar e reserva para contingências — existem sete contas de natureza devedora e cinco contas de natureza credora.",
-      "resposta": "certo",
-      "comentario": "As sete contas devedoras são: seguros antecipados (ativo), caixa e equivalentes (ativo), contas a receber (ativo), estoques (ativo), empréstimos a dirigentes (ativo), adiantamento a fornecedores (ativo) e imobilizado (ativo). As cinco contas credoras são: depreciação acumulada (retificadora do ativo), adiantamento de clientes (passivo), capital social (PL), contas a pagar (passivo) e reserva para contingências (PL).",
-      "dificuldade": 3
-    },
-    {
-      "id": "cg-01b-91",
-      "banca": "CEBRASPE",
-      "orgao": "PC DF",
-      "cargo": "Contador",
-      "ano": 2025,
-      "tipo": "certo_errado",
-      "enunciado": "Do rol de contas composto por depreciação acumulada (R$ 7.000), seguros antecipados (R$ 1.000), caixa e equivalentes (R$ 1.000), contas a receber (R$ 30.000), estoques (R$ 12.000), empréstimos a dirigentes (R$ 10.000), adiantamento a fornecedores (R$ 10.000), adiantamento de clientes (R$ 11.000), imobilizado (R$ 25.000), capital social (R$ 29.000), contas a pagar (R$ 40.000) e reserva para contingências (R$ 2.000) — os saldos credores somam R$ 82 mil.",
-      "resposta": "errado",
-      "comentario": "As contas credoras do rol são: depreciação acumulada (retificadora do ativo) R$ 7.000, adiantamento de clientes (passivo) R$ 11.000, capital social (PL) R$ 29.000, contas a pagar (passivo) R$ 40.000 e reserva para contingências (PL) R$ 2.000. A soma é R$ 89.000, não R$ 82.000 como afirmado.",
-      "dificuldade": 3
-    },
-    {
       "id": "cg-01b-51",
       "banca": "CEBRASPE",
       "orgao": "PC RO",
@@ -432,6 +384,54 @@
       "resposta": "D",
       "comentario": "A alternativa D contém apenas contas credoras: Empréstimos a pagar (passivo), Salários a pagar (passivo) e Receita de vendas (receita). As demais alternativas incluem contas devedoras: Caixa, Contas a receber, Máquinas e equipamentos, Despesas com salários são contas do ativo ou de despesas.",
       "dificuldade": 2
+    },
+    {
+      "id": "cg-01b-45",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "No mesmo rol de contas, os saldos devedores somam R$ 89 mil (seguros antecipados R$ 1.000, caixa e equivalentes R$ 1.000, contas a receber R$ 30.000, estoques R$ 12.000, empréstimos a dirigentes R$ 10.000, adiantamento a fornecedores R$ 10.000 e imobilizado R$ 25.000).",
+      "resposta": "certo",
+      "comentario": "Somando os saldos das sete contas devedoras: 1.000 + 1.000 + 30.000 + 12.000 + 10.000 + 10.000 + 25.000 = R$ 89.000. Portanto, a afirmativa está correta.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01b-43",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "No rol de contas composto por: depreciação acumulada, seguros antecipados, caixa e equivalentes, contas a receber, estoques, empréstimos a dirigentes, adiantamento a fornecedores, adiantamento de clientes, imobilizado, capital social, contas a pagar e reserva para contingências — há duas contas credoras que não pertencem ao passivo exigível.",
+      "resposta": "errado",
+      "comentario": "As contas credoras que não pertencem ao passivo exigível são: depreciação acumulada (retificadora do ativo), capital social (PL) e reserva para contingências (PL) — total de três, não duas como afirmado. O adiantamento de clientes e contas a pagar são passivos exigíveis. Por isso a afirmativa está errada.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01b-44",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "No rol de contas composto por: depreciação acumulada, seguros antecipados, caixa e equivalentes, contas a receber, estoques, empréstimos a dirigentes, adiantamento a fornecedores, adiantamento de clientes, imobilizado, capital social, contas a pagar e reserva para contingências — existem sete contas de natureza devedora e cinco contas de natureza credora.",
+      "resposta": "certo",
+      "comentario": "As sete contas devedoras são: seguros antecipados (ativo), caixa e equivalentes (ativo), contas a receber (ativo), estoques (ativo), empréstimos a dirigentes (ativo), adiantamento a fornecedores (ativo) e imobilizado (ativo). As cinco contas credoras são: depreciação acumulada (retificadora do ativo), adiantamento de clientes (passivo), capital social (PL), contas a pagar (passivo) e reserva para contingências (PL).",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01b-91",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "Do rol de contas composto por depreciação acumulada (R$ 7.000), seguros antecipados (R$ 1.000), caixa e equivalentes (R$ 1.000), contas a receber (R$ 30.000), estoques (R$ 12.000), empréstimos a dirigentes (R$ 10.000), adiantamento a fornecedores (R$ 10.000), adiantamento de clientes (R$ 11.000), imobilizado (R$ 25.000), capital social (R$ 29.000), contas a pagar (R$ 40.000) e reserva para contingências (R$ 2.000) — os saldos credores somam R$ 82 mil.",
+      "resposta": "errado",
+      "comentario": "As contas credoras do rol são: depreciação acumulada (retificadora do ativo) R$ 7.000, adiantamento de clientes (passivo) R$ 11.000, capital social (PL) R$ 29.000, contas a pagar (passivo) R$ 40.000 e reserva para contingências (PL) R$ 2.000. A soma é R$ 89.000, não R$ 82.000 como afirmado.",
+      "dificuldade": 3
     },
     {
       "id": "cg-01b-53",
@@ -489,30 +489,6 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-01b-54",
-      "banca": "CEBRASPE",
-      "orgao": "TCE RJ",
-      "cargo": "Analista de Controle Externo",
-      "ano": 2021,
-      "tipo": "certo_errado",
-      "enunciado": "Em outubro de 2019, a empresa Beta assinou um contrato para prestar determinado serviço. No mês seguinte, o cliente efetuou um adiantamento em dinheiro. Na contabilidade da empresa Beta, esse adiantamento representa, ao mesmo tempo, uma origem de recursos com registro a crédito de uma conta do passivo circulante, e uma aplicação de recursos com registro a débito de uma conta do ativo circulante.",
-      "resposta": "certo",
-      "comentario": "Pelo método das partidas dobradas, toda operação tem origem e aplicação de recursos. O adiantamento recebido do cliente é uma origem de recursos — registrada a crédito em Adiantamento de Clientes (passivo circulante). Simultaneamente, o dinheiro recebido é uma aplicação — registrado a débito na conta Caixa (ativo circulante). Portanto, a afirmativa está correta.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-01b-94",
-      "banca": "CEBRASPE",
-      "orgao": "TCE RJ",
-      "cargo": "Analista de Controle Externo",
-      "ano": 2021,
-      "tipo": "certo_errado",
-      "enunciado": "Em outubro de 2019, a empresa Beta assinou contrato para prestar determinado serviço a um cliente. Em novembro, o cliente efetuou um adiantamento em dinheiro pelo serviço contratado. Em dezembro, o serviço foi prestado. Conforme o que estabelece a teoria personalista, por ocasião do recebimento do adiantamento feito pelo cliente, a empresa Beta deve tratar a conta caixa como se ela representasse uma pessoa com quem mantém um relacionamento, de modo que a conta caixa passa a ser devedora da empresa, no momento em que o adiantamento for recebido.",
-      "resposta": "certo",
-      "comentario": "A teoria personalista personifica as contas como se fossem pessoas. A conta Caixa representa o agente consignatário que guarda o dinheiro da empresa. Quando o caixa recebe o adiantamento do cliente, ele passa a dever esse valor à empresa — torna-se devedor. Por isso a conta Caixa é debitada: quem recebe torna-se devedor.",
-      "dificuldade": 2
-    },
-    {
       "id": "cg-01b-58",
       "banca": "CEBRASPE",
       "orgao": "TCE-PA",
@@ -537,9 +513,33 @@
       "dificuldade": 2
     },
     {
+      "id": "cg-01b-54",
+      "banca": "CEBRASPE",
+      "orgao": "TCE-RJ",
+      "cargo": "Analista de Controle Externo",
+      "ano": 2021,
+      "tipo": "certo_errado",
+      "enunciado": "Em outubro de 2019, a empresa Beta assinou um contrato para prestar determinado serviço. No mês seguinte, o cliente efetuou um adiantamento em dinheiro. Na contabilidade da empresa Beta, esse adiantamento representa, ao mesmo tempo, uma origem de recursos com registro a crédito de uma conta do passivo circulante, e uma aplicação de recursos com registro a débito de uma conta do ativo circulante.",
+      "resposta": "certo",
+      "comentario": "Pelo método das partidas dobradas, toda operação tem origem e aplicação de recursos. O adiantamento recebido do cliente é uma origem de recursos — registrada a crédito em Adiantamento de Clientes (passivo circulante). Simultaneamente, o dinheiro recebido é uma aplicação — registrado a débito na conta Caixa (ativo circulante). Portanto, a afirmativa está correta.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01b-94",
+      "banca": "CEBRASPE",
+      "orgao": "TCE-RJ",
+      "cargo": "Analista de Controle Externo",
+      "ano": 2021,
+      "tipo": "certo_errado",
+      "enunciado": "Em outubro de 2019, a empresa Beta assinou contrato para prestar determinado serviço a um cliente. Em novembro, o cliente efetuou um adiantamento em dinheiro pelo serviço contratado. Em dezembro, o serviço foi prestado. Conforme o que estabelece a teoria personalista, por ocasião do recebimento do adiantamento feito pelo cliente, a empresa Beta deve tratar a conta caixa como se ela representasse uma pessoa com quem mantém um relacionamento, de modo que a conta caixa passa a ser devedora da empresa, no momento em que o adiantamento for recebido.",
+      "resposta": "certo",
+      "comentario": "A teoria personalista personifica as contas como se fossem pessoas. A conta Caixa representa o agente consignatário que guarda o dinheiro da empresa. Quando o caixa recebe o adiantamento do cliente, ele passa a dever esse valor à empresa — torna-se devedor. Por isso a conta Caixa é debitada: quem recebe torna-se devedor.",
+      "dificuldade": 2
+    },
+    {
       "id": "cg-01b-81",
       "banca": "CEBRASPE",
-      "orgao": "TRF 6",
+      "orgao": "TRF-6",
       "cargo": "Técnico",
       "ano": 2025,
       "tipo": "certo_errado",
@@ -551,7 +551,7 @@
     {
       "id": "cg-01b-113",
       "banca": "CEBRASPE",
-      "orgao": "TRF 6",
+      "orgao": "TRF-6",
       "cargo": "Técnico",
       "ano": 2025,
       "tipo": "certo_errado",
@@ -563,7 +563,7 @@
     {
       "id": "cg-01b-82",
       "banca": "CEBRASPE",
-      "orgao": "TRF 6",
+      "orgao": "TRF-6",
       "cargo": "Técnico",
       "ano": 2025,
       "tipo": "certo_errado",
@@ -1031,7 +1031,7 @@
       "id": "cg-01b-75",
       "banca": "FCC",
       "orgao": "TRT-24",
-      "cargo": "Analista Judiciário Contabilidade",
+      "cargo": "Analista Judiciário - Contabilidade",
       "ano": 2011,
       "tipo": "multipla_escolha",
       "enunciado": "Aumentam os saldos das contas de Patrimônio Líquido, Ativo e Passivo, os lançamentos nelas efetuados que representem, respectivamente:",
@@ -1117,8 +1117,7 @@
       ],
       "resposta": "C",
       "comentario": "Adiantamento a sócio é uma conta do ativo (direito a receber), portanto devedora. Ações em tesouraria é uma retificadora do patrimônio líquido, que possui natureza contrária ao seu grupo — como o PL é credor, a retificadora é devedora. Receitas antecipadas são contas do passivo (credoras), portanto não são devedoras.",
-      "dificuldade": 3,
-      "cargo": "Exame de Suficiência"
+      "dificuldade": 3
     },
     {
       "id": "cg-01b-36",

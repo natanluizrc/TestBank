@@ -19,26 +19,8 @@
         "D) Modificativo aumentativo.",
         "E) Misto diminutivo."
       ],
-      "cargo": "Analista Legislativo / Contabilidade",
+      "cargo": "Analista Legislativo - Contabilidade",
       "orgao": "CM Rio Branco"
-    },
-    {
-      "id": "cg-02a-018",
-      "banca": "AOCP",
-      "orgao": "IFNMG",
-      "cargo": "Contador",
-      "ano": 2022,
-      "tipo": "multipla_escolha",
-      "enunciado": "A empresa Felix adquiriu uma máquina para pagamento a prazo. Entretanto realizou o lançamento contábil como se fosse pagamento à vista no valor de R$ 100.000,00. Diante do fato ocorrido, o contador deverá realizar o lançamento de retificação por meio do(a) A estorno.",
-      "resposta": "B",
-      "comentario": "Lançamento de transferência é aquele que promove a regularização de conta indevidamente debitada ou creditada, por meio da transposição do registro para a conta adequada. Vejamos o caso do quesito: A empresa Felix adquiriu uma máquina para pagamento a prazo. Entretanto realizou o lançamento contábil como se fosse pagamento à vista no valor de R$ 100.000,00. Lançamento incorreto: MÁQUINA R$ 45.000 CAIXA R$ 45.000 Lançamento de transferência: correção de registro realizado com erro na escrituração contábil da entidade e poderá ser realizada por meio de estorno, transferência e complementação. Nesse sentido, o estorno consiste em A lançamento inverso àquele feito erroneamente, anulando-o parcialmente. B lançamento inverso àquele feito erroneamente, anulando-o totalmente. C regularizar a conta indevidamente debitada ou creditada, por meio da transposição do registro para a conta adequada. D regularizar a conta indevidamente debitada ou creditada, por meio de ajuste do registro para a conta correta. E complementar, aumentando ou reduzindo o valor anteriormente registrado erroneamente. Comentários: O estorno consiste em lançamento inverso àquele feito erroneamente, anulando-o totalmente. Exemplo: Uma empresa compra um veículo, para pagar a prazo, mas lança como se fosse à vista, no valor de R$ 45.000,00. Lançamento incorreto: A empresa decide fazer o estorno, anulando-o totalmente. Estorno:",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) transferência",
-        "B) complementação",
-        "C) ressalva",
-        "D) realocação"
-      ]
     },
     {
       "id": "cg-02a-020",
@@ -56,6 +38,24 @@
         "B) fatos modificativos aumentativos",
         "C) atos mistos aumentativos",
         "D) atos modificativos aumentativos"
+      ]
+    },
+    {
+      "id": "cg-02a-018",
+      "banca": "AOCP",
+      "orgao": "IFNMG",
+      "cargo": "Contador",
+      "ano": 2022,
+      "tipo": "multipla_escolha",
+      "enunciado": "A empresa Felix adquiriu uma máquina para pagamento a prazo. Entretanto realizou o lançamento contábil como se fosse pagamento à vista no valor de R$ 100.000,00. Diante do fato ocorrido, o contador deverá realizar o lançamento de retificação por meio do(a) A estorno.",
+      "resposta": "B",
+      "comentario": "Lançamento de transferência é aquele que promove a regularização de conta indevidamente debitada ou creditada, por meio da transposição do registro para a conta adequada. Vejamos o caso do quesito: A empresa Felix adquiriu uma máquina para pagamento a prazo. Entretanto realizou o lançamento contábil como se fosse pagamento à vista no valor de R$ 100.000,00. Lançamento incorreto: MÁQUINA R$ 45.000 CAIXA R$ 45.000 Lançamento de transferência: correção de registro realizado com erro na escrituração contábil da entidade e poderá ser realizada por meio de estorno, transferência e complementação. Nesse sentido, o estorno consiste em A lançamento inverso àquele feito erroneamente, anulando-o parcialmente. B lançamento inverso àquele feito erroneamente, anulando-o totalmente. C regularizar a conta indevidamente debitada ou creditada, por meio da transposição do registro para a conta adequada. D regularizar a conta indevidamente debitada ou creditada, por meio de ajuste do registro para a conta correta. E complementar, aumentando ou reduzindo o valor anteriormente registrado erroneamente. Comentários: O estorno consiste em lançamento inverso àquele feito erroneamente, anulando-o totalmente. Exemplo: Uma empresa compra um veículo, para pagar a prazo, mas lança como se fosse à vista, no valor de R$ 45.000,00. Lançamento incorreto: A empresa decide fazer o estorno, anulando-o totalmente. Estorno:",
+      "dificuldade": 3,
+      "opcoes": [
+        "A) transferência",
+        "B) complementação",
+        "C) ressalva",
+        "D) realocação"
       ]
     },
     {
@@ -97,25 +97,6 @@
       ]
     },
     {
-      "id": "cg-02a-019",
-      "banca": "AOCP",
-      "orgao": "Pref. Belém-PA",
-      "cargo": "Contador",
-      "ano": 2022,
-      "tipo": "multipla_escolha",
-      "enunciado": "Referente aos fatos contábeis, permutativos, modificativos e mistos, assinale a alternativa INCORRETA.",
-      "resposta": "E",
-      "comentario": "Fique Atento! O quesito solicitou a alternativa INCORRETA. A Os fatos modificativos são aqueles que têm a capacidade de alterar, para mais ou para menos, o patrimônio líquido. Os fatos modificativos são aqueles que alteram, para mais ou para menos, o patrimônio líquido. A doutrina também os denomina como fatos quantitativos. Item certo. B O fato misto é o que envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Fato misto é o que envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Acarreta, portanto, alterações no ativo e PL, no passivo e no PL ou no ativo, passivo e PL. Item certo. C O fato modificativo aumentativo é aquele que provoca aumento da situação líquida mediante aumento do ativo ou diminuição do passivo. O fato modificativo provoca aumento da situação líquida mediante aumento do ativo ou diminuição do passivo. Há o reconhecimento de uma receita. Item certo. D O fato modificativo provoca aumento ou redução do ativo ou passivo, concomitantemente com modificação na situação líquida. Necessariamente haverá uma conta de receita ou despesa envolvida. O fato modificativo provoca aumento ou redução do ativo ou passivo e, como contrapartida, modificação na situação líquida. Apesar de divergência, o entendimento que deve predominar em provas é que, nesses fatos (quantitativos) necessariamente haverá uma conta de receita ou despesa. Item certo. E Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, em que haja alteração no valor total do patrimônio líquido e contas de resultado. Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, sem que haja alteração no valor total do patrimônio líquido e contas de resultado. Assim, o item erra no trecho \"em que haja alteração no valor total do patrimônio líquido e contas de resultado\".",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) Os fatos modificativos são aqueles que têm a capacidade de alterar, para mais ou para menos, o patrimônio líquido",
-        "B) O fato misto é o que envolve, ao mesmo tempo, um fato permutativo e um fato modificativo",
-        "C) O fato modificativo aumentativo é aquele que provoca aumento da situação líquida mediante aumento do ativo ou diminuição do passivo",
-        "D) O fato modificativo provoca aumento ou redução do ativo ou passivo, concomitantemente com modificação na situação líquida. Necessariamente haverá uma conta de receita ou despesa envolvida",
-        "E) Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, em que haja alteração no valor total do patrimônio líquido e contas de resultado"
-      ]
-    },
-    {
       "id": "cg-02a-103",
       "banca": "AOCP",
       "orgao": "Pref. Belém-PA",
@@ -134,6 +115,25 @@
       ]
     },
     {
+      "id": "cg-02a-019",
+      "banca": "AOCP",
+      "orgao": "Pref. Belém-PA",
+      "cargo": "Contador",
+      "ano": 2022,
+      "tipo": "multipla_escolha",
+      "enunciado": "Referente aos fatos contábeis, permutativos, modificativos e mistos, assinale a alternativa INCORRETA.",
+      "resposta": "E",
+      "comentario": "Fique Atento! O quesito solicitou a alternativa INCORRETA. A Os fatos modificativos são aqueles que têm a capacidade de alterar, para mais ou para menos, o patrimônio líquido. Os fatos modificativos são aqueles que alteram, para mais ou para menos, o patrimônio líquido. A doutrina também os denomina como fatos quantitativos. Item certo. B O fato misto é o que envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Fato misto é o que envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Acarreta, portanto, alterações no ativo e PL, no passivo e no PL ou no ativo, passivo e PL. Item certo. C O fato modificativo aumentativo é aquele que provoca aumento da situação líquida mediante aumento do ativo ou diminuição do passivo. O fato modificativo provoca aumento da situação líquida mediante aumento do ativo ou diminuição do passivo. Há o reconhecimento de uma receita. Item certo. D O fato modificativo provoca aumento ou redução do ativo ou passivo, concomitantemente com modificação na situação líquida. Necessariamente haverá uma conta de receita ou despesa envolvida. O fato modificativo provoca aumento ou redução do ativo ou passivo e, como contrapartida, modificação na situação líquida. Apesar de divergência, o entendimento que deve predominar em provas é que, nesses fatos (quantitativos) necessariamente haverá uma conta de receita ou despesa. Item certo. E Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, em que haja alteração no valor total do patrimônio líquido e contas de resultado. Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, sem que haja alteração no valor total do patrimônio líquido e contas de resultado. Assim, o item erra no trecho \"em que haja alteração no valor total do patrimônio líquido e contas de resultado\".",
+      "dificuldade": 3,
+      "opcoes": [
+        "A) Os fatos modificativos são aqueles que têm a capacidade de alterar, para mais ou para menos, o patrimônio líquido",
+        "B) O fato misto é o que envolve, ao mesmo tempo, um fato permutativo e um fato modificativo",
+        "C) O fato modificativo aumentativo é aquele que provoca aumento da situação líquida mediante aumento do ativo ou diminuição do passivo",
+        "D) O fato modificativo provoca aumento ou redução do ativo ou passivo, concomitantemente com modificação na situação líquida. Necessariamente haverá uma conta de receita ou despesa envolvida",
+        "E) Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, em que haja alteração no valor total do patrimônio líquido e contas de resultado"
+      ]
+    },
+    {
       "id": "cg-02a-031",
       "banca": "AOCP",
       "orgao": "UFPB",
@@ -143,7 +143,7 @@
       "enunciado": "Relacione as colunas e assinale a alternativa com a sequência correta. 1. Lançamento de primeira fórmula. 2. Lançamento de segunda fórmula. 3. Lançamento de terceira fórmula. 4. Lançamento de quarta fórmula.",
       "resposta": "B",
       "comentario": "Vamos efetuar a contabilização de cada fato: ( ) Integralização de capital no valor de R$ 200.000,00, 40% em dinheiro e 60% em equipamentos. D Bancos D Equipamentos C Capital Social R$ 80.000 R$ 120.000 R$ 200.000 Lançamento de 3ª fórmula. ( ) Aquisição de móveis por R$ 50.000,00 com pagamento à vista em cheque. D Móveis e Equipamentos C Bancos R$ 50.000 R$ 50.000 Lançamento de 1ª fórmula. ( ) Pagamento de R$ 5.600,00 de aluguel e R$ 400,00 de IPTU referentes ao imóvel alugado, sendo R$ 1.000,00 em dinheiro e R$ 5.000,00 em cheque. D Despesas com Aluguel D Despesas com IPTU C Caixa R$ 5.600 R$ 400 R$ 1.000 C Bancos R$ 5.000 Lançamento de 4ª fórmula. ( ) Aquisição de móveis por R$ 20.000,00, com pagamento de 20% à vista em cheque e 80% a prazo. D Móveis e Equipamentos C Bancos C Títulos a Pagar R$ 20.000 R$ 10.000 R$ 10.000 Lançamento de 2ª fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) 1 - 4 - 2 - 3.",
         "B) 3 - 1 - 4 - 2.",
@@ -162,7 +162,7 @@
       "enunciado": "Em contabilidade, o enunciado clássico do método das partidas dobradas (ou método veneziano) determina que um registro a débito, em uma ou mais contas-contábeis:",
       "resposta": "A",
       "comentario": "Método é o caminho de que nos utilizamos para chegar a uma meta. Na contabilidade, o caminho utilizado para se escriturar é o método das partidas dobradas. Esse método consiste em considerar que para todo e qualquer item que ingressa no patrimônio, há um lugar de onde ele é proveniente. Ou seja, não há geração espontânea de patrimônio, mas sim uma origem para todo elemento que se aplica no patrimônio, passando a integrá-lo. Atenção! O método das partidas dobradas também é conhecido pelo nome de método veneziano. A origem dos recursos será representada por um lançamento a crédito e a respectiva aplicação será contabilizada por um lançamento a débito. Como consequência desse método, não haverá débito sem o respectivo crédito. Com base no método das partidas dobradas, algumas conclusões podem ser tomadas: - A soma dos débitos é sempre igual à soma dos créditos. - Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. - O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido. - O total do ativo mais a despesa será sempre igual à soma do passivo exigível com o patrimônio líquido mais as receitas. Diante do exposto. determina que um registro a débito, em uma ou mais contas-contábeis deve ser acompanhado de um registro a crédito de valor equivalente, em uma ou mais contas-contábeis.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) deve ser acompanhado de um registro a crédito de valor equivalente, em uma ou mais contascontábeis",
         "B) deve ser acompanhado de um registro a débito de valor equivalente, em uma ou mais contas-contábeis de natureza credora apenas",
@@ -181,7 +181,31 @@
       "enunciado": "Entre os vários componentes de um plano de contas completo, um dos mais conhecidos é o elenco de contas, composto pela disposição organizada das contas de uso da instituição, com seus códigos, em geral, numéricos, e o literal que qualifica tal conta.",
       "resposta": "certo",
       "comentario": "Correto. O elenco de contas é o componente central do plano de contas: lista todas as contas utilizadas pela entidade de forma organizada, com códigos numéricos padronizados e os respectivos literais. Ele garante uniformidade na escrituração e facilita a localização e identificação de cada conta no sistema contábil.",
-      "dificuldade": 2
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-02a-080",
+      "banca": "CEBRASPE",
+      "orgao": "ANTT",
+      "cargo": "Especialista em Regulação",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "Um procedimento usual na escrituração contábil é o estorno, que ocorre quando um erro de lançamento foi cometido; o estorno, necessariamente, deve reverter integralmente o lançamento errado, não sendo admitido estorno parcial de lançamento.",
+      "resposta": "certo",
+      "comentario": "Com relação aos objetivos e princípios da contabilidade, aos elementos que compõem o patrimônio das entidades e aos eventos que podem vir a impactar esse patrimônio, julgue o item seguinte.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-02a-152",
+      "banca": "CEBRASPE",
+      "orgao": "ANTT",
+      "cargo": "Especialista em Regulação",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "Entre os vários componentes de um plano de contas completo, um dos mais conhecidos é o elenco de contas, composto pela disposição organizada das contas de uso da instituição, com seus códigos, em geral, numéricos, e o literal que qualifica tal conta.",
+      "resposta": "certo",
+      "comentario": "Correto. O plano de contas de uma entidade é composto por diversos elementos; entre eles, o elenco de contas é o mais reconhecido. Ele apresenta de forma organizada todas as contas disponíveis para escrituração, identificadas por códigos em geral numéricos e pelos literais que nomeiam cada conta, garantindo padronização e clareza nos registros.",
+      "dificuldade": 1
     },
     {
       "id": "cg-02a-073",
@@ -205,66 +229,6 @@
       "enunciado": "A construção de um bom plano de contas somente é possível caso se tenha como pressuposto o foco nas necessidades de informação na equipe responsável pelo desenvolvimento das atividades contábeis da empresa. Um plano de contas é bom quando atende as necessidades de trabalho, organização e informação do pessoal da contabilidade.",
       "resposta": "errado",
       "comentario": "Com relação aos atos e fatos administrativos e aos fatos contábeis, julgue o item seguinte.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-02a-080",
-      "banca": "CEBRASPE",
-      "orgao": "ANTT",
-      "cargo": "Especialista em Regulação",
-      "ano": 2024,
-      "tipo": "certo_errado",
-      "enunciado": "Um procedimento usual na escrituração contábil é o estorno, que ocorre quando um erro de lançamento foi cometido; o estorno, necessariamente, deve reverter integralmente o lançamento errado, não sendo admitido estorno parcial de lançamento.",
-      "resposta": "certo",
-      "comentario": "Com relação aos objetivos e princípios da contabilidade, aos elementos que compõem o patrimônio das entidades e aos eventos que podem vir a impactar esse patrimônio, julgue o item seguinte.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-02a-083",
-      "banca": "CEBRASPE",
-      "orgao": "ANTT",
-      "cargo": "Especialista em Regulação",
-      "ano": 2024,
-      "tipo": "certo_errado",
-      "enunciado": "Considere que uma empresa tenha chegado a um acordo com um de seus fornecedores para saldar determinado débito com a entrega de um ativo da companhia. Considere, ainda, que nenhum desconto tenha sido concedido pelo credor e nenhum encargo adicional tenha sido pago pela devedora. Nessa situação, a variação no patrimônio dos envolvidos foi qualitativa e não quantitativa, não se tratando de um fato contábil modificativo.",
-      "resposta": "certo",
-      "comentario": "Para entendermos melhor a situação, vamos imaginar que a dívida da empresa com os fornecedores era de R$ 1.000 e foi quitada em dinheiro por essa mesma quantia, isto é, sem desconto ou encargo adicional. A contabilização que deve ser feita é: D - Fornecedores C - Bancos R$ 1.000 R$ 1.000 Percebam que estamos diante de um fato permutativo, visto que variação no patrimônio dos envolvidos foi qualitativa e não quantitativa, não se tratando de um fato contábil modificativo. Item corretíssimo.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-02a-084",
-      "banca": "CEBRASPE",
-      "orgao": "ANTT",
-      "cargo": "Especialista em Regulação",
-      "ano": 2024,
-      "tipo": "certo_errado",
-      "enunciado": "Considere que um empréstimo tenha sido contratado pelo prazo de 12 meses, com juros prefixados mensais, e que, ao final de cada período mensal, será debitada na conta-corrente da financiada uma parcela de capital e uma parcela de juros, conforme metodologia definida entre as partes. Nessas condições, a cada mês ocorre um fato misto que modifica a situação patrimonial líquida negativamente.",
-      "resposta": "certo",
-      "comentario": "O pagamento mensal da parcela do empréstimo mais ou juros do período pode ser contabilizada assim: D - Empréstimo a Pagar (Passivo) D - Despesa Financeira (resultado) C - Bancos (Ativo) Percebam que temos permutações de elementos patrimoniais e uma conta de resultado (despesa). Logo, trata-se de um fato contábil misto diminutivo. Julgue os itens seguintes, a respeito de contas, devedoras ou credoras e seus saldos.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-02a-085",
-      "banca": "CEBRASPE",
-      "orgao": "ANTT",
-      "cargo": "Especialista em Regulação",
-      "ano": 2024,
-      "tipo": "certo_errado",
-      "enunciado": "Se determinada obrigação foi quitada em atraso, gerando o pagamento de encargos financeiros, então, nessas condições, ao menos duas contas credoras e uma conta devedora serão necessárias para espelhar contabilmente o evento.",
-      "resposta": "errado",
-      "comentario": "O pagamento de uma obrigação em atraso com juros pode ser contabilizado da seguinte forma: D - Contas a Pagar (Passivo) D - Despesa Financeira (resultado) C - Bancos (Ativo) Percebam que é necessário, pelo menos, duas contas DEVEDORAS e uma credora. Portanto, item errado. Acerca dos lançamentos contábeis, julgue o item que se segue.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-02a-152",
-      "banca": "CEBRASPE",
-      "orgao": "ANTT",
-      "cargo": "Especialista em Regulação",
-      "ano": 2024,
-      "tipo": "certo_errado",
-      "enunciado": "Entre os vários componentes de um plano de contas completo, um dos mais conhecidos é o elenco de contas, composto pela disposição organizada das contas de uso da instituição, com seus códigos, em geral, numéricos, e o literal que qualifica tal conta.",
-      "resposta": "certo",
-      "comentario": "Correto. O plano de contas de uma entidade é composto por diversos elementos; entre eles, o elenco de contas é o mais reconhecido. Ele apresenta de forma organizada todas as contas disponíveis para escrituração, identificadas por códigos em geral numéricos e pelos literais que nomeiam cada conta, garantindo padronização e clareza nos registros.",
       "dificuldade": 2
     },
     {
@@ -292,6 +256,42 @@
       "dificuldade": 2
     },
     {
+      "id": "cg-02a-083",
+      "banca": "CEBRASPE",
+      "orgao": "ANTT",
+      "cargo": "Especialista em Regulação",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "Considere que uma empresa tenha chegado a um acordo com um de seus fornecedores para saldar determinado débito com a entrega de um ativo da companhia. Considere, ainda, que nenhum desconto tenha sido concedido pelo credor e nenhum encargo adicional tenha sido pago pela devedora. Nessa situação, a variação no patrimônio dos envolvidos foi qualitativa e não quantitativa, não se tratando de um fato contábil modificativo.",
+      "resposta": "certo",
+      "comentario": "Para entendermos melhor a situação, vamos imaginar que a dívida da empresa com os fornecedores era de R$ 1.000 e foi quitada em dinheiro por essa mesma quantia, isto é, sem desconto ou encargo adicional. A contabilização que deve ser feita é: D - Fornecedores C - Bancos R$ 1.000 R$ 1.000 Percebam que estamos diante de um fato permutativo, visto que variação no patrimônio dos envolvidos foi qualitativa e não quantitativa, não se tratando de um fato contábil modificativo. Item corretíssimo.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-02a-084",
+      "banca": "CEBRASPE",
+      "orgao": "ANTT",
+      "cargo": "Especialista em Regulação",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "Considere que um empréstimo tenha sido contratado pelo prazo de 12 meses, com juros prefixados mensais, e que, ao final de cada período mensal, será debitada na conta-corrente da financiada uma parcela de capital e uma parcela de juros, conforme metodologia definida entre as partes. Nessas condições, a cada mês ocorre um fato misto que modifica a situação patrimonial líquida negativamente.",
+      "resposta": "certo",
+      "comentario": "O pagamento mensal da parcela do empréstimo mais ou juros do período pode ser contabilizada assim: D - Empréstimo a Pagar (Passivo) D - Despesa Financeira (resultado) C - Bancos (Ativo) Percebam que temos permutações de elementos patrimoniais e uma conta de resultado (despesa). Logo, trata-se de um fato contábil misto diminutivo. Julgue os itens seguintes, a respeito de contas, devedoras ou credoras e seus saldos.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-02a-085",
+      "banca": "CEBRASPE",
+      "orgao": "ANTT",
+      "cargo": "Especialista em Regulação",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "Se determinada obrigação foi quitada em atraso, gerando o pagamento de encargos financeiros, então, nessas condições, ao menos duas contas credoras e uma conta devedora serão necessárias para espelhar contabilmente o evento.",
+      "resposta": "errado",
+      "comentario": "O pagamento de uma obrigação em atraso com juros pode ser contabilizado da seguinte forma: D - Contas a Pagar (Passivo) D - Despesa Financeira (resultado) C - Bancos (Ativo) Percebam que é necessário, pelo menos, duas contas DEVEDORAS e uma credora. Portanto, item errado. Acerca dos lançamentos contábeis, julgue o item que se segue.",
+      "dificuldade": 3
+    },
+    {
       "id": "cg-02a-088",
       "banca": "CEBRASPE",
       "orgao": "APEX",
@@ -311,14 +311,14 @@
     {
       "id": "cg-02a-081",
       "banca": "CEBRASPE",
-      "orgao": "CAU BR",
-      "cargo": "Técnico-Financeiro",
+      "orgao": "CAU-BR",
+      "cargo": "Técnico Financeiro",
       "ano": 2024,
       "tipo": "certo_errado",
       "enunciado": "A aquisição de mercadorias a prazo é um exemplo de fato administrativo modificativo.",
       "resposta": "errado",
       "comentario": "Errado. A aquisição de mercadorias a prazo é um fato permutativo: D — Estoque (ativo +) e C — Fornecedores (passivo +). Ativo e passivo aumentam em igual valor, sem nenhum efeito no PL. Fato modificativo é aquele que altera o PL por meio de receita (aumentativo) ou despesa (diminutivo).",
-      "dificuldade": 2
+      "dificuldade": 1
     },
     {
       "id": "cg-02a-087",
@@ -333,30 +333,6 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-02a-070",
-      "banca": "CEBRASPE",
-      "orgao": "MPE-TO",
-      "cargo": "Técnico",
-      "ano": 2024,
-      "tipo": "certo_errado",
-      "enunciado": "O lançamento de 3. fórmula pode ser utilizado para o registro no livro diário da aquisição de mercadorias em que apenas uma parcela do valor da transação esteja sendo paga à vista.",
-      "resposta": "errado",
-      "comentario": "Com relação aos atos e fatos administrativos, julgue o item subsequente.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-02a-071",
-      "banca": "CEBRASPE",
-      "orgao": "MPE-TO",
-      "cargo": "Técnico",
-      "ano": 2024,
-      "tipo": "certo_errado",
-      "enunciado": "O pagamento de uma conta sem juros, metade em cheque e metade em dinheiro, é um fato misto.",
-      "resposta": "errado",
-      "comentario": "Adendo! Assunto que é cobrado como pegadinha em provas é o tema recebimento e pagamento em cheque. O recebimento em cheque é realizado através da tesouraria, ou seja, da conta caixa. Todavia, o pagamento em cheque é feito através de crédito na conta bancos conta movimento. Resumindo: Pagamento por meio de cheque: sai da conta bancos. Recebimento por meio de cheque: entra na conta caixa. A contabilização é a seguinte: D Contas a pagar (- Passivo) C Bancos (- Ativo) C Caixa (- Ativo) Em relação ao plano de contas contábil, julgue os itens subsequentes.",
-      "dificuldade": 2
-    },
-    {
       "id": "cg-02a-076",
       "banca": "CEBRASPE",
       "orgao": "MPE-TO",
@@ -365,6 +341,18 @@
       "tipo": "certo_errado",
       "enunciado": "Um depósito bancário com recursos oriundos do caixa da entidade constitui um fato permutativo.",
       "resposta": "certo",
+      "comentario": "Com relação aos atos e fatos administrativos, julgue o item subsequente.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-02a-070",
+      "banca": "CEBRASPE",
+      "orgao": "MPE-TO",
+      "cargo": "Técnico",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "O lançamento de 3. fórmula pode ser utilizado para o registro no livro diário da aquisição de mercadorias em que apenas uma parcela do valor da transação esteja sendo paga à vista.",
+      "resposta": "errado",
       "comentario": "Com relação aos atos e fatos administrativos, julgue o item subsequente.",
       "dificuldade": 2
     },
@@ -405,52 +393,16 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-02a-067",
+      "id": "cg-02a-071",
       "banca": "CEBRASPE",
-      "orgao": "PC DF",
-      "cargo": "Contador",
-      "ano": 2025,
+      "orgao": "MPE-TO",
+      "cargo": "Técnico",
+      "ano": 2024,
       "tipo": "certo_errado",
-      "enunciado": "O lançamento a seguir constitui um fato contábil modificativo diminutivo. debite ações em tesouraria credite bancos",
-      "resposta": "certo",
-      "comentario": "Ações em tesouraria mantidas na tesouraria. Ela é redutora do Patrimônio Líquido (PL). Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) O CPC 00 (R2) afirma que uma entidade não pode ter direitos contra ela mesma. Por isso que as ações que a empresa adquire de si própria, como as ações em tesouraria, não representam ativos para a entidade e são classificadas como redução do Patrimônio Líquido. Bancos depositado no Banco. Ela é uma conta do ativo. Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) Após essa introdução, observemos os efeitos desse lançamento: Aquisição de ações em tesouraria D - Ações em tesouraria ( PL) C - Bancos ( Ativo) Não há unanimidade entre os autores sobre este assunto. Alguns entendem que qualquer alteração no PL (como integralização de capital ou compra de ações em tesouraria) é fato modificativo. Outros, entendem que, para ser fato modificativo ou misto, tem que obrigatoriamente envolver uma conta de resultado. Priii! Aqui vamos chamar o \"VAR\": Entendimento do CEBRASPE! Compra de ações em tesouraria é um fato modificativo. No que diz respeito aos atos e fatos administrativos, julgue o item a seguir.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-02a-068",
-      "banca": "CEBRASPE",
-      "orgao": "PC DF",
-      "cargo": "Contador",
-      "ano": 2025,
-      "tipo": "certo_errado",
-      "enunciado": "Um fato que simultaneamente modifique o patrimônio de forma qualitativa e de forma quantitativa é um fato composto, estando bem representado pelo provisionamento para distribuição de dividendos.",
+      "enunciado": "O pagamento de uma conta sem juros, metade em cheque e metade em dinheiro, é um fato misto.",
       "resposta": "errado",
-      "comentario": "Em relação a plano de contas e escrituração contábil, julgue o item a seguir.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-02a-069",
-      "banca": "CEBRASPE",
-      "orgao": "PC DF",
-      "cargo": "Contador",
-      "ano": 2025,
-      "tipo": "certo_errado",
-      "enunciado": "A expressão contábil a seguir, que é utilizada no sistema clássico de escrituração, indica uma partida de segunda ou terceira fórmula. Diversos a Diversos",
-      "resposta": "errado",
-      "comentario": "Outra forma de lançamento, também conhecida como partida de Diário ou Lançamento Manual. A conta a palavra diversos, saiba que há mais de uma conta creditada ou debitada. Como o quesito quer qual é tipo de fórmula desse lançamento, vejamos nosso esquema: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. Nesse lançamento temos 2 ou mais contas debitadas e 2 ou mais contas creditadas. Assim, temos um lançamento de quarta fórmula. Com relação à escrituração contábil, julgue o item a seguir.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-02a-151",
-      "banca": "CEBRASPE",
-      "orgao": "PC DF",
-      "cargo": "Contador",
-      "ano": 2025,
-      "tipo": "certo_errado",
-      "enunciado": "O lançamento a seguir constitui um fato contábil modificativo diminutivo. debite ações em tesouraria credite bancos",
-      "resposta": "certo",
-      "comentario": "Ações em tesouraria mantidas na tesouraria. Ela é redutora do Patrimônio Líquido (PL). Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) O CPC 00 (R2) afirma que uma entidade não pode ter direitos contra ela mesma. Por isso que as ações que a empresa adquire de si própria, como as ações em tesouraria, não representam ativos para a entidade e são classificadas como redução do Patrimônio Líquido. Bancos depositado no Banco. Ela é uma conta do ativo. Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) Após essa introdução, observemos os efeitos desse lançamento: Aquisição de ações em tesouraria D - Ações em tesouraria ( PL) C - Bancos ( Ativo) Não há unanimidade entre os autores sobre este assunto. Alguns entendem que qualquer alteração no PL (como integralização de capital ou compra de ações em tesouraria) é fato modificativo. Outros, entendem que, para ser fato modificativo ou misto, tem que obrigatoriamente envolver uma conta de resultado. Priii! Aqui vamos chamar o \"VAR\": Entendimento do CEBRASPE! Compra de ações em tesouraria é um fato modificativo. No que diz respeito aos atos e fatos administrativos, julgue o item a seguir.",
-      "dificuldade": 2
+      "comentario": "Adendo! Assunto que é cobrado como pegadinha em provas é o tema recebimento e pagamento em cheque. O recebimento em cheque é realizado através da tesouraria, ou seja, da conta caixa. Todavia, o pagamento em cheque é feito através de crédito na conta bancos conta movimento. Resumindo: Pagamento por meio de cheque: sai da conta bancos. Recebimento por meio de cheque: entra na conta caixa. A contabilização é a seguinte: D Contas a pagar (- Passivo) C Bancos (- Ativo) C Caixa (- Ativo) Em relação ao plano de contas contábil, julgue os itens subsequentes.",
+      "dificuldade": 3
     },
     {
       "id": "cg-02a-082",
@@ -462,7 +414,7 @@
       "enunciado": "Julgue os itens a seguir, relativos a atos e fatos administrativos. I A compra, à vista, de mercadorias para revenda constitui um fato administrativo permutativo. II A compra de um veículo, com 50% do pagamento em dinheiro e 50% financiado, é um exemplo de fato administrativo misto. III O pagamento de um título vencido e acrescido de juros moratórios e multa é um fato administrativo modificativo. Assinale a opção correta.",
       "resposta": "A",
       "comentario": "Julgue os itens a seguir, em relação aos fatos que afetam a situação patrimonial das entidades contábeis.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) Apenas o item I está certo.",
         "B) Apenas o item II está certo.",
@@ -488,6 +440,54 @@
         "D) o financiamento com entrada imediata do recurso para pagamento em 10 anos"
       ],
       "cargo": "Escrivão de Polícia Civil"
+    },
+    {
+      "id": "cg-02a-067",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "O lançamento a seguir constitui um fato contábil modificativo diminutivo. debite ações em tesouraria credite bancos",
+      "resposta": "certo",
+      "comentario": "Ações em tesouraria mantidas na tesouraria. Ela é redutora do Patrimônio Líquido (PL). Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) O CPC 00 (R2) afirma que uma entidade não pode ter direitos contra ela mesma. Por isso que as ações que a empresa adquire de si própria, como as ações em tesouraria, não representam ativos para a entidade e são classificadas como redução do Patrimônio Líquido. Bancos depositado no Banco. Ela é uma conta do ativo. Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) Após essa introdução, observemos os efeitos desse lançamento: Aquisição de ações em tesouraria D - Ações em tesouraria ( PL) C - Bancos ( Ativo) Não há unanimidade entre os autores sobre este assunto. Alguns entendem que qualquer alteração no PL (como integralização de capital ou compra de ações em tesouraria) é fato modificativo. Outros, entendem que, para ser fato modificativo ou misto, tem que obrigatoriamente envolver uma conta de resultado. Priii! Aqui vamos chamar o \"VAR\": Entendimento do CEBRASPE! Compra de ações em tesouraria é um fato modificativo. No que diz respeito aos atos e fatos administrativos, julgue o item a seguir.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-02a-068",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "Um fato que simultaneamente modifique o patrimônio de forma qualitativa e de forma quantitativa é um fato composto, estando bem representado pelo provisionamento para distribuição de dividendos.",
+      "resposta": "errado",
+      "comentario": "Em relação a plano de contas e escrituração contábil, julgue o item a seguir.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-02a-069",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "A expressão contábil a seguir, que é utilizada no sistema clássico de escrituração, indica uma partida de segunda ou terceira fórmula. Diversos a Diversos",
+      "resposta": "errado",
+      "comentario": "Outra forma de lançamento, também conhecida como partida de Diário ou Lançamento Manual. A conta a palavra diversos, saiba que há mais de uma conta creditada ou debitada. Como o quesito quer qual é tipo de fórmula desse lançamento, vejamos nosso esquema: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. Nesse lançamento temos 2 ou mais contas debitadas e 2 ou mais contas creditadas. Assim, temos um lançamento de quarta fórmula. Com relação à escrituração contábil, julgue o item a seguir.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-02a-151",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "O lançamento a seguir constitui um fato contábil modificativo diminutivo. debite ações em tesouraria credite bancos",
+      "resposta": "certo",
+      "comentario": "Ações em tesouraria mantidas na tesouraria. Ela é redutora do Patrimônio Líquido (PL). Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) O CPC 00 (R2) afirma que uma entidade não pode ter direitos contra ela mesma. Por isso que as ações que a empresa adquire de si própria, como as ações em tesouraria, não representam ativos para a entidade e são classificadas como redução do Patrimônio Líquido. Bancos depositado no Banco. Ela é uma conta do ativo. Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) Após essa introdução, observemos os efeitos desse lançamento: Aquisição de ações em tesouraria D - Ações em tesouraria ( PL) C - Bancos ( Ativo) Não há unanimidade entre os autores sobre este assunto. Alguns entendem que qualquer alteração no PL (como integralização de capital ou compra de ações em tesouraria) é fato modificativo. Outros, entendem que, para ser fato modificativo ou misto, tem que obrigatoriamente envolver uma conta de resultado. Priii! Aqui vamos chamar o \"VAR\": Entendimento do CEBRASPE! Compra de ações em tesouraria é um fato modificativo. No que diz respeito aos atos e fatos administrativos, julgue o item a seguir.",
+      "dificuldade": 3
     },
     {
       "id": "cg-02a-090",
@@ -528,14 +528,14 @@
     {
       "id": "cg-02a-078",
       "banca": "CEBRASPE",
-      "orgao": "SEFAZ AC",
+      "orgao": "SEFAZ-AC",
       "cargo": "Contador",
       "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a opção correspondente a um evento que deve ser classificado como um fato contábil misto.",
       "resposta": "E",
       "comentario": "Quanto a contas contábeis, julgue o item que se segue.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) aquisição de mercadorias, com pagamento de 50% do valor à vista e o restante a prazo",
         "B) recebimento do pagamento de duplicatas decorrentes de vendas a prazo",
@@ -547,14 +547,14 @@
     {
       "id": "cg-02a-155",
       "banca": "CEBRASPE",
-      "orgao": "SEFAZ AC",
+      "orgao": "SEFAZ-AC",
       "cargo": "Contador",
       "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a opção correspondente a um evento que deve ser classificado como um fato contábil misto.",
       "resposta": "E",
       "comentario": "Aqui houve apenas alteração entre contas patrimoniais, ou seja, alteração qualitativa. Por conta disso temos um fato permutativo. Alternativa errada. b) recebimento do pagamento de duplicatas decorrentes de vendas a prazo Lançamento: D - Caixa (+ Ativo) C Duplicatas a receber ou Clientes (+Ativo) Novamente, temos um fato permutativo. Alternativa errada. c) obtenção de financiamento para a aquisição de veículo Lançamento: D - Veículos (+ Ativo) C Financiamentos a pagar (+ Passivo) Mais uma vez, estamos diante de um fato permutativo. Alternativa errada. d) depreciação do imóvel da fábrica Lançamento: D - Despesa com depreciação (- PL) C - Depreciação Acumulada (Retificadora do Ativo; - Ativo) A contabilização do consumo do veículo, por meio da depreciação, representa um fato modificativo, uma despesa. Alternativa errada. e) amortização de empréstimos com juros de mora Traduzindo: Pagamento do empréstimo e de juros. Lançamento: D Juros Passivos (+ Despesa) D - Empréstimos a pagar (- Passivo) C Caixa (- Ativo) É um exemplo de fato misto diminutivo, visto que ele envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Para facilitar a visualização, vamos dividi-lo em dois lançamentos: Fato permutativo: Quanto a contas contábeis, julgue o item que se segue.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) aquisição de mercadorias, com pagamento de 50% do valor à vista e o restante a prazo",
         "B) recebimento do pagamento de duplicatas decorrentes de vendas a prazo",
@@ -573,7 +573,7 @@
       "enunciado": "A contratação do novo funcionário é um ato administrativo que impacta positivamente o patrimônio líquido da entidade contratante.",
       "resposta": "errado",
       "comentario": "Os atos administrativos (também conhecido como atos contábeis) são atos relevantes que não alteram o patrimônio da entidade, tal como a contratação de empregados, o simples fato de se conceder fiança a um terceiro ou avalizar um cheque. Ressaltamos que o registro de ATOS CONTÁBEIS pela Contabilidade Geral, é raro de acontecer e não é obrigatório, mas pode ser feita através das contas de compensação. Ou seja, eles são controlados de forma extracontábil. Com relação aos conceitos fundamentais da contabilidade e seu mecanismo de registro de fatos administrativos, julgue os itens que seguem.",
-      "dificuldade": 2
+      "dificuldade": 1
     },
     {
       "id": "cg-02a-094",
@@ -590,14 +590,14 @@
     {
       "id": "cg-02a-075",
       "banca": "CEBRASPE",
-      "orgao": "SEPLAG CE",
+      "orgao": "SEPLAG-CE",
       "cargo": "Analista",
       "ano": 2024,
       "tipo": "certo_errado",
       "enunciado": "Considere que uma entidade comercial tenha recebido de um cliente o valor de R$ 380,00, sendo R$ 350,00 referentes ao valor da venda e R$ 30,00 relativos aos juros decorrentes do pagamento em atraso por parte do cliente. Nesse caso, verifica-se, no referido recebimento, um fato contábil misto.",
       "resposta": "certo",
       "comentario": "Com relação aos atos e fatos administrativos, julgue o item subsequente.",
-      "dificuldade": 2
+      "dificuldade": 3
     },
     {
       "id": "cg-02a-086",
@@ -621,7 +621,7 @@
       "enunciado": "\" O plano de contas é um conjunto de contas, diretrizes e normas que disciplinam as atividades do setor de contabilidade, objetivando a uniformização dos registros contábeis. De acordo com a lei nº 6.404/1976, as contas podem ser divididas em dois grupos: a) contas patrimoniais; b) contas de resultado. No que diz respeito às contas patrimoniais e contas de resultado marque o item CORRETO.",
       "resposta": "A",
       "comentario": "Vimos que a escrituração contábil é feita através de contas e, na contabilidade, conta é o nome dado aos componentes patrimoniais (bens, direitos e obrigações) e de resultado (despesas e receitas). Para facilitar e uniformizar os registros das operações da entidade utiliza-se o plano de contas. Quanto a natureza das contas, temos os seguintes: Contas patrimoniais: Ativo: Natureza Devedora. Passivo: Natureza Credora. PL: Natureza Credora. Contas de resultado: Receitas: Natureza Credora. Despesas: Natureza Devedora. Após essa introdução, vamos analisar as alternativas: A Contas Patrimoniais que são: Ativo (bens + direitos), são contas de natureza devedora. Passivo (obrigações e patrimônio líquido), são as contas de natureza credora. Contas de Resultado composto por: Despesas Contas de natureza devedora. Receitas Contas de natureza credora. Este é o nosso gabarito! B Contas Patrimoniais que são: Ativo (bens + direitos), são contas de natureza credora. Passivo (obrigações e capital social), são as contas de natureza devedora. Contas de Resultado composto por: Despesas Contas de natureza devedora. Receitas Contas de natureza credora. Errado, pois as contas do ativo possuem natureza devedora e as do passivo credora. C Contas Patrimoniais que são: Ativo (bens + direitos), são contas de natureza devedora. Passivo (obrigações e patrimônio líquido), são as contas de natureza credora. Contas de Resultado composto por: Despesas Contas de natureza credora. Receitas Contas de natureza devedora. Errado, pois as contas de despesa possuem natureza devedora e as de receita credora. D Contas Patrimoniais que são: Ativo (bens + direitos), são contas de natureza devedora. Passivo (obrigações e patrimônio líquido), são as contas de natureza devedora. Contas de Resultado composto por: Despesas Contas de natureza credora. Receitas Contas de natureza credora. Errado, pois as contas do passivo credora, de despesa possuem natureza devedora e as de receita credora. E Contas Patrimoniais que são: Ativo (bens + direitos), são contas de natureza devedora. Passivo (obrigações e patrimônio líquido), são as contas de natureza credora. Contas de Resultado composto por: Receitas Contas de natureza devedora. Despesas Contas de natureza devedora. Errado, pois as contas de despesa possuem natureza devedora e as de receita credora.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Contas Patrimoniais que são: Ativo (bens + direitos), são contas de natureza devedora. Passivo (obrigações e patrimônio líquido), são as contas de natureza credora. Contas de Resultado composto por: Despesas Contas de natureza devedora. Receitas Contas de natureza credora",
         "B) Contas Patrimoniais que são: Ativo (bens + direitos), são contas de natureza credora. Passivo (obrigações e capital social), são as contas de natureza devedora. Contas de Resultado composto por: Despesas Contas de natureza devedora. Receitas Contas de natureza credora",
@@ -640,7 +640,7 @@
       "enunciado": "Durante um exercício, uma determinada empresa efetua o lançamento do pagamento de uma duplicata após o seu vencimento, com incidência de juros. Esse fato é classificado, quanto à sua natureza, em:",
       "resposta": "A",
       "comentario": "Por exemplo, a dívida era de 1.000, mas houve pagamento adicional de 5%, ou seja, R$ 50 de juros. A contabilização que deve ser feira será: D Fornecedores (- Passivo) D Juros Passivos (Despesa) C Caixa (- Ativo) 1.000 50 1.050 Aqui temos um fato misto diminutivo, visto que ele envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Para facilitar a visualização, vamos dividi-lo em dois lançamentos: Fato permutativo: D Fornecedores (-Passivo) 1.000,00 C Caixa (-Ativo) 1.000,00 Fato modificativo diminutivo: D Juros Passivos (Despesa) 50,00 C Caixa (- Ativo) 50,00",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) misto diminutivo",
         "B) modificativo diminutivo",
@@ -659,13 +659,32 @@
       "enunciado": "Uma determinada empresa efetuou na sua contabilidade o seguinte registro, desconsiderando o histórico, valores e data: D: Estoque de Mercadorias D: ICMS a Recuperar D: IPI a Recuperar C: Fornecedores Com base na técnica contábil da escrituração, o lançamento efetuado corresponde à característica da seguinte fórmula:",
       "resposta": "C",
       "comentario": "Vejamos nosso esqueminha: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. O quesito trouxe um lançamento com 3 contas debitadas e 1 conta creditada. Portanto, temos um lançamento de terceira fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) primeira",
         "B) segunda",
         "C) terceira",
         "D) quarta",
         "E) quinta"
+      ]
+    },
+    {
+      "id": "cg-02a-058",
+      "banca": "CEPERJ",
+      "orgao": "Pref. Saquarema",
+      "cargo": "Auditor Fiscal",
+      "ano": 2015,
+      "tipo": "multipla_escolha",
+      "enunciado": "A compra à vista de computadores gera um lançamento contábil:",
+      "resposta": "A",
+      "comentario": "A compra à vista de computadores envolve somente contas do ativo: D — Computadores (ativo +) e C — Caixa ou Banco (ativo −). Como as duas contas pertencem ao mesmo grupo patrimonial, o lançamento segue a 1ª fórmula — permuta interna no ativo, sem qualquer envolvimento de passivo ou resultado.",
+      "dificuldade": 1,
+      "opcoes": [
+        "A) de primeira fórmula, em contas do ativo",
+        "B) de segunda fórmula, em contas do ativo e do passivo",
+        "C) de primeira fórmula, em contas do passivo",
+        "D) de terceira fórmula, em contas do ativo",
+        "E) de quarta fórmula, em contas do ativo e do passivo"
       ]
     },
     {
@@ -688,25 +707,6 @@
       ]
     },
     {
-      "id": "cg-02a-058",
-      "banca": "CEPERJ",
-      "orgao": "Pref. Saquarema",
-      "cargo": "Auditor Fiscal",
-      "ano": 2015,
-      "tipo": "multipla_escolha",
-      "enunciado": "A compra à vista de computadores gera um lançamento contábil:",
-      "resposta": "A",
-      "comentario": "A compra à vista de computadores envolve somente contas do ativo: D — Computadores (ativo +) e C — Caixa ou Banco (ativo −). Como as duas contas pertencem ao mesmo grupo patrimonial, o lançamento segue a 1ª fórmula — permuta interna no ativo, sem qualquer envolvimento de passivo ou resultado.",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) de primeira fórmula, em contas do ativo",
-        "B) de segunda fórmula, em contas do ativo e do passivo",
-        "C) de primeira fórmula, em contas do passivo",
-        "D) de terceira fórmula, em contas do ativo",
-        "E) de quarta fórmula, em contas do ativo e do passivo"
-      ]
-    },
-    {
       "id": "cg-02a-055",
       "banca": "CEPERJ",
       "orgao": "Pref. Saquarema",
@@ -716,7 +716,7 @@
       "enunciado": "Em 30/03/2015, foi realizado o seguinte registro no Livro Diário de uma determinada empresa, desconsiderando o respectivo histórico: Caixa 10.000,00 a Duplicatas a Receber 9.000,00 a Juros Ativos 1.000,00 Esse registro, de acordo com a técnica de escrituração foi efetuado utilizando a seguinte fórmula de lançamento:",
       "resposta": "B",
       "comentario": "Geralmente, encontramos esse lançamento feito da seguinte forma: D - Caixa C - Duplicatas a Receber C - Juros Ativos 10.000,00 9.000,00 1.000,00 Outra forma de lançamento, também conhecida como partida de Diário ou Lançamento Manual: Caixa a Duplicatas a Receber a Juros Ativos 10.000,00 9.000,00 1.000,00 apenas escritos de forma diferente. Quando no seu concurso aparecer a palavra diversos, saiba que há mais de uma conta creditada ou debitada. Vejamos nosso esqueminha Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. Nesse lançamento temos 1 conta debitada e duas contas creditadas. Assim, temos um lançamento de Segunda fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) primeira",
         "B) segunda",
@@ -735,7 +735,7 @@
       "enunciado": "Uma empresa efetuou antecipadamente o pagamento de uma duplicata junto ao seu fornecedor, obtendo, na ocasião, um desconto de 5% sobre o valor a pagar. Essa operação acarretou uma variação no patrimônio da empresa devido ao fato contábil ser da seguinte natureza:",
       "resposta": "D",
       "comentario": "No tocante ao fato misto, ele envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Um exemplo seria o pagamento de um fornecedor no valor de R$ 1.000,00, com desconto de 5 % sobre o valor a pagar D Fornecedores 1.000,00 (- Passivo) C Caixa 950,00 (- Ativo) C Descontos financeiros 50,00 (+ Resultado = Receita) Para facilitar a visualização, vamos dividi-lo em dois lançamentos: Fato permutativo: D Fornecedores (Passivo) 950,00 C Caixa (Ativo) 950,00 Fato modificativo aumentativo: D Fornecedores (Passivo) 50,00 C Descontos financeiros (Receita) 50,00 Assim, tal fato representa um misto aumentativo.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) modificativo aumentativo",
         "B) modificativo diminutivo",
@@ -754,7 +754,7 @@
       "enunciado": "Na Conta \"T\", utilizada nas explicações e solução de problemas, os débitos são feitos no lado esquerdo da linha vertical e os créditos, no lado direito.\nA determinação do lado do razonete ou conta \"T\" a ser utilizado para aumentos ou para diminuições decorre da(o)",
       "resposta": "D",
       "comentario": "Podemos representar as contas graficamente chamado de razonete. Por uma convenção, o lado esquerdo é sempre o lado do débito, e o lado direito é o lado do crédito. Assim... lado? O outro lado só pode ser o do crédito. Atenção! Considere que é apenas uma convenção. Há uma série de teorias que tentam explicar o motivo de o funcionamento de tais contas serem a débito e crédito, mas, para nós, ficará muito mais fácil assimilar que é uma convenção e decorar o que foi dito (até ficar no automático). da natureza da conta. As contas com natureza devedora vão aumentar pelos débitos que são lançados no lado direito e diminuir pelos créditos que são lançados no lado esquerdo. As contas com natureza credoras vão aumentar pelos créditos que são lançados no lado esquerdo e diminuir pelos débitos que são lançados no lado direito.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) espécie da conta.",
         "B) função da conta.",
@@ -773,7 +773,7 @@
       "enunciado": "A cada débito corresponde um crédito ou créditos de igual valor. Tal afirmativa constitui o fundamento básico do(a)",
       "resposta": "C",
       "comentario": "Na contabilidade, o método utilizado para se escriturar é o método das partidas dobradas. Esse método consiste em considerar que para todo e qualquer item que ingressa no patrimônio, há um lugar de onde ele é proveniente. Ou seja, não há geração espontânea de patrimônio, mas sim uma origem para todo elemento que se aplica no patrimônio, passando a integrá-lo. Com base no método das partidas dobradas, algumas conclusões podem ser tomadas: 1) A soma dos débitos é sempre igual à soma dos créditos. 2) Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. 3) O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Balancete",
         "B) Lançamento",
@@ -830,7 +830,7 @@
       "enunciado": "A Empresa Compratudo S/A realizou uma operação de venda de mercadorias com recebimento à vista, no valor de R$ 1.000,00. Sabe-se que tal operação gerou um registro contábil de débito à conta Caixa e Bancos e crédito à conta Vendas Brutas. Dessa forma, o tipo de fato contábil e a conta de crédito envolvida na operação, à luz da contabilidade geral, são, respectivamente, A misto e resultado.",
       "resposta": "B",
       "comentario": "A contabilização resultante da venda é a seguinte: Reconhecimento da receita: D- Caixa (+ativo C Receita de Vendas (+resultado) Baixa no estoque: D CMV (-resultado) C Estoque (-ativo) Essa seria a contabilização completa resultante da venda. Todavia, os quesitos acabam só analisando o reconhecimento da receita. Por conta disso, nessas situações, consideramos como fato modificativo aumentativo e de 1° fórmula (1 débito e 1 crédito): D- Caixa (ativo) C Receita de Vendas (resultado) Dessa forma, o tipo de fato contábil e a conta de crédito envolvida na operação, à luz da contabilidade geral, são, respectivamente, modificativo e resultado.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) modificativo e resultado",
         "B) diminutivo e patrimonial",
@@ -867,7 +867,7 @@
       "enunciado": "Observe as informações sobre o lançamento, em reais, apresentadas abaixo. D: Diversos C: Bancos Conta Movimento 45.500,00 D: Fornecedores 45.000,00 D: Despesas de Juros 500,00 Desconsiderando os elementos do lançamento, data e histórico, este registro pode ser classificado como A ato modificativo aumentativo.",
       "resposta": "C",
       "comentario": "Geralmente, encontramos esse lançamento feito da seguinte forma D: Fornecedores 45.000,00 D: Despesas de Juros 500,00 C: Bancos Conta Movimento 45.500,00 Outra forma de lançamento, também conhecida como partida de Diário ou Lançamento Manual Diversos A Bancos Conta Movimento 45.500,00 Fornecedores 45.000,00 Despesas de Juros 500,00 escritos de forma diferente. Quando no seu concurso aparecer a palavra diversos, saiba que há mais de uma conta creditada ou debitada. Para complicar, a banca misturou os dois jeitos: D: Diversos C: Bancos Conta Movimento 45.500,00 D: Fornecedores 45.000,00 D: Despesas de Juros 500,00 Vejamos nosso esqueminha: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. Nesse lançamento temos 2 contas debitadas e 1 conta creditada. Assim, temos um lançamento de terceira fórmula. Por fim, ressalto que como houve a diminuição da situação líquida, estamos diante de um fato misto diminutivo. Para facilitar a visualização, vamos dividi-lo em dois lançamentos: Fato permutativo: D: Fornecedores C: Bancos Conta Movimento 45.000,00 45.000,00 Fato modificativo diminutivo: D: Despesas de Juros C: Bancos Conta Movimento 500,00 500,00",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) ato administrativo de 2o grau",
         "B) lançamento de 3a fórmula",
@@ -904,7 +904,7 @@
       "enunciado": "Observe o lançamento abaixo. Diversos a Caixa 6.000,00 Fornecedores 5.800,00 Despesas de Juros 200,00 Esse lançamento é caracterizado como A de segunda fórmula.",
       "resposta": "B",
       "comentario": "Geralmente, encontramos esse lançamento feito da seguinte forma D - Fornecedores D - Despesas de Juros C Caixa Outra forma de lançamento, também conhecida como partida de Diário ou Lançamento Manual Despesas de Juros escritos de forma diferente. Quando no seu concurso aparecer a palavra diversos, saiba que há mais de uma conta creditada ou debitada. Vejamos nosso esqueminha: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. Nesse lançamento temos 2 contas debitadas e 1 conta creditada. Assim, temos um lançamento de terceira fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) de terceira fórmula",
         "B) fórmula secundária",
@@ -941,7 +941,7 @@
       "enunciado": "O registro contábil que envolve uma conta a débito e duas ou mais a crédito é denominado lançamento de",
       "resposta": "B",
       "comentario": "Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) 1a fórmula",
         "B) 2a fórmula",
@@ -979,7 +979,7 @@
       "enunciado": "O recebimento antecipado de uma duplicata, com desconto de 5% concedido ao cliente, representa um fato contábil:",
       "resposta": "E",
       "comentario": "No recebimento antecipado com desconto concedido ao cliente: D — Caixa (ativo +, valor menor) e D — Descontos Concedidos (despesa, PL −) e C — Duplicatas a Receber (ativo −, valor cheio). O ativo total diminui — sai o valor cheio e entra apenas o líquido — e o PL também cai pela despesa com desconto. Resultado: fato misto diminutivo.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) Modificativo Aumentativo",
         "B) Modificativo Diminutivo",
@@ -995,7 +995,7 @@
       "enunciado": "NÃO provoca alteração no valor do Patrimônio Líquido, mas pode modificar a composição dos demais elementos patrimoniais o seguinte fato contábil:",
       "resposta": "A",
       "comentario": "O fato permutativo reorganiza a composição dos elementos patrimoniais sem afetar o Patrimônio Líquido: um elemento aumenta enquanto outro diminui em igual valor, sem gerar receita ou despesa. É o oposto do fato modificativo, que necessariamente produz efeito no PL por meio de contas de resultado.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) permutativo",
         "B) composto",
@@ -1016,7 +1016,7 @@
       "enunciado": "A empresa Verde & Amarelo efetuou um empréstimo para seus empregados no valor equivalente a dois salários correntes. Passados trinta dias, a empresa recebeu o valor equivalente aos juros do período, sem o recebimento do principal. Nesse caso, essa movimentação é um fato contábil",
       "resposta": "D",
       "comentario": "Quando emprestamos dinheiro para um empregado lançamos: D Empréstimos a funcionários (ativo) C Caixa (ativo) XX,XX XX,XX Esse é um fato permutativo. XX,XX XX,XX XX,XX",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) misto aumentativo.",
         "B) misto diminutivo.",
@@ -1053,7 +1053,7 @@
       "enunciado": "O registro contábil correspondente à venda de uma máquina usada pela empresa, sem depreciação acumulada, sendo parte recebida à vista e o restante a ser pago pelo comprador em 4 notas promissórias com vencimento para os quatro meses subseqüentes, caracteriza um lançamento de",
       "resposta": "D",
       "comentario": "Os lançamentos podem ter fórmulas de acordo com a quantidade de contas debitadas ou creditadas, a saber: Fórmulas de lançamento: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo",
-      "dificuldade": 2,
+      "dificuldade": 4,
       "opcoes": [
         "A) Ajuste",
         "B) 1a fórmula",
@@ -1072,7 +1072,7 @@
       "enunciado": "Uma empresa recebeu, em dezembro de 2009, R$ 3.000,00 referentes ao aluguel do mês de janeiro de 2010 de um imóvel de sua propriedade. O lançamento contábil dessa movimentação, em dezembro de 2009, gerou um fato A permutativo.",
       "resposta": "A",
       "comentario": "A contabilização é a seguinte: D Caixa (Ativo) 3.000 C Receitas Antecipadas (Passivo) 3.000 Aqui houve apenas alteração entre contas patrimoniais, ou seja, alteração qualitativa. Por conta disso temos um fato permutativo.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) misto diminutivo",
         "B) misto aumentativo",
@@ -1109,7 +1109,7 @@
       "enunciado": "Ao realizar a compra de um caminhão no valor de R$ 104.000,00, uma empresa pagou em cheque, no ato da emissão da nota fiscal, o valor de R$ 52.000,00 e negociou o restante do pagamento para 30 dias. Qual a fórmula de lançamento contábil que deverá ser utilizada?",
       "resposta": "B",
       "comentario": "Inicialmente, vamos rever o nosso esquema: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. Ao realizar a compra de um caminhão no valor de R$ 104.000,00, uma empresa pagou em cheque, no ato da emissão da nota fiscal, o valor de R$ 52.000,00 e negociou o restante do pagamento para 30 dias. A contabilização é a seguinte: D Imobilizado R$ 104.000 C Bancos R$ 52.000 C Duplicatas a pagar R$ 52.000 Adendo! Assunto que é cobrado como pegadinha em provas é o tema recebimento e pagamento em cheque. O recebimento em cheque é realizado através da tesouraria, ou seja, da conta caixa. Todavia, o pagamento em cheque é feito através de crédito na conta bancos conta movimento. Resumindo: Pagamento por meio de cheque: sai da conta bancos. Recebimento por meio de cheque: entra na conta caixa. Portanto, um lançamento que possui 1 (UMA) conta a débito e 2 (DUAS) contas a crédito será classificado como de segunda fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) 1ª",
         "B) 2ª",
@@ -1146,7 +1146,7 @@
       "enunciado": "A Empresa Mar Azul Ltda., em 02.03.2007, adquiriu uma loja por R$ 150.000,00, nas seguintes condições: Ao realizar um único registro contábil desta operação, a Empresa Mar Azul elaborou um lançamento de A 1ª fórmula.",
       "resposta": "B",
       "comentario": "Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. O lançamento desse fato contábil é o seguinte: D Lojas 150.000 C Caixa 20.000 C Veículo 30.000 C Duplicatas a pagar 100.000 Assim, é correto afirmar que é de 2ª Fórmula: uma conta debitada e mais de uma conta creditada.",
-      "dificuldade": 2,
+      "dificuldade": 4,
       "opcoes": [
         "A) 2ª fórmula",
         "B) 3ª fórmula",
@@ -1183,7 +1183,7 @@
       "enunciado": "No que diz respeito à variação do patrimônio, o fato administrativo que envolve apenas as contas patrimoniais e que não modifica o patrimônio líquido é o",
       "resposta": "E",
       "comentario": "Os fatos contábeis são divididos hoje em três grupos: 1) Modificativos; 2) Permutativos; 3) Mistos. Os fatos permutativos alteram o patrimônio somente em aspectos qualitativos. Seria como, por exemplo, trocar o meu Fusca, avaliado em R$ 3.000,00, pela sua Brasília, avaliada pelo mesmo valor. Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, sem que haja alteração no valor total do patrimônio líquido e contas de resultado.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) misto",
         "B) quantitativo",
@@ -1202,7 +1202,7 @@
       "enunciado": "Na vida real prática, os registros contábeis são realizados por lançamento no Livro Diário. O lançamento é constituído por cinco elementos essenciais: data completa, conta (s) a débito, conta (s) a crédito, histórico e valor. O lançamento, por intermédio da chamada fórmula do lançamento, indica a quantidade de contas a debitar e a creditar. Nesse contexto um registro contábil que contemple 4 (quatro) contas a débito e 1 (uma) conta a crédito é feito por um lançamento de:",
       "resposta": "C",
       "comentario": "O lançamento de terceira fórmula envolve duas ou mais contas a débito e uma conta a crédito. Exemplo: Realização da prestação de serviço, recebida metade à vista e metade para 30 dias. D Caixa 100 D Clientes 100 C Receita de prestação de serviços 200 Razonetes: Caixa 100,00 Clientes 100,00 Receita 200,00 Portanto, um lançamento que possui 4 (quatro) contas a débito e 1 (uma) conta a crédito será classificado como de terceira fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) primeira fórmula",
         "B) segunda fórmula",
@@ -1221,7 +1221,7 @@
       "enunciado": "A Sociedade Empresária B, no dia 30 de junho de 2018, fez o reconhecimento do salário-família a pagar a seus empregados, até dia 5 de julho/2018, no montante de R$ 540,00. Considerando exclusivamente o registro contábil do reconhecimento desse salário-família a pagar, a Sociedade Empresária B praticou um fato contábil",
       "resposta": "E",
       "comentario": "Permuta entre elementos do ativo Permuta entre elementos do passivo Permuta entre elementos do passivo e do ativo Permuta entre elementos do PL 2. Fatos Modificativos: São os que alteram o valor do patrimônio líquido. Dividem-se em: 2.1. Fatos Modificativos Aumentativos: Aumentam o valor do PL 2.1. Fatos Modificativos Diminutivos: Diminuem o valor do PL 3. Fatos Mistos ou Compostos: Pode ser: 3.1. Fatos mistos Diminutivos: São simultaneamente permutativos e modificativos diminutivos. 3.2. Fatos Mistos Aumentativos: São simultaneamente permutativos e modificativos aumentativos. Indo mais fundo! Um tema importante relacionado como o Passivo é a contabilização da Folha de Pagamento. No geral, o ponto central das questões sobre esse tema é separar o que é despesa da empresa do que é encargo do empregado, mas a empresa possui a obrigação de fazer a retenção aos cofres públicos. Em suma, precisamos saber que: 1 - Os salários são registrados como despesa da empresa. O mesmo tratamento deve ser dado às contribuições e encargos trabalhistas que sejam ônus do empregador. 2 As empresas descontam dos funcionários a contribuição previdenciária sobre o salário recebido, e posteriormente repassa o valor para o INSS. Não é despesa da empresa. Essa parcela do recolhimento ao INSS é devida pelo empregado. A empresa apenas desconta e repassa. 3 - O salário família e maternidade são pagos pela empresa, porém, restituídos à empresa pelo Estado! O lançamento do salário-família e salário-maternidade se dá do seguinte modo: D INSS a recolher (passivo circulante) C Salários a pagar (passivo circulante) Nota-se que nesse fato contábil ocorre a permuta entre elementos do passivo. Assim, é um fato permutativo.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) misto aumentativo",
         "B) misto diminutivo",
@@ -1239,7 +1239,7 @@
       "enunciado": "Luca Pacioli publicou em Veneza a Summa de Arithmetica, geometria, proportioni et proportionalità, em 1494, texto no qual se distingue, para a história da Contabilidade, o Tractatus de computis et screipturis; talvez a primeira exposição sistemática e completa do Método das Partidas Dobradas. (SCHMIDT, 2008.) Em relação ao Método das Partidas Dobradas, assinale a afirmativa INCORRETA.",
       "resposta": "C",
       "comentario": "Um pouquinho de história da Contabilidade para vocês, pessoal! O famosíssimo Luca Pacioli, para muitos, o Pai da Contabilidade. Com base no método das partidas dobradas, algumas conclusões podem ser tomadas: - A soma dos débitos é sempre igual à soma dos créditos. - Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. - O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido. - O total do ativo mais a despesa será sempre igual à soma do passivo exigível com o patrimônio líquido mais as receitas. Agora, vamos analisar as alternativas: A) Método segundo o qual para cada registro contábil de débito deve haver, em contrapartida, registro de crédito de igual valor. Correto, aplicação direta as partidas dobradas. B) Método aceito universalmente pela contabilidade; tem como princípio fundamental que para cada aplicação de recursos corresponde uma fonte de recursos de igual valor. Correto, a ideia de igualdade entre origens e aplicações de recursos resultou, de certa forma, no método das partidas sobradas. C) Método menos utilizado pela contabilidade, sendo o Método das Partidas Simples universalmente aceito devido a seu princípio de que o total de débitos tem que ser diferente do total de créditos. Errado, esse é o Método mais utilizado pela Contabilidade, sendo de certa forma, obrigatório para as entidades. O método de Partidas Simples praticamente não é mais utilizado. D) Método pelo qual se registra por meio de lançamentos a débito ou a crédito em uma ou mais contas as alterações ocorridas no patrimônio de uma entidade, permitindo que ele permaneça equilibrado. Item correto, conforme demonstrado na explicação inicial.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Método segundo o qual para cada registro contábil de débito deve haver, em contrapartida, registro de crédito de igual valor.",
         "B) Método aceito universalmente pela contabilidade; tem como princípio fundamental que para cada aplicação de recursos corresponde uma fonte de recursos de igual valor.",
@@ -1258,7 +1258,7 @@
       "enunciado": "Na teoria fundamental da contabilidade, o lançamento dos fatos contábeis na escrituração obedece ao critério das partidas dobradas, utilizando as 4 fórmulas. Diante do exposto, relacione adequadamente as colunas a seguir. 1.Uma conta debitada e diversas contas creditadas. 2.Diversas contas debitadas e diversas contas creditadas. 3.Uma conta debitada e uma conta creditada. 4. Diversas contas debitadas e uma creditada. ( )1ª fórmula. ( ) 2ª fórmula. ( ) 3ª fórmula. ( ) 4ª fórmula. A sequência está correta em",
       "resposta": "D",
       "comentario": "Os lançamentos contábeis podem ser: - 1ª Fórmula: Envolve uma conta a débito e uma conta a crédito - 2ª Fórmula: Envolve uma conta a débito e duas ou mais a crédito. - 3ª Fórmula: Envolve duas ou mais contas a débito e uma conta a crédito. - 4ª Fórmula: Envolve duas ou mais contas a débito e duas ou mais contas a crédito. Agora faremos a associação: 3.Uma conta debitada e uma conta creditada. (1ª Fórmula) 1.Uma conta debitada e diversas contas creditadas. (2ª Fórmula) 4. Diversas contas debitadas e uma creditada (3ª Fórmula) 2.Diversas contas debitadas e diversas contas creditadas. (4ªFórmula)",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) 2, 1, 3, 4.",
         "B) 2, 4, 1, 3.",
@@ -1276,7 +1276,7 @@
       "enunciado": "Os atos administrativos são os que não provocam alterações nos elementos do patrimônio ou do resultado, portanto, não são de interesse da contabilidade. Os fatos administrativos são os que provocam alterações nos elementos do patrimônio ou do resultado, p empresa pagou, em atraso, uma obrigação tributária. A mesma já estava registrada em seu Passivo. O pagamento teve que ser realizado acrescentando os respectivos acréscimos legais. Essa operação caracteriza se como um fato contábil",
       "resposta": "B",
       "comentario": "O pagamento de uma obrigação tributária com acréscimos pode ser representado pelo seguinte lançamento: D- Obrigação Tributária a pagar D- Despesas financeiras C - Bancos Esse lançamento representa um fato contábil misto, pois envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Acarreta, portanto, alterações no ativo, passivo e PL. Como houve a diminuição da situação líquida, estamos diante de um fato misto diminutivo.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) permutativo.",
         "B) misto diminutivo.",
@@ -1294,7 +1294,7 @@
       "enunciado": "A empresa Ação Livre S/A efetuou o pagamento de uma duplicata, antes de seu vencimento, por meio de pix, obtendo um desconto financeiro por essa antecipação de pagamento. Para que o registro contábil dessa transação seja efetuado através de um único lançamento contábil, deve-se utilizar a A primeira fórmula, com uma conta devedora e uma conta credora.",
       "resposta": "B",
       "comentario": "Bom, estamos pagando uma duplicata. Suponha que a dívida tinha um valor nominal de R$ 3.000,00, todavia, houve um desconto no montante de R$ 300,00. O que podemos concluir? Bom, saíram R$ 2.700,00 da conta bancos (pagamento via pix), certo? E temos de dar baixa de quanto na conta duplicatas a pagar R$ 2.700,00? R$ 3.000,00? Ora, R$ 3.000,00! Se dermos baixa somente de R$ 2.700,00, dará a impressão de que estamos deixando R$ 300,00 de dívida para trás, o que não é verdade. Estamos quitando R$ 3.000,00. A diferença, portanto, será considerada como receita, já que é um ganho que não esperávamos. Esse fato é misto aumentativo, já que a receita aumenta o PL. Assim, temos: D Duplicatas a pagar diminui o passivo) C Bancos (diminui o ativo) C Descontos obtidos (receita) 3.000,00 2.700,00 300,00. Percebam que houve uma conta debitada e duas contas creditadas, portanto, estamos diante de um lançamento de segunda fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) segunda fórmula, com uma conta devedora e duas contas credoras",
         "B) terceira fórmula, com duas contas devedoras e uma conta credora",
@@ -1312,7 +1312,7 @@
       "enunciado": "Dadas as afirmativas, tendo como base o Sistema de Partidas Dobradas, I.",
       "resposta": "D",
       "comentario": "I. A soma dos débitos é sempre igual à soma dos créditos. Exemplo: a compra de um veículo à vista por R$ 30.000. Com base no método das partidas dobradas, algumas conclusões podem ser tomadas: - A soma dos débitos é sempre igual à soma dos créditos. - Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. - O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido. - O total do ativo mais a despesa será sempre igual à soma do passivo exigível com o patrimônio líquido mais as receitas. Certo. II. O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido. Correto. A equação fundamental do patrimônio é a seguinte: Ativo = Passivo + PL III. A compra de mercadorias a prazo aumenta o Ativo a crédito, e aumenta o Passivo a débito. Lançamento: D - Estoque (+ Ativo) C - Fornecedores (+ Passivo) Errado, pois a compra de mercadorias a prazo aumenta o Ativo A DÉBITO, e aumenta o Passivo A CRÉDITO. IV. Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. Certo. Com base no método das partidas dobradas, algumas conclusões podem ser tomadas: - A soma dos débitos é sempre igual à soma dos créditos. - Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. - O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido. - O total do ativo mais a despesa será sempre igual à soma do passivo exigível com o patrimônio líquido mais as receitas.",
-      "dificuldade": 2,
+      "dificuldade": 4,
       "opcoes": [
         "A) soma dos débitos é sempre igual à soma dos créditos. Exemplo: a compra de um veículo à vista por R$ 30.000. II. O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido. III",
         "B) compra de mercadorias a prazo aumenta o Ativo a crédito, e aumenta o Passivo a débito. IV. Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. verifica-se que está(ão) correta(s) A II, apenas",
@@ -1332,7 +1332,7 @@
       "enunciado": "Com relação à classificação dos fatos contábeis, está correta a correlação entre as colunas A e B na opção: COLUNA A 1. Fato Permutativo 2. Fato Misto 3. Fato Modificativo Aumentativo 4. Fato Modificativo Diminutivo 5. Ato Administrativo COLUNA B a. Pagamento de Duplicatas com Juros b. Emissão de Cheque c. Compra, à vista, de Estoques d. Receita Financeira e. Pagamento de Despesas Administrativas",
       "resposta": "E",
       "comentario": "C- Caixa (- Ativo) Aqui temos um fato modificativo diminutivo, visto que diminuiu a situação líquida Ressaltamos que a banca entendeu que tanto a despesa administrativa quanto o seu pagamento ocorrem simultaneamente. Fique Atento! Independentemente do pagamento deveríamos, com base no regime de competência, reconhecer a despesa de salário no mês trabalhado. 5. Ato Administrativo: b. Emissão de Cheque Os atos contábeis ou atos administrativos são acontecimentos que ocorrem na entidade e não provocam alterações do patrimônio, tais como admissão de empregados, assinatura de um contrato de compra, venda, o aval de um título de crédito, uma fiança prestada em favor de terceiros, emissão de cheque.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) 1.b; 2.c; 3.d; 4.a; 5.b",
         "B) 1.a; 2.b; 3.c; 4.d; 5.e",
@@ -1388,7 +1388,7 @@
       "enunciado": "Assinale a afirmação correta sobre o método de escrituração de Partidas Dobradas.",
       "resposta": "B",
       "comentario": "O método das partidas dobradas consiste em considerar que para todo e qualquer item que ingressa no patrimônio, há um lugar de onde ele é proveniente. Ou seja, não há geração espontânea de patrimônio, mas sim uma origem para todo elemento que se aplica no patrimônio, passando a integrálo. Guardem: APLICAÇÕES DE RECURSOS = ORIGEM DE RECURSOS Com base no método das partidas dobradas, algumas conclusões podem ser tomadas: - A soma dos débitos é sempre igual à soma dos créditos. - Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. - O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido. - O total do ativo mais a despesa será sempre igual à soma do passivo exigível com o patrimônio líquido mais as receitas.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) É o método normalmente utilizado por entidades que não visam ao lucro",
         "B) Esse método consiste em que cada débito corresponde a um crédito de igual valor",
@@ -1442,7 +1442,7 @@
       "enunciado": "O registro contábil do pagamento dos salários que já foram apropriados como despesa do mês anterior corresponde a fato contábil A permutativo.",
       "resposta": "A",
       "comentario": "Ao apropriar a despesa de salário no mês anterior, a empresa contabiliza um passivo enquanto não pagar: D - Despesa com salários (- Resultado) C Salários a pagar (+ Passivo) Aqui temos um fato modificativo diminutivo, visto que diminuiu a situação líquida. Quando efetuamos o pagamento de salários que já foram apropriados como despesa do mês anterior: D Salários a pagar (- Passivo) C - Caixa (- Ativo) Vejam que ambas as contas são patrimoniais. Tivemos uma diminuição aumento na conta Salários a pagar e uma diminuição na conta Caixa. Consequentemente, temos um fato permutativo. Como o próprio nome já diz, os fatos permutativos alteram o patrimônio somente em aspectos qualitativos. Seria como, por exemplo, trocar dinheiro por mercadorias, por exemplo. Sim, a compra de mercadorias. Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, sem que haja alteração no valor total do patrimônio líquido e contas de resultado.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) modificativo diminutivo",
         "B) misto",
@@ -1459,7 +1459,7 @@
       "enunciado": "O registro da aquisição de estoques de mercadorias no valor de R$ 50.000,00, sendo 60% vencíveis no prazo de 90 dias e 40% à vista, compreende um lançamento contábil que",
       "resposta": "D",
       "comentario": "O registro de estoque de mercadorias por R$ 50.000,00, sendo 60% são vencíveis no prazo de 90 dias e 40% à vista, é feito do seguindo modo: Débito Mercadorias (ativo circulante) Crédito Caixa (ativo circulante) Crédito Fornecedores (passivo circulante) 50.000,00 20.000,00 30.000,00 Nota-se, pois que o ativo aumentará em R$ 30.000,00 (50 20), enquanto o passivo também terá um aumento nesta quantia.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) altera para mais o patrimônio líquido.",
         "B) diminui os ativos circulante e não circulante.",
@@ -1477,7 +1477,7 @@
       "enunciado": "A classe das variações patrimoniais que somente modifica a natureza dos componentes patrimoniais sem repercutirem no montante do Patrimônio Líquido são denominadas",
       "resposta": "D",
       "comentario": "As variações que modificam apenas a composição dos elementos patrimoniais sem alterar o total do PL são chamadas de qualitativas ou permutativas. São os fatos em que um elemento aumenta enquanto outro decresce pelo mesmo valor — como a compra a prazo (ativo + / passivo +) ou o recebimento de cliente (caixa + / clientes −) — sem gerar receita ou despesa.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) modificativas ou qualitativas.",
         "B) relativas ou qualitativas.",
@@ -1516,7 +1516,7 @@
       "enunciado": "O pagamento de uma dívida caracteriza-se como um fato contábil",
       "resposta": "C",
       "comentario": "O pagamento de uma dívida gera: D — Fornecedores (passivo −) e C — Caixa (ativo −). Ativo e passivo diminuem em igual valor; o PL não se altera. Sem modificação do patrimônio líquido, o fato é classificado como permutativo — há troca de elementos entre grupos patrimoniais distintos, mas o total do PL permanece intacto.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) aumentativo.",
         "B) substantivo.",
@@ -1573,7 +1573,7 @@
       "enunciado": "Analise as afirmativas abaixo acerca dos atos e fatos administrativos: 1. Fatos administrativos são os acontecimentos que provocam variações nos valores patrimoniais, podendo ou não alterar o patrimônio líquido. 2. Os fatos administrativos podem ser classificados em dois grupos: fatos permutativos e fatos equilibrados. 3. Os fatos modificativos que geram alterações para mais no patrimônio líquido são classificados como fatos modificativos diminutivos. 4. Fatos permutativos são aqueles que provocam permutações entre os elementos patrimoniais (bens, direitos e obrigações), sem modificar a riqueza da entidade, ou seja, o valor do patrimônio líquido. 5. Os fatos mistos representam a junção dos fatos permutativos e modificativos. Assinale a alternativa que indica todas as afirmativas corretas.",
       "resposta": "D",
       "comentario": "1. Fatos administrativos são os acontecimentos que provocam variações nos valores patrimoniais, podendo ou não alterar o patrimônio líquido. Correto. Os fatos administrativos ou fatos contábeis são aqueles que têm por escopo promover alteração no patrimônio (conjunto de bens, direitos e obrigações) de uma entidade. 2. Os fatos administrativos podem ser classificados em dois grupos: fatos permutativos e fatos equilibrados. Errado. Os fatos administrativos ou fatos contábeis são classificados em três grupos: Modificativos, 3. Os fatos modificativos que geram alterações para mais no patrimônio líquido são classificados como fatos modificativos diminutivos. Errado. Os fatos modificativos que geram alterações para mais no PL são os fatos modificativos aumentativos, e não diminutivos. 4. Fatos permutativos são aqueles que provocam permutações entre os elementos patrimoniais (bens, direitos e obrigações), sem modificar a riqueza da entidade, ou seja, o valor do patrimônio líquido. Correto. Como o próprio nome já diz, os fatos permutativos alteram o patrimônio somente em aspectos qualitativos, isto é, em qualidade, sem alterar o Patrimônio Líquido.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) São corretas apenas as afirmativas 1 e 3.",
         "B) São corretas apenas as afirmativas 2 e 4.",
@@ -1592,7 +1592,7 @@
       "enunciado": "Assinale a alternativa que apresenta o registro de um fato misto aumentativo.",
       "resposta": "A",
       "comentario": "Fato misto é o que envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Acarreta, portanto, alterações no ativo e PL, no passivo e no PL ou no ativo, passivo e PL. Fato misto aumentativo é quando o fato misto tem o condão de aumentar a situação líquida patrimonial. Analisemos as alternativas... (A) D = Caixa; C = Clientes; C = Juros Ativos. Neste lançamento, temos exatamente um fato misto aumentativo. Há dois lançamentos: um representando o pagamento de determinada dívida que certo cliente possui e outro representando a receita de juros recebida, possivelmente pelo pagamento em atraso. (B) D = Caixa; D = Descontos Concedidos; C = Clientes. Este lançamento é fato misto diminutivo, pois representa o recebimento da dívida de determinado cliente, com concessão de desconto, o que é uma despesa para a empresa, reduzindo o seu PL. (C) D = Banco; C = Fornecedores; C = Juros Passivos. Este lançamento está incorreto, posto que a conta juros passivos tem natureza de despesa e, portanto, saldo devedor. (D) D = Clientes; C = Caixa; C = Juros Passivos. Este lançamento está incorreto, posto que a conta juros passivos tem natureza de despesa e, portanto, saldo devedor. (E) D = Caixa; C = Receita de Vendas pelo valor de custo. Este lançamento é modificativo aumentativo.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) D = Caixa; C = Clientes; C = Juros Ativos",
         "B) D = Caixa; D = Descontos Concedidos; C = Clientes",
@@ -1611,7 +1611,7 @@
       "enunciado": "A base para o registro contábil de cada operação segue a lógica das partidas dobradas. Essa lógica é baseada na premissa de que:",
       "resposta": "D",
       "comentario": "Vamos analisar cada alternativa: A) ativo deve ser igual a passivo. Errado, pela equação fundamental da Contabilidade, o total do ativo é igual à soma do passivo com o patrimônio líquido. B) ativo equivale ao patrimônio líquido. Errado, mesmo erro da assertiva acima. Pela equação fundamental da Contabilidade, o total do ativo é igual à soma do passivo com o patrimônio líquido C) débitos e créditos têm o mesmo efeito patrimonial. Errado, na verdade, débitos e créditos possuem efeitos CONTRÁRIOS, de acordo com o Método das Partidas Dobradas. D) toda aplicação de recurso tem uma origem. Correto, esse é o nosso gabarito. O método das partidas dobradas parte do pressuposto que todo recurso possui uma origem e uma aplicação. Dessa ideia básica surgiu o método das partidas dobradas. E) todo fato contábil modifica o patrimônio líquido. Errado, existem fatos que são registrados pela contabilidade, isto é, escriturados, todavia não geram alteração na riqueza líquida da entidade. Isto é, NÃO alteram o Patrimônio Líquido. São chamados de fatos permutativos. Por exemplo: a aquisição de uma mercadoria à vista é um fato que gera alteração no PATRIMÔNIO DA ENTIDADE, mas não gera modificação no seu patrimônio líquido.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) ativo deve ser igual a passivo;",
         "B) ativo equivale ao patrimônio líquido;",
@@ -1649,7 +1649,7 @@
       "enunciado": "Analise as informações a seguir e responda à questão. I. Aquisição de mercadorias a prazo no valor de $10.000; II. Apropriação de despesa com energia no valor de $2.000; III. Venda a vista de 80% do estoque de mercadorias por $15.000; IV. Adiantamento de salários no valor de $3.000; V. Aquisição financiada de equipamentos no valor de $6.000; VI. Pagamento de fornecedores no valor do título de $3.000 com desconto ainda de $300 sobre o mesmo; VII. Recebimento de direitos de clientes no valor de $3.000 mais juros do período de $100. São fatos do tipo permutativos os descritos",
       "resposta": "D",
       "comentario": "I. Aquisição de mercadorias a prazo no valor de $10.000; O lançamento nesta ocasião é permutativo e é registrado pelo seguinte: D Mercadorias (aumenta o ativo) C Fornecedores (aumenta o passivo) 10.000,00 10.000,00 Ora, se estamos adquirindo mercadoria, devemos aumentar o ativo, pois está entrando um bem na nossa empresa. Por outro lado, estamos contraindo uma dívida, logo, devemos aumentar o ativo, por meio de lançamento a crédito. Fato permutativo. II. Apropriação de despesa com energia no valor de $2.000; As receitas e despesas são lançadas em contas de resultado. Assim, como estamos apropriando despesa de energia, vamos lançar o seguinte: D Despesa de energia (despesa) C Energia elétrica a pagar (passivo) 2.000,00 2.000,00 Este fato é modificativo diminutivo. III. Venda a vista de 80% do estoque de mercadorias por $15.000; Para a venda de mercadorias, devemos fazer dois lançamentos: 1 Pelo reconhecimento da venda 2 Pela baixa do estoque 1 Pelo reconhecimento da venda D Caixa (ativo) C Receita de vendas (receita) 15.000,00 15.000,00 Vejam que se fizemos uma venda à vista, está entrando dinheiro no caixa. Aumentando o ativo a débito. Por outro lado, lançamos uma receita a crédito no resultado. Fato modificativo aumentativo. 2 Pela baixa do estoque D Custo da mercadoria vendida (despesa) 8.000,00 C Mercadorias (diminui o ativo) 8.000,00 Devemos dar baixa das mercadorias no estoque, já que os produtos estão saindo. Não podemos deixá-las lá! Além disso, a contrapartida vai na conta CMV, que é uma conta de despesa, evidenciada na demonstração do resultado do exercício. Fato modificativo diminutivo. IV. Adiantamento de salários no valor de $3.000; Como já dissemos, as receitas e despesas devem ser reconhecidas no resultado conforme o regime de competência. Assim, o salário é reconhecido como despesa depois que o empregado trabalhou. Todavia, na hipótese do enunciado houve adiantamento. Toda vez que adiantamos um salário para o empregado temos o direito de que haja a contraprestação, ou seja, que ele preste o trabalho. A um só tempo, sairá dinheiro do caixa. Devemos, pois, lançar: D Adiantamento de salário (aumenta o ativo) 3.000,00 C Caixa (diminui o ativo) 3.000,00 Fato permutativo. V. Aquisição financiada de equipamentos no valor de $6.000; Neste caso, os equipamentos passarão a integrar o ativo da empresa, no montante de R$ 6.000,00. Por outro lado, estamos contraindo uma dívida, neste valor. D Equipamentos (aumenta o ativo) C Financiamentos a pagar (aumenta o passivo) 6.000,00 6.000,00 Fato permutativo. VI. Pagamento de fornecedores no valor do título de $3.000 com desconto ainda de $300 sobre o mesmo. Bom, estamos pagando o fornecedor. A dívida tinha um valor nominal de R$ 3.000,00, todavia, houve um desconto no montante de R$ 300,00. O que podemos concluir? Bom, saíram R$ 2.700,00 do caixa, certo? E temos de dar baixa de quanto na conta fornecedores? R$ 2.700,00? R$ 3.000,00? Ora, R$ 3.000,00! Se dermos baixa somente de R$ 2.700,00, dará a impressão de que estamos deixando R$ 300,00 de dívida para trás, o que não é verdade. Estamos quitando R$ 3.000,00. A diferença, portanto, será considerada como receita, já que é um ganho que não esperávamos. Esse fato é misto aumentativo, já que a receita aumenta o PL. Assim, temos: D Fornecedores (diminui o passivo) C Caixa (diminui o ativo) C Descontos obtidos (receita) 3.000,00 2.700,00 300,00. VII. Recebimento de direitos de clientes no valor de $3.000 mais juros do período de $100. Bom, neste caso, temos um direito já registrado na conta clientes, portanto, a mercadoria já foi entregue em momento anterior e a receita já foi reconhecida. Agora, vamos dar baixa no nosso direito com os clientes e dar entrada do dinheiro no caixa. Mas vejam que entrou mais R$ 100,00 de juros (receita). Portanto, vamos lançar: D Caixa (aumenta o ativo) C Clientes (diminui o ativo) C Receita de juros (resultado) 3.100,00 3.000,00 100,00",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) somente nos itens I, III e VI.",
         "B) somente nos itens II, III e V.",
@@ -1667,7 +1667,7 @@
       "enunciado": "Os sistemas de contabilidade registram fatos que podem afetar o patrimônio das entidades quantitativa ou qualitativamente. Quando do registro de um fato contábil modificativo, uma das contrapartidas será necessariamente uma conta:",
       "resposta": "C",
       "comentario": "Um fato modificativo altera o Patrimônio Líquido, o que só ocorre por meio de contas de resultado: receita (PL +) ou despesa (PL −). Por isso, em todo lançamento classificado como modificativo, pelo menos uma das contrapartidas é necessariamente uma conta de receita ou de despesa. Contas exclusivamente patrimoniais não movimentam o PL diretamente.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) de receita ou de passivo;",
         "B) de despesa ou de ativo;",
@@ -1687,7 +1687,7 @@
       "enunciado": "Na lógica patrimonial, a aquisição de material de expediente para estoque, com pagamento à vista, é considerada como um fato contábil:",
       "resposta": "E",
       "comentario": "A contabilização é a seguinte: D Material de Expediente (+Ativo) C Caixa (-Ativo) Vejam que ambas as contas são do ativo. Tivemos um aumento na conta Material de Expediente e uma diminuição na conta Caixa. Consequentemente, temos um fato permutativo. Como o próprio nome já diz, os fatos permutativos alteram o patrimônio somente em aspectos qualitativos. Seria como, por exemplo, trocar dinheiro por mercadorias, por exemplo. Sim, a compra de mercadorias. Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, sem que haja alteração no valor total do patrimônio líquido e contas de resultado.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) modificativo aumentativo;",
         "B) modificativo diminutivo;",
@@ -1706,7 +1706,7 @@
       "enunciado": "O contador de uma empresa registrou diretamente em uma conta de resultado (despesa) a aquisição de material de expediente para estoque, que só deveria ser baixado como despesa quando requisitado. Para efetuar a retificação do lançamento contábil, deve-se realizar um(a):",
       "resposta": "E",
       "comentario": "Os materiais de expediente (folhas, canetas, clipes e cia) devem ser classificadas no ativo. À medida que a empresa os consuma, apropriará tais valores ao resultado como despesa. Vejamos a contabilização completa: No momento da aquisição: D Material de expediente (Ativo) C Caixa (Ativo) Apropriação como despesa: D Despesa de material de expediente Resultado) C Material de expediente (Ativo) Ocorre que o contador efetuou o seguinte lançamento incorreto: D Despesa de material de expediente (Resultado) C Caixa (Ativo) Razonetes: Veja que ele trocou a conta \"Material de expediente\" pela conta \"Despesa de material de expediente\", assim basta promover a regularização de conta indevidamente debitada, por meio da transposição do registro para a conta adequada. Lançamento de transferência: D Material de expediente (Ativo) C Despesa de material de expediente (Resultado) Razonetes: Texto 1 A empresa Alfa foi constituída em 02/01/2020 por dois sócios, Sr. X e Sr. Y. O capital social da empresa foi subscrito no valor de R$ 100.000,00. O capital foi constituído de quotas igualmente divididas entre os dois sócios. O Sr. X integralizou a sua parte em dinheiro no ato de constituição da empresa, que foi depositada no banco em que a empresa abriu uma conta. Já o Sr. Y integralizou a parte dele com um veículo no valor de R$ 30.000,00 e o restante ficou para ser integralizado em espécie em 90 dias.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) compensação;",
         "B) complementação;",
@@ -1718,14 +1718,14 @@
     {
       "id": "cg-02a-101",
       "banca": "FGV",
-      "orgao": "Prefeitura de Caraguatatuba",
+      "orgao": "Pref. Caraguatatuba",
       "cargo": "Técnico em Contabilidade",
       "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Em 31/12/2022, uma entidade que prestava serviços de consultoria apresentava o seguinte balanço patrimonial: Ativo Circulante Patrimônio Líquido Disponibilidades 80.000 Capital Social 80.000 Total 80.000 Total 80.000 Em 01/01/2023, ela adquiriu uma moto, para agilizar as entregas de documentos que são necessários ao trabalho por R$30.000. O valor foi pago em março de 2023. Assinale a opção que indica os elementos contábeis debitados e creditados, respectivamente, em 01/01/2023, no momento da compra.",
       "resposta": "A",
       "comentario": "O fato contábil descrito na questão afirma que a empresa adquiriu um ativo (moto) a prazo, ou seja, assumindo um passivo que será quitado posteriormente. Portanto, tivemos nesse lançamento o aumento da conta de ativo, por meio de um lançamento a débito, e o aumento de um passivo, por meio de um lançamento a crédito: D Ativo C Passivo R$ 30.000 R$ 30.000",
-      "dificuldade": 2,
+      "dificuldade": 4,
       "opcoes": [
         "A) Ativo e Passivo.",
         "B) Ativo e Ativo.",
@@ -1744,7 +1744,7 @@
       "enunciado": "Considere que uma rede de farmácias localizada em Manaus adquiriu R$50.000,00 em testes rápidos para Covid-19, realizando o pagamento integral no momento da compra. É correto afirmar que o lançamento a ser contabilizado na situação apresentada é de",
       "resposta": "A",
       "comentario": "Na questão apresentada, a questão adquiriu um ativo (estoque) para a revenda e prestação de serviços. Ela entregou outro ativo nessa operação. A contabilização da operação seria: D Mercadorias xxx C Caixa xxx Percebam que houve uma conta debitada e uma conta creditada, portanto, estamos diante de um lançamento de primeira fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) primeira fórmula.",
         "B) segunda fórmula.",
@@ -1763,7 +1763,7 @@
       "enunciado": "Considere as informações apresentadas no texto 1 sobre a empresa Alfa e também que os sócios decidiram tomar um empréstimo no banco no valor de R$ 50.000,00 para dar mais liquidez ao negócio e iniciar as atividades operacionais da empresa. A realização dessa operação financeira com o banco constitui um fato contábil:",
       "resposta": "E",
       "comentario": "Quando efetuamos o empréstimo, visto que os juros não eram conhecidos quando da contratação, vamos lançar: D Bancos conta movimento (+ativo) C Empréstimos bancários (+passivo) 50.000,00 50.000,00 Ora, por que estamos fazendo este lançamento? Pois estamos contraindo uma obrigação, a de pagar o empréstimo na data estipulada, e, ao mesmo tempo, está entrando dinheiro na nossa conta bancária. Tivemos um aumento na conta Bancos e um aumento na conta Empréstimos. Consequentemente, temos um fato permutativo. Como o próprio nome já diz, os fatos permutativos alteram o patrimônio somente em aspectos qualitativos. Seria como, por exemplo, trocar dinheiro por mercadorias, por exemplo. Sim, a compra de mercadorias. Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, sem que haja alteração no valor total do patrimônio líquido e contas de resultado.",
-      "dificuldade": 2,
+      "dificuldade": 4,
       "opcoes": [
         "A) modificativo aumentativo;",
         "B) modificativo diminutivo;",
@@ -1782,7 +1782,7 @@
       "enunciado": "Com relação à escrituração contábil de uma entidade, analise as afirmativas abaixo: I - O registro contábil deve conter o número de identificação do lançamento em ordem sequencial relacionado ao respectivo documento de origem externa ou interna ou, na sua falta, em elementos que comprovem ou evidenciem fatos contábeis. II - Lançamento de complementação é aquele que promove a regularização de conta indevidamente debitada ou creditada, por meio da transposição do registro para a conta adequada. III - Segunda Fórmula: são os lançamentos que envolvem mais de uma conta a débito e apenas uma conta a crédito. Está correto o que se afirma em:",
       "resposta": "A",
       "comentario": "Vamos analisar cada uma das assertivas: I - O registro contábil deve conter o número de identificação do lançamento em ordem sequencial relacionado ao respectivo documento de origem externa ou interna ou, na sua falta, em elementos que comprovem ou evidenciem fatos contábeis. O item I está correto! É cópia da ITG 2000. Mas nem precisávamos conhecer para responder. O lançamento deve ter um número de identificação. Ou seja, o lançamento é o registrado de número 100 ou o de número 1502 ou qualquer outro número. Além disso, ele deve indicar o documento que deu origem ao lançamento. Uma nota fiscal, um contrato ou qualquer outro tipo de documento que tenha dado origem àquele fato administrativo. ITG 2000: 7. O registro contábil deve conter o número de identificação do lançamento em ordem sequencial relacionado ao respectivo documento de origem externa ou interna ou, na sua falta, em elementos que comprovem ou evidenciem fatos contábeis. II - Lançamento de complementação é aquele que promove a regularização de conta indevidamente debitada ou creditada, por meio da transposição do registro para a conta adequada. O item está incorreto. A questão citou o lançamento de transferência. Transposição para a conta adequada caracteriza o lançamento de transferência! III - Segunda Fórmula: são os lançamentos que envolvem mais de uma conta a débito e apenas uma conta a crédito. Item incorreto. É só lembrar do 11, 12, 21, 22. Neste caso, estaríamos no 12, que equivale à segunda fórmula. Um débito e dois ou mais créditos.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) somente I.",
         "B) somente I e II;",
@@ -1801,7 +1801,7 @@
       "enunciado": "A Fit Alimentos Saudáveis adquiriu em 30/06/14, da Farinhas & Farinhas, 5 kg de Farinha de arroz, 4 kg de farinha de amêndoas e 3 kg de polvilho doce, sendo que cada um dos itens custaram R$35, R$480 e R$20, respectivamente. A data de vencimento da compra realizada pela Fit Alimentos era 30/07/14. No dia 02/08/14 o Contas a Pagar informou que não havia sido feito o pagamento a Farinha & farinhas, e que o mesmo estaria sujeito a multa de 10%. O Gerente Financeiro da Fit Alimentos solicitou que fosse realizado o pagamento no dia seguinte. As operações realizadas nos dias 30/06 e 03/08 configuram, respectivamente, os fatos contábeis:",
       "resposta": "B",
       "comentario": "30/06 — Compra a prazo: D Estoque / C Fornecedores. Ativo e passivo crescem em igual valor; PL inalterado — Permutativo. 03/08 — Pagamento em atraso com multa de 10%: D Fornecedores (valor original) + D Juros e Multas (despesa) / C Caixa (valor total com multa). O PL diminui pelo encargo e o caixa sai a mais do que o passivo baixado — Misto Diminutivo.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) Permutativo e Modificativo Diminutivo;",
         "B) Permutativo e Misto Diminutivo;",
@@ -1820,7 +1820,7 @@
       "enunciado": "O fato contábil apresentado abaixo, que representa uma alteração no patrimônio pela diminuição e aumento no ativo circulante, simultaneamente, é:",
       "resposta": "D",
       "comentario": "A) aquisição e imóvel financiado. Errado, a aquisição de um imóvel financiado irá gerar um aumento de um ativo chamado NÃO circulante, pois é um imóvel. Não é um ativo que é consumido rapidamente, como estoques, que são ativos circulantes. B) pagamento de fornecedores. Errado, dívidas com fornecedores, como regra, são dívidas de curto prazo, por isso, representam passivos circulantes das empresas. Por esse motivo, ao quitar uma dívida com fornecedores, estamos diminuindo ativos também chamados de circulantes (dinheiro) e também estamos diminuindo passivos circulantes. C) quitação de dívidas oriundas de captação de recursos junto a instituições financeiras. Errado, é a mesma lógica do exemplo anterior. Entregamos recursos do ativo circulante para quitar passivos circulantes. Aqui ocorre a diminuição do ativo circulante e do passivo circulante. D) quitação de um crédito de curto prazo. Correto, esse é o nosso gabarito. \"Crédito\" aqui nessa questão foi usado no sentido de um direito, a empresa tinha algo a receber, como por exemplo, valores de clientes em virtude de vendas a prazo e, finalmente, recebeu. A entrada de caixa representa o aumento de um ativo circulante, todavia, também ocorrerá uma diminuição de um ativo circulante, registrado em contas como \"Clientes\" ou Duplicatas a Receber. Portanto, esse é o nosso gabarito. E) comissões sobre empréstimos bancários. Errado, se a empresa tomou um empréstimo junto a uma instituição financeira e reconheceu comissões, estamos diante de uma despesa, o que gerará o aumento de um passivo e a diminuição do patrimônio líquido da empresa. Observação: no momento certo veremos a estrutura completa do balanço patrimonial, contendo a divisão dos grupos em circulantes e não circulantes. O objetivo dessa questão é entendermos movimentações básicas que ocorrer no patrimônio.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) aquisição e imóvel financiado;",
         "B) pagamento de fornecedores;",
@@ -1839,7 +1839,7 @@
       "enunciado": "A principal característica do método das partidas dobradas é que A para um lançamento de débito deve ter um lançamento de crédito.",
       "resposta": "C",
       "comentario": "No método das partidas dobradas, cada crédito (fonte de recursos) tem um débito correspondente de igual valor (destinação). No balanço como um todo, os créditos acumulados correspondem ao passivo exigível somado ao patrimônio líquido — o passivo em sentido amplo —, evidenciando que as fontes de recursos financiam integralmente o ativo. Essa igualdade expressa a equação fundamental da contabilidade.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) para cada destinação existe uma única fonte",
         "B) não há débitos sem créditos correspondentes de igual valor",
@@ -1856,7 +1856,7 @@
       "enunciado": "Um lançamento contábil de terceira fórmula significa:",
       "resposta": "B",
       "comentario": "- 1ª Fórmula: Envolve uma conta a débito e uma conta a crédito - 2ª Fórmula: Envolve uma conta a débito e duas ou mais a crédito. - 3ª Fórmula: Envolve duas ou mais contas a débito e uma conta a crédito. - 4ª Fórmula: Envolve duas ou mais contas a débito e duas ou mais contas a crédito. Diante do exposto, o lançamento contábil que envolve duas contas a débito e uma conta a crédito é um lançamento de terceira fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Dois ou mais débitos e dois ou mais créditos",
         "B) Dois ou mais débitos e um crédito",
@@ -1874,7 +1874,7 @@
       "enunciado": "O processo técnico de correção de um registro contábil realizado com erro na escrituração das entidades é denominado retificação de lançamento. São formas de retificação de lançamento, EXCETO:",
       "resposta": "B",
       "comentario": "Retificação de lançamento é o processo técnico de correção de registro realizado com erro na escrituração contábil da entidade e pode ser feito por meio de: a) estorno: lançamento inverso, anulando totalmente. b) transferência: transposição para a conta correta. c) complementação: aumentando ou diminuindo o saldo da conta; d) Ressalva: Por que a ressalva não consta da ITG 2000 como modalidade de retificação? Isso se deve ao fato de a ressalva ser mais utilizada quando da escrituração manual dos livros contábeis, fato pouco usual nos dias de hoje. Retificação do lançamento Estorno Lançamento inverso, anulando totalmente Transferência Transposição para a conta adequada Complementação Complementa (aumentando ou reduzindo) Ressalva Correção antes do término do lançamento",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) A complementação",
         "B) liquidação",
@@ -1892,7 +1892,7 @@
       "enunciado": "Um lançamento contábil de segunda fórmula significa:",
       "resposta": "C",
       "comentario": "Os lançamentos contábeis podem ser: - 1ª Fórmula: Envolve uma conta a débito e uma conta a crédito - 2ª Fórmula: Envolve uma conta a débito e duas ou mais a crédito. - 3ª Fórmula: Envolve duas ou mais contas a débito e uma conta a crédito. - 4ª Fórmula: Envolve duas ou mais contas a débito e duas ou mais contas a crédito. Diante do exposto, o lançamento contábil que envolve uma contas a débito e duas ou mais conta a crédito é um lançamento de segunda fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Dois ou mais débitos e dois ou mais créditos",
         "B) Um crédito e dois ou mais débitos",
@@ -1910,7 +1910,7 @@
       "enunciado": "Um lançamento contábil de quarta fórmula significa:",
       "resposta": "A",
       "comentario": "Os lançamentos contábeis podem ser: - 1ª Fórmula: Envolve uma conta a débito e uma conta a crédito - 2ª Fórmula: Envolve uma conta a débito e duas ou mais a crédito. - 3ª Fórmula: Envolve duas ou mais contas a débito e uma conta a crédito. - 4ª Fórmula: Envolve duas ou mais contas a débito e duas ou mais contas a crédito. Diante do exposto, o lançamento contábil que envolve duas ou mais a débito e duas ou mais conta a crédito é um lançamento de quarta fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Dois ou mais débitos e dois ou mais créditos",
         "B) Um crédito e dois ou mais débitos",
@@ -1946,7 +1946,7 @@
       "enunciado": "Os elementos constitutivos do patrimônio de uma entidade sofrem frequentes variações, em virtude principalmente da atividade operacional. Fatos contábeis são os eventos, de natureza econômica em sua maioria, que provocam tais alterações e que são registrados pela Contabilidade em função de uma planificação anterior. Por sua vez, os fatos contábeis podem ser classificados em três grupos. São eles:",
       "resposta": "D",
       "comentario": "Fatos contábeis ou Fatos Administrativos são aqueles que promovem alteração no patrimônio (conjunto de bens, direitos e obrigações) de uma entidade. Já os atos contábeis são atos relevantes que não alteram o patrimônio da entidade, tal como a contratação de empregados, o simples fato de se conceder fiança a um terceiro ou avalizar um cheque. Os fatos contábeis são divididos hoje em três grupos: Modificativos; Permutativos; Mistos.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) Fatos Modificativos, Fatos Compensativos e Fatos Mistos",
         "B) Fatos Permutativos, Fatos Compensativos e Fatos Mistos",
@@ -1964,7 +1964,7 @@
       "enunciado": "Considera-se Fato Permutativo aquele que:",
       "resposta": "D",
       "comentario": "Como o próprio nome já diz, os fatos permutativos alteram o patrimônio somente em aspectos qualitativos. Seria como, por exemplo, trocar dinheiro por mercadorias, por exemplo. Sim, a compra de mercadorias. Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, sem que haja alteração no valor total do patrimônio líquido e contas de resultado. As trocas podem ser entre elementos do ativo, passivo, de ambos, ou entre elementos da situação líquida.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) envolve apenas contas do ativo",
         "B) envolve contas patrimoniais e de resultado",
@@ -2096,7 +2096,7 @@
       "enunciado": "Em relação às partidas dobradas, não há ________ sem o(a) correspondente ________. As ________ dos recursos serão iguais às ________. Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
       "resposta": "A",
       "comentario": "O método das partidas dobradas consiste em considerar que para todo e qualquer item que ingressa no patrimônio, há um lugar de onde ele é proveniente. Ou seja, não há geração espontânea de patrimônio, mas sim uma origem para todo elemento que se aplica no patrimônio, passando a integrálo. Guardem: APLICAÇÕES DE RECURSOS = ORIGEM DE RECURSOS Com base no método das partidas dobradas, algumas conclusões podem ser tomadas: - A soma dos débitos é sempre igual à soma dos créditos. - Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. - O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido. - O total do ativo mais a despesa será sempre igual à soma do passivo exigível com o patrimônio líquido mais as receitas. Preenchendo as lacunas, temos: Em relação às partidas dobradas, não há débito sem o(a) correspondente crédito. As origens dos recursos serão iguais às aplicações.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) débito crédito origens aplicações",
         "B) lançamento conferência origens aplicações",
@@ -2134,7 +2134,7 @@
       "enunciado": "O lançamento contábil de débito na conta caixa, crédito na conta duplicatas a receber e crédito na conta receita financeira caracteriza um fato contábil:",
       "resposta": "A",
       "comentario": "No tocante ao fato misto, ele envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Um exemplo seria o Recebimento de uma duplicata no valor de R$ 1.000,00, com juros de R$ 200,00: D Disponibilidades 1.200,00 (+ Ativo) C Duplicatas a receber 1.000,00 (- Ativo) C Juros Ativos 200,00 (+ Resultado = Receita) Para facilitar a visualização, vamos dividi-lo em dois lançamentos: Fato permutativo: D Disponibilidades 1.000,00 (+ Ativo) C Duplicatas a receber 1.000,00 (- Ativo) Fato modificativo aumentativo: D Disponibilidades 200,00 (+ Ativo) C Juros Ativos 200,00 (+ Resultado = Receita) Assim, tal fato representa um misto aumentativo.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) Misto aumentativo",
         "B) Permutativo",
@@ -2172,7 +2172,7 @@
       "enunciado": "No procedimento de escrituração contábil, o Método das Partidas Dobradas significa que para A todo crédito, corresponderá um débito de valor diferente.",
       "resposta": "B",
       "comentario": "Na contabilidade trabalhamos com o método das partidas dobradas. Ele informa que para todo débito temos um ou mais crédito(s) de valor correspondente.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) cada transação financeira, serão registrados lançamentos contábeis, nos quais o total de débitos deve ser igual de créditos",
         "B) cada lançamento de débito, haverá sempre um crédito, porém com valores que não se correspondem",
@@ -2247,7 +2247,7 @@
       "enunciado": "Um lançamento de determinado fato contábil ocasionou uma variação qualitativa no patrimônio da entidade.",
       "resposta": "D",
       "comentario": "Fatos Permutativos: São aqueles que não alteram o valor do patrimônio líquido, constituindo apenas permutações entre elementos patrimoniais. Exemplos: Permuta entre elementos do ativo Permuta entre elementos do passivo Permuta entre elementos do passivo e do ativo Permuta entre elementos do PL",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) esse respeito, é correto afirmar que houve A aumento do patrimônio líquido",
         "B) fato contábil modificativo",
@@ -2266,7 +2266,7 @@
       "enunciado": "Um lançamento contábil de 1ª fórmula resultou no aumento dos saldos de todas as contas escrituradas. Com base apenas nessa informação, é correto afirmar que o lançamento envolveu",
       "resposta": "E",
       "comentario": "Vamos rever o nosso esquema: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo Veja que no lançamento de 1° fórmula temos uma conta debitada e uma conta creditada. O quesito informou que ambos aumentaram. Assim precisamos debitar uma conta com saldo devedor (aumenta pelo débito) e creditar uma conta com saldo credor (aumenta pelo crédito). Diante das alternativas, apenas a alternativa preenche esses requisitos: D - Conta do ativo (Aumento do Ativo, pois possui saldo devedor e aumenta pelo débito) C - Conta do passivo (Aumento do Passivo, pois possui saldo credor e aumenta pelo crédito)",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) apenas contas de resultado.",
         "B) apenas contas do ativo.",
@@ -2304,7 +2304,7 @@
       "enunciado": "O método das partidas dobradas, consiste na premissa que compatível com a afirmação acima. Marque-a.",
       "resposta": "C",
       "comentario": "APLICAÇÕES DE RECURSOS = ORIGEM DE RECURSOS Com base no método das partidas dobradas, algumas conclusões podem ser tomadas: - A soma dos débitos é sempre igual à soma dos créditos. - Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. - O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido. - O total do ativo mais a despesa será sempre igual à soma do passivo exigível com o patrimônio líquido mais as receitas.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) O saldo devedor das contas do ativo",
         "B) situação líquida patrimonial",
@@ -2361,7 +2361,7 @@
       "enunciado": "Assinale a alternativa que apresenta a opção que melhor descreve uma característica essencial do Plano de Contas?",
       "resposta": "C",
       "comentario": "O conjunto de todas as contas existentes dentro de uma entidade, para uniformizar os registros contábeis, é denominado plano de contas. O plano de contas varia também de uma empresa para outra. Assim, uma indústria de calçados não terá o mesmo plano de contas de um supermercado.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Define as regras de tributação aplicáveis à organização",
         "B) Estabelece os procedimentos para auditoria interna",
@@ -2380,7 +2380,7 @@
       "enunciado": "Na contabilidade de uma empresa foi feito um registro de pagamento de duplicatas no valor de 20.000,00 com juros de 5% e gerou o seguinte lançamento:",
       "resposta": "C",
       "comentario": "Vamos rever o nosso esquema: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. Revisão feita! Observemos o lançamento: D Duplicatas a Pagar ................... 20.000,00 D Juros Passivos ........................... 1.000,00 C Caixa......................................... 21.000,00 Percebam que houve duas contas debitadas e uma conta creditada, portanto, estamos diante de um lançamento de terceira fórmula.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) Duplicatas a Pagar ................... 20.000,00 D Juros Passivos ........................... 1.000,00 C Caixa......................................... 21.000,00 Com base na demonstração acima, apresenta a fórmula de lançamento contábil utilizada foi a seguinte: A 1ª fórmula",
         "B) 2ª fórmula",
@@ -2399,7 +2399,7 @@
       "enunciado": "A medida a ser adotada para correção nos casos de lançamentos em que ocorram erros de escrituração (não motivados por informações INCORRETAS dos contribuintes) será:",
       "resposta": "C",
       "comentario": "Para corrigir erros de escrituração não decorrentes de informações incorretas do contribuinte, a medida adequada é o estorno: faz-se um lançamento de sentido contrário ao registro errado, anulando completamente seus efeitos. Diferente da complementação — que ajusta valores lançados a menor —, o estorno cancela integralmente o lançamento incorreto para que seja refeito de forma correta.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) reversão",
         "B) retificação",
@@ -2418,7 +2418,7 @@
       "enunciado": "Método pelo qual o registro de qualquer operação implica que um débito em uma ou mais contas deve corresponder um crédito equivalente, em uma ou mais contas, de forma que a soma dos valores debitados seja sempre igual à soma dos valores creditados.",
       "resposta": "B",
       "comentario": "Método é o caminho que utilizamos para chegar a uma meta. Na contabilidade, o caminho utilizado para se escriturar é o método das partidas dobradas. Esse método consiste em considerar que para todo e qualquer item que ingressa no patrimônio, há um lugar de onde ele é proveniente. Ou seja, não há geração espontânea de patrimônio, mas sim uma origem para todo elemento que se aplica no patrimônio, passando a integrá-lo. Atenção! O método das partidas dobradas também é conhecido pelo nome de método veneziano. Outras Bancas",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) esse método se dá o nome de: A Método Genovês",
         "B) Método Veneziano",
@@ -2437,7 +2437,7 @@
       "enunciado": "Qual é a principal função do plano de contas em uma entidade?",
       "resposta": "D",
       "comentario": "A escrituração contábil é feita através de contas e, na contabilidade, conta é o nome dado aos componentes patrimoniais (bens, direitos e obrigações) e de resultado (despesas e receitas). Para facilitar e uniformizar os registros das operações da entidade utiliza-se o plano de contas.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Definir as normas de conduta dos funcionários;",
         "B) Organizar os eventos sociais da empresa;",
@@ -2485,25 +2485,6 @@
       ]
     },
     {
-      "id": "cg-02a-003",
-      "banca": "IBADE",
-      "orgao": "RBPREV",
-      "cargo": "Contador",
-      "ano": 2023,
-      "tipo": "multipla_escolha",
-      "enunciado": "Para que todos os registros sejam feitos de forma organizada e de acordo com as normas técnicas, a escrituração nos livros contábeis deve ser feita por um profissional habilitado da contabilidade. Não são permitidas rasuras, espaços em branco, lançamentos incorretos e emendas, mas como este é um processo manual, podem ocorrer erros durante o processo de escrituração. Complete as lacunas do texto a seguir considerando os métodos de correção para erros de escrituração. Quando um mesmo lançamento contábil é feito duas vezes, é necessário que seja feita uma correção mediante ____________, para que o lançamento seja anulado. Um erro que também é comum no processo de escrituração é o lançamento de valor menor do que o correto, nesse caso, é necessário que seja feito um(a) ____________ para correção. Porém, quando é observado um erro antes do encerramento do lançamento, o método mais adequado para correção é ____________.",
-      "resposta": "C",
-      "comentario": "Retificação de lançamento é o processo técnico de correção de registro realizado com erro na escrituração contábil da entidade e pode ser feito por meio de: a) estorno: lançamento inverso, anulando totalmente. b) transferência: transposição para a conta correta. c) complementação: aumentando ou diminuindo o saldo da conta; d) Ressalva: Por que a ressalva não consta da ITG 2000 como modalidade de retificação? Isso se deve ao fato de a ressalva ser mais utilizada quando da escrituração manual dos livros contábeis, fato pouco usual nos dias de hoje. Esquematizemos: Retificação do lançamento Estorno Lançamento inverso, anulando totalmente Transferência Transposição para a conta adequada Complementação Complementa (aumentando ou reduzindo) Ressalva Correção antes do término do lançamento Preenchendo as lacunas, temos: Quando um mesmo lançamento contábil é feito duas vezes, é necessário que seja feita uma correção mediante Estorno, para que o lançamento seja anulado. Um erro que também é comum no processo de escrituração é o lançamento de valor menor do que o correto, nesse caso, é necessário que seja feito um(a) Lançamento complementar para correção. Porém, quando é observado um erro antes do encerramento do lançamento, o método mais adequado para correção é Ressalva.",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) Estorno / Ressalva / Lançamento complementar",
-        "B) Ressalva / Lançamento complementar / Estorno",
-        "C) Estorno / Lançamento complementar / Ressalva",
-        "D) Lançamento complementar / Estorno / Ressalva",
-        "E) Lançamento complementar / Ressalva / Estorno"
-      ]
-    },
-    {
       "id": "cg-02a-004",
       "banca": "IBADE",
       "orgao": "RBPREV",
@@ -2513,7 +2494,7 @@
       "enunciado": "No método das partidas dobradas do processo de escrituração, os lançamentos contábeis são classificados em 4 fórmulas. Associe as colunas, relacionando as fórmulas de lançamento às suas opções correspondentes. Fórmulas de lançamento Descrição 1. Lançamento de 1ª fórmula ( ) Lançamento com 1 débito e mais de 1 crédito 2. Lançamento de 2ª fórmula ( ) Lançamento com mais de 1 débito e 1 crédito 3. Lançamento de 3ª fórmula ( ) Lançamento com mais de 1 débito e mais de 1 crédito 4. Lançamento de 4ª fórmula ( ) Lançamento com 1 débito e 1 crédito A sequência correta dessa associação é:",
       "resposta": "D",
       "comentario": "Os lançamentos podem ter fórmulas de acordo com a quantidade de contas debitadas ou creditadas, a saber: Fórmulas de lançamento: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo Onde se escreve 2, leia-se 2 ou mais. Gravem: É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. A sequência correta dessa associação é: (2. Lançamento de 2ª fórmula) Lançamento com 1 débito e mais de 1 crédito (3. Lançamento de 3ª fórmula) Lançamento com mais de 1 débito e 1 crédito (4. Lançamento de 4ª fórmula) Lançamento com mais de 1 débito e mais de 1 crédito (Lançamento de 1ª fórmula) Lançamento com 1 débito e 1 crédito",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) 4-2-1-3",
         "B) 2-1-4-3",
@@ -2532,13 +2513,32 @@
       "enunciado": "Sobre o método de escrituração de partidas dobradas, é correto afirmar que trata-se de um método que:",
       "resposta": "C",
       "comentario": "O método das partidas dobradas consiste em considerar que para todo e qualquer item que ingressa no patrimônio, há um lugar de onde ele é proveniente. Ou seja, não há geração espontânea de patrimônio, mas sim uma origem para todo elemento que se aplica no patrimônio, passando a integrálo. Guardem: APLICAÇÕES DE RECURSOS = ORIGEM DE RECURSOS",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) consiste na geração espontânea de um patrimônio",
         "B) considera que o total dos débitos não deve ter relação com os créditos",
         "C) considera que deve haver uma origem para toda aplicação de recurso",
         "D) afirma que nem todos os elementos aplicados no patrimônio possuem uma origem definida",
         "E) consiste na duplicação de patrimônio"
+      ]
+    },
+    {
+      "id": "cg-02a-003",
+      "banca": "IBADE",
+      "orgao": "RBPREV",
+      "cargo": "Contador",
+      "ano": 2023,
+      "tipo": "multipla_escolha",
+      "enunciado": "Para que todos os registros sejam feitos de forma organizada e de acordo com as normas técnicas, a escrituração nos livros contábeis deve ser feita por um profissional habilitado da contabilidade. Não são permitidas rasuras, espaços em branco, lançamentos incorretos e emendas, mas como este é um processo manual, podem ocorrer erros durante o processo de escrituração. Complete as lacunas do texto a seguir considerando os métodos de correção para erros de escrituração. Quando um mesmo lançamento contábil é feito duas vezes, é necessário que seja feita uma correção mediante ____________, para que o lançamento seja anulado. Um erro que também é comum no processo de escrituração é o lançamento de valor menor do que o correto, nesse caso, é necessário que seja feito um(a) ____________ para correção. Porém, quando é observado um erro antes do encerramento do lançamento, o método mais adequado para correção é ____________.",
+      "resposta": "C",
+      "comentario": "Retificação de lançamento é o processo técnico de correção de registro realizado com erro na escrituração contábil da entidade e pode ser feito por meio de: a) estorno: lançamento inverso, anulando totalmente. b) transferência: transposição para a conta correta. c) complementação: aumentando ou diminuindo o saldo da conta; d) Ressalva: Por que a ressalva não consta da ITG 2000 como modalidade de retificação? Isso se deve ao fato de a ressalva ser mais utilizada quando da escrituração manual dos livros contábeis, fato pouco usual nos dias de hoje. Esquematizemos: Retificação do lançamento Estorno Lançamento inverso, anulando totalmente Transferência Transposição para a conta adequada Complementação Complementa (aumentando ou reduzindo) Ressalva Correção antes do término do lançamento Preenchendo as lacunas, temos: Quando um mesmo lançamento contábil é feito duas vezes, é necessário que seja feita uma correção mediante Estorno, para que o lançamento seja anulado. Um erro que também é comum no processo de escrituração é o lançamento de valor menor do que o correto, nesse caso, é necessário que seja feito um(a) Lançamento complementar para correção. Porém, quando é observado um erro antes do encerramento do lançamento, o método mais adequado para correção é Ressalva.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) Estorno / Ressalva / Lançamento complementar",
+        "B) Ressalva / Lançamento complementar / Estorno",
+        "C) Estorno / Lançamento complementar / Ressalva",
+        "D) Lançamento complementar / Estorno / Ressalva",
+        "E) Lançamento complementar / Ressalva / Estorno"
       ]
     },
     {
@@ -2644,7 +2644,7 @@
       "enunciado": "Relacione os fatos contábeis abaixo com seu respectivo conceito e assinale a alternativa que apresenta a ordem correta. ( ) - fato permutativo, qualitativo ou compensativo; ( ) - fato modificativo; ( ) - fato misto ou composto. I. Altera o patrimônio somente em termos qualitativos. Consiste na compensação entre elementos do ativo, passivo exigível ou patrimônio líquido, sem que haja aumento ou diminuição da situação liquida. II. É aquele que reúne uma permuta e uma modificação. Nele, há uma permuta e, simultaneamente, o aumento ou diminuição do ativo e/ou do passivo exigível, provocando o aumento ou diminuição da situação líquida. III. Ocorre quando o aumento ou redução do ativo ou do passivo exigível é seguido de modificação na situação líquida de igual valor para mais ou para menos. Provoca alteração em termos de qualidade e quantidade, aumentando ou diminuindo a situação líquida em valor equivalente a modificação sofrida pelo ativo ou passivo exigível.",
       "resposta": "A",
       "comentario": "O patrimônio societário sofre constante movimento, haja vista que sofrem atos de gestão contínua. Esses acontecimentos podem ser divididos basicamente em dois grandes grupos: A) Atos contábeis. B) Fatos contábeis. Os atos contábeis ou atos administrativos são acontecimentos que ocorrem na entidade e não provocam alterações do patrimônio, tais como admissão de empregados, assinatura de um contrato de compra, venda, o aval de um título de crédito, uma fiança prestada em favor de terceiros. Os atos relevantes que façam parte das atividades da empresa devem ser apresentados em notas explicativas, como ordena a Lei 6.404/76: Art. 176. (...) § 4º As demonstrações serão complementadas por notas explicativas e outros quadros analíticos ou demonstrações contábeis necessários para esclarecimento da situação patrimonial e dos resultados do exercício. Os fatos contábeis ou fatos administrativos, por sua vez, são os acontecimentos que provocam variações no patrimônio da entidade. Os fatos contábeis são contabilizados através das contas patrimoniais (ativo, passivo, patrimônio líquido) e/ou das contas de resultado (receitas e despesas). Os fatos contábeis são divididos hoje em três grupos: 1) Modificativos; 2) Permutativos; 3) Mistos. Os fatos permutativos alteram o patrimônio somente em aspectos qualitativos. Os fatos modificativos são aqueles que têm o condão de alterar, para mais ou para menos, o patrimônio líquido. A doutrina também os denomina como fatos quantitativos. Enquanto os fatos permutativos envolvem apenas contas patrimoniais, os fatos modificativos envolvem também conta de resultados (receitas e despesas). Assim, frise-se, o fato modificativo provoca aumento ou redução do ativo ou passivo e, concomitantemente, modificação na situação líquida. Fato misto é o que envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Acarreta, portanto, alterações no ativo e PL, no passivo e no PL ou no ativo, passivo e PL. Agora iremos analisar cada alternativa para efetuarmos as devidas correlações: ( ) - fato permutativo, qualitativo ou compensativo; ( ) - fato modificativo; ( ) - fato misto ou composto. I. Altera o patrimônio somente em termos qualitativos. Consiste na compensação entre elementos do ativo, passivo exigível ou patrimônio líquido, sem que haja aumento ou diminuição da situação liquida. Definição de fato permutativo, qualitativo ou compensativo; II. É aquele que reúne uma permuta e uma modificação. Nele, há uma permuta e, simultaneamente, o aumento ou diminuição do ativo e/ou do passivo exigível, provocando o aumento ou diminuição da situação líquida. Definição de fato misto ou composto. III. Ocorre quando o aumento ou redução do ativo ou do passivo exigível é seguido de modificação na situação líquida de igual valor para mais ou para menos. Provoca alteração em termos de qualidade e quantidade, aumentando ou diminuindo a situação líquida em valor equivalente a modificação sofrida pelo ativo ou passivo exigível. Definição de fato modificativo.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) I-III-II.",
         "B) II-I-III.",
@@ -2716,7 +2716,7 @@
       "enunciado": "O método das partidas dobradas determina o registro simultâneo dos fatos contábeis em, no mínimo, duas contas contábeis, sendo que o valor total dos débitos deverá ser igual ao dos créditos.",
       "resposta": "certo",
       "comentario": "O método das partidas dobradas consiste em considerar que para todo e qualquer item que ingressa no patrimônio, há um lugar de onde ele é proveniente. Ou seja, não há geração espontânea de patrimônio, mas sim uma origem para todo elemento que se aplica no patrimônio, passando a integrálo. Guardem: APLICAÇÕES DE RECURSOS = ORIGEM DE RECURSOS Com base no método das partidas dobradas, algumas conclusões podem ser tomadas: - A soma dos débitos é sempre igual à soma dos créditos. - Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. - O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido. - O total do ativo mais a despesa será sempre igual à soma do passivo exigível com o patrimônio líquido mais as receitas.",
-      "dificuldade": 2
+      "dificuldade": 1
     },
     {
       "id": "cg-02a-024",
@@ -2763,7 +2763,7 @@
       "enunciado": "Sobre os procedimentos em Contabilidade, assinale a alternativa INCORRETA.",
       "resposta": "D",
       "comentario": "e) O método das partidas dobradas tem como princípio fundamental que cada débito corresponde a um crédito e vice-versa. Item correto. Pelo método das partidas dobradas, cada débito corresponde a um crédito e vice-versa.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) O método das partidas dobradas é adotado universalmente como método de escrituração contábil.",
         "B) No balanço patrimonial, o valor total do Ativo é sempre igual ao valor total do Passivo, incluindo o Patrimônio Líquido.",
@@ -2799,7 +2799,7 @@
       "enunciado": "No mês de maio de 2023, uma empresa vendeu seu estoque com custo de R$ 10.000,00, por R$ 15.000,00. Essa venda à vista é considerada como um fato contábil",
       "resposta": "D",
       "comentario": "A contabilização resultante da venda é a seguinte: Reconhecimento da receita: D- Caixa (+ativo) R$ 15.000,00 C Receita de Vendas (+resultado) R$ 15.000,00 Baixa no estoque: D CMV (-resultado) R$ 10.000,00 C Estoque (-ativo) R$ 10.000,00 Essa seria a contabilização completa resultante da venda. Todavia, os quesitos acabam só analisando o reconhecimento da receita. Por conta disso, nessas situações, consideramos como fato modificativo aumentativo e de 1° fórmula (1 débito e 1 crédito): D- Caixa (ativo) C Receita de Vendas (resultado)",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) permutativo.",
         "B) misto.",
@@ -2817,7 +2817,7 @@
       "enunciado": "A venda de mercadorias à vista, por um valor de R$ 3.500,00, pelas quais foi pago, a prazo, o valor de R$ 2.100,00, representa, de acordo com as regras de lançamentos contábeis, um fato",
       "resposta": "E",
       "comentario": "Fato misto é o que envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Acarreta, portanto, alterações no ativo e PL, no passivo e no PL ou no ativo, passivo e PL. A questão fala que a empresa efetuou uma venda de mercadorias com lucro, pois o valor de venda foi 3.500 e o valor de custo 2.100, isto é, lucro R$ 1.400. Portanto, temos um fato contábil misto, pois temos alterações no ativo e no patrimônio líquido, simultaneamente.",
-      "dificuldade": 2,
+      "dificuldade": 4,
       "opcoes": [
         "A) permutativo aumentativo.",
         "B) permutativo diminutivo.",
@@ -2829,7 +2829,7 @@
     {
       "id": "cg-02a-119",
       "banca": "VUNESP",
-      "orgao": "CM COTIA",
+      "orgao": "CM Cotia",
       "ano": 2017,
       "tipo": "multipla_escolha",
       "enunciado": "As ocorrências que se registram no patrimônio das entidades, trazendo-lhe variações específicas ou quantitativas, são consideradas",
@@ -2855,7 +2855,7 @@
       "enunciado": "As consequências nos resultados contábeis de uma empresa em decorrência da venda de um automóvel da frota, pelo valor contábil, altera a substância patrimonial, do ponto de vista A econômico.",
       "resposta": "C",
       "comentario": "Como o próprio nome já diz, os fatos permutativos alteram o patrimônio somente em aspectos qualitativos. Seria como, por exemplo, trocar dinheiro por mercadorias, por exemplo. Sim, a compra de mercadorias. Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, sem que haja alteração no valor total do patrimônio líquido e contas de resultado. As trocas podem ser entre elementos do ativo, passivo, de ambos, ou entre elementos da situação líquida. Fatos Permutativos Contas do Ativo Contas do Passivo Conta do Ativo e do Passivo Contas do PL",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) quantitativo",
         "B) qualitativo",
@@ -2927,7 +2927,7 @@
       "enunciado": "Uma empresa de prestação de serviços no setor de limpeza comprou recentemente, à vista, 200 novos equipamentos de limpeza para substituir os equipamentos antigos e ultrapassados. Esse evento contábil significa um fato A misto diminutivo no Ativo e no Passivo.",
       "resposta": "D",
       "comentario": "A compra à vista de equipamentos novos gera: D — Equipamentos (ativo +) e C — Caixa (ativo −), sendo permuta interna no ativo. Se a operação envolver também a quitação de financiamento dos equipamentos antigos (passivo −) e contratação de nova dívida (passivo +) com diferença de valores gerando resultado, surgem movimentos mistos no passivo.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) modificativo no Passivo não Circulante",
         "B) permutativo entre elementos do Passivo",
@@ -2945,7 +2945,7 @@
       "enunciado": "Lançamentos contábeis, quanto aos seus elementos essenciais, podem ser classificados em fórmulas. Para atender a tal classificação, utiliza-se",
       "resposta": "B",
       "comentario": "Os lançamentos contábeis podem ser classificados em fórmulas, sendo que as fórmulas variam conforme o número de débitos e créditos respectivos: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) do registro específico em livros contábeis.",
         "B) da quantidade de débitos ou créditos necessários.",

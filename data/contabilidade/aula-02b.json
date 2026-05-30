@@ -13,30 +13,12 @@
       "enunciado": "Determinada sociedade empresarial apresentou a seguinte relação de contas contábeis e seus respectivos saldos: Duplicata Descontada = R$ 10.000,00; Aluguéis Passivos a Vencer = R$ 5.000,00; 31 179 08155932443 - Natan Luiz Rodrigues Chaves Comissões Ativas = R$ 500,00; Juros Ativos a Vencer = R$ 500,00; Comissões Passivas = R$ 5.000,00. Com base nessas informações, os saldos credores representam um valor de A R$ 11.000,00.",
       "resposta": "A",
       "comentario": "Separemos as contas por natureza: Conta Duplicata Descontada Comissões Ativas Juros Ativos a Vencer Total de Saldos Credores Aluguéis Passivos a Vencer Comissões Passivas Total de Saldos Devedoras Classificação Passivo, conta patrimonial Receita, conta de resultado Passivo, conta patrimonial Ativo, conta patrimonial Despesa, conta de resultado Natureza Credora Credora Credora Devedora Devedora R$ 10.000,00 500,00 500,00 11.000,00 5.000,00 500,00 5.500,00",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) R$ 12.000,00",
         "B) R$ 12.500,00",
         "C) R$ 15.000,00",
         "D) R$ 20.000,00"
-      ]
-    },
-    {
-      "id": "cg-02b-015",
-      "banca": "AOCP",
-      "orgao": "ISS Cariacica ES",
-      "cargo": "Fiscal de Tributos Municipais",
-      "ano": 2020,
-      "tipo": "multipla_escolha",
-      "enunciado": "Uma empresa apresenta como extrato de seu Livro Razão a seguinte relação de contas e seus respectivos saldos: Depreciação Acumulada R$ 5.000,00 Duplicata Descontada R$ 3.000,00 35 179 08155932443 - Natan Luiz Rodrigues Chaves Ações em tesouraria R$ 1.000,00 Reserva legal R$ 1.500,00 Ajuste de avaliação patrimonial positivo R$ 500,00 Caixa e equivalente de caixa R$ 12.000,00 Com base nessas informações, os saldos credores representam um valor de",
-      "resposta": "D",
-      "comentario": "As contas de natureza credora são: Depreciação Acumulada Duplicata Descontada Reserva Legal AAP positivo Total 5.000 3.000 1.500 500 10.000",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) R$ 7.000,00.",
-        "B) R$ 11.000,00.",
-        "C) R$ 12.000,00.",
-        "D) R$ 10.000,00."
       ]
     },
     {
@@ -55,6 +37,24 @@
         "B) A escrituração do Livro Diário não pode ser substituída pela escrituração do Livro Razão.",
         "C) A adoção de fichas não dispensa o uso de livro apropriado para o lançamento do balanço patrimonial e do resultado financeiro.",
         "D) É um Livro que contém os registros contábeis de todos os lançamentos em ordem cronológica."
+      ]
+    },
+    {
+      "id": "cg-02b-015",
+      "banca": "AOCP",
+      "orgao": "ISS Cariacica ES",
+      "cargo": "Fiscal de Tributos Municipais",
+      "ano": 2020,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma empresa apresenta como extrato de seu Livro Razão a seguinte relação de contas e seus respectivos saldos: Depreciação Acumulada R$ 5.000,00 Duplicata Descontada R$ 3.000,00 35 179 08155932443 - Natan Luiz Rodrigues Chaves Ações em tesouraria R$ 1.000,00 Reserva legal R$ 1.500,00 Ajuste de avaliação patrimonial positivo R$ 500,00 Caixa e equivalente de caixa R$ 12.000,00 Com base nessas informações, os saldos credores representam um valor de",
+      "resposta": "D",
+      "comentario": "As contas de natureza credora são: Depreciação Acumulada Duplicata Descontada Reserva Legal AAP positivo Total 5.000 3.000 1.500 500 10.000",
+      "dificuldade": 3,
+      "opcoes": [
+        "A) R$ 7.000,00.",
+        "B) R$ 11.000,00.",
+        "C) R$ 12.000,00.",
+        "D) R$ 10.000,00."
       ]
     },
     {
@@ -85,7 +85,7 @@
       "enunciado": "Análise o Balancete de Verificação do exercício de 2015 de uma empresa: Contas Depreciação acumulada Despesas com depreciação Estoque de mercadorias ICMS a recolher Adiantamento a empregados R$ 10.000,00 5.000,00 15.000,00 7.000,00 7.000,00 51 179 08155932443 - Natan Luiz Rodrigues Chaves Contas Salários e encargos sociais a pagar Reserva de capital ágio na emissão de ações Caixa e equivalentes de caixa Móveis e utensílios Despesas de salários e encargos sociais Título a receber Máquinas e equipamentos Custo das mercadorias vendidas Adiantamento de Cliente Receita de vendas R$ 35.000,00 5.000,00 50.000,00 20.000,00 35.000,00 5.000,00 7.000,00 25.000,00 200.000,00 75.000,00 Com base nas contas e saldos apresentados, é correto afirmar que o Balancete de Verificação do Exercício de 2015 apresenta saldos contábeis credores no valor de",
       "resposta": "A",
       "comentario": "Separemos as contas por natureza: Conta Depreciação acumulada ICMS a recolher Salários e encargos sociais a pagar Reserva de capital ágio na emissão de ações Adiantamento de Cliente Receita de vendas Total de Saldos Credores Classificação Retificadora do Ativo Passivo Circulante Passivo Circulante Patrimônio Líquido Passivo Circulante Resultado Natureza Credora Credora Credora Credora Credora Credora R$ 10.000,00 7.000,00 35.000,00 5.000,00 200.000,00 75.000,00 332.000,00 Já podemos marcar a letra A. Vejamos as devedoras: Conta Despesas com depreciação Estoque de mercadorias Adiantamento a empregados Caixa e equivalentes de caixa Móveis e utensílios Despesas de salários e encargos sociais Título a receber Máquinas e equipamentos Custo das mercadorias vendidas Total de Saldos Devedores Classificação Resultado Ativo Circulante Ativo Circulante Ativo Circulante Ativo Imobilizado Resultado Ativo Circulante Ativo Imobilizado Resultado Natureza Devedora Devedora Devedora Devedora Devedora Devedora Devedora Devedora Devedora R$ 5.000,00 15.000,00 7.000,00 50.000,00 20.000,00 35.000,00 5.000,00 7.000,00 25.000,00 169.000,00",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) 332.000,00.",
         "B) 327.000,00.",
@@ -124,7 +124,7 @@
       "enunciado": "No livro-razão, lançam-se todas as operações ocorridas, e quaisquer outros fatos que provoquem variações patrimoniais.",
       "resposta": "errado",
       "comentario": "Como o nome indica, o livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa. O livro Razão serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada. O primeiro passo para escriturar este livro é abrir uma página para cada conta usada na Escrituração do livro Diário. Neste quesito, a banca acabou cobrando a literalidade do item 14 da ITG 2000 (R1) ESCRITURAÇÃO CONTÁBIL, vejam: 14. No Livro Diário devem ser lançadas, em ordem cronológica, com individualização, clareza e referência ao documento probante, todas as operações ocorridas, e quaisquer outros fatos que provoquem variações patrimoniais. Observem que a banca parafraseou esse item e atribuiu, de forma errada, ao livro razão. Com relação à escrituração contábil, julgue o item a seguir.",
-      "dificuldade": 2
+      "dificuldade": 1
     },
     {
       "id": "cg-02b-052",
@@ -208,7 +208,7 @@
     {
       "id": "cg-02b-055",
       "banca": "CEBRASPE",
-      "orgao": "DPE RO",
+      "orgao": "DPE-RO",
       "cargo": "Técnico da Defensoria Pública / Técnico em Contabilidade",
       "ano": 2022,
       "tipo": "multipla_escolha",
@@ -227,7 +227,7 @@
     {
       "id": "cg-02b-056",
       "banca": "CEBRASPE",
-      "orgao": "DPE RO",
+      "orgao": "DPE-RO",
       "cargo": "Técnico da Defensoria Pública / Técnico em Contabilidade",
       "ano": 2022,
       "tipo": "multipla_escolha",
@@ -255,6 +255,18 @@
       "dificuldade": 2
     },
     {
+      "id": "cg-02b-065",
+      "banca": "CEBRASPE",
+      "orgao": "EBSERH",
+      "cargo": "Técnico",
+      "ano": 2018,
+      "tipo": "certo_errado",
+      "enunciado": "O balancete de verificação deve ser obrigatoriamente elaborado a cada mês.",
+      "resposta": "errado",
+      "comentario": "Em relação ao balancete de verificação, julgue o item seguinte.",
+      "dificuldade": 1
+    },
+    {
       "id": "cg-02b-062",
       "banca": "CEBRASPE",
       "orgao": "EBSERH",
@@ -279,28 +291,16 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-02b-065",
-      "banca": "CEBRASPE",
-      "orgao": "EBSERH",
-      "cargo": "Técnico",
-      "ano": 2018,
-      "tipo": "certo_errado",
-      "enunciado": "O balancete de verificação deve ser obrigatoriamente elaborado a cada mês.",
-      "resposta": "errado",
-      "comentario": "Em relação ao balancete de verificação, julgue o item seguinte.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-02b-064",
+      "id": "cg-02b-068",
       "banca": "CEBRASPE",
       "orgao": "FUB",
       "cargo": "Técnico em Contabilidade",
       "ano": 2018,
       "tipo": "certo_errado",
-      "enunciado": "A diferença entre os modelos de balancete de 6 e de 8 colunas corresponde aos saldos devedores e credores que dizem respeito ao movimento do período, constantes no segundo modelo e ausentes no primeiro.",
+      "enunciado": "O balancete de verificação inclui as contas patrimoniais e as contas de resultado.",
       "resposta": "certo",
-      "comentario": "Balancete de Verificação 6 colunas: O balancete de 6 colunas evidencia as contas com os saldos iniciais (saldo devedor ou credor), o movimento ocorrido no período e saldos finais (devedor ou credor). Exemplo: Balancete de Verificação 8 colunas: o balancete de 8 colunas evidencia as contas com os saldos iniciais (saldo devedor ou credor), o movimento ocorrido no período (devedor ou credor, o saldo do período analisado (devedor ou credor) e saldos finais (devedor ou credor). Acerca das conciliações contábeis e do balancete de verificação, julgue o item a seguir.",
-      "dificuldade": 2
+      "comentario": "O balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. No que se refere ao balancete de verificação contábil, julgue o item subsequente.",
+      "dificuldade": 1
     },
     {
       "id": "cg-02b-066",
@@ -327,28 +327,16 @@
       "dificuldade": 2
     },
     {
-      "id": "cg-02b-068",
+      "id": "cg-02b-064",
       "banca": "CEBRASPE",
       "orgao": "FUB",
       "cargo": "Técnico em Contabilidade",
       "ano": 2018,
       "tipo": "certo_errado",
-      "enunciado": "O balancete de verificação inclui as contas patrimoniais e as contas de resultado.",
+      "enunciado": "A diferença entre os modelos de balancete de 6 e de 8 colunas corresponde aos saldos devedores e credores que dizem respeito ao movimento do período, constantes no segundo modelo e ausentes no primeiro.",
       "resposta": "certo",
-      "comentario": "O balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. No que se refere ao balancete de verificação contábil, julgue o item subsequente.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-02b-046",
-      "banca": "CEBRASPE",
-      "orgao": "MPE-TO",
-      "cargo": "Técnico em Contabilidade",
-      "ano": 2024,
-      "tipo": "certo_errado",
-      "enunciado": "O balancete de verificação permite que sejam identificadas as inversões, de débito por crédito e de crédito por débito, ocorridas de forma simultânea em um lançamento contábil.",
-      "resposta": "errado",
-      "comentario": "O Balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. O objetivo desse demonstrativo é verificarmos se foi aplicado corretamente o Método das Partidas Dobradas. Vale ressaltar que nem todos os erros de escrituração são constatáveis no Balancete de Verificação. Em suma: Balancete de verificação Evidência Igualdade matemática dos débitos e créditos Não evidência Estornos do período Classificação das contas Movimento individual das contas Lançamento do período Deste modo, o balancete de verificação NÃO detecta a inversão do débito na conta a creditar e do crédito na conta a debitar. Julgue o próximo item, a respeito de escrituração contábil.",
-      "dificuldade": 2
+      "comentario": "Balancete de Verificação 6 colunas: O balancete de 6 colunas evidencia as contas com os saldos iniciais (saldo devedor ou credor), o movimento ocorrido no período e saldos finais (devedor ou credor). Exemplo: Balancete de Verificação 8 colunas: o balancete de 8 colunas evidencia as contas com os saldos iniciais (saldo devedor ou credor), o movimento ocorrido no período (devedor ou credor, o saldo do período analisado (devedor ou credor) e saldos finais (devedor ou credor). Acerca das conciliações contábeis e do balancete de verificação, julgue o item a seguir.",
+      "dificuldade": 3
     },
     {
       "id": "cg-02b-048",
@@ -360,6 +348,18 @@
       "enunciado": "O livro razão é um livro contábil utilizado para o registro das movimentações ocorridas em cada rubrica que compõe o plano de contas de uma entidade.",
       "resposta": "certo",
       "comentario": "O livro Razão serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada. Por registrar todos os fatos (registro das movimentações ocorridas em cada rubrica que compõe o plano de contas de uma entidade), ele é considerado um livro principal. No que se refere ao uso e à elaboração do balancete de verificação contábil, do balanço patrimonial e da demonstração de resultado do exercício, julgue o item subsequente.",
+      "dificuldade": 1
+    },
+    {
+      "id": "cg-02b-046",
+      "banca": "CEBRASPE",
+      "orgao": "MPE-TO",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2024,
+      "tipo": "certo_errado",
+      "enunciado": "O balancete de verificação permite que sejam identificadas as inversões, de débito por crédito e de crédito por débito, ocorridas de forma simultânea em um lançamento contábil.",
+      "resposta": "errado",
+      "comentario": "O Balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. O objetivo desse demonstrativo é verificarmos se foi aplicado corretamente o Método das Partidas Dobradas. Vale ressaltar que nem todos os erros de escrituração são constatáveis no Balancete de Verificação. Em suma: Balancete de verificação Evidência Igualdade matemática dos débitos e créditos Não evidência Estornos do período Classificação das contas Movimento individual das contas Lançamento do período Deste modo, o balancete de verificação NÃO detecta a inversão do débito na conta a creditar e do crédito na conta a debitar. Julgue o próximo item, a respeito de escrituração contábil.",
       "dificuldade": 2
     },
     {
@@ -421,7 +421,7 @@
       "enunciado": "Para saber se os saldos iniciais e finais de determinadas contas são devedores ou credores, é necessário recorrer a um balancete de oito colunas.",
       "resposta": "errado",
       "comentario": "O balancete de 8 colunas evidencia as contas com os saldos iniciais (saldo devedor ou credor), o movimento ocorrido no período (devedor ou credor, o saldo do período analisado (devedor ou credor) e saldos finais (devedor ou credor). Todavia, não é necessário recorrer a um balancete de oito colunas para saber se os saldos iniciais e finais de determinadas contas são devedores ou credores. Para isso, basta o balancete de 6 colunas. O balancete de 6 colunas evidencia as contas com os saldos iniciais (saldo devedor ou credor), o movimento ocorrido no período e saldos finais (devedor ou credor).",
-      "dificuldade": 2
+      "dificuldade": 3
     },
     {
       "id": "cg-02b-069",
@@ -433,7 +433,7 @@
       "enunciado": "O balancete de verificação é um resumo ordenado de todas as contas utilizadas pela contabilidade da entidade que o apresenta, destinando-se a detectar todos os possíveis erros de contabilização eventualmente ocorridos.",
       "resposta": "errado",
       "comentario": "O balancete só serve para saber de houve a aplicação correta das partidas dobradas. Assim, caso haja a existência de débito sem crédito correspondente, o balancete irá apresentar. Todavia, nem todos os erros de contabilização eventualmente ocorridos são detectados. Por exemplo: se a empresa efetuar a venda de mercadorias a prazo e, por engano, registrar a entrada de caixa, o balancete de verificação não irá apresentar esse erro. A soma dos débitos ainda será igual à soma dos créditos. No que se refere ao balancete de verificação contábil, julgue o item subsequente.",
-      "dificuldade": 2
+      "dificuldade": 1
     },
     {
       "id": "cg-02b-070",
@@ -469,7 +469,7 @@
       "enunciado": "O diário é classificado, quanto à finalidade e à natureza, como um livro:",
       "resposta": "A",
       "comentario": "Classificação dos Livros Contábeis: a) Quanto a sua finalidade: Obrigatórios (exigido pelo Código Civil); Facultativos b) Quanto a sua natureza: Cronológicos (fatos contábeis registrados em ordem cronológica). Sistemáticos (leva em conta principalmente a organização das informações). c) Segundo sua utilidade: Principais (Registra todos os fatos) Auxiliares (Não registra todos os fatos) O livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa. Ele é obrigatório para a quase que totalidade dos empresários (ressalva-se o pequeno empresário previsto na LC 123/2006). Resumindo, o diário é: a) Quanto a sua finalidade: Obrigatórios (exigido pelo Código Civil); b) Quanto a sua natureza: Cronológicos (fatos contábeis registrados em ordem cronológica). c) Segundo sua utilidade: Principais (Registra todos os fatos)",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) obrigatório e cronológico",
         "B) obrigatório e sistemático",
@@ -488,7 +488,7 @@
       "enunciado": "O Livro no qual são registradas todas as operações em ordem cronológica de sua realização é o:",
       "resposta": "D",
       "comentario": "O livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa. Ele é obrigatório para a quase que totalidade dos empresários (ressalva-se o pequeno empresário previsto na LC 123/2006).",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Caixa",
         "B) Contas a Pagar",
@@ -526,7 +526,7 @@
       "enunciado": "Considere a relação dos seguintes livros utilizados na escrituração contábil de uma empresa comercial de grande porte: Caixa, Inventário, Entradas de Mercadorias e Saídas de Mercadorias. Para a empresa, a relação contém APENAS livros",
       "resposta": "A",
       "comentario": "(exigido pelo Código Civil); b) Quanto a sua natureza: (fatos contábeis registrados em ordem cronológica). (leva em conta principalmente a organização das informações). c) Segundo sua utilidade: (Registra todos os fatos) (Não registra todos os fatos) O quesito citou os seguintes livros: - Livro Caixa: Como o nome indica, esse livro Registra as entradas e saídas de numerário. Os registros devem ser efetuados em ordem cronológica e, por isso, pode ser utilizado como AUXILIAR do Livro Diário, devendo atender a todas as formalidades exigidas. O livro caixa é obrigatório para contribuintes que estejam no regime simplificado previsto na Lei Complementar 123/2006. Já para as demais empresas é um livro facultativo. Resumindo, o Livro caixa é: - Obrigatório (empresas optantes pelo simples) e facultativo (Demais empresas) - Auxiliar (Não registra todos os fatos) - Cronológico (fatos contábeis registrados em ordem cronológica). - Livro Registro De Inventário E Entrada E Saída De Mercadorias Registra os bens de consumo, as mercadorias, as matérias-primas e outros materiais que se achem estocados nas datas em que forem levantados os balanços. Temos ainda os livros registros de entrada e saída de mercadorias, que servem para AUXILIAR os empresários a apurarem o quanto entra e sai de mercadoria no estoque da empresa durante o exercício. Resumindo, o Livro Registro De Inventário E Entrada E Saída De Mercadorias é: - Obrigatório - Auxiliar (Não registra todos os fatos) - Sistemáticos (leva em conta principalmente a organização das informações).",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) auxiliares 94 179 08155932443 - Natan Luiz Rodrigues Chaves",
         "B) obrigatórios",
@@ -602,7 +602,7 @@
       "enunciado": "O sistema pelo qual se controla a movimentação ocorrida individualmente em cada conta é conhecido como;",
       "resposta": "E",
       "comentario": "O Livro Razão é extremamente importante porque permite o controle do movimento de cada conta, separadamente. O primeiro passo para escriturar este livro é abrir uma página para cada conta usada na Escrituração do livro Diário. Vejam que é possível apurar o saldo da conta após cada lançamento, o que não é possível verificar no livro Diário. O livro razão é facultativo, principal (isto é, registram todos os fatos) e sistemático (leva em conta principalmente a organização das informações). Segundo a legislação do IR, os contribuintes sujeitos à apuração do lucro real devem escriturar o livro razão. Pessoal, se uma questão fizer menção à ITG 2000 (R1), é possível que o Razão seja considerado como um livro obrigatório, vejam: 9. Os livros contábeis obrigatórios, entre eles o Livro Diário e o Livro Razão",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Balancete,",
         "B) Balanço.",
@@ -621,7 +621,7 @@
       "enunciado": "Um iniciante nas práticas contábeis da pessoa jurídica estagiou no setor de Contabilidade de uma empresa administradora de imóveis. Ao questionar a necessidade dos livros para a realização das atividades da sociedade empresária, ele recebe a informação de que há um livro fiscal obrigatório, segundo a legislação do imposto de renda pessoa jurídica. O livro em questão é o de",
       "resposta": "C",
       "comentario": "O Livro de Apuração do Lucro Real (LALUR) é um livro fiscal obrigatório para empresas que apuram o resultado pela sistemática do Lucro Real.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) avaliação de lucro presumido",
         "B) registro de operações contábeis",
@@ -659,7 +659,7 @@
       "enunciado": "O Balancete de Verificação fundamenta sua elaboração no método das partidas dobradas que consiste na afirmativa de que não há débito(s) sem crédito(s) de igual valor, implicando, em decorrência, a igualdade matemática entre a soma dos saldos devedores e a dos saldos credores.",
       "resposta": "A",
       "comentario": "O Balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. O objetivo desse demonstrativo é verificarmos se foi aplicado corretamente o Método das Partidas Dobradas. Vale ressaltar que nem todos os erros de escrituração são constatáveis no Balancete de Verificação. Por exemplo: se a empresa efetuar a venda de mercadorias a prazo e, por engano, registrar a entrada de caixa, o balancete de verificação não irá apresentar esse erro. A soma dos débitos ainda será igual à soma dos créditos. Em suma: Balancete de verificação Evidencia Igualdade matemática dos débitos e créditos Não evidencia Estornos do período Classificação das contas Movimento individual das contas Lançamento do período Deste modo, o balancete de verificação: NÃO evidenciar o registro do débito/crédito em conta errada. NÃO identificar a utilização de conta indevida, no registro contábil. NÃO indicar claramente a situação econômico-financeira da empresa. NÃO detectar a inversão do débito na conta a creditar e do crédito na conta a debitar.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) principal validade do balancete reside na sua capacidade de A ter-se tornado um instrumento de base para decisões",
         "B) evidenciar o registro do débito/crédito em conta errada",
@@ -726,6 +726,24 @@
       ]
     },
     {
+      "id": "cg-02b-089",
+      "banca": "CESGRANRIO",
+      "orgao": "PETROBRAS",
+      "cargo": "Profissional Petrobrás de Nível Técnico / Contabilidade",
+      "ano": 2011,
+      "tipo": "multipla_escolha",
+      "enunciado": "Os livros utilizados para o registro de todos os fatos ou eventos contábeis são classificados como livros A cronológicos.",
+      "resposta": "D",
+      "comentario": "(exigido pelo Código Civil); b) Quanto a sua natureza: (fatos contábeis registrados em ordem cronológica). (leva em conta principalmente a organização das informações). c) Segundo sua utilidade: Principais (Registra todos os fatos) (Não registra todos os fatos)",
+      "dificuldade": 1,
+      "opcoes": [
+        "A) facultativos",
+        "B) obrigatórios",
+        "C) principais",
+        "D) sistemáticos"
+      ]
+    },
+    {
       "id": "cg-02b-087",
       "banca": "CESGRANRIO",
       "orgao": "PETROBRAS",
@@ -754,30 +772,12 @@
       "enunciado": "No que se refere ao livro Diário, analise os seguintes itens: I encadernação com folhas numeradas em sequência, tipograficamente; II forma mercantil; III individualização e clareza; IV ausência de intervalos em branco ou de entrelinhas; V termo de Abertura; VI termo de Encerramento. São formalidades intrínsecas ao livro Diário APENAS os itens A I, II e III.",
       "resposta": "C",
       "comentario": "Basicamente, temos duas formalidades: Formalidades Extrínsecas (Finalidade: dificultar adulteração): O quesito trouxe as seguintes formalidades extrínsecas: I encadernação com folhas numeradas em sequência, tipograficamente; V termo de Abertura; VI termo de Encerramento. Intrínsecas (Finalidade: resguardar a fidedignidade dos fatos ocorridos em relação aos fatos registrados) II forma mercantil; III individualização e clareza; IV ausência de intervalos em branco ou de entrelinhas;",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) I, V e VI",
         "B) II, III e IV",
         "C) II, V e VI",
         "D) III, IV e VI"
-      ]
-    },
-    {
-      "id": "cg-02b-089",
-      "banca": "CESGRANRIO",
-      "orgao": "PETROBRAS",
-      "cargo": "Profissional Petrobrás de Nível Técnico / Contabilidade",
-      "ano": 2011,
-      "tipo": "multipla_escolha",
-      "enunciado": "Os livros utilizados para o registro de todos os fatos ou eventos contábeis são classificados como livros A cronológicos.",
-      "resposta": "D",
-      "comentario": "(exigido pelo Código Civil); b) Quanto a sua natureza: (fatos contábeis registrados em ordem cronológica). (leva em conta principalmente a organização das informações). c) Segundo sua utilidade: Principais (Registra todos os fatos) (Não registra todos os fatos)",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) facultativos",
-        "B) obrigatórios",
-        "C) principais",
-        "D) sistemáticos"
       ]
     },
     {
@@ -790,7 +790,7 @@
       "enunciado": "O balancete é uma relação de contas do(a)",
       "resposta": "B",
       "comentario": "O balancete é elaborado a partir do saldo apresentado no livro razão. Lembre-se de que o livro diário apresenta todos os lançamentos contábeis, fato a fato. Por isso, o balancete é feito a partir dos saldos do livro razão. Em síntese, a Função do Balancete de Verificação é averiguar se o Método das Partidas Dobradas foi aplicado corretamente e esse demonstrativo é elaborado a partir do Livro Razão.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) livro caixa",
         "B) livro razão = e2 6f 5= =",
@@ -809,7 +809,7 @@
       "enunciado": "De que forma deve ocorrer o lançamento contábil dos atos e fatos administrativos?",
       "resposta": "A",
       "comentario": "Como o nome indica, o livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa. Consoante o Código Civil: Art. 1.183. A escrituração será feita em idioma e moeda corrente nacionais e em forma contábil, por ordem cronológica de dia, mês e ano, sem intervalos em branco, nem entrelinhas, borrões, rasuras, emendas ou transportes para as margens.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Em ordem cronológica de dia, mês e ano",
         "B) Em ordem cronológica de ano, dispensando-se a ordem de mês",
@@ -828,7 +828,7 @@
       "enunciado": "O livro no qual são realizados lançamentos, com individualização, clareza e indicação do documento comprobatório, dia a dia, por escrita direta ou reprodução, todos os acontecimentos que ocorrem na empresa e que provocam modificações no patrimônio, é o",
       "resposta": "C",
       "comentario": "O livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa. Ele é obrigatório para a quase que totalidade dos empresários (ressalva-se o pequeno empresário previsto na LC 123/2006). No Diário serão lançadas, com individuação, clareza e caracterização do documento respectivo, dia a dia, por escrita direta ou reprodução, todas as operações relativas ao exercício da empresa. Resumindo, o diário é: - Obrigatório (exigido pelo Código Civil); - Principal (registra todos os fatos contábeis); - Comum (para todas as empresas); - Cronológico (fatos contábeis registrados em ordem cronológica).",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) livro caixa",
         "B) livro razão",
@@ -904,7 +904,7 @@
       "enunciado": "O livro obrigatório, destinado ao registro dos fatos contábeis em ordem cronológica, é denominado Livro",
       "resposta": "B",
       "comentario": "O livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa. Ele é obrigatório para a quase que totalidade dos empresários (ressalva-se o pequeno empresário previsto na LC 123/2006). Resumindo, o diário é: - Obrigatório (exigido pelo Código Civil); - Principal (registra todos os fatos contábeis); - Comum (para todas as empresas); - Cronológico (fatos contábeis registrados em ordem cronológica).",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Caixa",
         "B) Diário",
@@ -941,7 +941,7 @@
       "enunciado": "A De acordo com as normas contábeis e legislação comercial, é obrigatório o uso de determinado livro que possua folhas numeradas seguidamente, em que serão lançados, dia a dia, diretamente ou por reprodução, os atos ou operações da atividade mercantil, ou que modifiquem ou possam vir a modificar a situação patrimonial de uma entidade, independentemente da forma de tributação. Assinale a alternativa que corresponde a esse livro.",
       "resposta": "D",
       "comentario": "O livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa. Ele é obrigatório para a quase que totalidade dos empresários (ressalva-se o pequeno empresário previsto na LC 123/2006). Resumindo, o diário é: - Obrigatório (exigido pelo Código Civil); - Principal (registra todos os fatos contábeis); - Comum (para todas as empresas); - Cronológico (fatos contábeis registrados em ordem cronológica).",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Razão auxiliar",
         "B) Livro Balancete",
@@ -1015,7 +1015,7 @@
       "enunciado": "As contas relacionadas no quadro abaixo, organizadas em ordem alfabética, serão utilizadas na elaboração do balancete do exercício da empresa Mundo dos Sonhos Ltda., em 31/12/2011. O balancete não deverá fechar por motivos didáticos, mas indique a opção que contém a soma dos saldos devedores das contas listadas a seguir. CONTAS Abatimentos sobre Vendas Adiantamentos para Imobilização Benfeitorias em Imóveis de Terceiros Capital a Realizar Construções Duplicatas a Pagar de Coligada Duplicatas Descontadas Descontos Concedidos Descontos Obtidos SALDOS (R$) 1.000,00 1.000,00 1.000,00 1.000,00 1.000,00 1.000,00 1.000,00 1.000,00 1.000,00 56 179 08155932443 - Natan Luiz Rodrigues Chaves CONTAS Dividendos e Rendimentos de Outros Investimentos Financiamentos de Instituições de Crédito Marcas e Patentes Reservas de Lucros Obras em Andamento",
       "resposta": "C",
       "comentario": "Classifiquemos as contas e somemos os saldos: SALDOS (R$) CONTAS Classificação Devedor Credor Abatimentos sobre Vendas Resultado: Dedução de 1.000,00 vendas Adiantamentos para Imobilização Patrimonial: Ativo 1.000,00 Benfeitorias em Imóveis de Terceiros Patrimonial: Ativo 1.000,00 Capital a Realizar Patrimonial: Retificadora do 1.000,00 PL Construções Patrimonial: Ativo 1.000,00 Duplicatas a Pagar de Coligada Patrimonial: Passivo 1.000,00 Duplicatas Descontadas Patrimonial: Passivo 1.000,00 Descontos Concedidos Resultado: Despesa Financeira 1.000,00 Descontos Obtidos Resultado: Receita Financeira 1.000,00 Dividendos e Investimentos Rendimentos de Outros Resultado: Outras Receitas 1.000,00 Financiamentos de Instituições de Crédito Patrimonial: Passivo 1.000,00 Marcas e Patentes Patrimonial: Ativo 1.000,00 Reservas de Lucros Patrimonial: PL 1.000,00 Obras em Andamento Patrimonial: Ativo 1.000,00 Total 8.000,00 6.000,00 Ressaltamos que o quesito já informou o seguinte: O balancete não deverá fechar por motivos didáticos",
-      "dificuldade": 2,
+      "dificuldade": 4,
       "opcoes": [
         "A) R$ 6.000,00",
         "B) R$ 7.000,00",
@@ -1046,14 +1046,14 @@
     {
       "id": "cg-02b-095",
       "banca": "FGV",
-      "orgao": "Prefeitura de Caraguatatuba",
+      "orgao": "Pref. Caraguatatuba",
       "cargo": "Fiscal de Tributos",
       "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "O documento de registro auxiliar, utilizado em contabilidade, no qual os registros contábeis são organizados por conta e, dentro de cada conta, mostrados necessariamente em ordem cronológica, é denominado",
       "resposta": "D",
       "comentario": "A questão nos apresentou a definição do Livro-Razão, o qual Razão tem a função de apresentar as modificações ocorridas em cada conta, apresentando, inclusive, o saldo delas. Nesse livro os registros contábeis são organizados por conta e, dentro de cada conta, mostrados cronológica, vejam: Julgue o próximo item, que versam sobre o balancete de verificação.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) escritura.",
         "B) livro diário.",
@@ -1127,7 +1127,7 @@
       "enunciado": "A relação de todas as contas que possuem saldo e/ou foram movimentadas no período, contendo os totais debitado e creditado em cada conta e os respectivos saldos, é o que, em contabilidade, se denomina:",
       "resposta": "B",
       "comentario": "A relação de todas as contas que possuem saldo e/ou foram movimentadas no período, contendo os totais debitado e creditado em cada conta e os respectivos saldos, é o que, em contabilidade, se denomina: BALANCETE DE VERIFICAÇÃO. Recorda-os que ele é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. Assim como toda a contabilidade, a sua elaboração baseia-se no método das partidas dobradas. Não obrigatoriedade em sua elaboração, mas recomenda-se que seja elaborado mensalmente com as informações oriundas do Livro Razão. O balancete de verificação mais comum é o de duas colunas, mas encontramos na doutrina modelos com 4, 6 e 8 colunas. Gravem isto: Evidência - Igualdade matemática dos débitos e créditos Não evidência - Estornos do período - Classificação das contas - Movimento individual das contas - Lançamento do período",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Balancete de Patrimônio",
         "B) Balancete de Verificação",
@@ -1145,7 +1145,7 @@
       "enunciado": "O livro de escrituração contábil, no qual se registram todos os fatos patrimoniais que ocorrem em uma empresa ou entidade, organizado por ordem de data, de natureza obrigatória e considerado, por lei, como o livro central ou principal, é denominado:",
       "resposta": "B",
       "comentario": "O livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa. Ele é obrigatório para a quase que totalidade dos empresários (ressalva-se o pequeno empresário previsto na LC 123/2006). Resumindo, o diário é: - Obrigatório (exigido pelo Código Civil); - Principal (registra todos os fatos contábeis); - Comum (para todas as empresas); - Cronológico (fatos contábeis registrados em ordem cronológica).",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Balancete",
         "B) Diário",
@@ -1183,31 +1183,12 @@
       "enunciado": "Uma conta contábil apresentava, no início do período, saldo devedor de R$ 1.800,00. Após receber cinco lançamentos a débito e dois lançamentos a crédito, verificou-se que o saldo diminuiu em R$ 300,00. Considerando o mecanismo de funcionamento das contas contábeis, é correto afirmar, com certeza, que A o total de débitos superou em R$ 300,00 o total de créditos.",
       "resposta": "D",
       "comentario": "Montemos o razonete com base nos dados do quesito: Assim, temos que 1.500 = 1.800 +( d1 +d2 + d3 + d4 + d5) - (c1 + c2) 1.500 = 1.800 + Débitos - Créditos = 2e f6 =5 = Créditos = 1.500 - 1.800 + Débitos Créditos = -300 + Débitos",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) trata-se de uma conta do passivo",
         "B) o saldo final da conta foi R$ 1.500,00 credor",
         "C) o total de créditos foi maior que o total de débitos",
         "D) a diferença entre os créditos e os débitos foi R$ 1.500,00"
-      ]
-    },
-    {
-      "id": "cg-02b-020",
-      "banca": "IADES",
-      "orgao": "CFM",
-      "cargo": "Técnico em Contabilidade",
-      "ano": 2018,
-      "tipo": "multipla_escolha",
-      "enunciado": "As informações a seguir foram extraídas de um balancete de verificação. Considere o registro de um fato contábil permutativo envolvendo apenas contas do ativo, no valor de R$ 250,00, e assinale a alternativa correta.",
-      "resposta": "D",
-      "comentario": "Inicialmente, montemos o balancete: Conta Caixa Banco conta movimento Mercadorias Duplicatas a receber Móveis e utensílios Saldo devedor Fornecedores a pagar Salários a pagar Impostos a recolher Capital social Saldo credor Saldo R$ 250,00 360,00 510,00 220,00 430,00 1.770,00 550,00 380,00 240,00 600,00 1.770,00 Posteriormente, o quesito informou que ocorreu um fato permutativo. Vimos que os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, sem que haja alteração no valor total do patrimônio líquido e contas de resultado. As trocas podem ser entre elementos do ativo, passivo, de ambos, ou entre elementos da situação líquida. Assim, após tal fato, os saldos devedores e credores continuaram de 1.770,00 Quadro para responder às questões 24 e 25. Os saldos apresentados foram extraídos da contabilidade em 31/10/20X1. Ao levantar o balancete de verificação, o contador identificou um erro no lançamento do fato contábil a seguir. 31/10/20X1 - Pagamento de aluguel no valor de R$ 200,00, com cheque.",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) O saldo das contas devedoras diminuiu",
-        "B) O saldo das contas credoras aumentou",
-        "C) No patrimônio líquido, houve aumento de R$ 250,00",
-        "D) O saldo das contas devedoras totalizou R$ 1.770,00",
-        "E) No patrimônio líquido, houve diminuição de R$ 500,00"
       ]
     },
     {
@@ -1230,6 +1211,25 @@
       ]
     },
     {
+      "id": "cg-02b-020",
+      "banca": "IADES",
+      "orgao": "CFM",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2018,
+      "tipo": "multipla_escolha",
+      "enunciado": "As informações a seguir foram extraídas de um balancete de verificação. Considere o registro de um fato contábil permutativo envolvendo apenas contas do ativo, no valor de R$ 250,00, e assinale a alternativa correta.",
+      "resposta": "D",
+      "comentario": "Inicialmente, montemos o balancete: Conta Caixa Banco conta movimento Mercadorias Duplicatas a receber Móveis e utensílios Saldo devedor Fornecedores a pagar Salários a pagar Impostos a recolher Capital social Saldo credor Saldo R$ 250,00 360,00 510,00 220,00 430,00 1.770,00 550,00 380,00 240,00 600,00 1.770,00 Posteriormente, o quesito informou que ocorreu um fato permutativo. Vimos que os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, sem que haja alteração no valor total do patrimônio líquido e contas de resultado. As trocas podem ser entre elementos do ativo, passivo, de ambos, ou entre elementos da situação líquida. Assim, após tal fato, os saldos devedores e credores continuaram de 1.770,00 Quadro para responder às questões 24 e 25. Os saldos apresentados foram extraídos da contabilidade em 31/10/20X1. Ao levantar o balancete de verificação, o contador identificou um erro no lançamento do fato contábil a seguir. 31/10/20X1 - Pagamento de aluguel no valor de R$ 200,00, com cheque.",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) O saldo das contas devedoras diminuiu",
+        "B) O saldo das contas credoras aumentou",
+        "C) No patrimônio líquido, houve aumento de R$ 250,00",
+        "D) O saldo das contas devedoras totalizou R$ 1.770,00",
+        "E) No patrimônio líquido, houve diminuição de R$ 500,00"
+      ]
+    },
+    {
       "id": "cg-02b-021",
       "banca": "IADES",
       "orgao": "SES DF",
@@ -1239,7 +1239,7 @@
       "enunciado": "Com base nessas informações, assinale a alternativa que identifica o erro cometido pelo contador.",
       "resposta": "E",
       "comentario": "Inicialmente, montemos o balancete de verificação: Conta Caixa Bancos Clientes (duplicatas a receber) Estoques Aplicações financeiras Móveis e utensílios Equipamentos Veículos Imóveis Despesas financeiras Despesas de salários Despesas de aluguel Despesas administrativas Saldo devedor Fornecedores (duplicatas a pagar) Contas a pagar Salários a pagar Capital social Receitas de vendas Receitas de serviços Receitas financeiras Saldo credor Saldo R$ 500,00 1.800,00 800,00 2.100,00 900,00 1.500,00 900,00 2.300,00 0,00 400,00 1.200,00 200,00 800,00 13.400,00 900,00 700,00 600,00 8.000,00 1.500,00 1.200,00 100,00 13.000,00 Nota-se que temos uma diferença de 400 reais entre os saldos. Tal erro decorre da contabilização equivocada do seguinte fato contábil: Pagamento de aluguel no valor de R$ 200,00, com cheque. O lançamento correto seria:",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) Omissão do registro",
         "B) Lançamento em duplicidade",
@@ -1258,7 +1258,7 @@
       "enunciado": "Após a correção do lançamento contábil, os saldos das contas devedoras totalizaram A R$ 13.000,00.",
       "resposta": "A",
       "comentario": "Basicamente, teremos que creditar a conta bancos em 400 reais. Após a correção, temos o seguinte balancete de verificação: Conta Caixa Bancos (1.800 - 400) Clientes (duplicatas a receber) Estoques Aplicações financeiras Móveis e utensílios Equipamentos Veículos Imóveis Despesas financeiras Despesas de salários Despesas de aluguel Despesas administrativas Saldo devedor Fornecedores (duplicatas a pagar) Contas a pagar Salários a pagar Capital social Receitas de vendas Receitas de serviços Saldo R$ 500,00 1.400,00 800,00 2.100,00 900,00 1.500,00 900,00 2.300,00 0,00 400,00 1.200,00 200,00 800,00 13.000,00 900,00 700,00 600,00 8.000,00 1.500,00 1.200,00 Conta Receitas financeiras Saldo credor Saldo R$ 100,00 13.000,00",
-      "dificuldade": 2,
+      "dificuldade": 4,
       "opcoes": [
         "A) R$ 13.100,00",
         "B) R$ 13.200,00",
@@ -1276,7 +1276,7 @@
       "enunciado": "A história de uma organização é necessariamente registrada em um livro obrigatório denominado livro diário. Nele, todos os fatos contábeis são registrados, por meio de processo manual, mecanizado ou eletrônico, com a aplicação do método das partidas dobradas, que se chama lançamento (ou partida) de diário. Com relação a esse tema, assinale a alternativa que apresenta os requisitos necessários para a validação de um lançamento contábil.",
       "resposta": "A",
       "comentario": "Alguns requisitos existem para essas partidas de diário, a saber: ITG 2000, CFC: Item 6. A escrituração em forma contábil de que trata o item 5 deve conter, no mínimo: a) data do registro contábil, ou seja, a data em que o fato contábil ocorreu; b) conta devedora; c) conta credora; d) histórico que represente a essência econômica da transação ou o código de histórico padronizado, neste caso baseado em tabela auxiliar inclusa em livro próprio; e) valor do registro contábil; f) informação que permita identificar, de forma unívoca, todos os registros que integram um mesmo lançamento contábil. O livro diário e o livro Razão possuem algumas formalidades, extrínsecas e intrínsecas, que, atualmente são apresentadas para livros no formato não digital e no formato digital: Formato Não Digital: Formalidades Extrínsecas (Finalidade: dificultar adulteração): - Deve ser encadernado; - As folhas devem ser numeradas; - Conterem termo de abertura e de encerramento assinados pelo titular ou representante legal da entidade e pelo profissional da contabilidade regularmente habilitado no Conselho Regional de Contabilidade. Intrínsecas (Finalidade: resguardar a fidedignidade dos fatos ocorridos em relação aos fatos registrados): - Seguir uma ordem cronológica; - Não deve haver rasuras, borrões, sinais, linhas em branco, entrelinhas, folhas em branco etc.; e - A escrituração deve ser feita em língua e moeda nacionais. Formato Digital: Formalidade dos livros em formato digital: a) serem assinados digitalmente pela entidade e pelo profissional da contabilidade regularmente habilitado; b) quando exigível por legislação específica, serem autenticados no registro público ou entidade competente. (Alterada pela ITG 2000 (R1)) Observação: Em caso de escrituração contábil em forma digital, não há necessidade de impressão e encadernação em forma de livro, porém o arquivo magnético autenticado pelo registro público competente deve ser mantido pela entidade.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Data de realização da operação, conta a ser debitada, conta a ser creditada, histórico da operação e valor da operação em moeda nacional",
         "B) Conta a ser debitada, conta a ser creditada, data de registro da operação, histórico da operação e valor da operação em moeda nacional",
@@ -1295,7 +1295,7 @@
       "enunciado": "Determinado livro contábil caracteriza-se por manter, com individualização e clareza, todos os registros relacionados com os atos e fatos que provocam ou venham a modificar o patrimônio de uma empresa. Identifique-o nas alternativas abaixo.",
       "resposta": "A",
       "comentario": "A banca gosta da literalidade do Código Civil. Mais uma vez, cobrou a definição de diário prevista nele: Art. 1.184. No Diário serão lançadas, com individuação, clareza e caracterização do documento respectivo, dia a dia, por escrita direta ou reprodução, todas as operações relativas ao exercício da empresa.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Livro Diário",
         "B) Registro de inventário",
@@ -1314,7 +1314,7 @@
       "enunciado": "Identificar, entre as alternativas, o livro utilizado para materializar a escrituração contábil, que é destinado ao registro dos débitos e créditos de cada conta, possibilitando a visualização do saldo final em determinado período.",
       "resposta": "A",
       "comentario": "Filtremos os trechos-chave: possibilitando a visualização do saldo final em determinado período. O livro Razão serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada. O primeiro passo para escriturar este livro é abrir uma página para cada conta usada na Escrituração do livro Diário. Por apresentar o saldo de cada conta em determinado momento, ele viabiliza a elaboração do balancete de verificação. Enfim, ele serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Razão",
         "B) Diário",
@@ -1352,7 +1352,7 @@
       "enunciado": "A manutenção de todos os registros relacionados com os atos e fatos causadores de mudanças no patrimônio de uma empresa, com individualização e clareza, é característica do seguinte livro contábil:",
       "resposta": "D",
       "comentario": "O livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa. Ele é obrigatório para a quase que totalidade dos empresários (ressalva-se o pequeno empresário previsto na LC 123/2006). A banca acabou utilizando a definição feita pelo Código Civil, vejam: Art. 1.184. No Diário serão lançadas, com individuação, clareza e caracterização do documento respectivo, dia a dia, por escrita direta ou reprodução, todas as operações relativas ao exercício da empresa.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Livro Razão",
         "B) Registro de saídas",
@@ -1371,7 +1371,7 @@
       "enunciado": "O livro contábil que se caracteriza por apresentar os registros do movimento individualizado de todas as contas é:",
       "resposta": "D",
       "comentario": "Filtremos os trechos-chave: movimento individualizado de todas as contas, O livro Razão serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada. O primeiro passo para escriturar este livro é abrir uma página para cada conta usada na Escrituração do livro Diário. Por apresentar o saldo de cada conta em determinado momento, ele viabiliza a elaboração do balancete de verificação. Enfim, ele serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Livro de Inventário",
         "B) Livro Diário",
@@ -1389,7 +1389,7 @@
       "enunciado": "O(a) é um dos principais registros contábeis utilizados pelas empresas para acompanhar e registrar todas as movimentações financeiras e contábeis. Ele é composto por uma lista organizada de todas as contas da empresa, como caixa, bancos, contas a receber, contas a pagar, entre outras. Marque a alternativa que substitui corretamente a lacuna no texto acima.",
       "resposta": "B",
       "comentario": "O livro Razão serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada. Por registrar todos os fatos (registro das movimentações ocorridas em cada rubrica que compõe o plano de contas de uma entidade), ele é considerado um livro principal.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Diário geral",
         "B) Livro razão",
@@ -1408,7 +1408,7 @@
       "enunciado": "Nele são lançados, com individualização, clareza e indicação do documento comprobatório, dia a dia, todos os acontecimentos que ocorrem na empresa, que provoquem ou que venham a provocar a modificação do Patrimônio empresarial, fazendo referência ao Livro:",
       "resposta": "A",
       "comentario": "A banca gosta da literalidade do Código Civil. Mais uma vez, cobrou a definição de diário prevista nele: Art. 1.184. No Diário serão lançadas, com individuação, clareza e caracterização do documento respectivo, dia a dia, por escrita direta ou reprodução, todas as operações relativas ao exercício da empresa. Outras Bancas",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Diário",
         "B) Caixa",
@@ -1484,7 +1484,7 @@
       "enunciado": "Este(a) é um relatório contábil que apresenta a situação patrimonial e financeira de uma empresa ou órgão em um determinado período, sendo elaborado(a) com base nas contas contábeis do Plano de Contas e mostra o saldo dessas contas em uma determinada data. Ele(a) é organizado(a) em forma de tabela, geralmente com duas colunas, uma para as contas de débito e outra para as contas de crédito. O excerto acima faz referência ao(à):",
       "resposta": "E",
       "comentario": "O balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. Assim como toda a contabilidade, a sua elaboração baseia-se no método das partidas dobradas. Não obrigatoriedade em sua elaboração, mas recomenda-se que seja elaborado mensalmente com as informações oriundas do Livro Razão. O balancete de verificação mais comum é o de duas colunas, mas encontramos na doutrina modelos com 4, 6 e 8 colunas. Vamos rever os tipos de balancetes de verificação: Balancete de Verificação 2 colunas: apenas o Saldo Final das contas. Balancete de Verificação 4 colunas: Saldo Anterior + Movimento + Saldo Final Balancete de Verificação 6 colunas: Balancete Anterior + Movimento do Período + Balancete atual Balancete de Verificação 8 colunas: Balancete Anterior + Movimento do Período + Saldo do Período + Balancete atual",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) rescisão",
         "B) orçamento",
@@ -1503,7 +1503,7 @@
       "enunciado": "A respeito do Balancete de Verificação, analise as afirmativas a seguir e classifique-as em (V) verdadeiras ou (F) falsas. ( ) Balancete de verificação é um relatório oficial da empresa e como tal deve seguir o modelo exigido pelo Conselho Federal de Contabilidade; ( ) O balancete de verificação é uma relação de contas extraídas do livro Razão, com seus respectivos saldos devedores e credores; ( ) O balancete de verificação possui apenas duas colunas, sendo uma destinada ao saldo devedor e outra destinada ao saldo credor de cada conta, não sendo permitido o uso do modelo de balancetes com várias colunas destinadas ao movimento das contas; ( ) No balancete de verificação, a soma da coluna do saldo devedor deve ser igual a soma da coluna do saldo credor, pois os lançamentos contábeis são elaborados pelo método das partidas dobradas. Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
       "resposta": "D",
       "comentario": "(F) Balancete de verificação é um relatório oficial da empresa e como tal deve seguir o modelo exigido pelo Conselho Federal de Contabilidade; O balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. Isto é, não existe obrigatoriedade em sua elaboração nem um modelo exigido pelo Conselho Federal de Contabilidade. (V) O balancete de verificação é uma relação de contas extraídas do livro Razão, com seus respectivos saldos devedores e credores; O balancete é elaborado a partir do saldo apresentado no livro razão. Lembre-se de que o livro diário apresenta todos os lançamentos contábeis, fato a fato. Por isso, o balancete é feito a partir dos saldos do livro razão. Item verdadeiro. (F) O balancete de verificação possui apenas duas colunas, sendo uma destinada ao saldo devedor e outra destinada ao saldo credor de cada conta, não sendo permitido o uso do modelo de balancetes com várias colunas destinadas ao movimento das contas; O balancete de verificação mais comum é o de duas colunas, mas encontramos na doutrina modelos com 4, 6 e 8 colunas. Cada um deles apresenta mais informações sobre as contas, sendo de exercícios anteriores, saldos devedores e credores, e o saldo final Vamos rever os tipos de balancetes de verificação: Balancete de Verificação 2 colunas: apenas o Saldo Final das contas. Balancete de Verificação 4 colunas: Saldo Anterior + Movimento + Saldo Final Balancete de Verificação 6 colunas: Balancete Anterior + Movimento do Período + Balancete atual Balancete de Verificação 8 colunas: Balancete Anterior + Movimento do Período + Saldo do Período + Balancete atual Item falso. (V) No balancete de verificação, a soma da coluna do saldo devedor deve ser igual a soma da coluna do saldo credor, pois os lançamentos contábeis são elaborados pelo método das partidas dobradas. O Balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. O objetivo desse demonstrativo é verificarmos se foi aplicado corretamente o Método das Partidas Dobradas. Item verdadeiro. Assim, a sequência correta de cima para baixo é F - V - F - V.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) V-V-V-V",
         "B) V-F-V-V",
@@ -1560,7 +1560,7 @@
       "enunciado": "Em relação a Escrituração Contábil, analise as afirmativas abaixo: I. Deve ser realizada com observância aos Princípios de Contabilidade; II. São de atribuição e de responsabilidade exclusivas do profissional da contabilidade legalmente habilitado; III. Retificação de lançamento deve ser feito sempre por estorno do lançamento original com erro; Assinale a alternativa correta:",
       "resposta": "C",
       "comentario": "Aparentemente, a banca se baseou na ITG 2000 (R1) ESCRITURAÇÃO CONTÁBIL. I. Deve ser realizada com observância aos Princípios de Contabilidade; Correto, consoante a ITG 2000 (R1): Formalidades da escrituração contábil 3. A escrituração contábil deve ser realizada com observância aos Princípios de Contabilidade II. São de atribuição e de responsabilidade exclusivas do profissional da contabilidade legalmente habilitado; Correto, com base na ITG 2000 (R1): 12. A escrituração contábil e a emissão de relatórios, peças, análises, demonstrativos e demonstrações contábeis são de atribuição e de responsabilidade exclusivas do profissional da contabilidade legalmente habilitado O profissional contábil deve estar legalmente habilitado, isso significa que deve ter registro no Conselho Regional de Contabilidade. III. Retificação de lançamento deve ser feito sempre por estorno do lançamento original com erro; Errado, conforme a ITG 2000 (R1): Retificação de lançamento contábil 31. Retificação de lançamento é o processo técnico de correção de registro realizado com erro na escrituração contábil da entidade e pode ser feito por meio de: a) estorno; b) transferência; e c) complementação. Além desses, temos também a ressalva, que ocorre quando, antes mesmo de encerrarmos o lançamento, percebemos a incorreção, corrigindo no próprio histórico. A correção se dá com a Por que a ressalva não consta da ITG 2000 como modalidade de retificação? Isso se deve ao fato de a ressalva ser mais utilizada quando da escrituração manual dos livros contábeis, fato pouco usual nos dias de hoje.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) Apenas a afirmativa II está correta",
         "B) Apenas a afirmativa I está correta",
@@ -1578,7 +1578,7 @@
       "enunciado": "____________________ é obrigatório para todas as empresas. Registra os fatos contábeis em corretamente a afirmativa anterior.",
       "resposta": "A",
       "comentario": "O livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa. Ele é obrigatório para a quase que totalidade dos empresários (ressalva-se o pequeno empresário previsto na LC 123/2006).",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Diário",
         "B) Razão",
@@ -1597,7 +1597,7 @@
       "enunciado": "É uma relação de contas extraídas do Livro Razão (ou dos Razonetes), com seus respectivos saldos devedores e credores:",
       "resposta": "A",
       "comentario": "Destacamos que as informações necessárias para a elaboração do balancete de verificação são oriundas do livro Razão, guardem isso! Peguem esse bizu! Diversas questões de prova afirmam, por exemplo, que o balancete de verificação é elaborado a partir do livro Diário, por exemplo. Isso é um erro. O Livro Razão apresenta o saldo de cada conta em determinado momento, o que viabiliza a elaboração do balancete. Esquematizemos: Livro Razão Saldos Contábeis Balancete de Verificação",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Balancete",
         "B) Empenho",
@@ -1613,7 +1613,7 @@
       "enunciado": "IADES/SES DF/Técnico em Contabilidade/2018) A história de uma organização é necessariamente registrada em um livro obrigatório denominado livro diário. Nele, todos os fatos contábeis são registrados, por meio de processo manual, mecanizado ou eletrônico, com a aplicação do método das partidas dobradas, que se chama lançamento (ou partida) de diário. Com relação a esse tema, assinale a alternativa que apresenta os requisitos necessários para a validação de um lançamento contábil.",
       "resposta": "A",
       "comentario": "Alguns requisitos existem para essas partidas de diário, a saber: ITG 2000, CFC: Item 6. A escrituração em forma contábil de que trata o item 5 deve conter, no mínimo: a) data do registro contábil, ou seja, a data em que o fato contábil ocorreu; b) conta devedora; c) conta credora; d) histórico que represente a essência econômica da transação ou o código de histórico padronizado, neste caso baseado em tabela auxiliar inclusa em livro próprio; e) valor do registro contábil; f) informação que permita identificar, de forma unívoca, todos os registros que integram um mesmo lançamento contábil. O livro diário e o livro Razão possuem algumas formalidades, extrínsecas e intrínsecas, que, atualmente são apresentadas para livros no formato não digital e no formato digital: Formato Não Digital: Formalidades Extrínsecas (Finalidade: dificultar adulteração): - Deve ser encadernado; - As folhas devem ser numeradas; - Conterem termo de abertura e de encerramento assinados pelo titular ou representante legal da entidade e pelo profissional da contabilidade regularmente habilitado no Conselho Regional de Contabilidade. Intrínsecas (Finalidade: resguardar a fidedignidade dos fatos ocorridos em relação aos fatos registrados): - Seguir uma ordem cronológica; - Não deve haver rasuras, borrões, sinais, linhas em branco, entrelinhas, folhas em branco etc.; e - A escrituração deve ser feita em língua e moeda nacionais. Formato Digital: Formalidade dos livros em formato digital: a) serem assinados digitalmente pela entidade e pelo profissional da contabilidade regularmente habilitado; b) quando exigível por legislação específica, serem autenticados no registro público ou entidade competente. (Alterada pela ITG 2000 (R1)) Observação: Em caso de escrituração contábil em forma digital, não há necessidade de impressão e encadernação em forma de livro, porém o arquivo magnético autenticado pelo registro público competente deve ser mantido pela entidade.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Data de realização da operação, conta a ser debitada, conta a ser creditada, histórico da operação e valor da operação em moeda nacional",
         "B) Conta a ser debitada, conta a ser creditada, data de registro da operação, histórico da operação e valor da operação em moeda nacional. 43 179 08155932443 - Natan Luiz Rodrigues Chaves C Conta a ser creditada, conta a ser debitada, histórico da operação, valor da operação em moeda nacional ou estrangeira e data de referência de atualização de valores",
@@ -1634,7 +1634,7 @@
       "enunciado": "Assinale a alternativa que apresenta o propósito do Balancete de Verificação na contabilidade.",
       "resposta": "C",
       "comentario": "A Registrar todas as transações da empresa. Trata-se do livro diário. Alternativa errada. B Apurar o resultado líquido do período. Isso é feito na Demonstração do Resultado do Exercício (DRE). Alternativa errada. C Verificar a igualdade entre os saldos das contas de débito e crédito. Esse é o nosso gabarito. O Balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. O objetivo desse demonstrativo é verificarmos se foi aplicado corretamente o Método das Partidas Dobradas. Vale ressaltar que nem todos os erros de escrituração são constatáveis no Balancete de Verificação. Em suma: Balancete de verificação Evidencia Igualdade matemática dos débitos e créditos Não evidencia Estornos do período Classificação das contas Movimento individual das contas Lançamento do período D Determinar o valor total do Ativo. O Balanço Patrimonial que traz os totais do ativo, passivo e PL. Alternativa errada. E Apresentar o fluxo de caixa da empresa. Refere-se a demonstrações dos fluxos de caixa ou, para as empresas do simples, o livro caixa traz as movimentações do caixa da entidade. Alternativa errada.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Registrar todas as transações da empresa",
         "B) Apurar o resultado líquido do período",
@@ -1653,7 +1653,7 @@
       "enunciado": "Ao final do exercício de 2021, a Pão da Vida Ltda. detinha um patrimônio bruto de R$ 5.500.000,00 e um patrimônio líquido de 25% desse valor. Do passivo exigível, uma parcela de 15% será quitada nos próximos 12 meses, sendo o restante vencível a longo prazo. A empresa dispõe, ainda, de ativo circulante no valor de R$ 1.700.000,00. Com base nesse caso hipotético, julgue o item. O livro-razão é um livro contábil obrigatório para as entidades em geral, devido à ITG 2000 (R1) Escrituração Contábil (do Conselho Federal de Contabilidade), e tem a finalidade de demonstrar a movimentação analítica das contas registradas no livro diário, de forma individualizada e em ordem cronológica. 27 179 08155932443 - Natan Luiz Rodrigues Chaves",
       "resposta": "certo",
       "comentario": "A escrituração é encontrada nos livros contábeis e fiscais. Atualmente, esses registros são feitos, quase que totalmente, de forma digital. Mas para fins de prova, em alguns momentos temos que pensar um pouco como isso era feito manualmente, ok? O livro Razão é um livro sistemático e ele apresenta os saldos de cada conta em determinado momento. Serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada. É um livro facultativo, principal (isto é, registram todos os fatos) e sistemático (leva em conta principalmente a organização das informações), apresentando os saldos das contas. Segundo a legislação do IR, os contribuintes sujeitos à apuração do lucro real devem escriturar o livro razão. Todavia, se uma questão fizer menção à ITG 2000 (R1), é possível que o Razão seja considerado como um livro obrigatório, vejam: 9. Os livros contábeis obrigatórios, entre eles o Livro Diário e o Livro Razão Destacamos que o livro diário e o livro Razão possuem algumas formalidades, extrínsecas e intrínsecas, que, atualmente são apresentadas para livros no formato não digital e no formato digital: Formato Não Digital: Formalidades Extrínsecas (Finalidade: dificultar adulteração): - Deve ser encadernado; - As folhas devem ser numeradas; - Conterem termo de abertura e de encerramento assinados pelo titular ou representante legal da entidade e pelo profissional da contabilidade regularmente habilitado no Conselho Regional de Contabilidade. Intrínsecas (Finalidade: resguardar a fidedignidade dos fatos ocorridos em relação aos fatos registrados): - Seguir uma ordem cronológica; - Não deve haver rasuras, borrões, sinais, linhas em branco, entrelinhas, folhas em branco etc.; e - A escrituração deve ser feita em língua e moeda nacionais. Formato Digital: Formalidade dos livros em formato digital: a) serem assinados digitalmente pela entidade e pelo profissional da contabilidade regularmente habilitado; b) quando exigível por legislação específica, serem autenticados no registro público ou entidade competente. (Alterada pela ITG 2000 (R1)) Observação: Em caso de escrituração contábil EM FORMA DIGITAL, NÃO HÁ NECESSIDADE DE IMPRESSÃO E ENCADERNAÇÃO EM FORMA DE LIVRO, porém o arquivo magnético autenticado pelo registro público competente deve ser mantido pela entidade. Diante do exposto e com base na ITG 2000 (R1), é correto afirmar que o livro-razão é um livro contábil obrigatório para as entidades em geral e tem a finalidade de demonstrar a movimentação analítica das contas registradas no livro diário, de forma individualizada e em ordem cronológica.",
-      "dificuldade": 2
+      "dificuldade": 3
     },
     {
       "id": "cg-02b-006",
@@ -1756,7 +1756,7 @@
       "enunciado": "Leia o caso a seguir. Uma empresa, antes da apuração do resultado do exercício de 2022, apresentava as seguintes contas e seus respectivos saldos em 31/12/2022, em reais. Ações em Tesouraria Marcas e Patentes Adiantamento de Clientes Adiantamento de Clientes Ajuste de Avaliação Patrimonial (saldo credor) Aluguéis Pagos Antecipadamente Caixa e Equivalentes de Caixa Capital Social Clientes Custo das Mercadorias Vendidas Depreciação Acumulada Despesa com Aluguéis Despesa com EPCLD Despesa com Salários Despesa de Depreciação Despesa Financeira Despesas com Imposto de Renda e Contribuição Social sobre o Lucro Devoluções de Vendas Empréstimos a Pagar Estimativa para Crédito de Liquidação Duvidosa (EPCLD) Estoques Fornecedores Investimentos Permanentes em Outras Empresas Máquinas e Equipamentos Provisões Trabalhistas Receita Bruta de Vendas Receita de Dividendos Reserva de Lucros a Realizar Reserva Legal Resultado Negativo de Equivalência Patrimonial Reversão de Provisões Trabalhistas Tributos sobre Vendas R$ 625,00 R$ 5.500,00 R$ 6.250,00 R$ 3.000,00 R$ 5.625,00 R$ 3.750,00 R$ 57.500,00 R$ 62.500,00 R$ 52.500,00 R$ 11.250,00 R$ 11.250,00 R$ 1.875,00 R$ 18.750,00 R$ 7.500,00 R$ 1.625,00 R$ 8.250,00 R$ 5.000,00 R$ 40.000,00 R$ 1.875,00 R$ 25.000,00 R$ 20.500,00 R$ 14.500,00 R$ 75.000,00 R$ 26.250,00 R$ 147.500,00 R$ 500,00 R$ 1.625,00 R$ 3.000,00 R$ 2.500,00 R$ 10.000,00 R$ 27.500,00 Considerando as informações das contas apresentadas na tabela, no balancete de verificação de 31/12/2022, antes da apuração do resultado do exercício, o total dos saldos credores foi de A R$ 327.375,00.",
       "resposta": "C",
       "comentario": "Quanto à natureza, as contas podem ser classificadas em CONTAS DEVEDORAS OU CREDORAS. Contas Devedoras representam APLICAÇÕES DE RECURSOS, por isso que as contas de Ativo e as contas de Despesas possuem natureza DEVEDORA, isto é, GOSTAM de DÉBITO. Estamos APLICANDO RECURSOS em Bens e Direitos, como dinheiro em caixa, estoques, máquinas e despesas com salários, por exemplo. Ainda temos as retificadoras do Passivo e do PL. Pessoal, retificar traz a ideia de corrigir, ajustar, não é mesmo? Assim sendo, esse tipo especial de conta possui natureza contrária ao grupo no qual está inserida. O quesito trouxe as seguintes: Ações em Tesouraria: Retificadora PL Marcas e Patentes: Ativo Aluguéis Pagos Antecipadamente: Ativo Caixa e Equivalentes de Caixa: Ativo Clientes: Ativo Custo das Mercadorias Vendidas: Despesa Despesa com Aluguéis: Despesa Despesa com EPCLD: Despesa Despesa com Salários: Despesa Despesa de Depreciação: Despesa Despesa Financeira: Despesa Despesas com Imposto de Renda e Contribuição Social sobre o Lucro: Despesa Estoques: Ativo Investimentos Permanentes em Outras Empresas: Ativo Máquinas e Equipamentos: Ativo Resultado Negativo de Equivalência Patrimonial: Despesa Tributos sobre Vendas: Despesa Por seu turno, as contas CREDORAS representam a ORIGEM dos recursos, assim, contas de Passivo, Patrimônio Líquido e as contas de Receitas possuem natureza CREDORA, isto é, GOSTAM de CRÉDITO. Uma dívida com fornecedor, ou seja, um passivo, é a origem de recursos para poder adquirir uma mercadoria a prazo. O Capital Social é a origem de recursos, oriundas dos sócios, para que a empresa inicie as suas atividades. Ainda temos as retificadoras do Ativo. Pessoal, retificar traz a ideia de corrigir, ajustar, não é mesmo? Assim sendo, esse tipo especial de conta possui natureza contrária ao grupo no qual está inserida. O quesito trouxe as seguintes: Adiantamento de Clientes: Passivo Ajuste de Avaliação Patrimonial (saldo credor): PL Capital Social: PL Depreciação Acumulada: Retificadora Ativo Devoluções de Vendas: Passivo Empréstimos a Pagar: Passivo Estimativa para Crédito de Liquidação Duvidosa (EPCLD): Retificadora do Ativo Fornecedores: Passivo Provisões Trabalhistas: Passivo Receita Bruta de Vendas: Resultado - Receita Receita de Dividendos: Resultado - Receita Reserva de Lucros a Realizar: PL Reserva Legal: PL Reversão de Provisões Trabalhistas: Receita Para finalizar, montemos o balancete de verificação: Conta Saldo Final Devedor Credor Ações em Tesouraria R$ 625,00 Marcas e Patentes R$ 5.500,00 Adiantamento de Clientes R$ 6.250,00 Ajuste de Avaliação Patrimonial (saldo credor) R$ 3.000,00 Aluguéis Pagos Antecipadamente R$ 5.625,00 Caixa e Equivalentes de Caixa R$ 3.750,00 Capital Social R$ 57.500,00 Clientes R$ 62.500,00 Custo das Mercadorias Vendidas R$ 52.500,00 Depreciação Acumulada R$ 11.250,00 Despesa com Aluguéis R$ 11.250,00 Despesa com EPCLD R$ 1.875,00 Despesa com Salários R$ 18.750,00 Despesa de Depreciação R$ 7.500,00 Despesa Financeira R$ 1.625,00 Despesas com Imposto de Renda e Contribuição Social sobre o Lucro R$ 8.250,00 Devoluções de Vendas R$ 5.000,00 Empréstimos a Pagar R$ 40.000,00 Estimativa para Crédito de Liquidação Duvidosa (EPCLD) R$ 1.875,00 Estoques R$ 25.000,00 Fornecedores R$ 20.500,00 Investimentos Permanentes em Outras Empresas R$ 14.500,00 Máquinas e Equipamentos R$ 75.000,00 Provisões Trabalhistas R$ 26.250,00 Receita Bruta de Vendas R$ 147.500,00 Receita de Dividendos R$ 500,00 Reserva de Lucros a Realizar R$ 1.625,00 Conta Reserva Legal Resultado Negativo de Equivalência Patrimonial Reversão de Provisões Trabalhistas Tributos sobre Vendas Total Saldo Final Devedor Credor R$ 3.000,00 R$ 2.500,00 R$ 10.000,00 R$ 27.500,00 R$ 329.250,00 R$ 329.250,00 Dica: para ganhar tempo na resolução, podemos filtrar as contas em passivo, PL, retificadora do ativo e receitas. Em seguida, adicionaremos ao lado um : Ações em Tesouraria R$ 625,00 Marcas e Patentes Adiantamento de Clientes R$ 5.500,00 Adiantamento de Clientes R$ 6.250,00 + Ajuste de Avaliação Patrimonial (saldo credor) R$ 3.000,00 + Aluguéis Pagos Antecipadamente R$ 5.625,00 Caixa e Equivalentes de Caixa R$ 3.750,00 Capital Social R$ 57.500,00 + Clientes R$ 62.500,00 Custo das Mercadorias Vendidas R$ 52.500,00 Depreciação Acumulada R$ 11.250,00 + Despesa com Aluguéis R$ 11.250,00 Despesa com EPCLD R$ 1.875,00 Despesa com Salários R$ 18.750,00 Despesa de Depreciação R$ 7.500,00 Despesa Financeira R$ 1.625,00 Despesas com Imposto de Renda e Contribuição Social sobre o Lucro R$ 8.250,00 Devoluções de Vendas R$ 5.000,00 Empréstimos a Pagar R$ 40.000,00 + Estimativa para Crédito de Liquidação Duvidosa (EPCLD) R$ 1.875,00 + Estoques R$ 25.000,00 Fornecedores R$ 20.500,00 + Investimentos Permanentes em Outras Empresas R$ 14.500,00 Máquinas e Equipamentos R$ 75.000,00 Provisões Trabalhistas R$ 26.250,00 + Receita Bruta de Vendas R$ 147.500,00 + Receita de Dividendos R$ 500,00 + Reserva de Lucros a Realizar R$ 1.625,00 + Reserva Legal R$ 3.000,00 + Resultado Negativo de Equivalência Patrimonial R$ 2.500,00 Reversão de Provisões Trabalhistas R$ 10.000,00 + Tributos sobre Vendas R$ 27.500,00 Somando, temos: R$ 6.250,00 + R$ 3.000,00 + R$ 57.500,00 + R$ 11.250,00 + R$ 40.000,00 + R$ 1.875,00 + R$ 20.500,00 + R$ 26.250,00 + R$ 147.500,00 + R$ 500,00 + R$ 1.625,00 + R$ 3.000,00 + R$ 10.000,00 = R$ 329.250,00",
-      "dificuldade": 2,
+      "dificuldade": 4,
       "opcoes": [
         "A) R$ 328.500,00",
         "B) R$ 329.250,00",
@@ -1766,7 +1766,7 @@
     {
       "id": "cg-02b-045",
       "banca": "VUNESP",
-      "orgao": "Câmara de Cotia",
+      "orgao": "CM Cotia",
       "cargo": "Contador",
       "ano": 2017,
       "tipo": "multipla_escolha",
@@ -1885,7 +1885,7 @@
       "enunciado": "Este livro registra todos os fatos que afetam o patrimônio, só que dando ênfase às contas que compõem o patrimônio. É este livro que permite conhecer a movimentação de débito e crédito de cada elemento que compõe o patrimônio da empresa. O texto se refere ao livro A Caixa.",
       "resposta": "D",
       "comentario": "A questão nos apresentou a definição do Livro-Razão, o qual Razão tem a função de apresentar as modificações ocorridas em cada conta, apresentando, inclusive, o saldo delas. Nesse livro os registros contábeis são organizados por conta e, dentro de cada conta, mostrados cronológica, vejam:",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) Diário",
         "B) de Inventário",
@@ -1940,7 +1940,7 @@
       "enunciado": "O documento contábil que lista os saldos de todas as contas contábeis do livro razão, com a finalidade de identificar o resultado dos lançamentos de débitos e créditos das transações já registradas, é conhecido por A relatório resumido da execução orçamentária (RREO).",
       "resposta": "D",
       "comentario": "A relação de todas as contas que possuem saldo e/ou foram movimentadas no período, contendo os totais debitado e creditado em cada conta e os respectivos saldos, é o que, em contabilidade, se denomina: BALANCETE DE VERIFICAÇÃO. Recorda-os que ele é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. Assim como toda a contabilidade, a sua elaboração baseia-se no método das partidas dobradas. Não obrigatoriedade em sua elaboração, mas recomenda-se que seja elaborado mensalmente com as informações oriundas do Livro Razão.",
-      "dificuldade": 2,
+      "dificuldade": 1,
       "opcoes": [
         "A) demonstrativo do fluxo de caixa (DFC)",
         "B) balanço financeiro e orçamentário",
@@ -1977,7 +1977,7 @@
       "enunciado": "Contador, por ocasião do encerramento do exercício, sabendo que os livros contábeis obrigatórios, entre eles o Livro Diário e o Livro Razão, em forma digital, devem revestir- se de formalidades extrínsecas, conforme preconizado no ITG2000(R1), deverá, entre alguns procedimentos:",
       "resposta": "A",
       "comentario": "Questão que exige conhecimento da ITG 2.000, mas pode ser respondida de certa forma através da lógica. Vamos lá! Se o livro é digital, vejamos o que é necessário que ele contenha. a) providenciar a assinatura digital dos referidos livros pela entidade e pelo profissional da contabilidade regularmente habilitado. Esse é o gabarito! O livro deve estar assinado digitalmente. Ao fazer isso, os profissionais técnicos se responsabilizam pela escrituração da entidade. Nesse sentido vai a ITG 2000, como já demonstrado em questões anteriores. b) imprimir tais livros para, posteriormente, encaderná-los. Errado. A escrituração digital dispensa a necessidade de imprimir os livros. c) numerar as folhas dos livros sequencialmente. A numeração não é feita por quem escritura, mas de forma automática, se houver. d) providenciar, junto à Junta Comercial, o termo de abertura e de encerramento assinados pelo titular ou representante legal da entidade.",
-      "dificuldade": 2,
+      "dificuldade": 3,
       "opcoes": [
         "A) providenciar a assinatura digital dos referidos livros pela entidade e pelo profissional da contabilidade regularmente habilitado.",
         "B) imprimir tais livros para, posteriormente, encaderná-los.",

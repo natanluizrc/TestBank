@@ -476,44 +476,6 @@
       ]
     },
     {
-      "id": "cg-03-028",
-      "banca": "FCC",
-      "orgao": "DPE-SP",
-      "ano": 2009,
-      "tipo": "multipla_escolha",
-      "enunciado": "Uma empresa efetua a quitação antecipada, de uma fatura relativa ao fornecimento de suprimentos, no valor de R$ 20.000,00 obtendo um desconto de 10%. No registro dessa operação a empresa",
-      "resposta": "E",
-      "comentario": "A contabilização do pagamento deve ser registrada da seguinte forma: D Fornecedores (Passivo Circulante) C Receita Financeira (Descontos obtidos) C Caixa ou Bancos (Ativo Circulante) 20.000 2.000 18.000 Análise das alternativas: A) Alternativa Incorreta. Há um crédito em conta de ativo, no valor de 18.000 B) Alternativa Incorreta. O valor do débito em conta de passivo é de 20.000 C) Alternativa Incorreta. O valor do desconto obtido é lançado como Receita Financeira. D) Alternativa Incorreta. A conta de Passivo é debitada em 20.000, e não creditada. E) Alternativa Correta. Os descontos financeiros obtidos são contabilizados como Receita Financeira.",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) registra um débito em conta de ativo no valor de R$ 20.000.",
-        "B) contabiliza um débito de R$ 18.000 em conta do passivo.",
-        "C) lança o valor do desconto como despesas comerciais.",
-        "D) efetua um crédito de R$ 20.000 em conta de passivo.",
-        "E) reconhece uma receita pelo valor do desconto obtido."
-      ],
-      "cargo": "Agente de Defensoria"
-    },
-    {
-      "id": "cg-03-029",
-      "banca": "FCC",
-      "orgao": "DPE-SP",
-      "ano": 2009,
-      "tipo": "multipla_escolha",
-      "enunciado": "O registro da venda à vista de um estoque provoca",
-      "resposta": "E",
-      "comentario": "Exemplo: Venda à vista de um estoque registrado por R$ 1.000,00 ao preço de R$ 1.500,00 Pela venda do estoque, lançamos: D Caixa C Receita de vendas 1.500 1.500 Pela baixa da mercadoria, lançamos: D Custo da mercadoria vendida 1.000 C Estoque 1.000 Analisemos as assertivas. (A) um aumento do passivo circulante. Incorreto. A venda à vista não tem efeitos sobre o passivo circulante. (B) a diminuição do patrimônio líquido. Incorreto. O PL é aumentado com a apuração do lucro na venda e a consequente transferência do resultado para o balanço. (C) um crédito em conta de ativo. Incorreto. Esta questão contém uma pegadinha. Vejam que ele está pedindo que trabalhemos com o registro da venda. Não falou a questão sobre a baixa do estoque. Devemos levar em consideração tão somente o lançamento: D Caixa C Receita de vendas 1.500 1.500 Assim, não há, neste lançamento, crédito em conta de ativo. Se levássemos ambos os lançamentos em consideração, aí sim teríamos crédito em conta do ativo. (D) uma diminuição de um passivo circulante. Incorreto. Não há alteração do passivo neste registro. (E) alteração na situação líquida da empresa. Correto. O resultado do exercício aumenta com a venda de mercadorias acima do preço de custo. Este resultado, como sabido, é transferido para o capital próprio. Assim, o registro de uma venda à vista altera sim a situação líquida da empresa. Repare que, nessa questão, a FCC também não considerou a baixa do estoque e a contabilização do Custo da Mercadoria Vendida.",
-      "dificuldade": 4,
-      "opcoes": [
-        "A) um aumento do passivo circulante.",
-        "B) a diminuição do patrimônio líquido.",
-        "C) um crédito em conta de ativo.",
-        "D) uma diminuição de um passivo circulante.",
-        "E) alteração na situação líquida da empresa."
-      ],
-      "cargo": "Agente de Defensoria"
-    },
-    {
       "id": "cg-03-024",
       "banca": "FCC",
       "orgao": "DPE-SP",
@@ -549,6 +511,42 @@
         "C) lança o valor do desconto como despesas comerciais.",
         "D) efetua um crédito de R$ 20.000 em conta de passivo.",
         "E) reconhece uma receita pelo valor do desconto obtido."
+      ]
+    },
+    {
+      "id": "cg-03-028",
+      "banca": "FCC",
+      "orgao": "DPE-SP",
+      "ano": 2009,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma empresa efetua a quitação antecipada, de uma fatura relativa ao fornecimento de suprimentos, no valor de R$ 20.000,00 obtendo um desconto de 10%. No registro dessa operação a empresa",
+      "resposta": "E",
+      "comentario": "A contabilização do pagamento deve ser registrada da seguinte forma: D Fornecedores (Passivo Circulante) C Receita Financeira (Descontos obtidos) C Caixa ou Bancos (Ativo Circulante) 20.000 2.000 18.000 Análise das alternativas: A) Alternativa Incorreta. Há um crédito em conta de ativo, no valor de 18.000 B) Alternativa Incorreta. O valor do débito em conta de passivo é de 20.000 C) Alternativa Incorreta. O valor do desconto obtido é lançado como Receita Financeira. D) Alternativa Incorreta. A conta de Passivo é debitada em 20.000, e não creditada. E) Alternativa Correta. Os descontos financeiros obtidos são contabilizados como Receita Financeira.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) registra um débito em conta de ativo no valor de R$ 20.000.",
+        "B) contabiliza um débito de R$ 18.000 em conta do passivo.",
+        "C) lança o valor do desconto como despesas comerciais.",
+        "D) efetua um crédito de R$ 20.000 em conta de passivo.",
+        "E) reconhece uma receita pelo valor do desconto obtido."
+      ]
+    },
+    {
+      "id": "cg-03-029",
+      "banca": "FCC",
+      "orgao": "DPE-SP",
+      "ano": 2009,
+      "tipo": "multipla_escolha",
+      "enunciado": "O registro da venda à vista de um estoque provoca",
+      "resposta": "E",
+      "comentario": "Exemplo: Venda à vista de um estoque registrado por R$ 1.000,00 ao preço de R$ 1.500,00 Pela venda do estoque, lançamos: D Caixa C Receita de vendas 1.500 1.500 Pela baixa da mercadoria, lançamos: D Custo da mercadoria vendida 1.000 C Estoque 1.000 Analisemos as assertivas. (A) um aumento do passivo circulante. Incorreto. A venda à vista não tem efeitos sobre o passivo circulante. (B) a diminuição do patrimônio líquido. Incorreto. O PL é aumentado com a apuração do lucro na venda e a consequente transferência do resultado para o balanço. (C) um crédito em conta de ativo. Incorreto. Esta questão contém uma pegadinha. Vejam que ele está pedindo que trabalhemos com o registro da venda. Não falou a questão sobre a baixa do estoque. Devemos levar em consideração tão somente o lançamento: D Caixa C Receita de vendas 1.500 1.500 Assim, não há, neste lançamento, crédito em conta de ativo. Se levássemos ambos os lançamentos em consideração, aí sim teríamos crédito em conta do ativo. (D) uma diminuição de um passivo circulante. Incorreto. Não há alteração do passivo neste registro. (E) alteração na situação líquida da empresa. Correto. O resultado do exercício aumenta com a venda de mercadorias acima do preço de custo. Este resultado, como sabido, é transferido para o capital próprio. Assim, o registro de uma venda à vista altera sim a situação líquida da empresa. Repare que, nessa questão, a FCC também não considerou a baixa do estoque e a contabilização do Custo da Mercadoria Vendida.",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) um aumento do passivo circulante.",
+        "B) a diminuição do patrimônio líquido.",
+        "C) um crédito em conta de ativo.",
+        "D) uma diminuição de um passivo circulante.",
+        "E) alteração na situação líquida da empresa."
       ]
     },
     {
@@ -1086,7 +1084,7 @@
       "id": "cg-03-049",
       "banca": "FGV",
       "orgao": "ALERO",
-      "cargo": "Analista Legislativo Contabilidade",
+      "cargo": "Analista Legislativo - Contabilidade",
       "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Em 02/01/2017, uma empresa começou uma obra em sua sede. Na data, ela alugou um depósito para guardar os móveis, pagando aluguel antecipado de um ano, no valor de R$6.000,00. Os móveis foram transferidos para o depósito, em 01/02/2017, e foram, em sua maioria, retornados para a sede da empresa, em 01/10/2017. A obra acabou em 31/12/2017. Assinale a opção correta em relação à apropriação da despesa de aluguel do galpão, considerando que a empresa segue o Regime de Competência.",
@@ -1425,6 +1423,63 @@
       ]
     },
     {
+      "id": "cg-03-035",
+      "banca": "FGV",
+      "orgao": "Pref. Caraguatatuba",
+      "cargo": "Controlador Interno",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Um consultório médico atende apenas clientes particulares e recebe à vista pelas consultas realizadas. Os seguintes fatos aconteceram no consultório no ano de 2023: 01/01: Pagamento de R$48.000 a título de aluguel antecipado de dois anos do consultório, para uso imediato, apropriado mensalmente de forma linear. 02/01: Pagamento de R$15.000 referente à dívida com fornecedor, por compra realizada e recebida no ano anterior. 31/12: Constatação de que a receita com atendimentos no ano foi de R$500.000. Os custos com os serviços prestados foram de R$120.000. Assinale a opção que indica o resultado antes do imposto de renda apurado pelo consultório, em relação ao ano de 2023, sem considerar a incidência de impostos:",
+      "resposta": "D",
+      "comentario": "Para encontramos o resultado da empresa antes do imposto de renda apurado pelo consultório, em relação ao ano de 2023, temos que encontrar as receitas e despesas que ocorreram nesse período. Vejamos os fatos apresentados: 01/01: Pagamento de R$48.000 a título de aluguel antecipado de dois anos do consultório, para uso imediato, apropriado mensalmente de forma linear. Considerando o regime de competência, apenas o aluguel relativo ao mês de 2023 será lançado no resultado como despesa. Se o aluguel para 2 anos é de 48.000, vamos apropriar 48.000/2 = R$ 24.000 como despesa de aluguel no exercício. 02/01: Pagamento de R$15.000 referente à dívida com fornecedor, por compra realizada e recebida no ano anterior. Esse fato não gera despesas para a empresa, pois estamos quitando um passivo. 31/12: Constatação de que a receita com atendimentos no ano foi de R$500.000. Os custos com os serviços prestados foram de R$120.000 Receita de 500.000 e despesa com Custo dos Serviços Prestados de 120.000. O resultado do período foi = 500.000 120.000 24.000 = R$ 356.000",
+      "dificuldade": 3,
+      "opcoes": [
+        "A) R$317.000.",
+        "B) R$332.000.",
+        "C) R$341.000.",
+        "D) R$356.000.",
+        "E) R$380.000."
+      ]
+    },
+    {
+      "id": "cg-03-033",
+      "banca": "FGV",
+      "orgao": "Pref. Caraguatatuba",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 01/01/2023, uma sociedade empresária adquiriu, à vista, computadores para utilizar em seus negócios por R$20.000. Na data, ela contratou um sistema antivírus anual por R$1.200. O pagamento foi feito em duas parcelas de R$600, pagas em janeiro e em fevereiro. Os computadores começaram a ser protegidos pelo antivírus na data de sua compra. Assinale a opção que indica a despesa contabilizada pela sociedade empresária, em janeiro de 2023, em relação ao antivírus, considerando que é utilizado o Regime de Competência.",
+      "resposta": "B",
+      "comentario": "Questão que trata da contabilização de despesas antecipadas. Em 01/01/2023, a empresa contratou um sistema antivírus anual por R$1.200. Atendendo ao regime de competência, a entidade irá reconhecer no resultado, uma despesa mensal com o antivírus de 1.200/12 = R$ 100; A forma como foi combinado o pagamento do antivírus não altera em nada esse reconhecimento.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) Zero.",
+        "B) R$100.",
+        "C) R$600.",
+        "D) R$1.200.",
+        "E) R$21.200."
+      ]
+    },
+    {
+      "id": "cg-03-034",
+      "banca": "FGV",
+      "orgao": "Pref. Caraguatatuba",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2024,
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma entidade usa o Regime de Caixa para contabilizar as suas transações. De acordo com o Regime de Caixa, uma receita deve ser contabilizada de acordo com",
+      "resposta": "C",
+      "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas: Regime de Caixa e Regime de Competência. Um deles, é mais simplificado, e se preocupa com as entradas e saídas de caixa ou equivalentes de caixa, por isso, é chamado de Regime de Caixa. Por exemplo: efetuei uma venda de mercadorias no dia 26 de janeiro de 20x0, mas só vou receber em março. março, ainda que a venda tenha sido feita em janeiro. Portanto, nosso gabarito é a alternativa C.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) a assinatura de contrato.",
+        "B) o acontecimento do fato gerador.",
+        "C) o ingresso de bens e numerários.",
+        "D) a transferência dos riscos e benefícios.",
+        "E) a prestação de serviço ou entrega de produto."
+      ]
+    },
+    {
       "id": "cg-03-065",
       "banca": "FGV",
       "orgao": "Pref. Recife",
@@ -1460,63 +1515,6 @@
         "C) R$ 22.400",
         "D) R$ 56.000.",
         "E) R$ 65.600."
-      ]
-    },
-    {
-      "id": "cg-03-035",
-      "banca": "FGV",
-      "orgao": "Prefeitura de Caraguatatuba",
-      "cargo": "Controlador Interno",
-      "ano": 2024,
-      "tipo": "multipla_escolha",
-      "enunciado": "Um consultório médico atende apenas clientes particulares e recebe à vista pelas consultas realizadas. Os seguintes fatos aconteceram no consultório no ano de 2023: 01/01: Pagamento de R$48.000 a título de aluguel antecipado de dois anos do consultório, para uso imediato, apropriado mensalmente de forma linear. 02/01: Pagamento de R$15.000 referente à dívida com fornecedor, por compra realizada e recebida no ano anterior. 31/12: Constatação de que a receita com atendimentos no ano foi de R$500.000. Os custos com os serviços prestados foram de R$120.000. Assinale a opção que indica o resultado antes do imposto de renda apurado pelo consultório, em relação ao ano de 2023, sem considerar a incidência de impostos:",
-      "resposta": "D",
-      "comentario": "Para encontramos o resultado da empresa antes do imposto de renda apurado pelo consultório, em relação ao ano de 2023, temos que encontrar as receitas e despesas que ocorreram nesse período. Vejamos os fatos apresentados: 01/01: Pagamento de R$48.000 a título de aluguel antecipado de dois anos do consultório, para uso imediato, apropriado mensalmente de forma linear. Considerando o regime de competência, apenas o aluguel relativo ao mês de 2023 será lançado no resultado como despesa. Se o aluguel para 2 anos é de 48.000, vamos apropriar 48.000/2 = R$ 24.000 como despesa de aluguel no exercício. 02/01: Pagamento de R$15.000 referente à dívida com fornecedor, por compra realizada e recebida no ano anterior. Esse fato não gera despesas para a empresa, pois estamos quitando um passivo. 31/12: Constatação de que a receita com atendimentos no ano foi de R$500.000. Os custos com os serviços prestados foram de R$120.000 Receita de 500.000 e despesa com Custo dos Serviços Prestados de 120.000. O resultado do período foi = 500.000 120.000 24.000 = R$ 356.000",
-      "dificuldade": 3,
-      "opcoes": [
-        "A) R$317.000.",
-        "B) R$332.000.",
-        "C) R$341.000.",
-        "D) R$356.000.",
-        "E) R$380.000."
-      ]
-    },
-    {
-      "id": "cg-03-033",
-      "banca": "FGV",
-      "orgao": "Prefeitura de Caraguatatuba",
-      "cargo": "Técnico em Contabilidade",
-      "ano": 2024,
-      "tipo": "multipla_escolha",
-      "enunciado": "Em 01/01/2023, uma sociedade empresária adquiriu, à vista, computadores para utilizar em seus negócios por R$20.000. Na data, ela contratou um sistema antivírus anual por R$1.200. O pagamento foi feito em duas parcelas de R$600, pagas em janeiro e em fevereiro. Os computadores começaram a ser protegidos pelo antivírus na data de sua compra. Assinale a opção que indica a despesa contabilizada pela sociedade empresária, em janeiro de 2023, em relação ao antivírus, considerando que é utilizado o Regime de Competência.",
-      "resposta": "B",
-      "comentario": "Questão que trata da contabilização de despesas antecipadas. Em 01/01/2023, a empresa contratou um sistema antivírus anual por R$1.200. Atendendo ao regime de competência, a entidade irá reconhecer no resultado, uma despesa mensal com o antivírus de 1.200/12 = R$ 100; A forma como foi combinado o pagamento do antivírus não altera em nada esse reconhecimento.",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) Zero.",
-        "B) R$100.",
-        "C) R$600.",
-        "D) R$1.200.",
-        "E) R$21.200."
-      ]
-    },
-    {
-      "id": "cg-03-034",
-      "banca": "FGV",
-      "orgao": "Prefeitura de Caraguatatuba",
-      "cargo": "Técnico em Contabilidade",
-      "ano": 2024,
-      "tipo": "multipla_escolha",
-      "enunciado": "Uma entidade usa o Regime de Caixa para contabilizar as suas transações. De acordo com o Regime de Caixa, uma receita deve ser contabilizada de acordo com",
-      "resposta": "C",
-      "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas: Regime de Caixa e Regime de Competência. Um deles, é mais simplificado, e se preocupa com as entradas e saídas de caixa ou equivalentes de caixa, por isso, é chamado de Regime de Caixa. Por exemplo: efetuei uma venda de mercadorias no dia 26 de janeiro de 20x0, mas só vou receber em março. março, ainda que a venda tenha sido feita em janeiro. Portanto, nosso gabarito é a alternativa C.",
-      "dificuldade": 2,
-      "opcoes": [
-        "A) a assinatura de contrato.",
-        "B) o acontecimento do fato gerador.",
-        "C) o ingresso de bens e numerários.",
-        "D) a transferência dos riscos e benefícios.",
-        "E) a prestação de serviço ou entrega de produto."
       ]
     },
     {

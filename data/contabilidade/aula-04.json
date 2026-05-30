@@ -104,7 +104,7 @@
     {
       "id": "cg-04-008",
       "banca": "CEBRASPE",
-      "orgao": "TRF-6ª Região",
+      "orgao": "TRF-6",
       "cargo": "Analista",
       "ano": 2025,
       "tipo": "certo_errado",
@@ -116,7 +116,7 @@
     {
       "id": "cg-04-009",
       "banca": "CEBRASPE",
-      "orgao": "TRF-6ª Região",
+      "orgao": "TRF-6",
       "cargo": "Analista",
       "ano": 2025,
       "tipo": "certo_errado",
@@ -128,7 +128,7 @@
     {
       "id": "cg-04-010",
       "banca": "CEBRASPE",
-      "orgao": "TRF-6ª Região",
+      "orgao": "TRF-6",
       "cargo": "Técnico",
       "ano": 2025,
       "tipo": "certo_errado",

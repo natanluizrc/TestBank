@@ -54,6 +54,8 @@ const ORGAO_MAP = {
   'TRF 4':                      'TRF-4',
   'TRF 4ª':                     'TRF-4',
   'TRF 4ª Região':              'TRF-4',
+  'TRF 6':                      'TRF-6',
+  'TRF-6ª Região':              'TRF-6',
   'TRT 3':                      'TRT-3',
   'TRT-3':                      'TRT-3',
   'TRT-3ª Região':              'TRT-3',
@@ -62,6 +64,17 @@ const ORGAO_MAP = {
   'TRT-21':                     'TRT-21',
   'TRT 22ª Região':             'TRT-22',
   'TRT 24ª Região':             'TRT-24',
+  // Padronização de notação (detectadas 2026-05-30)
+  'CAU BR':                     'CAU-BR',
+  'PC DF':                      'PC-DF',
+  'SEFAZ AC':                   'SEFAZ-AC',
+  'SEPLAG CE':                  'SEPLAG-CE',
+  'DPE RO':                     'DPE-RO',
+  'TCE RJ':                     'TCE-RJ',
+  'Prefeitura de Caraguatatuba':'Pref. Caraguatatuba',
+  'Câmara Municipal de Aracaju':'CM Aracaju',
+  'CM COTIA':                   'CM Cotia',
+  'Câmara de Cotia':            'CM Cotia',
 };
 
 const CARGO_MAP = {
@@ -70,6 +83,13 @@ const CARGO_MAP = {
   'TÉCNICO CONTABILIDADE':          'Técnico Contabilidade',
   'FISCAL DE TRIBUTOS MUNICIPAIS':  'Fiscal de Tributos Municipais',
   'Contabilidade / adaptada':       'Contabilidade',  // adaptada já é campo separado
+  // Padronização de notação (detectadas 2026-05-30)
+  'Analista Judiciário Contabilidade':  'Analista Judiciário - Contabilidade',
+  'Analista / Processos Contábeis':     'Analista de Processos - Contabilidade',
+  'Analista de Processos Contábeis':    'Analista de Processos - Contabilidade',
+  'Técnico-Financeiro':                 'Técnico Financeiro',
+  'Analista Legislativo Contabilidade': 'Analista Legislativo - Contabilidade',
+  'Analista Legislativo / Contabilidade':'Analista Legislativo - Contabilidade',
 };
 
 // ─── Correções pontuais por ID ────────────────────────────────────────────────

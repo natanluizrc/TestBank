@@ -144,7 +144,7 @@
       "id": "cg-01a-57",
       "banca": "CEBRASPE",
       "orgao": "APEX",
-      "cargo": "Analista / Processos Contábeis",
+      "cargo": "Analista de Processos - Contabilidade",
       "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Em dado exercício social, uma entidade apresentou passivo a descoberto. Nessa situação,",
@@ -161,8 +161,8 @@
     {
       "id": "cg-01a-27",
       "banca": "CEBRASPE",
-      "orgao": "CAU BR",
-      "cargo": "Técnico-Financeiro",
+      "orgao": "CAU-BR",
+      "cargo": "Técnico Financeiro",
       "ano": 2024,
       "tipo": "certo_errado",
       "enunciado": "No balanço patrimonial, o ativo representa as aplicações de recursos, enquanto o passivo e o patrimônio líquido revelam as fontes que financiam as referidas aplicações.",
@@ -173,7 +173,7 @@
     {
       "id": "cg-01a-56",
       "banca": "CEBRASPE",
-      "orgao": "DPE RO",
+      "orgao": "DPE-RO",
       "cargo": "Técnico em Contabilidade",
       "ano": 2022,
       "tipo": "multipla_escolha",
@@ -286,42 +286,6 @@
       "dificuldade": 1
     },
     {
-      "id": "cg-01a-54",
-      "banca": "CEBRASPE",
-      "orgao": "PC DF",
-      "cargo": "Contador",
-      "ano": 2025,
-      "tipo": "certo_errado",
-      "enunciado": "Verifica-se uma situação líquida positiva caso haja, no balanço patrimonial de uma entidade, apenas os saldos especificados a seguir: caixa e equivalentes: R$ 10.000; contas a receber: R$ 25.000; contas a pagar: R$ 15.000; patrimônio líquido: R$ 20.000.",
-      "resposta": "certo",
-      "comentario": "Ativo = caixa + contas a receber = R$ 10.000 + R$ 25.000 = R$ 35.000. Passivo = contas a pagar = R$ 15.000. Como Ativo (R$ 35.000) > Passivo (R$ 15.000), a situação líquida é positiva (superavitária). O PL = R$ 35.000 − R$ 15.000 = R$ 20.000, confirmando o dado informado.",
-      "dificuldade": 2
-    },
-    {
-      "id": "cg-01a-130",
-      "banca": "CEBRASPE",
-      "orgao": "PC DF",
-      "cargo": "Contador",
-      "ano": 2025,
-      "tipo": "certo_errado",
-      "enunciado": "No cotidiano das entidades contábeis, é impossível ocorrer uma situação patrimonial expressa por ativos + |passivos| = patrimônio líquido, em que a simbologia |x| representa o valor absoluto de x.",
-      "resposta": "errado",
-      "comentario": "A equação fundamental é PL = Ativo − Passivo. Com o módulo, |passivos| trata o passivo como valor positivo. Se o Passivo = 0 (momento de constituição da entidade), então: PL = Ativo + |0| = Ativo + 0 = Ativo — situação plenamente possível. Portanto, a afirmativa de que tal situação é impossível está errada.",
-      "dificuldade": 3
-    },
-    {
-      "id": "cg-01a-24",
-      "banca": "CEBRASPE",
-      "orgao": "PC DF",
-      "cargo": "Contador",
-      "tipo": "certo_errado",
-      "enunciado": "Ativo + patrimônio líquido < passivo exigível é uma expressão que sintetiza a situação de passivo a descoberto.",
-      "resposta": "certo",
-      "comentario": "Correto. Na situação de passivo a descoberto, o Passivo supera a soma do Ativo com o PL (negativo). A expressão está correta: mesmo somando o PL negativo ao Ativo, o resultado ainda é menor que o Passivo.",
-      "dificuldade": 2,
-      "ano": 2024
-    },
-    {
       "id": "cg-01a-60",
       "banca": "CEBRASPE",
       "orgao": "PC PB",
@@ -377,6 +341,42 @@
       "resposta": "B",
       "comentario": "Ativo = 36.000 + 12.000 − 3.600 + 27.000 = R$ 71.400. Passivo = 38.000 + 44.000 = R$ 82.000. PL = 71.400 − 82.000 = −R$ 10.600. Situação líquida negativa em R$ 10.600. A depreciação acumulada reduz o imobilizado, sendo uma conta retificadora do ativo.",
       "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-54",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "Verifica-se uma situação líquida positiva caso haja, no balanço patrimonial de uma entidade, apenas os saldos especificados a seguir: caixa e equivalentes: R$ 10.000; contas a receber: R$ 25.000; contas a pagar: R$ 15.000; patrimônio líquido: R$ 20.000.",
+      "resposta": "certo",
+      "comentario": "Ativo = caixa + contas a receber = R$ 10.000 + R$ 25.000 = R$ 35.000. Passivo = contas a pagar = R$ 15.000. Como Ativo (R$ 35.000) > Passivo (R$ 15.000), a situação líquida é positiva (superavitária). O PL = R$ 35.000 − R$ 15.000 = R$ 20.000, confirmando o dado informado.",
+      "dificuldade": 2
+    },
+    {
+      "id": "cg-01a-130",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "ano": 2025,
+      "tipo": "certo_errado",
+      "enunciado": "No cotidiano das entidades contábeis, é impossível ocorrer uma situação patrimonial expressa por ativos + |passivos| = patrimônio líquido, em que a simbologia |x| representa o valor absoluto de x.",
+      "resposta": "errado",
+      "comentario": "A equação fundamental é PL = Ativo − Passivo. Com o módulo, |passivos| trata o passivo como valor positivo. Se o Passivo = 0 (momento de constituição da entidade), então: PL = Ativo + |0| = Ativo + 0 = Ativo — situação plenamente possível. Portanto, a afirmativa de que tal situação é impossível está errada.",
+      "dificuldade": 3
+    },
+    {
+      "id": "cg-01a-24",
+      "banca": "CEBRASPE",
+      "orgao": "PC-DF",
+      "cargo": "Contador",
+      "tipo": "certo_errado",
+      "enunciado": "Ativo + patrimônio líquido < passivo exigível é uma expressão que sintetiza a situação de passivo a descoberto.",
+      "resposta": "certo",
+      "comentario": "Correto. Na situação de passivo a descoberto, o Passivo supera a soma do Ativo com o PL (negativo). A expressão está correta: mesmo somando o PL negativo ao Ativo, o resultado ainda é menor que o Passivo.",
+      "dificuldade": 2,
+      "ano": 2024
     },
     {
       "id": "cg-01a-61",
@@ -886,7 +886,7 @@
       "id": "cg-01a-52",
       "banca": "FGV",
       "orgao": "AL-MT",
-      "cargo": "Analista Legislativo / Contabilidade",
+      "cargo": "Analista Legislativo - Contabilidade",
       "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "O capital total de uma empresa, em determinado momento, é a soma do capital próprio com o capital de terceiros. Se uma empresa possui Ativo Total de R$ 500.000,00 e Patrimônio Líquido de R$ 200.000,00, então o capital de terceiros é de",
@@ -942,7 +942,7 @@
     {
       "id": "cg-01a-12",
       "banca": "FGV",
-      "orgao": "Câmara Municipal de Aracaju",
+      "orgao": "CM Aracaju",
       "cargo": "Contador",
       "ano": 2021,
       "tipo": "multipla_escolha",
