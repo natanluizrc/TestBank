@@ -127,7 +127,7 @@
     },
     {
       "id": "cg-02b-008",
-      "banca": "Instituto AOCP",
+      "banca": "AOCP",
       "orgao": "SEAD GO",
       "cargo": "Analista de Gestão Governamental",
       "ano": 2022,
@@ -146,7 +146,7 @@
     },
     {
       "id": "cg-02b-009",
-      "banca": "Instituto AOCP",
+      "banca": "AOCP",
       "orgao": "ITEP-RN",
       "cargo": "Perito Criminal / Área Geral",
       "ano": 2021,
@@ -165,7 +165,7 @@
     },
     {
       "id": "cg-02b-010",
-      "banca": "Instituto AOCP",
+      "banca": "AOCP",
       "orgao": "FSNH",
       "cargo": "Contador",
       "ano": 2021,
@@ -512,7 +512,7 @@
     },
     {
       "id": "cg-02b-029",
-      "banca": "Instituto AOCP",
+      "banca": "AOCP",
       "orgao": "Maringá",
       "ano": 2017,
       "tipo": "multipla_escolha",

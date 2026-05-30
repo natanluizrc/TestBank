@@ -186,7 +186,7 @@
     },
     {
       "id": "cg-02a-011",
-      "banca": "Instituto AOCP",
+      "banca": "AOCP",
       "orgao": "MPE-MS",
       "cargo": "Analista em Contabilidade",
       "ano": 2023,
@@ -315,7 +315,7 @@
     },
     {
       "id": "cg-02a-018",
-      "banca": "Instituto AOCP",
+      "banca": "AOCP",
       "orgao": "IFNMG",
       "cargo": "Contador",
       "ano": 2022,
@@ -352,7 +352,7 @@
     },
     {
       "id": "cg-02a-020",
-      "banca": "Instituto AOCP",
+      "banca": "AOCP",
       "orgao": "IFNMG",
       "cargo": "Contador",
       "ano": 2022,
@@ -389,7 +389,7 @@
     },
     {
       "id": "cg-02a-022",
-      "banca": "Instituto AOCP",
+      "banca": "AOCP",
       "orgao": "ITEP-RN",
       "cargo": "Perito Criminal / Contabilidade e Economia",
       "ano": 2021,
@@ -552,7 +552,7 @@
     },
     {
       "id": "cg-02a-031",
-      "banca": "Instituto AOCP",
+      "banca": "AOCP",
       "orgao": "UFPB",
       "cargo": "Contabilidade",
       "ano": 2019,
@@ -933,7 +933,7 @@
     },
     {
       "id": "cg-02a-052",
-      "banca": "Instituto AOCP",
+      "banca": "AOCP",
       "ano": 2016,
       "tipo": "multipla_escolha",
       "enunciado": "A operação de uma venda de imobilizado com lucro apresenta que tipo de fato contábil?",
