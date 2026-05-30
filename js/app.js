@@ -272,8 +272,8 @@ function renderListaQuestoes(questoes) {
       <select id="filtro-orgao" class="filtro-select"><option value="">Órgão</option>${opts(questoes.map(q => q.orgao))}</select>
       <select id="filtro-cargo" class="filtro-select"><option value="">Cargo</option>${opts(questoes.map(q => q.cargo))}</select>
       <select id="filtro-ano"   class="filtro-select"><option value="">Ano</option>${opts(questoes.map(q => q.ano))}</select>
-      <select id="filtro-dif"   class="filtro-select"><option value="">Dificuldade</option>${difOpts}</select>
       <select id="filtro-tipo"  class="filtro-select"><option value="">Tipo</option>${tipoOpts}</select>
+      <select id="filtro-dif"   class="filtro-select"><option value="">Dificuldade</option>${difOpts}</select>
       <button id="btn-limpar-filtros" class="btn-limpar hidden">Limpar</button>
     </div>
     <div class="questoes-barra aula-barra-sticky">
@@ -289,7 +289,7 @@ function renderListaQuestoes(questoes) {
     if (pl) pl.innerHTML = placarHtml();
   };
 
-  const FILTROS = ['filtro-banca', 'filtro-orgao', 'filtro-cargo', 'filtro-ano', 'filtro-dif', 'filtro-tipo'];
+  const FILTROS = ['filtro-banca', 'filtro-orgao', 'filtro-cargo', 'filtro-ano', 'filtro-tipo', 'filtro-dif'];
 
   const aplicarFiltros = () => {
     const banca = document.getElementById('filtro-banca').value;
