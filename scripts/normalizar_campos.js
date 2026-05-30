@@ -11,7 +11,8 @@ const BANCA_MAP = {
   'COPS UEL':               'COPS-UEL',
   'INSTITUTO ACCESS':       'Instituto ACCESS',
   'INSTITUTO VERBENA':      'Instituto Verbena',
-  'Instituto AOCP - Ana Leg': 'Instituto AOCP',  // "Ana Leg" = cargo, não banca
+  'Instituto AOCP':           'AOCP',
+  'Instituto AOCP - Ana Leg': 'AOCP',
 };
 
 const ORGAO_MAP = {
@@ -157,8 +158,8 @@ for (const file of walk(dir)) {
       changed = true;
     }
 
-    // 6. Instituto AOCP - Ana Leg: orgao="Contabilidade" deve ser cargo
-    if (q.banca === 'Instituto AOCP' && q.orgao === 'Contabilidade' && !q.cargo) {
+    // 6. AOCP - Ana Leg: orgao="Contabilidade" deve ser cargo (antes: "Instituto AOCP")
+    if (q.banca === 'AOCP' && q.orgao === 'Contabilidade' && !q.cargo) {
       q.cargo = 'Analista Legislativo / Contabilidade';
       q.orgao = undefined;
       changed = true;
