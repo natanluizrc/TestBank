@@ -268,13 +268,17 @@ function renderListaQuestoes(questoes) {
 
   area.innerHTML = `
     <div class="barra-filtros barra-filtros-sticky">
-      <select id="filtro-banca" class="filtro-select"><option value="">Banca</option>${opts(questoes.map(q => q.banca))}</select>
-      <select id="filtro-orgao" class="filtro-select"><option value="">Órgão</option>${opts(questoes.map(q => q.orgao))}</select>
-      <select id="filtro-cargo" class="filtro-select"><option value="">Cargo</option>${opts(questoes.map(q => q.cargo))}</select>
-      <select id="filtro-ano"   class="filtro-select"><option value="">Ano</option>${opts(questoes.map(q => q.ano))}</select>
-      <select id="filtro-tipo"  class="filtro-select"><option value="">Tipo</option>${tipoOpts}</select>
-      <select id="filtro-dif"   class="filtro-select"><option value="">Dificuldade</option>${difOpts}</select>
-      <button id="btn-limpar-filtros" class="btn-limpar hidden">Limpar</button>
+      <div class="filtros-linha">
+        <select id="filtro-banca" class="filtro-select"><option value="">Banca</option>${opts(questoes.map(q => q.banca))}</select>
+        <select id="filtro-orgao" class="filtro-select"><option value="">Órgão</option>${opts(questoes.map(q => q.orgao))}</select>
+        <select id="filtro-cargo" class="filtro-select"><option value="">Cargo</option>${opts(questoes.map(q => q.cargo))}</select>
+      </div>
+      <div class="filtros-linha">
+        <select id="filtro-ano"  class="filtro-select"><option value="">Ano</option>${opts(questoes.map(q => q.ano))}</select>
+        <select id="filtro-tipo" class="filtro-select"><option value="">Tipo</option>${tipoOpts}</select>
+        <select id="filtro-dif"  class="filtro-select"><option value="">Dificuldade</option>${difOpts}</select>
+        <button id="btn-limpar-filtros" class="btn-limpar hidden">Limpar</button>
+      </div>
     </div>
     <div class="questoes-barra aula-barra-sticky">
       <div class="barra-placar">${placarHtml()}</div>
