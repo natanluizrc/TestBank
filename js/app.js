@@ -240,15 +240,31 @@ async function renderQuestoes() {
 // ---- Modo lista ----
 function renderListaQuestoes(questoes) {
   const area = document.getElementById('questoes-area');
+  let questoesFiltradas = [...questoes];
+
+  const p3 = n => String(n).padStart(3, '0');
 
   const placarHtml = () => {
-    const acertos  = Object.values(listaRespostas).filter(r => r.acertou).length;
-    const erros    = Object.values(listaRespostas).filter(r => !r.acertou).length;
-    const fixadas  = questoes.filter(q => revisaoIds.has(q.id)).length;
-    return `<span class="total">${String(questoes.length).padStart(3,'0')}</span><span class="acerto">${String(acertos).padStart(3,'0')}</span><span class="erro">${String(erros).padStart(3,'0')}</span><span class="fixadas">${String(fixadas).padStart(3,'0')}</span>`;
+    const ids     = new Set(questoesFiltradas.map(q => q.id));
+    const acertos = Object.entries(listaRespostas).filter(([id, r]) => ids.has(id) && r.acertou).length;
+    const erros   = Object.entries(listaRespostas).filter(([id, r]) => ids.has(id) && !r.acertou).length;
+    const fixadas = questoesFiltradas.filter(q => revisaoIds.has(q.id)).length;
+    return `<span class="total">${p3(questoesFiltradas.length)}</span><span class="acerto">${p3(acertos)}</span><span class="erro">${p3(erros)}</span><span class="fixadas">${p3(fixadas)}</span>`;
   };
 
+  const uniq = arr => [...new Set(arr.filter(v => v != null))].sort((a, b) =>
+    typeof a === 'number' ? b - a : String(a).localeCompare(String(b), 'pt')
+  );
+  const opts = vals => uniq(vals).map(v => `<option value="${v}">${v}</option>`).join('');
+
   area.innerHTML = `
+    <div class="barra-filtros barra-filtros-sticky">
+      <select id="filtro-banca" class="filtro-select"><option value="">Banca</option>${opts(questoes.map(q => q.banca))}</select>
+      <select id="filtro-orgao" class="filtro-select"><option value="">Órgão</option>${opts(questoes.map(q => q.orgao))}</select>
+      <select id="filtro-cargo" class="filtro-select"><option value="">Cargo</option>${opts(questoes.map(q => q.cargo))}</select>
+      <select id="filtro-ano"   class="filtro-select"><option value="">Ano</option>${opts(questoes.map(q => q.ano))}</select>
+      <button id="btn-limpar-filtros" class="btn-limpar hidden">Limpar</button>
+    </div>
     <div class="questoes-barra aula-barra-sticky">
       <div class="barra-placar">${placarHtml()}</div>
       <button id="btn-expandir">Ver Gabaritos</button>
@@ -262,10 +278,49 @@ function renderListaQuestoes(questoes) {
     if (pl) pl.innerHTML = placarHtml();
   };
 
+  const aplicarFiltros = () => {
+    const banca = document.getElementById('filtro-banca').value;
+    const orgao = document.getElementById('filtro-orgao').value;
+    const cargo = document.getElementById('filtro-cargo').value;
+    const ano   = document.getElementById('filtro-ano').value;
+
+    questoesFiltradas = questoes.filter(q =>
+      (!banca || q.banca === banca) &&
+      (!orgao || q.orgao === orgao) &&
+      (!cargo || q.cargo === cargo) &&
+      (!ano   || String(q.ano) === ano)
+    );
+
+    const ids = new Set(questoesFiltradas.map(q => q.id));
+    area.querySelectorAll('.questao-card').forEach(card => {
+      card.classList.toggle('hidden', !ids.has(card.dataset.qid));
+    });
+
+    ['filtro-banca', 'filtro-orgao', 'filtro-cargo', 'filtro-ano'].forEach(id => {
+      document.getElementById(id)?.classList.toggle('ativo', !!document.getElementById(id).value);
+    });
+
+    const algum = banca || orgao || cargo || ano;
+    document.getElementById('btn-limpar-filtros')?.classList.toggle('hidden', !algum);
+    atualizarPlacar();
+  };
+
+  ['filtro-banca', 'filtro-orgao', 'filtro-cargo', 'filtro-ano'].forEach(id => {
+    document.getElementById(id)?.addEventListener('change', aplicarFiltros);
+  });
+
+  document.getElementById('btn-limpar-filtros')?.addEventListener('click', () => {
+    ['filtro-banca', 'filtro-orgao', 'filtro-cargo', 'filtro-ano'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) { el.value = ''; el.classList.remove('ativo'); }
+    });
+    aplicarFiltros();
+  });
+
   document.getElementById('btn-expandir').addEventListener('click', (e) => {
     const btn = e.currentTarget;
     const expandir = btn.textContent === 'Ver Gabaritos';
-    area.querySelectorAll('.gabarito-inline').forEach(gab => {
+    area.querySelectorAll('.questao-card:not(.hidden) .gabarito-inline').forEach(gab => {
       gab.classList.toggle('hidden', !expandir);
       const revelar = area.querySelector(`.btn-revelar[data-id="${gab.dataset.id}"]`);
       if (revelar) {
