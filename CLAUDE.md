@@ -163,10 +163,11 @@ Quando o usuário indicar qual aula processar:
 8. Ordenar as questões conforme critério padrão (ver seção "Ordenação das questões")
 9. Registrar a aula na lista `MATERIAS` em `app.js` (slug + titulo)
 10. Cada arquivo deve ter no mínimo 30 questões
+11. **Validar** com `node scripts/validar_aula.js data/{materia}/aula-XX.json` — corrigir todos os erros antes de prosseguir
 
 Não modificar arquivos JSON existentes, salvo para corrigir erros reportados pelo usuário.
 
-Antes de salvar o JSON, validar:
+Antes de salvar o JSON, validar com `scripts/validar_aula.js` (automatiza as checagens abaixo):
 - Total de questões no PDF bate com o total no JSON
 - Nenhum `comentario` contém `**` ou `_`
 - Questões `multipla_escolha` têm campo `opcoes`; `certo_errado` não têm
