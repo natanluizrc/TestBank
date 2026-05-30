@@ -146,7 +146,7 @@ As questões em cada arquivo JSON devem estar ordenadas pelos critérios abaixo,
 5. `tipo` — `multipla_escolha` antes de `certo_errado`
 6. `dificuldade` — crescente (1 → 5)
 
-Ao adicionar questões novas, re-ordenar o arquivo inteiro com o script `scripts/sort_questoes.js` (ou equivalente inline) antes de salvar.
+Ao adicionar questões novas, re-ordenar o arquivo inteiro com `node scripts/sort_questoes.js` antes de salvar.
 
 ## Adicionando novo conteúdo (fluxo padrão)
 
@@ -155,12 +155,12 @@ PDFs dos cursos ficam em `PDFs/{materia}/` (ex: `PDFs/ContG/`). Scripts de apoio
 Quando o usuário indicar qual aula processar:
 1. Extrair texto com `pdftotext -enc UTF-8 PDFs/ContG/ContG_XXXX.pdf PDFs/ContG/aula-XX-raw.txt`
 2. Questões: extrair da seção "Lista de Questões" do PDF; comentários da seção "Questões Comentadas"
-3. Usar `scripts/normalizar_campos.js` (ou equivalente) para limpar bancas, órgãos e cargos
-4. Atribuir `dificuldade` (1–5) a cada questão
+3. Usar `scripts/normalizar_campos.js` para limpar bancas, órgãos e cargos
+4. Atribuir `dificuldade` (1–5) a cada questão com base no conteúdo real — nunca atribuir o mesmo valor para todas
 5. Campo `banca` separado do `enunciado` — nunca embutir a banca dentro do texto da questão
 6. IDs no formato `{mat}-XX-NNN` (abreviação + número da aula com zero-padding + sequencial 3 dígitos)
 7. Salvar em `data/{materia}/aula-XX.json`
-8. Ordenar as questões conforme critério padrão (ver seção "Ordenação das questões")
+8. Ordenar com `node scripts/sort_questoes.js` (re-ordena todos os arquivos em `data/`)
 9. Registrar a aula na lista `MATERIAS` em `app.js` (slug + titulo)
 10. Cada arquivo deve ter no mínimo 30 questões
 11. **Validar** com `node scripts/validar_aula.js data/{materia}/aula-XX.json` — corrigir todos os erros antes de prosseguir
