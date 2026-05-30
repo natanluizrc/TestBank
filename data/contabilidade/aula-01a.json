@@ -2248,8 +2248,8 @@
     {
       "id": "cg-01a-127",
       "banca": "FGV",
-      "orgao": "Contador",
-      "cargo": "SUDENE / PE",
+      "orgao": "SUDENE",
+      "cargo": "Contador",
       "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "Observe as contas: Fornecedores; Impostos a Recuperar; Reserva de Lucro; Adiantamento de Salários; Estoque; Custo de Vendas e Receita do período. Assinale a alternativa que indica a equação contábil que representa o método das partidas dobradas em relação às contas listadas acima.",

@@ -1398,8 +1398,8 @@
     {
       "id": "cg-02a-082",
       "banca": "CEBRASPE",
-      "orgao": "Agência de Polícia",
-      "cargo": "PC PE",
+      "orgao": "PC PE",
+      "cargo": "Agência de Polícia",
       "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Julgue os itens a seguir, relativos a atos e fatos administrativos. I A compra, à vista, de mercadorias para revenda constitui um fato administrativo permutativo. II A compra de um veículo, com 50% do pagamento em dinheiro e 50% financiado, é um exemplo de fato administrativo misto. III O pagamento de um título vencido e acrescido de juros moratórios e multa é um fato administrativo modificativo. Assinale a opção correta.",
@@ -1929,8 +1929,8 @@
     {
       "id": "cg-02a-114",
       "banca": "FGV",
-      "orgao": "Contador",
-      "cargo": "AL / MA",
+      "orgao": "AL-MA",
+      "cargo": "Contador",
       "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que apresenta o registro de um fato misto aumentativo.",
@@ -2169,8 +2169,8 @@
     {
       "id": "cg-02a-127",
       "banca": "CESGRANRIO",
-      "orgao": "Contador",
-      "cargo": "CEFET / RJ",
+      "orgao": "CEFET-RJ",
+      "cargo": "Contador",
       "ano": 2014,
       "tipo": "multipla_escolha",
       "enunciado": "A companhia N realizou hoje, em seu Livro Diário, este lançamento: Rio de Janeiro, 5 de Março de 2014. Salários a Pagar 15.000,00 a Caixa 15.000,00 Pago salários provisionados em fevereiro Considere, exclusivamente, o lançamento realizado pela companhia N. Tal lançamento indica a ocorrência de um fato",

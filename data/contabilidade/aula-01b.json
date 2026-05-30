@@ -362,8 +362,8 @@
     {
       "id": "cg-01b-21",
       "banca": "Instituto AOCP",
-      "orgao": "Per Of Crim",
-      "cargo": "PC ES / Área 1",
+      "orgao": "PC ES",
+      "cargo": "Per Of Crim / Área 1",
       "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à natureza contábil das contas, analise as assertivas e assinale a alternativa que aponta a(s) correta(s). I. As contas do ativo aumentam a débito e consequentemente diminuem a crédito. II. As contas do passivo e patrimônio líquido aumentam a crédito e consequentemente diminuem a débito. III. As contas de receitas e despesas têm natureza devedora e consequentemente diminuem a crédito.",
@@ -605,8 +605,8 @@
     {
       "id": "cg-01b-34",
       "banca": "FGV",
-      "orgao": "Contador",
-      "cargo": "SUDENE / PE",
+      "orgao": "SUDENE",
+      "cargo": "Contador",
       "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que indica as contas que são classificadas como patrimoniais, integrais e em agentes consignatários concomitantemente.",
@@ -624,8 +624,8 @@
     {
       "id": "cg-01b-35",
       "banca": "FGV",
-      "orgao": "Analista Contábil",
-      "cargo": "MPE / MS",
+      "orgao": "MPE-MS",
+      "cargo": "Analista Contábil",
       "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "A corrente de pensamento contábil, que adota como teoria fundamental a personificação das contas, divide o patrimônio:",
