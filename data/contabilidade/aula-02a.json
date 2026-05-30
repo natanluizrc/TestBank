@@ -1420,15 +1420,16 @@
       "cargo": "Técnico em Contabilidade",
       "ano": 2021,
       "tipo": "multipla_escolha",
-      "enunciado": "A escrituração contábil consiste em uma técnica utilizada para registrar os fatos administrativos ocorridos em uma entidade. O registro desses fatos administrativos é chamado de lançamento e são efetuados em livros contábeis. Portanto, a escrituração contábil pode ser definida como um conjunto de lançamentos que findam em demonstrações contábeis. Em relação às fórmulas de lançamento que compreendem o processo de escrituração contábil, pode-se afirmar que A 1ª Fórmula: mais de uma conta debitada e mais de uma conta creditada.",
+      "enunciado": "A escrituração contábil consiste em uma técnica utilizada para registrar os fatos administrativos ocorridos em uma entidade. O registro desses fatos administrativos é chamado de lançamento e são efetuados em livros contábeis. Portanto, a escrituração contábil pode ser definida como um conjunto de lançamentos que findam em demonstrações contábeis. Em relação às fórmulas de lançamento que compreendem o processo de escrituração contábil, pode-se afirmar que",
       "resposta": "E",
       "comentario": "Vamos rever o nosso esquema: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais.",
       "dificuldade": 2,
       "opcoes": [
-        "A) 5ª Fórmula: uma conta debitada e uma conta creditada",
-        "B) 4ª Fórmula: mais de uma conta debitada e uma conta creditada",
-        "C) 3ª Fórmula: uma conta debitada e mais de uma conta creditada",
-        "D) 2ª Fórmula: uma conta debitada e mais de uma conta creditada"
+        "A) 1ª Fórmula: mais de uma conta debitada e mais de uma conta creditada.",
+        "B) 5ª Fórmula: uma conta debitada e uma conta creditada.",
+        "C) 4ª Fórmula: mais de uma conta debitada e uma conta creditada.",
+        "D) 3ª Fórmula: uma conta debitada e mais de uma conta creditada.",
+        "E) 2ª Fórmula: uma conta debitada e mais de uma conta creditada."
       ]
     },
     {
@@ -2262,15 +2263,16 @@
       "cargo": "Contador",
       "ano": 2019,
       "tipo": "multipla_escolha",
-      "enunciado": "Um lançamento contábil de 1ª fórmula resultou no aumento dos saldos de todas as contas escrituradas. Com base apenas nessa informação, é correto afirmar que o lançamento envolveu A apenas contas de resultado.",
+      "enunciado": "Um lançamento contábil de 1ª fórmula resultou no aumento dos saldos de todas as contas escrituradas. Com base apenas nessa informação, é correto afirmar que o lançamento envolveu",
       "resposta": "E",
       "comentario": "Vamos rever o nosso esquema: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo Veja que no lançamento de 1° fórmula temos uma conta debitada e uma conta creditada. O quesito informou que ambos aumentaram. Assim precisamos debitar uma conta com saldo devedor (aumenta pelo débito) e creditar uma conta com saldo credor (aumenta pelo crédito). Diante das alternativas, apenas a alternativa preenche esses requisitos: D - Conta do ativo (Aumento do Ativo, pois possui saldo devedor e aumenta pelo débito) C - Conta do passivo (Aumento do Passivo, pois possui saldo credor e aumenta pelo crédito)",
       "dificuldade": 2,
       "opcoes": [
-        "A) apenas contas do ativo",
-        "B) apenas contas de receita",
-        "C) uma conta do passivo e uma conta do patrimônio líquido",
-        "D) uma conta do ativo e uma conta do passivo"
+        "A) apenas contas de resultado.",
+        "B) apenas contas do ativo.",
+        "C) apenas contas de receita.",
+        "D) uma conta do passivo e uma conta do patrimônio líquido.",
+        "E) uma conta do ativo e uma conta do passivo."
       ]
     },
     {
@@ -2794,14 +2796,15 @@
       "cargo": "Técnico em Contabilidade",
       "ano": 2023,
       "tipo": "multipla_escolha",
-      "enunciado": "No mês de maio de 2023, uma empresa vendeu seu estoque com custo de R$ 10.000,00, por R$ 15.000,00. Essa venda à vista é considerada como um fato contábil A permutativo.",
+      "enunciado": "No mês de maio de 2023, uma empresa vendeu seu estoque com custo de R$ 10.000,00, por R$ 15.000,00. Essa venda à vista é considerada como um fato contábil",
       "resposta": "D",
       "comentario": "A contabilização resultante da venda é a seguinte: Reconhecimento da receita: D- Caixa (+ativo) R$ 15.000,00 C Receita de Vendas (+resultado) R$ 15.000,00 Baixa no estoque: D CMV (-resultado) R$ 10.000,00 C Estoque (-ativo) R$ 10.000,00 Essa seria a contabilização completa resultante da venda. Todavia, os quesitos acabam só analisando o reconhecimento da receita. Por conta disso, nessas situações, consideramos como fato modificativo aumentativo e de 1° fórmula (1 débito e 1 crédito): D- Caixa (ativo) C Receita de Vendas (resultado)",
       "dificuldade": 2,
       "opcoes": [
-        "A) misto",
-        "B) modificativo diminutivo",
-        "C) modificativo aumentativo"
+        "A) permutativo.",
+        "B) misto.",
+        "C) modificativo diminutivo.",
+        "D) modificativo aumentativo."
       ]
     },
     {
