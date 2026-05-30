@@ -256,6 +256,15 @@ function renderListaQuestoes(questoes) {
     typeof a === 'number' ? b - a : String(a).localeCompare(String(b), 'pt')
   );
   const opts = vals => uniq(vals).map(v => `<option value="${v}">${v}</option>`).join('');
+  const stars = n => '★'.repeat(n) + '☆'.repeat(5 - n);
+  const difOpts = uniq(questoes.map(q => q.dificuldade).filter(Boolean))
+    .sort((a, b) => a - b)
+    .map(n => `<option value="${n}">${stars(n)}</option>`).join('');
+  const tiposPresentes = [...new Set(questoes.map(q => q.tipo))];
+  const tipoOpts = [
+    tiposPresentes.includes('multipla_escolha') ? '<option value="multipla_escolha">Múltipla Escolha</option>' : '',
+    tiposPresentes.includes('certo_errado')     ? '<option value="certo_errado">Certo/Errado</option>'         : '',
+  ].join('');
 
   area.innerHTML = `
     <div class="barra-filtros barra-filtros-sticky">
@@ -263,6 +272,8 @@ function renderListaQuestoes(questoes) {
       <select id="filtro-orgao" class="filtro-select"><option value="">Órgão</option>${opts(questoes.map(q => q.orgao))}</select>
       <select id="filtro-cargo" class="filtro-select"><option value="">Cargo</option>${opts(questoes.map(q => q.cargo))}</select>
       <select id="filtro-ano"   class="filtro-select"><option value="">Ano</option>${opts(questoes.map(q => q.ano))}</select>
+      <select id="filtro-dif"   class="filtro-select"><option value="">Dificuldade</option>${difOpts}</select>
+      <select id="filtro-tipo"  class="filtro-select"><option value="">Tipo</option>${tipoOpts}</select>
       <button id="btn-limpar-filtros" class="btn-limpar hidden">Limpar</button>
     </div>
     <div class="questoes-barra aula-barra-sticky">
@@ -278,17 +289,23 @@ function renderListaQuestoes(questoes) {
     if (pl) pl.innerHTML = placarHtml();
   };
 
+  const FILTROS = ['filtro-banca', 'filtro-orgao', 'filtro-cargo', 'filtro-ano', 'filtro-dif', 'filtro-tipo'];
+
   const aplicarFiltros = () => {
     const banca = document.getElementById('filtro-banca').value;
     const orgao = document.getElementById('filtro-orgao').value;
     const cargo = document.getElementById('filtro-cargo').value;
     const ano   = document.getElementById('filtro-ano').value;
+    const dif   = document.getElementById('filtro-dif').value;
+    const tipo  = document.getElementById('filtro-tipo').value;
 
     questoesFiltradas = questoes.filter(q =>
       (!banca || q.banca === banca) &&
       (!orgao || q.orgao === orgao) &&
       (!cargo || q.cargo === cargo) &&
-      (!ano   || String(q.ano) === ano)
+      (!ano   || String(q.ano) === ano) &&
+      (!dif   || String(q.dificuldade) === dif) &&
+      (!tipo  || q.tipo === tipo)
     );
 
     const ids = new Set(questoesFiltradas.map(q => q.id));
@@ -296,21 +313,21 @@ function renderListaQuestoes(questoes) {
       card.classList.toggle('hidden', !ids.has(card.dataset.qid));
     });
 
-    ['filtro-banca', 'filtro-orgao', 'filtro-cargo', 'filtro-ano'].forEach(id => {
+    FILTROS.forEach(id => {
       document.getElementById(id)?.classList.toggle('ativo', !!document.getElementById(id).value);
     });
 
-    const algum = banca || orgao || cargo || ano;
+    const algum = banca || orgao || cargo || ano || dif || tipo;
     document.getElementById('btn-limpar-filtros')?.classList.toggle('hidden', !algum);
     atualizarPlacar();
   };
 
-  ['filtro-banca', 'filtro-orgao', 'filtro-cargo', 'filtro-ano'].forEach(id => {
+  FILTROS.forEach(id => {
     document.getElementById(id)?.addEventListener('change', aplicarFiltros);
   });
 
   document.getElementById('btn-limpar-filtros')?.addEventListener('click', () => {
-    ['filtro-banca', 'filtro-orgao', 'filtro-cargo', 'filtro-ano'].forEach(id => {
+    FILTROS.forEach(id => {
       const el = document.getElementById(id);
       if (el) { el.value = ''; el.classList.remove('ativo'); }
     });
