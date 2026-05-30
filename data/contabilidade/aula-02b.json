@@ -98,7 +98,7 @@
       "id": "cg-02b-006",
       "banca": "QUADRIX",
       "orgao": "PREF. ALTO P DE GOIÁS",
-      "cargo": "FISCAL DE TRIBUTOS MUNICIPAIS",
+      "cargo": "Fiscal de Tributos Municipais",
       "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "O balancete de verificação é uma peça contábil que permite fazer uma conferência dos saldos das contas patrimoniais e de resultado, antes do fechamento final do balanço patrimonial e da demonstração do resultado do exercício (DRE). Sendo assim, uma pequena loja comercial de alimentos 24 179 08155932443 - Natan Luiz Rodrigues Chaves preencheu a tabela a seguir para obter uma amostra das contas com saldo final em dezembro do ano anterior. Rubrica Caixa Receita com vendas Banco (conta-corrente) Capital social integralizado Despesas comerciais Contas a receber após 365 dias Fornecedores a pagar em até 90 dias Impostos gerais a recolher Impostos diversos a recuperar (não circulante) Depreciação acumulada: móveis e utensílios R$ 5.500,00 39.600,00 23.700,00 3.600,00 9.300,00 33.400,00 12.800,00 7.600,00 1.100,00 4.400,00 Com base nesse caso hipotético, assinale a alternativa correta quanto às contas com saldo final de natureza devedora.",
@@ -147,7 +147,7 @@
     {
       "id": "cg-02b-009",
       "banca": "Instituto AOCP",
-      "orgao": "ITEP RN",
+      "orgao": "ITEP-RN",
       "cargo": "Perito Criminal / Área Geral",
       "ano": 2021,
       "tipo": "multipla_escolha",
@@ -257,7 +257,7 @@
     {
       "id": "cg-02b-015",
       "banca": "AOCP",
-      "orgao": "ISS CARIACICA ES",
+      "orgao": "ISS Cariacica ES",
       "cargo": "Fiscal de Tributos Municipais",
       "ano": 2020,
       "tipo": "multipla_escolha",
@@ -275,7 +275,7 @@
     {
       "id": "cg-02b-016",
       "banca": "AOCP",
-      "orgao": "ISS CARIACICA ES",
+      "orgao": "ISS Cariacica ES",
       "cargo": "Fiscal de Tributos Municipais",
       "ano": 2020,
       "tipo": "multipla_escolha",
@@ -311,7 +311,7 @@
     },
     {
       "id": "cg-02b-018",
-      "banca": "Instituto Consulplan",
+      "banca": "CONSULPLAN",
       "orgao": "CM Amparo",
       "cargo": "Contador",
       "ano": 2020,
@@ -456,7 +456,7 @@
     },
     {
       "id": "cg-02b-026",
-      "banca": "COPS UEL",
+      "banca": "COPS-UEL",
       "orgao": "Fomento-PR",
       "cargo": "Analista Contábil",
       "ano": 2018,
@@ -476,7 +476,7 @@
     {
       "id": "cg-02b-027",
       "banca": "UFPR",
-      "orgao": "CM-Quitandinha",
+      "orgao": "CM Quitandinha",
       "cargo": "Contador",
       "ano": 2018,
       "tipo": "multipla_escolha",
@@ -531,7 +531,7 @@
     {
       "id": "cg-02b-030",
       "banca": "FUNDATEC",
-      "orgao": "CAGE RS",
+      "orgao": "CAGE-RS",
       "cargo": "Auditor",
       "ano": 2014,
       "tipo": "multipla_escolha",
@@ -568,7 +568,7 @@
     },
     {
       "id": "cg-02b-032",
-      "banca": "COPEVE ALGÁS",
+      "banca": "COPEVE",
       "cargo": "Assistente de Processos Organizacionais",
       "ano": 2014,
       "tipo": "multipla_escolha",
@@ -582,7 +582,8 @@
         "C) Livro de Entrada de Mercadorias",
         "D) Livro Registro de Debêntures",
         "E) Livro Diário"
-      ]
+      ],
+      "orgao": "ALGÁS"
     },
     {
       "id": "cg-02b-033",
@@ -754,7 +755,7 @@
     {
       "id": "cg-02b-042",
       "banca": "VUNESP",
-      "orgao": "Pauliprev",
+      "orgao": "PAULIPREV",
       "cargo": "Contador",
       "ano": 2018,
       "tipo": "multipla_escolha",
@@ -829,7 +830,7 @@
     {
       "id": "cg-02b-046",
       "banca": "CEBRASPE",
-      "orgao": "MPE TO",
+      "orgao": "MPE-TO",
       "cargo": "Técnico em Contabilidade",
       "ano": 2024,
       "tipo": "certo_errado",
@@ -853,7 +854,7 @@
     {
       "id": "cg-02b-048",
       "banca": "CEBRASPE",
-      "orgao": "MPE TO",
+      "orgao": "MPE-TO",
       "cargo": "Técnico em Contabilidade",
       "ano": 2024,
       "tipo": "certo_errado",
@@ -877,7 +878,7 @@
     {
       "id": "cg-02b-050",
       "banca": "CEBRASPE",
-      "orgao": "MPE TO",
+      "orgao": "MPE-TO",
       "cargo": "Técnico em Contabilidade",
       "ano": 2024,
       "tipo": "certo_errado",
@@ -1136,7 +1137,7 @@
     {
       "id": "cg-02b-069",
       "banca": "CEBRASPE",
-      "orgao": "PF",
+      "orgao": "Polícia Federal",
       "cargo": "Agente de Polícia Federal",
       "ano": 2018,
       "tipo": "certo_errado",
@@ -1148,7 +1149,7 @@
     {
       "id": "cg-02b-070",
       "banca": "CEBRASPE",
-      "orgao": "PF",
+      "orgao": "Polícia Federal",
       "cargo": "Agente de Polícia Federal",
       "ano": 2018,
       "tipo": "certo_errado",
@@ -1217,7 +1218,7 @@
     {
       "id": "cg-02b-074",
       "banca": "CESGRANRIO",
-      "orgao": "CEFET RJ",
+      "orgao": "CEFET-RJ",
       "cargo": "Técnico Contabilidade",
       "ano": 2014,
       "tipo": "multipla_escolha",
@@ -1519,7 +1520,7 @@
     {
       "id": "cg-02b-090",
       "banca": "CESGRANRIO",
-      "orgao": "ALETO",
+      "orgao": "AL-TO",
       "cargo": "Analista Legislativo / Auditoria e Controle Interno",
       "ano": 2005,
       "tipo": "multipla_escolha",
@@ -1538,7 +1539,7 @@
     {
       "id": "cg-02b-091",
       "banca": "CESGRANRIO",
-      "orgao": "MPE RO",
+      "orgao": "MPE-RO",
       "cargo": "Técnico Contabilidade",
       "ano": 2005,
       "tipo": "multipla_escolha",

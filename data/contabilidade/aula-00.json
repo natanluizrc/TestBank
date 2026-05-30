@@ -120,8 +120,7 @@
     {
       "id": "cg-00-07",
       "banca": "FGV",
-      "orgao": "ACI",
-      "cargo": "Recife",
+      "orgao": "ACI Recife",
       "ano": 2014,
       "tipo": "multipla_escolha",
       "enunciado": "As opções a seguir apresentam objetivos da Contabilidade, à exceção de uma. Assinale-a.",
@@ -310,7 +309,7 @@
     {
       "id": "cg-00-20",
       "banca": "FCC",
-      "orgao": "TRT 21ª Região",
+      "orgao": "TRT-21",
       "cargo": "Analista Judiciário – Contabilidade",
       "ano": 2003,
       "tipo": "multipla_escolha",
@@ -329,7 +328,7 @@
     {
       "id": "cg-00-21",
       "banca": "FCC",
-      "orgao": "TRT 21ª Região",
+      "orgao": "TRT-21",
       "cargo": "Analista Judiciário – Contabilidade",
       "ano": 2003,
       "tipo": "multipla_escolha",
@@ -629,7 +628,7 @@
     {
       "id": "cg-00-37",
       "banca": "CESGRANRIO",
-      "orgao": "Transpetro",
+      "orgao": "TRANSPETRO",
       "cargo": "Técnico de Suprimento",
       "ano": 2018,
       "tipo": "multipla_escolha",
@@ -648,7 +647,7 @@
     {
       "id": "cg-00-38",
       "banca": "CESGRANRIO",
-      "orgao": "Transpetro",
+      "orgao": "TRANSPETRO",
       "cargo": "Técnico de Suprimento",
       "ano": 2018,
       "tipo": "multipla_escolha",
@@ -724,8 +723,7 @@
     {
       "id": "cg-00-42",
       "banca": "IADES",
-      "orgao": "Hemocentro",
-      "cargo": "DF",
+      "orgao": "HEMOCENTRO DF",
       "ano": 2017,
       "tipo": "multipla_escolha",
       "enunciado": "Considerando que o objetivo da contabilidade é o controle de um patrimônio, assinale a alternativa correta.",
@@ -949,7 +947,7 @@
     {
       "id": "cg-00-54",
       "banca": "CESGRANRIO",
-      "orgao": "Liquigas",
+      "orgao": "LIQUIGÁS",
       "cargo": "Profissional Junior – Ciências Contábeis",
       "ano": 2012,
       "tipo": "multipla_escolha",

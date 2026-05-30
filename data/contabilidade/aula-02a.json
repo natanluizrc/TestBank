@@ -187,7 +187,7 @@
     {
       "id": "cg-02a-011",
       "banca": "Instituto AOCP",
-      "orgao": "MPE MS",
+      "orgao": "MPE-MS",
       "cargo": "Analista Contabilidade",
       "ano": 2023,
       "tipo": "multipla_escolha",
@@ -390,7 +390,7 @@
     {
       "id": "cg-02a-022",
       "banca": "Instituto AOCP",
-      "orgao": "ITEP RN",
+      "orgao": "ITEP-RN",
       "cargo": "Perito Criminal / Contabilidade e Economia",
       "ano": 2021,
       "tipo": "multipla_escolha",
@@ -571,7 +571,7 @@
     },
     {
       "id": "cg-02a-032",
-      "banca": "Consulplan",
+      "banca": "CONSULPLAN",
       "orgao": "Exame CFC",
       "ano": 2019,
       "tipo": "multipla_escolha",
@@ -843,7 +843,7 @@
     {
       "id": "cg-02a-047",
       "banca": "FUMARC",
-      "orgao": "CM Dores RP",
+      "orgao": "CM Dores do Rio Preto",
       "cargo": "Contador",
       "ano": 2016,
       "tipo": "multipla_escolha",
@@ -933,8 +933,7 @@
     },
     {
       "id": "cg-02a-052",
-      "banca": "Instituto AOCP - Ana Leg",
-      "orgao": "Contabilidade",
+      "banca": "Instituto AOCP",
       "ano": 2016,
       "tipo": "multipla_escolha",
       "enunciado": "A operação de uma venda de imobilizado com lucro apresenta que tipo de fato contábil?",
@@ -947,7 +946,8 @@
         "C) Permutativo diminutivo.",
         "D) Modificativo aumentativo.",
         "E) Misto diminutivo."
-      ]
+      ],
+      "cargo": "Analista Legislativo / Contabilidade"
     },
     {
       "id": "cg-02a-053",
@@ -1100,7 +1100,7 @@
     {
       "id": "cg-02a-061",
       "banca": "FUNDATEC",
-      "orgao": "CAGE RS",
+      "orgao": "CAGE-RS",
       "cargo": "Auditor",
       "ano": 2014,
       "tipo": "multipla_escolha",
@@ -1247,7 +1247,7 @@
     {
       "id": "cg-02a-070",
       "banca": "CEBRASPE",
-      "orgao": "MPE TO",
+      "orgao": "MPE-TO",
       "cargo": "Técnico",
       "ano": 2024,
       "tipo": "certo_errado",
@@ -1259,7 +1259,7 @@
     {
       "id": "cg-02a-071",
       "banca": "CEBRASPE",
-      "orgao": "MPE TO",
+      "orgao": "MPE-TO",
       "cargo": "Técnico",
       "ano": 2024,
       "tipo": "certo_errado",
@@ -1319,7 +1319,7 @@
     {
       "id": "cg-02a-076",
       "banca": "CEBRASPE",
-      "orgao": "MPE TO",
+      "orgao": "MPE-TO",
       "cargo": "Técnico",
       "ano": 2024,
       "tipo": "certo_errado",
@@ -1331,7 +1331,7 @@
     {
       "id": "cg-02a-077",
       "banca": "CEBRASPE",
-      "orgao": "MPE TO",
+      "orgao": "MPE-TO",
       "cargo": "Técnico",
       "ano": 2024,
       "tipo": "certo_errado",
@@ -1362,7 +1362,7 @@
     {
       "id": "cg-02a-079",
       "banca": "CEBRASPE",
-      "orgao": "MPE TO",
+      "orgao": "MPE-TO",
       "cargo": "Técnico",
       "ano": 2024,
       "tipo": "certo_errado",
@@ -1494,7 +1494,7 @@
     {
       "id": "cg-02a-089",
       "banca": "CEBRASPE",
-      "orgao": "PC RO Escrivão de Polícia Civil",
+      "orgao": "PC RO",
       "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Constitui fato administrativo modificativo A o pagamento de fornecedores.",
@@ -1506,7 +1506,8 @@
         "B) a compra de imóvel a prazo",
         "C) o recebimento de bem em doação",
         "D) o financiamento com entrada imediata do recurso para pagamento em 10 anos"
-      ]
+      ],
+      "cargo": "Escrivão de Polícia Civil"
     },
     {
       "id": "cg-02a-090",
@@ -1535,7 +1536,7 @@
     {
       "id": "cg-02a-092",
       "banca": "CEBRASPE",
-      "orgao": "PF",
+      "orgao": "Polícia Federal",
       "cargo": "Agente",
       "ano": 2021,
       "tipo": "certo_errado",
@@ -1547,7 +1548,7 @@
     {
       "id": "cg-02a-093",
       "banca": "CEBRASPE",
-      "orgao": "PF",
+      "orgao": "Polícia Federal",
       "cargo": "Agente",
       "ano": 2021,
       "tipo": "certo_errado",
@@ -2226,7 +2227,7 @@
     {
       "id": "cg-02a-130",
       "banca": "CESGRANRIO",
-      "orgao": "INNOVA",
+      "orgao": "Innova",
       "cargo": "Tec.Adm e Controle",
       "ano": 2013,
       "tipo": "multipla_escolha",
@@ -2394,7 +2395,7 @@
     {
       "id": "cg-02a-139",
       "banca": "CESGRANRIO",
-      "orgao": "Petrobras",
+      "orgao": "PETROBRAS",
       "cargo": "Administrador",
       "ano": 2010,
       "tipo": "multipla_escolha",
@@ -2576,7 +2577,7 @@
     {
       "id": "cg-02a-149",
       "banca": "CESGRANRIO",
-      "orgao": "MPE RO",
+      "orgao": "MPE-RO",
       "cargo": "Técnico Contabilidade",
       "ano": 2005,
       "tipo": "multipla_escolha",
@@ -2681,7 +2682,7 @@
     {
       "id": "cg-02a-156",
       "banca": "CEBRASPE",
-      "orgao": "MPE TO",
+      "orgao": "MPE-TO",
       "cargo": "Técnico",
       "ano": 2024,
       "tipo": "certo_errado",

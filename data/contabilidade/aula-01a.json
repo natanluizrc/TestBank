@@ -329,7 +329,7 @@
     {
       "id": "cg-01a-18",
       "banca": "FCC",
-      "orgao": "TRF 2ª Região",
+      "orgao": "TRF-2",
       "cargo": "Analista Contábil",
       "ano": 2011,
       "tipo": "multipla_escolha",
@@ -367,7 +367,7 @@
     {
       "id": "cg-01a-20",
       "banca": "FCC",
-      "orgao": "TRT 20ª Região",
+      "orgao": "TRT-20",
       "cargo": "Analista Judiciário - Contabilidade",
       "ano": 2011,
       "tipo": "multipla_escolha",
@@ -386,7 +386,7 @@
     {
       "id": "cg-01a-21",
       "banca": "FCC",
-      "orgao": "TRF 4ª Região",
+      "orgao": "TRF-4",
       "cargo": "Analista Judiciário",
       "ano": 2010,
       "tipo": "multipla_escolha",
@@ -405,7 +405,7 @@
     {
       "id": "cg-01a-22",
       "banca": "FCC",
-      "orgao": "TRT-3ª Região",
+      "orgao": "TRT-3",
       "cargo": "Contadoria",
       "ano": 2005,
       "tipo": "multipla_escolha",
@@ -454,7 +454,7 @@
     {
       "id": "cg-01a-25",
       "banca": "CEBRASPE",
-      "orgao": "MPE TO",
+      "orgao": "MPE-TO",
       "cargo": "Técnico em Contabilidade",
       "ano": 2024,
       "tipo": "certo_errado",
@@ -586,7 +586,7 @@
     },
     {
       "id": "cg-01a-35",
-      "banca": "COPS UEL",
+      "banca": "COPS-UEL",
       "orgao": "Fomento-PR",
       "cargo": "Analista Contábil",
       "ano": 2018,
@@ -738,7 +738,7 @@
     {
       "id": "cg-01a-43",
       "banca": "CESGRANRIO",
-      "orgao": "Petrobrás",
+      "orgao": "PETROBRAS",
       "cargo": "Administração",
       "ano": 2014,
       "tipo": "multipla_escolha",
@@ -776,7 +776,7 @@
     {
       "id": "cg-01a-45",
       "banca": "VUNESP",
-      "orgao": "PC SP",
+      "orgao": "PC-SP",
       "cargo": "Escrivão de Polícia",
       "ano": 2014,
       "tipo": "multipla_escolha",
@@ -1089,7 +1089,7 @@
     {
       "id": "cg-01a-63",
       "banca": "CEBRASPE",
-      "orgao": "SEFAZ CE",
+      "orgao": "SEFAZ-CE",
       "cargo": "Auditor Fiscal",
       "ano": 2021,
       "tipo": "certo_errado",
@@ -1380,7 +1380,7 @@
     },
     {
       "id": "cg-01a-80",
-      "banca": "Consulplan",
+      "banca": "CONSULPLAN",
       "orgao": "Pref. Pouso Alegre",
       "cargo": "Contador",
       "ano": 2024,
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "cg-01a-94",
-      "banca": "Consulplan",
+      "banca": "CONSULPLAN",
       "orgao": "CFC",
       "cargo": "Exame de Suficiência",
       "ano": 2022,
@@ -1686,7 +1686,7 @@
     {
       "id": "cg-01a-97",
       "banca": "Instituto AOCP",
-      "orgao": "ITEP RN",
+      "orgao": "ITEP-RN",
       "cargo": "Perito Criminal / Contabilidade e Economia",
       "ano": 2021,
       "tipo": "multipla_escolha",
@@ -1779,7 +1779,7 @@
     },
     {
       "id": "cg-01a-102",
-      "banca": "COPS UEL",
+      "banca": "COPS-UEL",
       "orgao": "CM Londrina",
       "cargo": "Contador",
       "ano": 2017,
@@ -2115,7 +2115,7 @@
     {
       "id": "cg-01a-120",
       "banca": "VUNESP",
-      "orgao": "PC SP",
+      "orgao": "PC-SP",
       "cargo": "Perito",
       "ano": 2014,
       "tipo": "multipla_escolha",
@@ -2267,7 +2267,7 @@
     {
       "id": "cg-01a-128",
       "banca": "FGV",
-      "orgao": "AL MT",
+      "orgao": "AL-MT",
       "cargo": "Contador",
       "ano": 2013,
       "tipo": "multipla_escolha",

@@ -456,7 +456,7 @@
     {
       "id": "cg-01b-26",
       "banca": "COPEVE",
-      "orgao": "MPE AL",
+      "orgao": "MPE-AL",
       "cargo": "Contador",
       "ano": 2012,
       "tipo": "multipla_escolha",
@@ -493,7 +493,6 @@
       "id": "cg-01b-28",
       "banca": "FGV",
       "orgao": "Exame de Suficiência",
-      "cargo": "RS",
       "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação às contas apresentadas no balanço patrimonial de uma entidade, avalie se as seguintes contas são de natureza devedora: I. Adiantamento a sócio. II. Receitas antecipadas. III. Ações em tesouraria. São, de fato, contas de natureza devedora:",
@@ -920,8 +919,8 @@
     },
     {
       "id": "cg-01b-53",
-      "banca": "Cebraspe",
-      "orgao": "Policia Federal",
+      "banca": "CEBRASPE",
+      "orgao": "Polícia Federal",
       "ano": 2021,
       "tipo": "certo_errado",
       "enunciado": "Caixa e Estoques são elementos patrimoniais cujas contas apresentam saldos de natureza credora.",
@@ -944,7 +943,7 @@
     {
       "id": "cg-01b-55",
       "banca": "CEBRASPE",
-      "orgao": "CAGE RS",
+      "orgao": "CAGE-RS",
       "cargo": "Auditor do Estado",
       "ano": 2018,
       "tipo": "multipla_escolha",
@@ -1113,7 +1112,7 @@
     {
       "id": "cg-01b-65",
       "banca": "VUNESP",
-      "orgao": "MP SP",
+      "orgao": "MP-SP",
       "cargo": "Contador",
       "ano": 2019,
       "tipo": "multipla_escolha",
@@ -1303,7 +1302,7 @@
     {
       "id": "cg-01b-75",
       "banca": "FCC",
-      "orgao": "TRT 24ª Região",
+      "orgao": "TRT-24",
       "cargo": "Analista Judiciário Contabilidade",
       "ano": 2011,
       "tipo": "multipla_escolha",
@@ -1781,7 +1780,7 @@
     {
       "id": "cg-01b-105",
       "banca": "FCC",
-      "orgao": "DESENVOLVE SP",
+      "orgao": "Desenvolvesp",
       "cargo": "Contador",
       "ano": 2011,
       "tipo": "multipla_escolha",
@@ -1914,7 +1913,7 @@
     {
       "id": "cg-01b-112",
       "banca": "CESGRANRIO",
-      "orgao": "ALE-TO",
+      "orgao": "AL-TO",
       "cargo": "Analista Legislativo — Ciências Contábeis",
       "ano": 2005,
       "tipo": "multipla_escolha",
