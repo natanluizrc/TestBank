@@ -408,6 +408,11 @@ button:disabled { cursor: default; }
   cursor: pointer;
 }
 
+.filtro-select:focus {
+  outline: 1px solid #1a1a1a;
+  outline-offset: -1px;
+}
+
 .filtro-select.ativo {
   border-color: #1a1a1a;
   color: #1a1a1a;
