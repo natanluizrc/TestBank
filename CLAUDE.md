@@ -117,8 +117,12 @@ Organizados por matéria em `data/{materia}/aula-XX.json` — slug da matéria e
 - `slug` — identificador do arquivo (ex: `aula-01a`)
 - `titulo` — nome na aba (ex: `"Aula 01A"`)
 - `materia` — nome da matéria (ex: `"ContG"`)
-- `questoes[]` — cada item tem: `id`, `banca`, `tipo`, `enunciado`, `resposta`, `comentario`, `dificuldade`
-  - `banca`: string com identificação da banca/concurso — exibida acima do enunciado em cinza
+- `questoes[]` — cada item tem: `id`, `banca`, `orgao`, `cargo`, `ano`, `tipo`, `enunciado`, `resposta`, `comentario`, `dificuldade`
+  - `banca`: string — nome da banca examinadora (ex: `"CEBRASPE"`, `"FCC"`, `"VUNESP"`)
+  - `orgao`: string opcional — órgão/instituição do concurso (ex: `"BACEN"`, `"Pref. Campinas"`)
+  - `cargo`: string opcional — cargo disputado (ex: `"Contador"`, `"Auditor Fiscal"`)
+  - `ano`: inteiro opcional — ano do concurso (ex: `2024`)
+  - `adaptada`: booleano opcional (`true`) — presente apenas quando a questão foi adaptada do original
   - `opcoes`: presente **somente** em `multipla_escolha` (array de strings: `["A) ...", "B) ...", ...]`)
   - `tipo`: `"multipla_escolha"` ou `"certo_errado"`
   - `resposta` em `multipla_escolha`: letra maiúscula — `"A"`, `"B"`, `"C"`, `"D"` ou `"E"`

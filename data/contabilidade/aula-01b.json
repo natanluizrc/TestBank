@@ -5,7 +5,10 @@
   "questoes": [
     {
       "id": "cg-01b-01",
-      "banca": "AVANÇASP/Pref. Americana/Escriturário/2023",
+      "banca": "AVANÇASP",
+      "orgao": "Pref. Americana",
+      "cargo": "Escriturário",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que representa uma conta contábil de natureza devedora, ou seja, tem seu saldo aumentado quando recebe registros a débito.",
       "opcoes": [
@@ -21,7 +24,10 @@
     },
     {
       "id": "cg-01b-02",
-      "banca": "FAUEL/Pref. Cambé/Agente Fazendário/2023",
+      "banca": "FAUEL",
+      "orgao": "Pref. Cambé",
+      "cargo": "Agente Fazendário",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que representa uma conta contábil de natureza devedora.",
       "opcoes": [
@@ -37,7 +43,10 @@
     },
     {
       "id": "cg-01b-03",
-      "banca": "FUNDATEC/IFC/Técnico Contabilidade/2023",
+      "banca": "FUNDATEC",
+      "orgao": "IFC",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Sobre o funcionamento das contas, pode-se afirmar que os _______ que ocorrerem nas contas do Ativo e nas contas de despesas serão registrados por meio de _______ lançados nas respectivas contas, enquanto as diminuições serão registradas por meio de créditos lançados nas mesmas contas; os _______ nas contas do Passivo e nas contas de receitas serão registrados por meio de _______ lançados nas respectivas contas, enquanto as diminuições serão registradas por débitos lançados nas mesmas contas. Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
       "opcoes": [
@@ -53,7 +62,10 @@
     },
     {
       "id": "cg-01b-04",
-      "banca": "FUNDATEC/ELETROCAR/Técnico Contabilidade/2023",
+      "banca": "FUNDATEC",
+      "orgao": "ELETROCAR",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Na Teoria Patrimonialista, as Contas do Ativo, de Despesa e Retificadoras do Passivo:",
       "opcoes": [
@@ -69,7 +81,10 @@
     },
     {
       "id": "cg-01b-05",
-      "banca": "FUNDATEC/ELETROCAR/Contador/2023",
+      "banca": "FUNDATEC",
+      "orgao": "ELETROCAR",
+      "cargo": "Contador",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Segundo a Teoria Materialista, contas integrais eram representativas de:",
       "opcoes": [
@@ -85,7 +100,10 @@
     },
     {
       "id": "cg-01b-06",
-      "banca": "IBADE/RBPREV/Analista Previdenciário/2023",
+      "banca": "IBADE",
+      "orgao": "RBPREV",
+      "cargo": "Analista Previdenciário",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "A estrutura do plano de contas é influenciada pela teoria das contas, que explica a representação e a classificação das contas contábeis. Sobre isso, relacione as colunas: I. Teoria Personalista. II. Teoria Patrimonialista. III. Teoria Materialista. IV. Contas de resultado. (__) Representam a situação dinâmica e as variações patrimoniais. (__) Cada conta assume a configuração de uma pessoa no seu relacionamento com a entidade. (__) As contas representam relações materiais e se classificam em contas integrais e diferenciais. (__) Entende que o objeto de estudo da Contabilidade é o patrimônio e que a finalidade contábil é a administração do mesmo. A sequência correta é:",
       "opcoes": [
@@ -101,7 +119,10 @@
     },
     {
       "id": "cg-01b-07",
-      "banca": "IBADE/RBPREV/Analista Previdenciário/Contador/2023",
+      "banca": "IBADE",
+      "orgao": "RBPREV",
+      "cargo": "Analista Previdenciário / Contador",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa INCORRETA acerca das Teorias das Contas.",
       "opcoes": [
@@ -117,7 +138,10 @@
     },
     {
       "id": "cg-01b-08",
-      "banca": "COPEVE UFAL/Pref. Mal. Deodoro/Analista de Controle Interno/2023",
+      "banca": "COPEVE UFAL",
+      "orgao": "Pref. Mal. Deodoro",
+      "cargo": "Analista de Controle Interno",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Acerca das contas contábeis e das teorias existentes sobre elas, dadas as afirmativas: I. Na teoria personalista das contas, estas são classificadas em contas dos agentes proprietários, dos agentes correspondentes e dos agentes consignatários. II. A teoria materialista considera as contas contábeis ligadas às pessoas que se relacionam com a entidade em termos de débito e de crédito, sendo classificadas em patrimoniais e de resultado. III. As contas contábeis do ativo possuem natureza devedora, com exceção das contas retificadoras, tais como a depreciação acumulada, que possui saldo devedor, mesmo figurando no grupo de contas do ativo. Verifica-se que está(ão) correta(s):",
       "opcoes": [
@@ -133,7 +157,10 @@
     },
     {
       "id": "cg-01b-09",
-      "banca": "QUADRIX/Pref. Alto Paraíso de Goiás/Fiscal de Tributos Municipais/2023",
+      "banca": "QUADRIX",
+      "orgao": "Pref. Alto Paraíso de Goiás",
+      "cargo": "Fiscal de Tributos Municipais",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "O plano de contas empresarial é, na prática, um elenco de contas que permite fazer a classificação dos lançamentos contábeis. As contas individuais (que recebem lançamentos) podem ser agrupadas de diversas maneiras. Assinale a alternativa que apresenta três contas analíticas e duas contas sintéticas, respectivamente.",
       "opcoes": [
@@ -149,7 +176,10 @@
     },
     {
       "id": "cg-01b-10",
-      "banca": "IDECAN/TJ PI/Analista Judiciário/Auditor/2022",
+      "banca": "IDECAN",
+      "orgao": "TJ PI",
+      "cargo": "Analista Judiciário / Auditor",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Com relação às contas patrimoniais e de resultado, assinale a alternativa correta.",
       "opcoes": [
@@ -165,7 +195,10 @@
     },
     {
       "id": "cg-01b-11",
-      "banca": "AOCP/SEAD GO/Contabilidade do Tesouro Estadual/2022",
+      "banca": "AOCP",
+      "orgao": "SEAD GO",
+      "cargo": "Contabilidade do Tesouro Estadual",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "A Cia. Felix Ltda. vendeu um produto que estava registrado pelo custo de aquisição de R$ 20.000,00. O preço da venda foi pelo valor de R$ 40.000,00, sendo o pagamento realizado da seguinte forma: metade do valor à vista e metade para recebimento em 90 dias. Com base apenas nessas informações, é correto afirmar que, após o lançamento da venda, o(a):",
       "opcoes": [
@@ -181,7 +214,10 @@
     },
     {
       "id": "cg-01b-12",
-      "banca": "QUADRIX/CRT SP/Contador/2021",
+      "banca": "QUADRIX",
+      "orgao": "CRT SP",
+      "cargo": "Contador",
+      "ano": 2021,
       "tipo": "certo_errado",
       "enunciado": "As contas diferenciais da teoria materialista representavam os bens, os direitos e as obrigações da entidade.",
       "resposta": "errado",
@@ -190,7 +226,10 @@
     },
     {
       "id": "cg-01b-13",
-      "banca": "IUDS/IF RJ/Técnico Contabilidade/2021",
+      "banca": "IUDS",
+      "orgao": "IF RJ",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "O nome técnico utilizado para registrar os elementos, levando em consideração os aspectos qualitativos e quantitativos é:",
       "opcoes": [
@@ -205,7 +244,10 @@
     },
     {
       "id": "cg-01b-14",
-      "banca": "AOCP/ISS Cariacica ES/Fiscal de Tributos Municipais/2020",
+      "banca": "AOCP",
+      "orgao": "ISS Cariacica ES",
+      "cargo": "Fiscal de Tributos Municipais",
+      "ano": 2020,
       "tipo": "multipla_escolha",
       "enunciado": "As contas do ativo e as despesas possuem natureza devedora, pois o saldo:",
       "opcoes": [
@@ -220,7 +262,10 @@
     },
     {
       "id": "cg-01b-15",
-      "banca": "FUNDATEC/Pref. Estância Velha/Técnico Contabilidade/2020",
+      "banca": "FUNDATEC",
+      "orgao": "Pref. Estância Velha",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2020,
       "tipo": "multipla_escolha",
       "enunciado": "Considerando as principais Teorias das Contas Contábeis e seus respectivos grupos, relacione as colunas: Coluna 1: 1. Teoria Materialista. 2. Teoria Patrimonialista. 3. Teoria Personalista. Coluna 2: ( ) Contas de Agentes Consignatários, Agentes Correspondentes e Proprietários. ( ) Contas Integrais e Diferenciais. ( ) Contas de Resultado e Patrimoniais. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
       "opcoes": [
@@ -235,7 +280,10 @@
     },
     {
       "id": "cg-01b-16",
-      "banca": "QUADRIX/CFO/Contador/2020",
+      "banca": "QUADRIX",
+      "orgao": "CFO",
+      "cargo": "Contador",
+      "ano": 2020,
       "tipo": "certo_errado",
       "enunciado": "Uma conta sintética recebe lançamentos que provocam repercussões em outros itens do patrimônio da entidade.",
       "resposta": "errado",
@@ -244,7 +292,10 @@
     },
     {
       "id": "cg-01b-17",
-      "banca": "QUADRIX/CRA PR/Contador/2019",
+      "banca": "QUADRIX",
+      "orgao": "CRA PR",
+      "cargo": "Contador",
+      "ano": 2019,
       "tipo": "certo_errado",
       "enunciado": "Se determinada conta agrupa os valores de um conjunto de outras contas que recebem lançamentos contábeis, ela deve ser chamada de conta analítica.",
       "resposta": "errado",
@@ -253,7 +304,10 @@
     },
     {
       "id": "cg-01b-18",
-      "banca": "IDECAN/IF PB/Técnico Contabilidade/2019",
+      "banca": "IDECAN",
+      "orgao": "IF PB",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "São as receitas e as despesas do período, que devem ser encerradas no final do exercício para que se apure o resultado do exercício. Esta definição refere-se ao conceito de:",
       "opcoes": [
@@ -269,7 +323,10 @@
     },
     {
       "id": "cg-01b-19",
-      "banca": "FUNDATEC/Pref. Santo Ângelo das Missões/Tesoureiro/2019",
+      "banca": "FUNDATEC",
+      "orgao": "Pref. Santo Ângelo das Missões",
+      "cargo": "Tesoureiro",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Analise as assertivas a seguir a respeito de receitas e despesas, levando em conta as convenções e técnicas contábeis e desconsiderando as exceções: ( ) As contas de receitas e as de despesas pertencem ao grupo de contas de resultado. ( ) Todas as contas de receitas são zeradas no final do exercício para apuração do resultado. ( ) Nem todas as contas de despesas são zeradas no final do exercício. ( ) As contas de receita possuem saldo credor. ( ) As contas de despesa são registradas no passivo. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
       "opcoes": [
@@ -285,7 +342,10 @@
     },
     {
       "id": "cg-01b-20",
-      "banca": "Instituto AOCP/UFPB/Contabilidade/2019",
+      "banca": "Instituto AOCP",
+      "orgao": "UFPB",
+      "cargo": "Contabilidade",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação ao conceito de Patrimônio Líquido, assinale a alternativa INCORRETA.",
       "opcoes": [
@@ -301,7 +361,10 @@
     },
     {
       "id": "cg-01b-21",
-      "banca": "Instituto AOCP/Per Of Crim/PC ES/Área 1/2019",
+      "banca": "Instituto AOCP",
+      "orgao": "Per Of Crim",
+      "cargo": "PC ES / Área 1",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à natureza contábil das contas, analise as assertivas e assinale a alternativa que aponta a(s) correta(s). I. As contas do ativo aumentam a débito e consequentemente diminuem a crédito. II. As contas do passivo e patrimônio líquido aumentam a crédito e consequentemente diminuem a débito. III. As contas de receitas e despesas têm natureza devedora e consequentemente diminuem a crédito.",
       "opcoes": [
@@ -317,7 +380,9 @@
     },
     {
       "id": "cg-01b-22",
-      "banca": "PUC-PR/Auditor Fiscal da Receita Municipal Campo Grande MS/2019",
+      "banca": "PUC-PR",
+      "cargo": "Auditor Fiscal da Receita Municipal Campo Grande MS",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Faça a correlação a seguir para as principais correntes doutrinárias da contabilidade. 1) Patrimonialista 2) Reditualista 3) Aziendalista 4) Controlista 5) Personalista 6) Contistas. ( ) Admite que o objetivo era estudar a matéria sob o ângulo do controle da riqueza. ( ) Defende o estudo dos aspectos de direitos e das obrigações que envolve os donos da riqueza. ( ) Admite que a instituição, a empresa, é o objeto de estudo. ( ) Observa a predominância do lucro como objetivo. ( ) Imagina que a Contabilidade deve dedicar-se ao estudo das contas. ( ) Reconhece que o objeto de estudos da Contabilidade é o patrimônio, enquanto riqueza gerida para cumprir o fim aziendal. Assinale a opção com a sequência CORRETA.",
       "opcoes": [
@@ -333,7 +398,10 @@
     },
     {
       "id": "cg-01b-23",
-      "banca": "IADES/CFM/Técnico em Contabilidade/2018",
+      "banca": "IADES",
+      "orgao": "CFM",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "No que se refere ao funcionamento das contas contábeis, assinale a alternativa cujo par de grupo de contas tem o saldo aumentado pelo débito.",
       "opcoes": [
@@ -349,7 +417,10 @@
     },
     {
       "id": "cg-01b-24",
-      "banca": "IADES/CFM/Técnico em Contabilidade/2017",
+      "banca": "IADES",
+      "orgao": "CFM",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2017,
       "tipo": "multipla_escolha",
       "enunciado": "As contas que são obrigatoriamente encerradas no final do exercício e têm os respectivos saldos transferidos para a conta Lucros e Perdas classificam-se, pelo sistema patrimonial, como contas:",
       "opcoes": [
@@ -365,7 +436,10 @@
     },
     {
       "id": "cg-01b-25",
-      "banca": "UFPR/Câmara de Araucária/Técnico em Contabilidade/2013",
+      "banca": "UFPR",
+      "orgao": "Câmara de Araucária",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "Numere a coluna da direita de acordo com sua correspondência com a coluna da esquerda. 1. Devemos debitar — 2. Devemos creditar. ( ) para aumentar ativo. ( ) para aumentar passivo. ( ) para aumentar patrimônio líquido. ( ) para diminuir despesas. ( ) para diminuir receita. Assinale a alternativa que apresenta a numeração correta da coluna da direita, de cima para baixo.",
       "opcoes": [
@@ -381,7 +455,10 @@
     },
     {
       "id": "cg-01b-26",
-      "banca": "COPEVE/MPE AL/Contador/2012",
+      "banca": "COPEVE",
+      "orgao": "MPE AL",
+      "cargo": "Contador",
+      "ano": 2012,
       "tipo": "multipla_escolha",
       "enunciado": "O plano de contas da Vieira Cruz Ltda. contém: Caixa e Equivalente de Caixa, ICMS a Recolher, Móveis e Utensílios, Despesa de Energia, Salários e Ordenados, Fornecedor, Mercadorias, Máquinas e Equipamentos, Receitas de Juros, Capital Social. De acordo com a classificação técnica indicada nas Teorias Materiais e Personalistas, respectivamente, é correto afirmar que esta relação contém:",
       "opcoes": [
@@ -397,7 +474,9 @@
     },
     {
       "id": "cg-01b-27",
-      "banca": "FGV/Exame de Suficiência/2024.1",
+      "banca": "FGV",
+      "orgao": "Exame de Suficiência",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Considere os seguintes elementos das demonstrações contábeis: I. Ativo. II. Despesa. III. Receita. IV. Passivo. V. Patrimônio Líquido. Desses elementos, os que apresentam natureza devedora são:",
       "opcoes": [
@@ -412,7 +491,10 @@
     },
     {
       "id": "cg-01b-28",
-      "banca": "FGV/Exame de Suficiência/RS/2024.1",
+      "banca": "FGV",
+      "orgao": "Exame de Suficiência",
+      "cargo": "RS",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação às contas apresentadas no balanço patrimonial de uma entidade, avalie se as seguintes contas são de natureza devedora: I. Adiantamento a sócio. II. Receitas antecipadas. III. Ações em tesouraria. São, de fato, contas de natureza devedora:",
       "opcoes": [
@@ -427,7 +509,10 @@
     },
     {
       "id": "cg-01b-29",
-      "banca": "FGV/SEMSA Manaus/Contador/2022",
+      "banca": "FGV",
+      "orgao": "SEMSA Manaus",
+      "cargo": "Contador",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Em janeiro de X2, uma sociedade empresária vendeu todo o seu saldo em estoque à vista com lucro. Além disso, comprou um veículo para entrega a prazo. Assinale a opção que indica o impacto dos dois eventos no balanço patrimonial da sociedade empresária em 31/01/X2.",
       "opcoes": [
@@ -443,7 +528,10 @@
     },
     {
       "id": "cg-01b-30",
-      "banca": "FGV/SEMSA Manaus/Especialista em Saúde/Administrador Geral/2022",
+      "banca": "FGV",
+      "orgao": "SEMSA Manaus",
+      "cargo": "Especialista em Saúde / Administrador Geral",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "À luz da Teoria das Contas, analise as assertivas a seguir. I. O custo da mercadoria vendida é uma conta dos proprietários, segundo a Teoria Personalista. II. O caixa faz parte das contas integrais, segundo a Teoria Materialista. III. Os empréstimos fazem parte das contas de resultado, segundo a Teoria Patrimonialista. Está correto o que se afirma em:",
       "opcoes": [
@@ -459,7 +547,10 @@
     },
     {
       "id": "cg-01b-31",
-      "banca": "FGV/PC-RN/Agente/2021",
+      "banca": "FGV",
+      "orgao": "PC-RN",
+      "cargo": "Agente",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "A elaboração de um plano de contas para uma entidade requer a definição de elementos considerados essenciais para a definição da conta, tais como nome, função, funcionamento e natureza. Quanto à natureza, um exemplo de conta devedora é:",
       "opcoes": [
@@ -475,7 +566,10 @@
     },
     {
       "id": "cg-01b-32",
-      "banca": "FGV/TCE-PI/Assistente de Administração/2021",
+      "banca": "FGV",
+      "orgao": "TCE-PI",
+      "cargo": "Assistente de Administração",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "Ao elaborar um plano de contas para uma entidade é necessário considerar as características das operações próprias da entidade e também alguns conceitos básicos de contabilidade. No que tange à natureza do saldo, as contas podem ser credoras ou devedoras. Um exemplo de conta que tem saldo de natureza devedora é:",
       "opcoes": [
@@ -491,7 +585,10 @@
     },
     {
       "id": "cg-01b-33",
-      "banca": "FGV/BANESTES/Analista Econômico-Financeiro/Gestão Financeira/2018",
+      "banca": "FGV",
+      "orgao": "BANESTES",
+      "cargo": "Analista Econômico-Financeiro / Gestão Financeira",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Ao analisar diversos Balanços Patrimoniais, um analista percebe que tanto o lado esquerdo como o lado direito desse tipo de relatório contábil sempre apresentam o mesmo total em unidades monetárias. Uma maneira de entender essa constatação é que tanto as aplicações como as origens de recursos da empresa são sempre retratadas, respectivamente, como:",
       "opcoes": [
@@ -507,7 +604,10 @@
     },
     {
       "id": "cg-01b-34",
-      "banca": "FGV/Contador/SUDENE/PE/2013",
+      "banca": "FGV",
+      "orgao": "Contador",
+      "cargo": "SUDENE / PE",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que indica as contas que são classificadas como patrimoniais, integrais e em agentes consignatários concomitantemente.",
       "opcoes": [
@@ -523,7 +623,10 @@
     },
     {
       "id": "cg-01b-35",
-      "banca": "FGV/Analista Contábil/MPE/MS/2013",
+      "banca": "FGV",
+      "orgao": "Analista Contábil",
+      "cargo": "MPE / MS",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "A corrente de pensamento contábil, que adota como teoria fundamental a personificação das contas, divide o patrimônio:",
       "opcoes": [
@@ -539,7 +642,10 @@
     },
     {
       "id": "cg-01b-36",
-      "banca": "FGV/Contador/INEA/2013",
+      "banca": "FGV",
+      "orgao": "INEA",
+      "cargo": "Contador",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "A teoria da contabilidade que divide as contas em patrimoniais e de resultado, é denominada:",
       "opcoes": [
@@ -555,7 +661,10 @@
     },
     {
       "id": "cg-01b-37",
-      "banca": "FGV/Contador/BADESC/2010",
+      "banca": "FGV",
+      "orgao": "BADESC",
+      "cargo": "Contador",
+      "ano": 2010,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que apresenta contas com saldo credor.",
       "opcoes": [
@@ -571,7 +680,10 @@
     },
     {
       "id": "cg-01b-38",
-      "banca": "AVANÇASP/CM Embu-Guaçu/Agente Administrativo Geral/2024",
+      "banca": "AVANÇASP",
+      "orgao": "CM Embu-Guaçu",
+      "cargo": "Agente Administrativo Geral",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Na escrituração contábil existem dois grandes grupos de contas, sendo eles:",
       "opcoes": [
@@ -587,7 +699,10 @@
     },
     {
       "id": "cg-01b-39",
-      "banca": "FUNCEPE/Pref. Gen. Sampaio/Auxiliar Contabilidade/2024",
+      "banca": "FUNCEPE",
+      "orgao": "Pref. Gen. Sampaio",
+      "cargo": "Auxiliar Contabilidade",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Acerca das contas patrimoniais e de resultado, assinale (V) para as afirmativas VERDADEIRAS e (F) para as FALSAS. ( ) Contas patrimoniais são dinâmicas. ( ) Contas de resultado são compostas pelas receitas e despesas. ( ) Contas patrimoniais compreendem o ativo, passivo e patrimônio líquido. Marque a opção que apresenta a sequência CORRETA.",
       "opcoes": [
@@ -603,7 +718,10 @@
     },
     {
       "id": "cg-01b-40",
-      "banca": "IBADE/Pref. Jaru/Contador/2024",
+      "banca": "IBADE",
+      "orgao": "Pref. Jaru",
+      "cargo": "Contador",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Qual é a principal diferença entre contas patrimoniais e de resultado?",
       "opcoes": [
@@ -619,7 +737,10 @@
     },
     {
       "id": "cg-01b-41",
-      "banca": "OBJETIVA CONCURSOS/CM Itaqui/Tesoureiro/2024",
+      "banca": "OBJETIVA CONCURSOS",
+      "orgao": "CM Itaqui",
+      "cargo": "Tesoureiro",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Essas contas dividem-se em Contas de Despesas e Contas de Receitas. Aparecem durante o exercício social, encerrando-se no final de tal exercício. Não fazem parte do Balanço Patrimonial, mas é por meio delas que sabemos se a empresa apresentou lucro ou prejuízo em suas atividades. O conceito apresentado diz respeito a:",
       "opcoes": [
@@ -634,7 +755,10 @@
     },
     {
       "id": "cg-01b-42",
-      "banca": "FADESP/Pref. Capanema PA/Fiscal/2024",
+      "banca": "FADESP",
+      "orgao": "Pref. Capanema PA",
+      "cargo": "Fiscal",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "A empresa Capanema Ltda. apresenta em seu plano de contas as seguintes rubricas: venda de mercadorias; custo das mercadorias vendidas; despesas antecipadas; depreciação acumulada; capital a integralizar; empréstimos bancários; móveis e utensílios; capital social; fornecedores e conta corrente. Esse elenco de contas da empresa Capanema Ltda. apresenta:",
       "opcoes": [
@@ -649,7 +773,10 @@
     },
     {
       "id": "cg-01b-43",
-      "banca": "CEBRASPE/PC DF/Contador/2025",
+      "banca": "CEBRASPE",
+      "orgao": "PC DF",
+      "cargo": "Contador",
+      "ano": 2025,
       "tipo": "certo_errado",
       "enunciado": "No rol de contas composto por: depreciação acumulada, seguros antecipados, caixa e equivalentes, contas a receber, estoques, empréstimos a dirigentes, adiantamento a fornecedores, adiantamento de clientes, imobilizado, capital social, contas a pagar e reserva para contingências — há duas contas credoras que não pertencem ao passivo exigível.",
       "resposta": "errado",
@@ -658,7 +785,10 @@
     },
     {
       "id": "cg-01b-44",
-      "banca": "CEBRASPE/PC DF/Contador/2025",
+      "banca": "CEBRASPE",
+      "orgao": "PC DF",
+      "cargo": "Contador",
+      "ano": 2025,
       "tipo": "certo_errado",
       "enunciado": "No rol de contas composto por: depreciação acumulada, seguros antecipados, caixa e equivalentes, contas a receber, estoques, empréstimos a dirigentes, adiantamento a fornecedores, adiantamento de clientes, imobilizado, capital social, contas a pagar e reserva para contingências — existem sete contas de natureza devedora e cinco contas de natureza credora.",
       "resposta": "certo",
@@ -667,7 +797,10 @@
     },
     {
       "id": "cg-01b-45",
-      "banca": "CEBRASPE/PC DF/Contador/2025",
+      "banca": "CEBRASPE",
+      "orgao": "PC DF",
+      "cargo": "Contador",
+      "ano": 2025,
       "tipo": "certo_errado",
       "enunciado": "No mesmo rol de contas, os saldos devedores somam R$ 89 mil (seguros antecipados R$ 1.000, caixa e equivalentes R$ 1.000, contas a receber R$ 30.000, estoques R$ 12.000, empréstimos a dirigentes R$ 10.000, adiantamento a fornecedores R$ 10.000 e imobilizado R$ 25.000).",
       "resposta": "certo",
@@ -676,7 +809,10 @@
     },
     {
       "id": "cg-01b-46",
-      "banca": "CEBRASPE/TCE AC/Analista Contabilidade/2024",
+      "banca": "CEBRASPE",
+      "orgao": "TCE AC",
+      "cargo": "Analista Contabilidade",
+      "ano": 2024,
       "tipo": "certo_errado",
       "enunciado": "Contas de débito são contas típicas do ativo e das despesas; contas de crédito são tipicamente usadas para expressar itens do passivo e das receitas.",
       "resposta": "certo",
@@ -685,7 +821,10 @@
     },
     {
       "id": "cg-01b-47",
-      "banca": "CEBRASPE/DPE RO/Técnico em Contabilidade/2022",
+      "banca": "CEBRASPE",
+      "orgao": "DPE RO",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a opção que indica apenas contas credoras.",
       "opcoes": [
@@ -701,7 +840,10 @@
     },
     {
       "id": "cg-01b-48",
-      "banca": "CEBRASPE/FUB/Técnico em Contabilidade/2022",
+      "banca": "CEBRASPE",
+      "orgao": "FUB",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2022,
       "tipo": "certo_errado",
       "enunciado": "As contas consideradas retificadoras no balanço patrimonial têm a mesma natureza dos grupos em que são apresentadas.",
       "resposta": "errado",
@@ -710,7 +852,10 @@
     },
     {
       "id": "cg-01b-49",
-      "banca": "CEBRASPE/FUB/Técnico em Contabilidade/2022",
+      "banca": "CEBRASPE",
+      "orgao": "FUB",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2022,
       "tipo": "certo_errado",
       "enunciado": "O saldo credor em uma conta de estoques de matérias-primas indica que a contabilização efetuada no período foi realizada sem erros.",
       "resposta": "errado",
@@ -719,7 +864,10 @@
     },
     {
       "id": "cg-01b-50",
-      "banca": "CEBRASPE/APEX/Analista Processos Contábeis/2022",
+      "banca": "CEBRASPE",
+      "orgao": "APEX",
+      "cargo": "Analista Processos Contábeis",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Considere o conjunto de contas: caixa, contas a receber, estoques, ajuste de ativo a valor presente, imobilizado, depreciação acumulada, duplicatas descontadas, contas a pagar, juros passivos a transcorrer, capital social, ações em tesouraria. No rol de contas apresentado, existem:",
       "opcoes": [
@@ -734,7 +882,10 @@
     },
     {
       "id": "cg-01b-51",
-      "banca": "CEBRASPE/PC RO/Agente de Polícia Civil/2022",
+      "banca": "CEBRASPE",
+      "orgao": "PC RO",
+      "cargo": "Agente de Polícia Civil",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Considerando os conceitos de débitos e créditos das contas contábeis, assinale a opção em que todas as contas contábeis relacionadas são de natureza credora.",
       "opcoes": [
@@ -750,7 +901,10 @@
     },
     {
       "id": "cg-01b-52",
-      "banca": "CEBRASPE/SEFAZ SE/Auditor Técnico de Tributos/2022",
+      "banca": "CEBRASPE",
+      "orgao": "SEFAZ SE",
+      "cargo": "Auditor Técnico de Tributos",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Os eventos cujo efeito uma sociedade anônima terá de apresentar por meio de uma conta retificadora no seu balanço patrimonial incluem a: I – constituição de provisão para créditos de liquidação duvidosa. II – aquisição de ações de emissão própria. III – constituição de provisão para ajustes por perdas no valor recuperável de ativos. IV – constituição de provisão para riscos fiscais. V – constituição de provisão para perda por redução no valor realizável líquido de ativos. Estão certos apenas os itens:",
       "opcoes": [
@@ -766,7 +920,9 @@
     },
     {
       "id": "cg-01b-53",
-      "banca": "Cebraspe/Policia Federal/2021",
+      "banca": "Cebraspe",
+      "orgao": "Policia Federal",
+      "ano": 2021,
       "tipo": "certo_errado",
       "enunciado": "Caixa e Estoques são elementos patrimoniais cujas contas apresentam saldos de natureza credora.",
       "resposta": "errado",
@@ -775,7 +931,10 @@
     },
     {
       "id": "cg-01b-54",
-      "banca": "CEBRASPE/TCE RJ/Analista de Controle Externo/2021",
+      "banca": "CEBRASPE",
+      "orgao": "TCE RJ",
+      "cargo": "Analista de Controle Externo",
+      "ano": 2021,
       "tipo": "certo_errado",
       "enunciado": "Em outubro de 2019, a empresa Beta assinou um contrato para prestar determinado serviço. No mês seguinte, o cliente efetuou um adiantamento em dinheiro. Na contabilidade da empresa Beta, esse adiantamento representa, ao mesmo tempo, uma origem de recursos com registro a crédito de uma conta do passivo circulante, e uma aplicação de recursos com registro a débito de uma conta do ativo circulante.",
       "resposta": "certo",
@@ -784,7 +943,10 @@
     },
     {
       "id": "cg-01b-55",
-      "banca": "CEBRASPE/CAGE RS/Auditor do Estado/2018",
+      "banca": "CEBRASPE",
+      "orgao": "CAGE RS",
+      "cargo": "Auditor do Estado",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "A respeito das contas de receitas e despesas, assinale a opção correta.",
       "opcoes": [
@@ -800,7 +962,10 @@
     },
     {
       "id": "cg-01b-56",
-      "banca": "CEBRASPE/CAGE-RS/Auditor do Estado/2018",
+      "banca": "CEBRASPE",
+      "orgao": "CAGE-RS",
+      "cargo": "Auditor do Estado",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Um registro de débito na contabilidade de uma empresa tem o efeito de:",
       "opcoes": [
@@ -816,7 +981,10 @@
     },
     {
       "id": "cg-01b-57",
-      "banca": "CEBRASPE/Funpresp-JUD/Contabilidade/2016",
+      "banca": "CEBRASPE",
+      "orgao": "Funpresp-JUD",
+      "cargo": "Contabilidade",
+      "ano": 2016,
       "tipo": "certo_errado",
       "enunciado": "As contas retificadoras acompanham as respectivas contas principais no balanço patrimonial, sendo lançadas sempre com sinal oposto ao do lançamento das contas que retificam.",
       "resposta": "certo",
@@ -825,7 +993,10 @@
     },
     {
       "id": "cg-01b-58",
-      "banca": "CEBRASPE/TCE-PA/ACE/Contabilidade/2016",
+      "banca": "CEBRASPE",
+      "orgao": "TCE-PA",
+      "cargo": "ACE / Contabilidade",
+      "ano": 2016,
       "tipo": "certo_errado",
       "enunciado": "Pelo sistema de partidas dobradas, a conta caixa e equivalentes é debitada pelo ingresso de recursos financeiros na entidade, e creditada por ocasião dos pagamentos em caixa.",
       "resposta": "certo",
@@ -834,7 +1005,10 @@
     },
     {
       "id": "cg-01b-59",
-      "banca": "CEBRASPE/TCE-PA/Adm./Contabilidade/2016",
+      "banca": "CEBRASPE",
+      "orgao": "TCE-PA",
+      "cargo": "Adm. / Contabilidade",
+      "ano": 2016,
       "tipo": "certo_errado",
       "enunciado": "Uma conta de natureza devedora que não seja retificadora expressa uma aplicação de recurso.",
       "resposta": "certo",
@@ -843,7 +1017,10 @@
     },
     {
       "id": "cg-01b-60",
-      "banca": "CEBRASPE/DPE RO/Técnico em Contabilidade/2022",
+      "banca": "CEBRASPE",
+      "orgao": "DPE RO",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Entre as contas do ativo, são de natureza credora as contas:",
       "opcoes": [
@@ -859,7 +1036,10 @@
     },
     {
       "id": "cg-01b-61",
-      "banca": "VUNESP/Pref. Peruíbe/Auditor de Controle Interno/2023",
+      "banca": "VUNESP",
+      "orgao": "Pref. Peruíbe",
+      "cargo": "Auditor de Controle Interno",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Dentre as alternativas apresentadas, indique aquela que representa uma conta patrimonial de natureza credora.",
       "opcoes": [
@@ -875,7 +1055,10 @@
     },
     {
       "id": "cg-01b-62",
-      "banca": "VUNESP/PC RR/Agente de Polícia Civil/2022",
+      "banca": "VUNESP",
+      "orgao": "PC RR",
+      "cargo": "Agente de Polícia Civil",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que contenha uma conta contábil de natureza credora, segundo os preceitos contábeis.",
       "opcoes": [
@@ -891,7 +1074,10 @@
     },
     {
       "id": "cg-01b-63",
-      "banca": "VUNESP/PC RR/Perito Papiloscopista de Polícia Civil/2022",
+      "banca": "VUNESP",
+      "orgao": "PC RR",
+      "cargo": "Perito Papiloscopista de Polícia Civil",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à conta de natureza devedora, assinale a alternativa que corretamente a representa.",
       "opcoes": [
@@ -907,7 +1093,10 @@
     },
     {
       "id": "cg-01b-64",
-      "banca": "VUNESP/Contador/TJ SP/2019",
+      "banca": "VUNESP",
+      "orgao": "TJ SP",
+      "cargo": "Contador",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Considerando a natureza das contas contábeis, assinale a alternativa correta.",
       "opcoes": [
@@ -923,7 +1112,10 @@
     },
     {
       "id": "cg-01b-65",
-      "banca": "VUNESP/Contador/MP SP/2019",
+      "banca": "VUNESP",
+      "orgao": "MP SP",
+      "cargo": "Contador",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Para o registro das transações dos eventos econômicos ocorridos numa entidade, a Contabilidade se utiliza de um sistema de partidas dobradas no qual existem contas de natureza devedora e contas de natureza credora. Considerado esse fato, é correto afirmar que, no plano de contas de uma entidade,",
       "opcoes": [
@@ -939,7 +1131,10 @@
     },
     {
       "id": "cg-01b-66",
-      "banca": "VUNESP/ISS Guarulhos/Inspetor Fiscal de Rendas/2019",
+      "banca": "VUNESP",
+      "orgao": "ISS Guarulhos",
+      "cargo": "Inspetor Fiscal de Rendas",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa correta.",
       "opcoes": [
@@ -955,7 +1150,10 @@
     },
     {
       "id": "cg-01b-67",
-      "banca": "VUNESP/ISS Campinas/Auditor Fiscal Tributário Municipal/2019",
+      "banca": "VUNESP",
+      "orgao": "ISS Campinas",
+      "cargo": "Auditor Fiscal Tributário Municipal",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que contenha uma conta de resultado:",
       "opcoes": [
@@ -971,7 +1169,10 @@
     },
     {
       "id": "cg-01b-68",
-      "banca": "VUNESP/CM Itaquaquecetuba/Contador/2018",
+      "banca": "VUNESP",
+      "orgao": "CM Itaquaquecetuba",
+      "cargo": "Contador",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Numa escrituração contábil regular, uma conta cujo saldo é sempre devedor ou nulo é:",
       "opcoes": [
@@ -987,7 +1188,10 @@
     },
     {
       "id": "cg-01b-69",
-      "banca": "VUNESP/UNIFESP/Contador/2016",
+      "banca": "VUNESP",
+      "orgao": "UNIFESP",
+      "cargo": "Contador",
+      "ano": 2016,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à escrituração contábil, é correto afirmar que as contas:",
       "opcoes": [
@@ -1003,7 +1207,10 @@
     },
     {
       "id": "cg-01b-70",
-      "banca": "VUNESP/Analista/PRODEST ES/2014",
+      "banca": "VUNESP",
+      "orgao": "PRODEST ES",
+      "cargo": "Analista",
+      "ano": 2014,
       "tipo": "multipla_escolha",
       "enunciado": "Os lançamentos contábeis são formalizados por débitos e créditos, respeitando, ainda, a régua de partidas dobradas. Nesse sentido, os lançamentos a Débito significam, considerando a estrutura conceitual da equação patrimonial:",
       "opcoes": [
@@ -1019,7 +1226,10 @@
     },
     {
       "id": "cg-01b-71",
-      "banca": "VUNESP/TJ MT/Analista Judiciário/Ciências Contábeis/2008",
+      "banca": "VUNESP",
+      "orgao": "TJ MT",
+      "cargo": "Analista Judiciário / Ciências Contábeis",
+      "ano": 2008,
       "tipo": "multipla_escolha",
       "enunciado": "A teoria contábil em que as contas representam agentes consignatários, correspondentes e proprietários corresponde à teoria:",
       "opcoes": [
@@ -1035,7 +1245,10 @@
     },
     {
       "id": "cg-01b-72",
-      "banca": "FCC/ARTESP/Agente de Fiscalização/Técnico em Contabilidade/2017",
+      "banca": "FCC",
+      "orgao": "ARTESP",
+      "cargo": "Agente de Fiscalização / Técnico em Contabilidade",
+      "ano": 2017,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação ao plano de conta das empresas, a conta Ações em Tesouraria tem natureza:",
       "opcoes": [
@@ -1051,7 +1264,10 @@
     },
     {
       "id": "cg-01b-73",
-      "banca": "FCC/TRF-2/Contadoria/2012",
+      "banca": "FCC",
+      "orgao": "TRF-2",
+      "cargo": "Contadoria",
+      "ano": 2012,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à escrituração contábil, é correto afirmar que as contas:",
       "opcoes": [
@@ -1067,7 +1283,10 @@
     },
     {
       "id": "cg-01b-74",
-      "banca": "FCC/TRE-SP/Contadoria/2012",
+      "banca": "FCC",
+      "orgao": "TRE-SP",
+      "cargo": "Contadoria",
+      "ano": 2012,
       "tipo": "multipla_escolha",
       "enunciado": "É uma conta patrimonial que é creditada quando aumenta de valor:",
       "opcoes": [
@@ -1083,7 +1302,10 @@
     },
     {
       "id": "cg-01b-75",
-      "banca": "FCC/TRT 24ª Região/Analista Judiciário Contabilidade/2011",
+      "banca": "FCC",
+      "orgao": "TRT 24ª Região",
+      "cargo": "Analista Judiciário Contabilidade",
+      "ano": 2011,
       "tipo": "multipla_escolha",
       "enunciado": "Aumentam os saldos das contas de Patrimônio Líquido, Ativo e Passivo, os lançamentos nelas efetuados que representem, respectivamente:",
       "opcoes": [
@@ -1099,7 +1321,9 @@
     },
     {
       "id": "cg-01b-76",
-      "banca": "FCC/ALESP/2011",
+      "banca": "FCC",
+      "orgao": "ALESP",
+      "ano": 2011,
       "tipo": "multipla_escolha",
       "enunciado": "São de natureza credora as contas de:",
       "opcoes": [
@@ -1115,7 +1339,10 @@
     },
     {
       "id": "cg-01b-77",
-      "banca": "FCC/MPU/Administrativo/2007",
+      "banca": "FCC",
+      "orgao": "MPU",
+      "cargo": "Administrativo",
+      "ano": 2007,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à escrituração contábil, é correto afirmar que as contas:",
       "opcoes": [
@@ -1131,7 +1358,10 @@
     },
     {
       "id": "cg-01b-78",
-      "banca": "FCC/TRF-4/Contabilidade/2007",
+      "banca": "FCC",
+      "orgao": "TRF-4",
+      "cargo": "Contabilidade",
+      "ano": 2007,
       "tipo": "multipla_escolha",
       "enunciado": "Na escrituração contábil, os saldos das contas do Ativo, do Passivo Exigível e do Patrimônio Líquido diminuem quando, respectivamente, são:",
       "opcoes": [
@@ -1147,7 +1377,10 @@
     },
     {
       "id": "cg-01b-79",
-      "banca": "FCC/TCE-CE/Auditor/2006",
+      "banca": "FCC",
+      "orgao": "TCE-CE",
+      "cargo": "Auditor",
+      "ano": 2006,
       "tipo": "multipla_escolha",
       "enunciado": "Na escrituração contábil, as contas classificadas no Passivo Exigível:",
       "opcoes": [
@@ -1163,7 +1396,10 @@
     },
     {
       "id": "cg-01b-80",
-      "banca": "FCC/TRE-SP/Contabilidade/2005",
+      "banca": "FCC",
+      "orgao": "TRE-SP",
+      "cargo": "Contabilidade",
+      "ano": 2005,
       "tipo": "multipla_escolha",
       "enunciado": "Contas cujos saldos no Balanço Patrimonial são devedores:",
       "opcoes": [
@@ -1179,7 +1415,10 @@
     },
     {
       "id": "cg-01b-81",
-      "banca": "CEBRASPE/TRF 6/Técnico/2025",
+      "banca": "CEBRASPE",
+      "orgao": "TRF 6",
+      "cargo": "Técnico",
+      "ano": 2025,
       "tipo": "certo_errado",
       "enunciado": "A conta juros ativos a transcorrer tem seu saldo aumentado por lançamentos a débito e reduzido por lançamentos a crédito.",
       "resposta": "errado",
@@ -1188,7 +1427,10 @@
     },
     {
       "id": "cg-01b-82",
-      "banca": "CEBRASPE/TRF 6/Técnico/2025",
+      "banca": "CEBRASPE",
+      "orgao": "TRF 6",
+      "cargo": "Técnico",
+      "ano": 2025,
       "tipo": "certo_errado",
       "enunciado": "Do conjunto de contas: caixa e equivalentes (R$ 5.000), créditos a receber (R$ 250.000), juros ativos a transcorrer (R$ 10.000), provisão para perdas esperadas (R$ 1.500), imóveis de uso (R$ 650.000), depreciação acumulada (R$ 300.000), duplicatas descontadas (R$ 150.000), fornecedores (R$ 120.000), empréstimos bancários (R$ 50.000), juros passivos a transcorrer (R$ 15.000), capital social (R$ 200.000) e ações em tesouraria (R$ 10.000) — o saldo total do conjunto é devedor em menos de R$ 100 mil.",
       "resposta": "certo",
@@ -1197,7 +1439,10 @@
     },
     {
       "id": "cg-01b-83",
-      "banca": "CEBRASPE/ANTT/Especialista/2024",
+      "banca": "CEBRASPE",
+      "orgao": "ANTT",
+      "cargo": "Especialista",
+      "ano": 2024,
       "tipo": "certo_errado",
       "enunciado": "Contas representativas de bens e direitos são contas devedoras, enquanto contas representativas de obrigações são contas credoras, contudo, nem toda conta do passivo é credora.",
       "resposta": "certo",
@@ -1206,7 +1451,10 @@
     },
     {
       "id": "cg-01b-84",
-      "banca": "CEBRASPE/CAU BR/Técnico/2024",
+      "banca": "CEBRASPE",
+      "orgao": "CAU BR",
+      "cargo": "Técnico",
+      "ano": 2024,
       "tipo": "certo_errado",
       "enunciado": "Os saldos contábeis das contas que compõem o passivo deverão ser reduzidos por meio de lançamentos a crédito.",
       "resposta": "errado",
@@ -1215,7 +1463,10 @@
     },
     {
       "id": "cg-01b-85",
-      "banca": "IBADE/RBPREV/Contador/2023",
+      "banca": "IBADE",
+      "orgao": "RBPREV",
+      "cargo": "Contador",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "As contas podem ser classificadas em Patrimoniais e de Resultado. Sobre esse tema e suas características, associe as colunas: 1. Contas Patrimoniais. 2. Contas de Resultado. ( ) São divididas em ativas e passivas. ( ) São divididas em contas de receitas e de despesas. ( ) Podem ser contabilizadas através do regime de competência ou regime de caixa. A sequência correta dessa associação é:",
       "opcoes": [
@@ -1231,7 +1482,10 @@
     },
     {
       "id": "cg-01b-86",
-      "banca": "IBADE/Pref. S. Luzia D'Oeste/Contador/2020",
+      "banca": "IBADE",
+      "orgao": "Pref. S. Luzia D'Oeste",
+      "cargo": "Contador",
+      "ano": 2020,
       "tipo": "multipla_escolha",
       "enunciado": "São contas patrimoniais, EXCETO:",
       "opcoes": [
@@ -1247,7 +1501,10 @@
     },
     {
       "id": "cg-01b-87",
-      "banca": "FCC/TRF-4/Contabilidade/2007",
+      "banca": "FCC",
+      "orgao": "TRF-4",
+      "cargo": "Contabilidade",
+      "ano": 2007,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação ao plano de contas: contas cujos saldos no Balanço Patrimonial são devedores incluem:",
       "opcoes": [
@@ -1263,7 +1520,10 @@
     },
     {
       "id": "cg-01b-88",
-      "banca": "CESGRANRIO/PETROBRAS/Profissional de Nível Técnico/2018",
+      "banca": "CESGRANRIO",
+      "orgao": "PETROBRAS",
+      "cargo": "Profissional de Nível Técnico",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "A teoria Patrimonialista, adotada no Brasil, que tem por objeto o estudo contábil do Patrimônio de uma entidade, divide as contas em dois grupos: Contas Patrimoniais e Contas de Resultado. Nesse contexto, as contas de despesa provocam sempre numa empresa a(o):",
       "opcoes": [
@@ -1279,7 +1539,10 @@
     },
     {
       "id": "cg-01b-89",
-      "banca": "CESGRANRIO/CEFET-RJ/Técnico em Contabilidade/2014",
+      "banca": "CESGRANRIO",
+      "orgao": "CEFET-RJ",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2014,
       "tipo": "multipla_escolha",
       "enunciado": "De acordo com a teoria patrimonialista adotada pela contabilidade brasileira, são contas de origem devedora ou contas devedoras as seguintes contas:",
       "opcoes": [
@@ -1295,7 +1558,10 @@
     },
     {
       "id": "cg-01b-90",
-      "banca": "CESGRANRIO/TRANSPETRO/Técnico/Contabilidade/2011",
+      "banca": "CESGRANRIO",
+      "orgao": "TRANSPETRO",
+      "cargo": "Técnico / Contabilidade",
+      "ano": 2011,
       "tipo": "multipla_escolha",
       "enunciado": "Na evolução da contabilidade existiram escolas que desenvolveram estudos especializados no campo da teoria das contas. Nos termos da escola Patrimonialista, as contas são classificadas como:",
       "opcoes": [
@@ -1311,7 +1577,10 @@
     },
     {
       "id": "cg-01b-91",
-      "banca": "CEBRASPE/PC DF/Contador/2025",
+      "banca": "CEBRASPE",
+      "orgao": "PC DF",
+      "cargo": "Contador",
+      "ano": 2025,
       "tipo": "certo_errado",
       "enunciado": "Do rol de contas composto por depreciação acumulada (R$ 7.000), seguros antecipados (R$ 1.000), caixa e equivalentes (R$ 1.000), contas a receber (R$ 30.000), estoques (R$ 12.000), empréstimos a dirigentes (R$ 10.000), adiantamento a fornecedores (R$ 10.000), adiantamento de clientes (R$ 11.000), imobilizado (R$ 25.000), capital social (R$ 29.000), contas a pagar (R$ 40.000) e reserva para contingências (R$ 2.000) — os saldos credores somam R$ 82 mil.",
       "resposta": "errado",
@@ -1320,7 +1589,10 @@
     },
     {
       "id": "cg-01b-92",
-      "banca": "CEBRASPE/FUB/Técnico em Contabilidade/2022",
+      "banca": "CEBRASPE",
+      "orgao": "FUB",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2022,
       "tipo": "certo_errado",
       "enunciado": "Os lançamentos em escrituração contábil podem ser realizados em contas sintéticas que compõem um plano de contas.",
       "resposta": "errado",
@@ -1329,7 +1601,10 @@
     },
     {
       "id": "cg-01b-93",
-      "banca": "CEBRASPE/FUB/Técnico em Contabilidade/2022",
+      "banca": "CEBRASPE",
+      "orgao": "FUB",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2022,
       "tipo": "certo_errado",
       "enunciado": "As contas de compensação não podem ser consideradas como contas analíticas.",
       "resposta": "errado",
@@ -1338,7 +1613,10 @@
     },
     {
       "id": "cg-01b-94",
-      "banca": "CEBRASPE/TCE RJ/Analista de Controle Externo/2021",
+      "banca": "CEBRASPE",
+      "orgao": "TCE RJ",
+      "cargo": "Analista de Controle Externo",
+      "ano": 2021,
       "tipo": "certo_errado",
       "enunciado": "Em outubro de 2019, a empresa Beta assinou contrato para prestar determinado serviço a um cliente. Em novembro, o cliente efetuou um adiantamento em dinheiro pelo serviço contratado. Em dezembro, o serviço foi prestado. Conforme o que estabelece a teoria personalista, por ocasião do recebimento do adiantamento feito pelo cliente, a empresa Beta deve tratar a conta caixa como se ela representasse uma pessoa com quem mantém um relacionamento, de modo que a conta caixa passa a ser devedora da empresa, no momento em que o adiantamento for recebido.",
       "resposta": "certo",
@@ -1347,7 +1625,10 @@
     },
     {
       "id": "cg-01b-95",
-      "banca": "CEBRASPE/FUB/Técnico em Contabilidade/2018",
+      "banca": "CEBRASPE",
+      "orgao": "FUB",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2018,
       "tipo": "certo_errado",
       "enunciado": "Contas caixa, ações em tesouraria e depreciação têm em comum o fato de serem todas de natureza devedora.",
       "resposta": "certo",
@@ -1356,7 +1637,10 @@
     },
     {
       "id": "cg-01b-96",
-      "banca": "CEBRASPE/Polícia Federal/Escrivão/2018",
+      "banca": "CEBRASPE",
+      "orgao": "Polícia Federal",
+      "cargo": "Escrivão",
+      "ano": 2018,
       "tipo": "certo_errado",
       "enunciado": "O balancete de uma sociedade anônima em 31/12/20x0 apresenta os seguintes saldos: caixa (devedor R$ 25.300), aplicação financeira (devedor R$ 5.700), estoques (devedor R$ 4.000), móveis e utensílios (devedor R$ 10.000), despesa de aluguel (devedor R$ 3.000), duplicatas a pagar (credor R$ 8.200), aluguel a pagar (credor R$ 3.000), capital social (credor R$ 30.000) e receita de serviços (credor R$ 6.800). Nessa situação hipotética, separando-se as contas patrimoniais das contas de resultado, será identificado um lucro no período.",
       "resposta": "certo",
@@ -1365,7 +1649,10 @@
     },
     {
       "id": "cg-01b-97",
-      "banca": "CEBRASPE/EBSERH/Técnico em Contabilidade/2018",
+      "banca": "CEBRASPE",
+      "orgao": "EBSERH",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2018,
       "tipo": "certo_errado",
       "enunciado": "As receitas e as despesas provocam variações patrimoniais, aumentando ou diminuindo o patrimônio líquido; por essa razão, segundo a teoria patrimonialista, elas são classificadas como contas patrimoniais.",
       "resposta": "errado",
@@ -1374,7 +1661,10 @@
     },
     {
       "id": "cg-01b-98",
-      "banca": "CEBRASPE/EBSERH/Técnico em Contabilidade/2018",
+      "banca": "CEBRASPE",
+      "orgao": "EBSERH",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2018,
       "tipo": "certo_errado",
       "enunciado": "As contas permitem o registro dos fatos administrativos do dia a dia da entidade, os quais, por sua vez, são fundamentais para a elaboração das demonstrações contábeis e para o cumprimento dos objetivos da contabilidade.",
       "resposta": "certo",
@@ -1383,7 +1673,10 @@
     },
     {
       "id": "cg-01b-99",
-      "banca": "CEBRASPE/EBSERH/Técnico em Contabilidade/2018",
+      "banca": "CEBRASPE",
+      "orgao": "EBSERH",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2018,
       "tipo": "certo_errado",
       "enunciado": "As contas de ativo e de despesas serão debitadas sempre que for necessário aumentar os seus saldos, e serão creditadas quando a intenção for diminuí-los. Já as contas de passivo e de receitas seguem mecanismo inverso.",
       "resposta": "certo",
@@ -1392,7 +1685,10 @@
     },
     {
       "id": "cg-01b-100",
-      "banca": "VUNESP/PAULIPREV/Controlador Interno/2018",
+      "banca": "VUNESP",
+      "orgao": "PAULIPREV",
+      "cargo": "Controlador Interno",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Observe a relação de contas: Caixa e Equivalente Caixa; Tributos Diferidos; Provisões para Assistência Técnica; Receitas financeiras; Juros sobre o Capital Próprio a Pagar; Despesas administrativas; Custo dos Produtos Vendidos; Receitas a Apropriar; Resultado da Equivalência Patrimonial; Reversão de Provisões. O número de contas de resultado que consta dessa relação é:",
       "opcoes": [
@@ -1408,7 +1704,10 @@
     },
     {
       "id": "cg-01b-101",
-      "banca": "VUNESP/Pref. Nova Odessa/Contador/2018",
+      "banca": "VUNESP",
+      "orgao": "Pref. Nova Odessa",
+      "cargo": "Contador",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Analise o rol de contas da escrituração contábil de uma sociedade empresária: Despesas Antecipadas; Recebíveis; Ajuste para Perdas Previstas em Recebíveis; Reserva Legal; Despesas de Depreciação; Depreciação Acumulada; Investimentos em Coligadas e Controladas; Receitas a Apropriar; Juros sobre o Capital Próprio a Pagar; Reserva de Ágio na Emissão de Ações. O número de contas com saldo credor no rol acima é:",
       "opcoes": [
@@ -1424,7 +1723,10 @@
     },
     {
       "id": "cg-01b-102",
-      "banca": "VUNESP/CM Jales/Diretor da Divisão de Finanças/2018",
+      "banca": "VUNESP",
+      "orgao": "CM Jales",
+      "cargo": "Diretor da Divisão de Finanças",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que não deve constar do balanço patrimonial.",
       "opcoes": [
@@ -1440,7 +1742,10 @@
     },
     {
       "id": "cg-01b-103",
-      "banca": "VUNESP/TJ SP/Contador/2013",
+      "banca": "VUNESP",
+      "orgao": "TJ SP",
+      "cargo": "Contador",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "As variações positivas nas contas dos passivos ocorrem quando:",
       "opcoes": [
@@ -1456,7 +1761,10 @@
     },
     {
       "id": "cg-01b-104",
-      "banca": "VUNESP/Pref. Sorocaba/Auditor Fiscal de Tributos Municipais/2006",
+      "banca": "VUNESP",
+      "orgao": "Pref. Sorocaba",
+      "cargo": "Auditor Fiscal de Tributos Municipais",
+      "ano": 2006,
       "tipo": "multipla_escolha",
       "enunciado": "Segundo a Teoria Personalista, as contas são classificadas em:",
       "opcoes": [
@@ -1472,7 +1780,10 @@
     },
     {
       "id": "cg-01b-105",
-      "banca": "FCC/DESENVOLVE SP/Contador/2011",
+      "banca": "FCC",
+      "orgao": "DESENVOLVE SP",
+      "cargo": "Contador",
+      "ano": 2011,
       "tipo": "multipla_escolha",
       "enunciado": "Para responder à questão, considere as contas listadas a seguir: Ações em Tesouraria; Amortização Acumulada; Disponível; Participações Societárias Permanentes; Provisão para Créditos de Liquidação Duvidosa; Impostos a Recolher; Empréstimos a Coligadas e Controladas; Marcas e Patentes; Duplicatas a Receber; Reserva de Ágio na Emissão de Ações; Capital Social; Fornecedores; Reserva de Lucros a Realizar; Salários a Pagar; Estoques; Imobilizado; Depreciação Acumulada; Empréstimos Recebidos de Longo Prazo; Despesas do Exercício Seguinte. O número de contas que apresentam saldo credor é:",
       "opcoes": [
@@ -1488,7 +1799,10 @@
     },
     {
       "id": "cg-01b-106",
-      "banca": "FCC/TRT-21/Contabilidade/2003",
+      "banca": "FCC",
+      "orgao": "TRT-21",
+      "cargo": "Contabilidade",
+      "ano": 2003,
       "tipo": "multipla_escolha",
       "enunciado": "O aspecto qualitativo do patrimônio é expresso:",
       "opcoes": [
@@ -1504,7 +1818,10 @@
     },
     {
       "id": "cg-01b-107",
-      "banca": "CESGRANRIO/EPE/Analista de Gestão — Contabilidade/2014",
+      "banca": "CESGRANRIO",
+      "orgao": "EPE",
+      "cargo": "Analista de Gestão — Contabilidade",
+      "ano": 2014,
       "tipo": "multipla_escolha",
       "enunciado": "De acordo com os elementos técnicoconceituais do método das partidas dobradas, na Contabilidade brasileira, os débitos são realizados, somente, nas contas:",
       "opcoes": [
@@ -1520,7 +1837,10 @@
     },
     {
       "id": "cg-01b-108",
-      "banca": "CESGRANRIO/TERMOBAHIA/Técnico de Suprimento/2012",
+      "banca": "CESGRANRIO",
+      "orgao": "TERMOBAHIA",
+      "cargo": "Técnico de Suprimento",
+      "ano": 2012,
       "tipo": "multipla_escolha",
       "enunciado": "Duas contas contábeis que representam, respectivamente, uma conta patrimonial e uma conta de resultado são as contas de:",
       "opcoes": [
@@ -1536,7 +1856,10 @@
     },
     {
       "id": "cg-01b-109",
-      "banca": "CESGRANRIO/PQS/Técnico em Contabilidade/2012",
+      "banca": "CESGRANRIO",
+      "orgao": "PQS",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2012,
       "tipo": "multipla_escolha",
       "enunciado": "Quais os tipos de contas que acumulam valores provenientes de receitas e despesas durante o exercício e que, ao final, geram lucro ou prejuízo?",
       "opcoes": [
@@ -1552,7 +1875,10 @@
     },
     {
       "id": "cg-01b-110",
-      "banca": "CESGRANRIO/FAFEN/Técnico Suprimento de Bens e Serviços/2009",
+      "banca": "CESGRANRIO",
+      "orgao": "FAFEN",
+      "cargo": "Técnico Suprimento de Bens e Serviços",
+      "ano": 2009,
       "tipo": "multipla_escolha",
       "enunciado": "Na teoria patrimonialista, as contas de resultado representam situação dinâmica, o que implica dizer que elas alteram o(s):",
       "opcoes": [
@@ -1568,7 +1894,10 @@
     },
     {
       "id": "cg-01b-111",
-      "banca": "CESGRANRIO/ANP/Analista Administrativo — Contabilidade/2008",
+      "banca": "CESGRANRIO",
+      "orgao": "ANP",
+      "cargo": "Analista Administrativo — Contabilidade",
+      "ano": 2008,
       "tipo": "multipla_escolha",
       "enunciado": "Os débitos realizados numa conta implicam aumento de seu saldo quando a conta, exclusivamente, representar:",
       "opcoes": [
@@ -1584,7 +1913,10 @@
     },
     {
       "id": "cg-01b-112",
-      "banca": "CESGRANRIO/ALE-TO/Analista Legislativo — Ciências Contábeis/2005",
+      "banca": "CESGRANRIO",
+      "orgao": "ALE-TO",
+      "cargo": "Analista Legislativo — Ciências Contábeis",
+      "ano": 2005,
       "tipo": "multipla_escolha",
       "enunciado": "Os aumentos e diminuições causados pelas operações no Ativo, no Passivo e no Patrimônio Líquido são registrados no(a):",
       "opcoes": [
@@ -1600,7 +1932,10 @@
     },
     {
       "id": "cg-01b-113",
-      "banca": "CEBRASPE/TRF 6/Técnico/2025",
+      "banca": "CEBRASPE",
+      "orgao": "TRF 6",
+      "cargo": "Técnico",
+      "ano": 2025,
       "tipo": "certo_errado",
       "enunciado": "Do conjunto de contas: caixa e equivalentes (R$ 5.000), créditos a receber (R$ 250.000), juros ativos a transcorrer (R$ 10.000), provisão para perdas esperadas (R$ 1.500), imóveis de uso (R$ 650.000), depreciação acumulada (R$ 300.000), duplicatas descontadas (R$ 150.000), fornecedores (R$ 120.000), empréstimos bancários (R$ 50.000), juros passivos a transcorrer (R$ 15.000), capital social (R$ 200.000) e ações em tesouraria (R$ 10.000) — no rol de contas listado, encontram-se sete contas credoras.",
       "resposta": "certo",
@@ -1609,7 +1944,10 @@
     },
     {
       "id": "cg-01b-114",
-      "banca": "CEBRASPE/FUB/Técnico em Contabilidade/2022",
+      "banca": "CEBRASPE",
+      "orgao": "FUB",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2022,
       "tipo": "certo_errado",
       "enunciado": "O saldo final encontrado em uma conta não altera a sua natureza, ainda que esteja errado.",
       "resposta": "certo",
@@ -1618,7 +1956,10 @@
     },
     {
       "id": "cg-01b-115",
-      "banca": "CEBRASPE/FUB/Técnico em Contabilidade/2022",
+      "banca": "CEBRASPE",
+      "orgao": "FUB",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2022,
       "tipo": "certo_errado",
       "enunciado": "As contas sintéticas são as que agregam os valores dos grupos e subgrupos no plano de contas.",
       "resposta": "certo",

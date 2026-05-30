@@ -5,7 +5,10 @@
   "questoes": [
     {
       "id": "cg-01a-01",
-      "banca": "VUNESP/CM Serrana/Controlador Interno/2019",
+      "banca": "VUNESP",
+      "orgao": "CM Serrana",
+      "cargo": "Controlador Interno",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Quando a representação gráfica a seguir é a situação patrimonial da empresa, pode-se considerar que\n\n┌────────────────────┬──────────────────────────────┐\n│                    │                              │\n│       ATIVO        │                              │\n│                    │         PASSIVO              │\n├────────────────────┤                              │\n│                    │                              │\n│       PL (−)       │                              │\n└────────────────────┴──────────────────────────────┘",
       "opcoes": [
@@ -21,7 +24,10 @@
     },
     {
       "id": "cg-01a-02",
-      "banca": "VUNESP/TRANSERP/Contador/2019",
+      "banca": "VUNESP",
+      "orgao": "TRANSERP",
+      "cargo": "Contador",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Considere a seguinte representação gráfica de uma situação enfrentada por uma empresa.\n\n┌────────────────────────┬────────────────────────┐\n│                        │                        │\n│        ATIVO           │           PL           │\n│                        │                        │\n└────────────────────────┴────────────────────────┘\n\nNesse caso, considera-se que",
       "opcoes": [
@@ -37,7 +43,10 @@
     },
     {
       "id": "cg-01a-03",
-      "banca": "VUNESP/Campinas/Auditor de Controle Interno/2019",
+      "banca": "VUNESP",
+      "orgao": "Campinas",
+      "cargo": "Auditor de Controle Interno",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que apresenta a equação básica da Contabilidade e a relação entre os grupos do Balanço Patrimonial.",
       "opcoes": [
@@ -53,7 +62,10 @@
     },
     {
       "id": "cg-01a-04",
-      "banca": "VUNESP/Pref. Guaratinguetá/Contador/2019",
+      "banca": "VUNESP",
+      "orgao": "Pref. Guaratinguetá",
+      "cargo": "Contador",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "De acordo com a equação fundamental do patrimônio, uma entidade, ao ter o aumento da situação líquida positiva, ou a diminuição da situação líquida negativa, terá",
       "opcoes": [
@@ -69,7 +81,10 @@
     },
     {
       "id": "cg-01a-05",
-      "banca": "VUNESP/PAULIPREV/Controlador Interno/2018",
+      "banca": "VUNESP",
+      "orgao": "PAULIPREV",
+      "cargo": "Controlador Interno",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Em um determinado exercício social, o total do Ativo da Cia. Delta representou 4/3 do total de seu Passivo. O capital total à disposição da referida sociedade no mesmo exercício montou a R$ 1.800.000,00.\n\nPode-se concluir que o Patrimônio Líquido da Cia. Delta, nesse exercício, equivaleu, em R$, a",
       "opcoes": [
@@ -85,7 +100,10 @@
     },
     {
       "id": "cg-01a-06",
-      "banca": "VUNESP/CM Indaiatuba/Técnico Contabilidade/2018",
+      "banca": "VUNESP",
+      "orgao": "CM Indaiatuba",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Indique a alternativa correta, relativa à estrutura básica do balanço patrimonial, no que se refere à sua equação:",
       "opcoes": [
@@ -101,7 +119,10 @@
     },
     {
       "id": "cg-01a-07",
-      "banca": "VUNESP/Contador/Odessa/2018",
+      "banca": "VUNESP",
+      "orgao": "Odessa",
+      "cargo": "Contador",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Em um determinado exercício social, uma empresa apresentou um Ativo Total de R$ 1.500.000,00 e um Passivo Total de R$ 1.200.000,00. No exercício social seguinte, tanto o Ativo Total quanto o Passivo Total aumentaram 8%. Então, é correto afirmar que",
       "opcoes": [
@@ -117,7 +138,10 @@
     },
     {
       "id": "cg-01a-08",
-      "banca": "VUNESP/IPRESB/Controlador Interno/2017",
+      "banca": "VUNESP",
+      "orgao": "IPRESB",
+      "cargo": "Controlador Interno",
+      "ano": 2017,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a opção que representa a melhor situação econômico-financeira para uma entidade com fins lucrativos, cujo Ativo seja equivalente a R$ 20 milhões.",
       "opcoes": [
@@ -133,7 +157,10 @@
     },
     {
       "id": "cg-01a-09",
-      "banca": "FGV/MACAEPREV/Analista Contabilidade/2024",
+      "banca": "FGV",
+      "orgao": "MACAEPREV",
+      "cargo": "Analista Contabilidade",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação ao balanço patrimonial de uma entidade, representa(m) aplicações de recursos:",
       "opcoes": [
@@ -149,7 +176,10 @@
     },
     {
       "id": "cg-01a-10",
-      "banca": "FGV/PC-AM/Investigador de Polícia/2022",
+      "banca": "FGV",
+      "orgao": "PC-AM",
+      "cargo": "Investigador de Polícia",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "O objeto da Contabilidade é o patrimônio, que é formado pelos ativos e pelos passivos.\n\nAssinale a afirmativa correta sobre os ativos e os passivos de uma entidade.",
       "opcoes": [
@@ -165,7 +195,10 @@
     },
     {
       "id": "cg-01a-11",
-      "banca": "FGV/FunSaúde CE/Técnico Contabilidade/2021",
+      "banca": "FGV",
+      "orgao": "FunSaúde CE",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "Uma entidade apresenta passivo a descoberto. Em relação à equação fundamental nesta entidade, assinale a opção correta.",
       "opcoes": [
@@ -181,7 +214,10 @@
     },
     {
       "id": "cg-01a-12",
-      "banca": "FGV/Câmara Municipal de Aracaju/Contador/2021",
+      "banca": "FGV",
+      "orgao": "Câmara Municipal de Aracaju",
+      "cargo": "Contador",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "A base para o registro contábil de cada operação segue a lógica das partidas dobradas.\n\nEssa lógica é baseada na premissa de que:",
       "opcoes": [
@@ -197,7 +233,10 @@
     },
     {
       "id": "cg-01a-13",
-      "banca": "FGV/PC-RN/Agente/2021",
+      "banca": "FGV",
+      "orgao": "PC-RN",
+      "cargo": "Agente",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "A referência à riqueza líquida de uma entidade pode ser associada:",
       "opcoes": [
@@ -213,7 +252,10 @@
     },
     {
       "id": "cg-01a-14",
-      "banca": "FGV/BANESTES/Analista Econômico-Financeiro/2018",
+      "banca": "FGV",
+      "orgao": "BANESTES",
+      "cargo": "Analista Econômico-Financeiro",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Ao analisar diversos Balanços Patrimoniais de empresas, um analista percebe que tanto o lado esquerdo como o lado direito desse tipo de relatório contábil sempre apresentam o mesmo total em unidades monetárias.\n\nUma maneira de entender essa constatação é que tanto as aplicações como as origens de recursos da empresa são sempre retratadas, respectivamente, como:",
       "opcoes": [
@@ -229,7 +271,10 @@
     },
     {
       "id": "cg-01a-15",
-      "banca": "FGV/Oficial de Chancelaria/MRE/2016",
+      "banca": "FGV",
+      "orgao": "MRE",
+      "cargo": "Oficial de Chancelaria",
+      "ano": 2016,
       "tipo": "multipla_escolha",
       "enunciado": "Um dos objetivos da Contabilidade é o controle patrimonial, que se dá a partir do registro adequado dos fatos que alteram os seus elementos.\n\nNo controle do patrimônio, a riqueza líquida de uma entidade ao final de um período pode ser obtida pelo confronto de:",
       "opcoes": [
@@ -245,7 +290,10 @@
     },
     {
       "id": "cg-01a-16",
-      "banca": "FGV/Contador/AL-MA/2013",
+      "banca": "FGV",
+      "orgao": "AL-MA",
+      "cargo": "Contador",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "Quanto às situações patrimoniais existentes, assinale a afirmativa correta.",
       "opcoes": [
@@ -261,7 +309,10 @@
     },
     {
       "id": "cg-01a-17",
-      "banca": "FCC/TRE-SP/Contadoria/2012",
+      "banca": "FCC",
+      "orgao": "TRE-SP",
+      "cargo": "Contadoria",
+      "ano": 2012,
       "tipo": "multipla_escolha",
       "enunciado": "A Cia. Varginha iniciou suas atividades em janeiro de 2011 com um capital totalmente integralizado pelos sócios em numerário no valor de R$ 1.370.000,00. As únicas mutações sofridas pelo patrimônio líquido da entidade no decorrer do ano foram um aumento de capital de R$ 220.000,00 que, entretanto, não foi integralizado no exercício e o ingresso de lucros correspondentes a 40% do capital inicial. No final do exercício, o patrimônio bruto da companhia montava a R$ 2.850.000,00. O Passivo da companhia, na mesma data, foi equivalente, em reais, a",
       "opcoes": [
@@ -277,7 +328,10 @@
     },
     {
       "id": "cg-01a-18",
-      "banca": "FCC/Analista Contábil/TRF 2ª Região/2011",
+      "banca": "FCC",
+      "orgao": "TRF 2ª Região",
+      "cargo": "Analista Contábil",
+      "ano": 2011,
       "tipo": "multipla_escolha",
       "enunciado": "No Balanço Patrimonial da Cia. Fernandópolis, relativo ao exercício encerrado em 31-12-2011, o valor do Patrimônio Líquido da entidade é 50% maior que o valor do seu Passivo. Isso implica que o total do Ativo da companhia equivale a",
       "opcoes": [
@@ -293,7 +347,10 @@
     },
     {
       "id": "cg-01a-19",
-      "banca": "FCC/Contador/Nossa Caixa/2011",
+      "banca": "FCC",
+      "orgao": "Nossa Caixa",
+      "cargo": "Contador",
+      "ano": 2011,
       "tipo": "multipla_escolha",
       "enunciado": "O contador observou, ao analisar a equação patrimonial da Cia. Raio de Luz, que o valor total do ativo correspondia ao dobro do valor do patrimônio líquido. Nesse caso,",
       "opcoes": [
@@ -309,7 +366,10 @@
     },
     {
       "id": "cg-01a-20",
-      "banca": "FCC/TRT 20ª Região/Analista Judiciário - Contabilidade/2011",
+      "banca": "FCC",
+      "orgao": "TRT 20ª Região",
+      "cargo": "Analista Judiciário - Contabilidade",
+      "ano": 2011,
       "tipo": "multipla_escolha",
       "enunciado": "Quando a soma do Passivo Circulante com o Passivo Não Circulante for superior ao total dos ativos, verifica-se a presença de",
       "opcoes": [
@@ -325,7 +385,10 @@
     },
     {
       "id": "cg-01a-21",
-      "banca": "FCC/Analista Judiciário/TRF 4ª Região/2010",
+      "banca": "FCC",
+      "orgao": "TRF 4ª Região",
+      "cargo": "Analista Judiciário",
+      "ano": 2010,
       "tipo": "multipla_escolha",
       "enunciado": "No Balanço Patrimonial da Cia. Bem-Te-Vi, relativo ao exercício encerrado em 31/12/2009, o Ativo Não Circulante representava 70% do total dos ativos da companhia. O Passivo Circulante no valor de R$ 180.000,00 representava 60% do valor do Ativo Circulante e 50% do Passivo Não Circulante. O Patrimônio Líquido da companhia, no dia 31/12/2009, equivalia, em R$, a",
       "opcoes": [
@@ -341,7 +404,10 @@
     },
     {
       "id": "cg-01a-22",
-      "banca": "FCC/TRT-3ª Região/Contadoria/2005",
+      "banca": "FCC",
+      "orgao": "TRT-3ª Região",
+      "cargo": "Contadoria",
+      "ano": 2005,
       "tipo": "multipla_escolha",
       "enunciado": "Em uma empresa onde a soma de seus Ativos é maior do que a soma de seus Passivos, pode-se dizer que sua situação patrimonial é",
       "opcoes": [
@@ -357,7 +423,10 @@
     },
     {
       "id": "cg-01a-23",
-      "banca": "FCC/Pref. Santos/Contador/2005",
+      "banca": "FCC",
+      "orgao": "Pref. Santos",
+      "cargo": "Contador",
+      "ano": 2005,
       "tipo": "multipla_escolha",
       "enunciado": "Para expressar que a situação líquida de uma entidade é negativa, o termo técnico contábil utilizado é",
       "opcoes": [
@@ -373,7 +442,9 @@
     },
     {
       "id": "cg-01a-24",
-      "banca": "CEBRASPE/PC DF/Contador",
+      "banca": "CEBRASPE",
+      "orgao": "PC DF",
+      "cargo": "Contador",
       "tipo": "certo_errado",
       "enunciado": "Ativo + patrimônio líquido < passivo exigível é uma expressão que sintetiza a situação de passivo a descoberto.",
       "resposta": "certo",
@@ -382,7 +453,10 @@
     },
     {
       "id": "cg-01a-25",
-      "banca": "CEBRASPE/MPE TO/Técnico em Contabilidade/2024",
+      "banca": "CEBRASPE",
+      "orgao": "MPE TO",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2024,
       "tipo": "certo_errado",
       "enunciado": "Em uma entidade em que o total de passivos se iguala ao total de seus ativos, ocorre o chamado passivo a descoberto.",
       "resposta": "errado",
@@ -391,7 +465,10 @@
     },
     {
       "id": "cg-01a-26",
-      "banca": "CEBRASPE/Especialista em Regulação/ANTT/2024",
+      "banca": "CEBRASPE",
+      "orgao": "ANTT",
+      "cargo": "Especialista em Regulação",
+      "ano": 2024,
       "tipo": "certo_errado",
       "enunciado": "Passivo a descoberto é a situação na qual os prejuízos acumulados pela empresa superam os capitais investidos pelos sócios e os demais itens que integram o patrimônio líquido.",
       "resposta": "certo",
@@ -400,7 +477,10 @@
     },
     {
       "id": "cg-01a-27",
-      "banca": "CEBRASPE/CAU BR/Técnico-Financeiro/2024",
+      "banca": "CEBRASPE",
+      "orgao": "CAU BR",
+      "cargo": "Técnico-Financeiro",
+      "ano": 2024,
       "tipo": "certo_errado",
       "enunciado": "No balanço patrimonial, o ativo representa as aplicações de recursos, enquanto o passivo e o patrimônio líquido revelam as fontes que financiam as referidas aplicações.",
       "resposta": "certo",
@@ -409,7 +489,10 @@
     },
     {
       "id": "cg-01a-28",
-      "banca": "CEBRASPE/FUB/Técnico Contabilidade/2022",
+      "banca": "CEBRASPE",
+      "orgao": "FUB",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2022,
       "tipo": "certo_errado",
       "enunciado": "Quando a situação líquida de uma entidade for negativa, isso significa que o somatório dos saldos das contas de passivo é menor que o somatório dos saldos das contas de ativo.",
       "resposta": "errado",
@@ -418,7 +501,10 @@
     },
     {
       "id": "cg-01a-29",
-      "banca": "CEBRASPE/EBSERH/Técnico Contabilidade/2018",
+      "banca": "CEBRASPE",
+      "orgao": "EBSERH",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2018,
       "tipo": "certo_errado",
       "enunciado": "Quando o passivo é igual ao ativo subtraído do patrimônio líquido, sendo todos maiores que zero, tem-se a situação patrimonial conhecida como positiva, ativa ou superavitária.",
       "resposta": "certo",
@@ -427,7 +513,10 @@
     },
     {
       "id": "cg-01a-30",
-      "banca": "CEBRASPE/FUB/Técnico Contabilidade/2018",
+      "banca": "CEBRASPE",
+      "orgao": "FUB",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2018,
       "tipo": "certo_errado",
       "enunciado": "A situação patrimonial líquida em que o total de passivos supera o montante do patrimônio líquido é denominada passivo a descoberto.",
       "resposta": "errado",
@@ -436,7 +525,10 @@
     },
     {
       "id": "cg-01a-31",
-      "banca": "CEBRASPE/EBSERH/Técnico Contabilidade/2018",
+      "banca": "CEBRASPE",
+      "orgao": "EBSERH",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2018,
       "tipo": "certo_errado",
       "enunciado": "Os atos administrativos relevantes, como é o caso de fianças para terceiros, podem, futuramente, modificar o patrimônio da entidade.",
       "resposta": "certo",
@@ -445,7 +537,10 @@
     },
     {
       "id": "cg-01a-32",
-      "banca": "QUADRIX/COREN AP/Contador/2022",
+      "banca": "QUADRIX",
+      "orgao": "COREN AP",
+      "cargo": "Contador",
+      "ano": 2022,
       "tipo": "certo_errado",
       "enunciado": "Suponha-se que uma empresa possua capital próprio no valor de R$ 25.000,00 e que seu ativo total equivalha a 4 vezes esse valor. Nesse caso, é correto afirmar que o capital de terceiros será, necessariamente, igual a R$ 75.000,00.",
       "resposta": "certo",
@@ -454,7 +549,10 @@
     },
     {
       "id": "cg-01a-33",
-      "banca": "QUADRIX/CRM MS/Contador/2021",
+      "banca": "QUADRIX",
+      "orgao": "CRM MS",
+      "cargo": "Contador",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "O patrimônio é formado por bens, direitos e obrigações. Os elementos que compõem os bens e os direitos constituem o ativo e os elementos que compõem as obrigações constituem o passivo. Sob o aspecto quantitativo, o patrimônio representa um fundo de valores, exibindo, de um lado, os valores positivos (bens e direitos) e, de outro, os negativos (obrigações). Atribuindo-se o sinal positivo (+) para os elementos que compõem os bens e os direitos e o sinal negativo (-) para os elementos que compõem as obrigações e cotejando-se o ativo com o passivo, o resultado constituirá o patrimônio líquido. O patrimônio líquido, por sua vez, será",
       "opcoes": [
@@ -470,7 +568,10 @@
     },
     {
       "id": "cg-01a-34",
-      "banca": "FUMARC/CM Pedro Leopoldo/Contador/2018",
+      "banca": "FUMARC",
+      "orgao": "CM Pedro Leopoldo",
+      "cargo": "Contador",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "A representação gráfica dos estados patrimoniais que indica a existência de Passivo a Descoberto é:",
       "opcoes": [
@@ -485,7 +586,10 @@
     },
     {
       "id": "cg-01a-35",
-      "banca": "COPS UEL/Fomento-PR/Analista Contábil/2018",
+      "banca": "COPS UEL",
+      "orgao": "Fomento-PR",
+      "cargo": "Analista Contábil",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Uma das situações patrimoniais em que os recursos aplicados no ativo são originários, parte da riqueza própria e parte de capital de terceiros, é representada pela seguinte equação:",
       "opcoes": [
@@ -501,7 +605,10 @@
     },
     {
       "id": "cg-01a-36",
-      "banca": "IADES/CRF DF/Contador/2017",
+      "banca": "IADES",
+      "orgao": "CRF DF",
+      "cargo": "Contador",
+      "ano": 2017,
       "tipo": "multipla_escolha",
       "enunciado": "O patrimônio de uma entidade é definido como o conjunto de bens, direitos e obrigações desta.\n\nAs informações a seguir foram extraídas do Balanço Patrimonial de uma entidade: Bens: R$ 18.500. Direitos: R$ 9.600. Obrigações: R$ 12.400.\n\nCom base apenas nessas informações, assinale a alternativa correta.",
       "opcoes": [
@@ -517,7 +624,10 @@
     },
     {
       "id": "cg-01a-37",
-      "banca": "IDECAN/BANDES/Assistente Executivo em Metrologia/2015",
+      "banca": "IDECAN",
+      "orgao": "BANDES",
+      "cargo": "Assistente Executivo em Metrologia",
+      "ano": 2015,
       "tipo": "multipla_escolha",
       "enunciado": "Ao assumir a contabilidade de uma importante empresa, o contador, num primeiro momento, passou a análise de contratos de admissão de pessoal, a assinatura de contrato de seguro contra incêndio e o envio de duplicatas ao banco para desconto. Considerando que tais operações não afetam o patrimônio líquido da empresa, mas implicam no seu funcionamento, elas deverão ser classificadas como",
       "opcoes": [
@@ -533,7 +643,10 @@
     },
     {
       "id": "cg-01a-38",
-      "banca": "COPEVE/UFAL/Contador/2013",
+      "banca": "COPEVE",
+      "orgao": "UFAL",
+      "cargo": "Contador",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à Equação Fundamental do Patrimônio, suas representações e variações, na contabilidade, dados os itens abaixo,\n\nI. Quando o Ativo (A) é maior que o Passivo (P), tem-se um Patrimônio Líquido (PL) maior que zero, ou seja, quando A > P; logo PL > 0.\nII. Quando o Ativo (A) é igual ao Passivo (P), tem-se um Patrimônio Líquido (PL) igual a zero, ou seja, quando A = P; logo PL = 0.\nIII. Quando o Ativo (A) é menor que o Passivo (P), tem-se um Patrimônio Líquido (PL) menor que zero, ou seja, quando A < P; logo PL < 0.\nIV. Quando um Ativo (A) é menor que o Passivo (P), e o Ativo (A) é igual a zero, tem-se um Patrimônio Líquido (PL) menor que zero, ou seja, quando A < P e o A = 0; logo PL < 0.\n\nverifica-se que estão corretos",
       "opcoes": [
@@ -549,7 +662,10 @@
     },
     {
       "id": "cg-01a-39",
-      "banca": "IBFC/CM Franca/Contabilidade/2012",
+      "banca": "IBFC",
+      "orgao": "CM Franca",
+      "cargo": "Contabilidade",
+      "ano": 2012,
       "tipo": "multipla_escolha",
       "enunciado": "O valor do Patrimônio Líquido ou Situação Líquida, por representar a situação em que a entidade se encontra, poderá ser:",
       "opcoes": [
@@ -564,7 +680,10 @@
     },
     {
       "id": "cg-01a-40",
-      "banca": "CESGRANRIO/UNIRIO/Técnico Contabilidade/2019",
+      "banca": "CESGRANRIO",
+      "orgao": "UNIRIO",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Os elementos técnico-conceituais contábeis indicam que a situação patrimonial de uma empresa é dada pelo confronto entre os totais de seus ativos e passivos.\n\nNesse contexto, a empresa apresenta uma situação de passivo a descoberto quando o valor",
       "opcoes": [
@@ -580,7 +699,10 @@
     },
     {
       "id": "cg-01a-41",
-      "banca": "CESGRANRIO/LIQUIGÁS/Profissional Júnior/Auditoria/2018",
+      "banca": "CESGRANRIO",
+      "orgao": "LIQUIGÁS",
+      "cargo": "Profissional Júnior / Auditoria",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "O patrimônio das empresas é estruturado em três partes distintas: Ativo (A), Passivo (P) e Situação Líquida (SL), mais conhecida como patrimônio líquido. A avaliação da situação patrimonial é feita pela seguinte equação patrimonial:\n\nSituação Líquida (SL) = Ativo (A) − Passivo (P)\n\nNesse contexto, quando a equação patrimonial apontar bens e direitos em valor menor do que as obrigações com terceiros indica que a empresa tem a seguinte situação líquida:",
       "opcoes": [
@@ -596,7 +718,10 @@
     },
     {
       "id": "cg-01a-42",
-      "banca": "CESGRANRIO/LIQUIGÁS/Profissional de Vendas Júnior/2018",
+      "banca": "CESGRANRIO",
+      "orgao": "LIQUIGÁS",
+      "cargo": "Profissional de Vendas Júnior",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Na equação patrimonial, a diferença entre ativo e passivo representa",
       "opcoes": [
@@ -612,7 +737,10 @@
     },
     {
       "id": "cg-01a-43",
-      "banca": "CESGRANRIO/Petrobrás/Administração/2014",
+      "banca": "CESGRANRIO",
+      "orgao": "Petrobrás",
+      "cargo": "Administração",
+      "ano": 2014,
       "tipo": "multipla_escolha",
       "enunciado": "Uma entidade tem R$ 320.000 de ativo total ao final de um exercício, no qual obteve lucro de R$ 25.000.\n\nSe essa entidade tem 55% de participação do capital de terceiros, o seu patrimônio líquido ao final do exercício é",
       "opcoes": [
@@ -628,7 +756,10 @@
     },
     {
       "id": "cg-01a-44",
-      "banca": "VUNESP/Desenvolvesp/Analista de Projetos/2014",
+      "banca": "VUNESP",
+      "orgao": "Desenvolvesp",
+      "cargo": "Analista de Projetos",
+      "ano": 2014,
       "tipo": "multipla_escolha",
       "enunciado": "De acordo com a teoria contábil, pode-se afirmar que, em uma empresa, quando o saldo do passivo exigível for maior que o saldo do ativo, o patrimônio líquido dessa empresa será",
       "opcoes": [
@@ -644,7 +775,10 @@
     },
     {
       "id": "cg-01a-45",
-      "banca": "VUNESP/PC SP/Escrivão de Polícia/2014",
+      "banca": "VUNESP",
+      "orgao": "PC SP",
+      "cargo": "Escrivão de Polícia",
+      "ano": 2014,
       "tipo": "multipla_escolha",
       "enunciado": "Para a Contabilidade, o patrimônio de uma empresa é composto de bens, direitos e obrigações. Tendo em vista essa definição e levando em conta que o total de bens e direitos de uma empresa somam R$ 200.000,00 e as suas obrigações somam R$ 180.000,00, é correto afirmar que",
       "opcoes": [
@@ -660,7 +794,10 @@
     },
     {
       "id": "cg-01a-46",
-      "banca": "VUNESP/Pref. São José dos Campos/Contador/2012",
+      "banca": "VUNESP",
+      "orgao": "Pref. São José dos Campos",
+      "cargo": "Contador",
+      "ano": 2012,
       "tipo": "multipla_escolha",
       "enunciado": "Pode-se afirmar que o patrimônio líquido de uma empresa corresponde",
       "opcoes": [
@@ -676,7 +813,10 @@
     },
     {
       "id": "cg-01a-47",
-      "banca": "VUNESP/FUNSERV Sorocaba/Contador/2011",
+      "banca": "VUNESP",
+      "orgao": "FUNSERV Sorocaba",
+      "cargo": "Contador",
+      "ano": 2011,
       "tipo": "multipla_escolha",
       "enunciado": "Segundo a equação fundamental da Contabilidade, é correto afirmar que",
       "opcoes": [
@@ -692,7 +832,10 @@
     },
     {
       "id": "cg-01a-48",
-      "banca": "VUNESP/Pref. Sorocaba/Auditor Fiscal/2006",
+      "banca": "VUNESP",
+      "orgao": "Pref. Sorocaba",
+      "cargo": "Auditor Fiscal",
+      "ano": 2006,
       "tipo": "multipla_escolha",
       "enunciado": "Na Contabilidade, a equação básica é Ativo = Passivo + Patrimônio Líquido. Quando o Ativo de uma empresa é R$ 100.000,00 e o Passivo é R$ 40.000,00, o Patrimônio Líquido é",
       "opcoes": [
@@ -708,7 +851,10 @@
     },
     {
       "id": "cg-01a-49",
-      "banca": "VUNESP/Pref. Sorocaba/Contador/2006",
+      "banca": "VUNESP",
+      "orgao": "Pref. Sorocaba",
+      "cargo": "Contador",
+      "ano": 2006,
       "tipo": "multipla_escolha",
       "enunciado": "Quando o Passivo Exigível de uma entidade é maior do que o seu Ativo, a situação se denomina",
       "opcoes": [
@@ -724,7 +870,10 @@
     },
     {
       "id": "cg-01a-50",
-      "banca": "VUNESP/Pref. Sorocaba/Contador/2006",
+      "banca": "VUNESP",
+      "orgao": "Pref. Sorocaba",
+      "cargo": "Contador",
+      "ano": 2006,
       "tipo": "multipla_escolha",
       "enunciado": "Em Contabilidade, o conjunto de bens, direitos e obrigações de uma empresa é denominado patrimônio. Quando o total de obrigações é maior do que o total de bens e direitos, a situação se chama",
       "opcoes": [
@@ -740,7 +889,10 @@
     },
     {
       "id": "cg-01a-51",
-      "banca": "FGV/SUDENE/Analista de Planejamento/Contabilidade/2013",
+      "banca": "FGV",
+      "orgao": "SUDENE",
+      "cargo": "Analista de Planejamento / Contabilidade",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "Em Contabilidade, o método das partidas dobradas implica que, para cada débito, há um crédito de igual valor. Com relação à equação fundamental da Contabilidade — Ativo = Passivo + Patrimônio Líquido —, assinale a afirmativa correta.",
       "opcoes": [
@@ -756,7 +908,10 @@
     },
     {
       "id": "cg-01a-52",
-      "banca": "FGV/AL-MT/Analista Legislativo/Contabilidade/2013",
+      "banca": "FGV",
+      "orgao": "AL-MT",
+      "cargo": "Analista Legislativo / Contabilidade",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "O capital total de uma empresa, em determinado momento, é a soma do capital próprio com o capital de terceiros. Se uma empresa possui Ativo Total de R$ 500.000,00 e Patrimônio Líquido de R$ 200.000,00, então o capital de terceiros é de",
       "opcoes": [
@@ -772,7 +927,10 @@
     },
     {
       "id": "cg-01a-53",
-      "banca": "FGV/DETRAN RN/Analista em Gestão/Contabilidade/2010",
+      "banca": "FGV",
+      "orgao": "DETRAN RN",
+      "cargo": "Analista em Gestão / Contabilidade",
+      "ano": 2010,
       "tipo": "multipla_escolha",
       "enunciado": "Quando o passivo de uma entidade suplanta o ativo, é correto afirmar que",
       "opcoes": [
@@ -788,7 +946,10 @@
     },
     {
       "id": "cg-01a-54",
-      "banca": "CEBRASPE/PC DF/Contador/2025",
+      "banca": "CEBRASPE",
+      "orgao": "PC DF",
+      "cargo": "Contador",
+      "ano": 2025,
       "tipo": "certo_errado",
       "enunciado": "Verifica-se uma situação líquida positiva caso haja, no balanço patrimonial de uma entidade, apenas os saldos especificados a seguir: caixa e equivalentes: R$ 10.000; contas a receber: R$ 25.000; contas a pagar: R$ 15.000; patrimônio líquido: R$ 20.000.",
       "resposta": "certo",
@@ -797,7 +958,10 @@
     },
     {
       "id": "cg-01a-55",
-      "banca": "CEBRASPE/ANTT/Especialista em Regulação/2024",
+      "banca": "CEBRASPE",
+      "orgao": "ANTT",
+      "cargo": "Especialista em Regulação",
+      "ano": 2024,
       "tipo": "certo_errado",
       "enunciado": "Se no início de certo exercício uma empresa possuía situação patrimonial líquida zerada, e se, ao longo do exercício, as receitas e os ganhos superaram as despesas e as perdas, então, nesse contexto, a situação patrimonial líquida final da empresa é superavitária.",
       "resposta": "errado",
@@ -806,7 +970,10 @@
     },
     {
       "id": "cg-01a-56",
-      "banca": "CEBRASPE/DPE RO/Técnico em Contabilidade/2022",
+      "banca": "CEBRASPE",
+      "orgao": "DPE RO",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Na equação patrimonial,",
       "opcoes": [
@@ -822,7 +989,10 @@
     },
     {
       "id": "cg-01a-57",
-      "banca": "CEBRASPE/APEX/Analista/Processos Contábeis/2022",
+      "banca": "CEBRASPE",
+      "orgao": "APEX",
+      "cargo": "Analista / Processos Contábeis",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Em dado exercício social, uma entidade apresentou passivo a descoberto. Nessa situação,",
       "opcoes": [
@@ -837,7 +1007,10 @@
     },
     {
       "id": "cg-01a-58",
-      "banca": "CEBRASPE/PC RO/Agente de Polícia Civil/2022",
+      "banca": "CEBRASPE",
+      "orgao": "PC RO",
+      "cargo": "Agente de Polícia Civil",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Considerando que as informações (em reais) a seguir se refiram ao primeiro exercício financeiro de determinada entidade, assinale a opção em que é apresentado corretamente o valor da situação líquida patrimonial desse período.\n\nFornecedores: R$ 22.000 | Ativo imobilizado: R$ 35.000 | Caixa e equivalentes: R$ 10.000 | Depreciação acumulada: R$ 4.000 | Estoques: R$ 24.000 | Empréstimos a pagar (longo prazo): R$ 30.000",
       "opcoes": [
@@ -853,7 +1026,10 @@
     },
     {
       "id": "cg-01a-59",
-      "banca": "CEBRASPE/PC RO/Agente de Polícia Civil/2022",
+      "banca": "CEBRASPE",
+      "orgao": "PC RO",
+      "cargo": "Agente de Polícia Civil",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Uma entidade apresentou as seguintes informações (em reais) durante seu primeiro exercício financeiro:\n\nFornecedores: R$ 38.000 | Ativo imobilizado: R$ 36.000 | Caixa e equivalentes: R$ 12.000 | Depreciação acumulada: R$ 3.600 | Estoques: R$ 27.000 | Empréstimos a pagar (longo prazo): R$ 44.000\n\nCom base nessas informações, é correto afirmar que o valor da situação líquida patrimonial no período foi",
       "opcoes": [
@@ -869,7 +1045,10 @@
     },
     {
       "id": "cg-01a-60",
-      "banca": "CEBRASPE/PC PB/Agente Investigador/2022",
+      "banca": "CEBRASPE",
+      "orgao": "PC PB",
+      "cargo": "Agente Investigador",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "A situação patrimonial de uma entidade em dado momento é relatada",
       "opcoes": [
@@ -885,7 +1064,10 @@
     },
     {
       "id": "cg-01a-61",
-      "banca": "CEBRASPE/Polícia Federal/Agente/2021",
+      "banca": "CEBRASPE",
+      "orgao": "Polícia Federal",
+      "cargo": "Agente",
+      "ano": 2021,
       "tipo": "certo_errado",
       "enunciado": "Determinada empresa apresentou, em 31 de dezembro de 2020, um patrimônio composto pelos seguintes elementos: Caixa R$ 20.000; Duplicatas a Receber R$ 50.000; Empréstimo a pagar R$ 30.000; Estoques R$ 40.000; Imóveis de uso próprio R$ 200.000; Depreciação Acumulada R$ 10.000; Capital Social R$ 220.000; Fornecedores R$ 20.000; Salários a pagar R$ 50.000; Reservas de Lucro R$ 10.000; Depósitos em banco R$ 10.000; Impostos a Recolher R$ 10.000; Aplicações Financeiras de Liquidez Imediata R$ 30.000.\n\nCom base nesses elementos, em 31 de dezembro de 2020, a situação patrimonial líquida da empresa alcançou o montante de R$ 230.000,00.",
       "resposta": "certo",
@@ -894,7 +1076,10 @@
     },
     {
       "id": "cg-01a-62",
-      "banca": "CEBRASPE/Polícia Federal/Agente/2021",
+      "banca": "CEBRASPE",
+      "orgao": "Polícia Federal",
+      "cargo": "Agente",
+      "ano": 2021,
       "tipo": "certo_errado",
       "enunciado": "Considerando os mesmos elementos patrimoniais da questão anterior (empresa com patrimônio levantado em 31/12/2020), os saldos dos recursos aplicados no ativo da empresa totalizaram R$ 350.000,00 em 31 de dezembro de 2020; desse total, R$ 120.000 foram provenientes de capital de terceiros.",
       "resposta": "errado",
@@ -903,7 +1088,10 @@
     },
     {
       "id": "cg-01a-63",
-      "banca": "CEBRASPE/SEFAZ CE/Auditor Fiscal/2021",
+      "banca": "CEBRASPE",
+      "orgao": "SEFAZ CE",
+      "cargo": "Auditor Fiscal",
+      "ano": 2021,
       "tipo": "certo_errado",
       "enunciado": "Uma empresa com fins lucrativos prestadora de serviços ao governo do estado do Ceará contratou, no dia 1.º do último mês findo, um novo funcionário de relações públicas, com salário de R$ 10.000, mais encargos legais, a ser pago no 5.º dia útil após o mês de prestação dos serviços. A contratação do novo funcionário é um ato administrativo que impacta positivamente o patrimônio líquido da entidade contratante.",
       "resposta": "errado",
@@ -912,7 +1100,10 @@
     },
     {
       "id": "cg-01a-64",
-      "banca": "CEBRASPE/EBSERH/Técnico Contabilidade/2018",
+      "banca": "CEBRASPE",
+      "orgao": "EBSERH",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2018,
       "tipo": "certo_errado",
       "enunciado": "Situação líquida e patrimônio líquido são expressões sinônimas, mas a primeira é mais adequada para expressar o estado patrimonial da entidade, enquanto a segunda é de utilização obrigatória no balanço patrimonial.",
       "resposta": "certo",
@@ -921,7 +1112,10 @@
     },
     {
       "id": "cg-01a-65",
-      "banca": "CEBRASPE/EBSERH/Técnico Contabilidade/2018",
+      "banca": "CEBRASPE",
+      "orgao": "EBSERH",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2018,
       "tipo": "certo_errado",
       "enunciado": "No que diz respeito aos estados patrimoniais, é possível que ativo e passivo tenham valor igual a zero, respectivamente, na constituição e no encerramento das atividades da empresa.",
       "resposta": "errado",
@@ -930,7 +1124,10 @@
     },
     {
       "id": "cg-01a-66",
-      "banca": "CEBRASPE/EBSERH/Técnico Contabilidade/2018",
+      "banca": "CEBRASPE",
+      "orgao": "EBSERH",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2018,
       "tipo": "certo_errado",
       "enunciado": "Uma entidade cujos bens e direitos somem R$ 2 milhões e que possua obrigações que totalizem R$ 5 milhões estará em uma situação líquida que pode ser definida como ativo a descoberto ou deficitária.",
       "resposta": "errado",
@@ -939,7 +1136,10 @@
     },
     {
       "id": "cg-01a-67",
-      "banca": "CESGRANRIO/BNDES/Técnico Administrativo/2013",
+      "banca": "CESGRANRIO",
+      "orgao": "BNDES",
+      "cargo": "Técnico Administrativo",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "O Balanço Patrimonial da empresa Lucro Certo Ltda. apresenta os seguintes saldos: Ativo Circulante R$ 305.000; Ativo Não Circulante R$ 640.000; Passivo Circulante R$ 180.000; Passivo Não Circulante R$ 420.000; Patrimônio Líquido R$ 345.000.\n\nEssa empresa apresenta, em seu Balanço Patrimonial, o total da origem de seus recursos, em reais, no valor correspondente a",
       "opcoes": [
@@ -955,7 +1155,10 @@
     },
     {
       "id": "cg-01a-68",
-      "banca": "CESGRANRIO/BNDES/Técnico Administrativo/2010",
+      "banca": "CESGRANRIO",
+      "orgao": "BNDES",
+      "cargo": "Técnico Administrativo",
+      "ano": 2010,
       "tipo": "multipla_escolha",
       "enunciado": "Sabendo-se que A = Ativo; P = Passivo e PL = Patrimônio Líquido, na equação patrimonial, ocorrerá situação patrimonial nula quando",
       "opcoes": [
@@ -971,7 +1174,10 @@
     },
     {
       "id": "cg-01a-69",
-      "banca": "FUNDATEC/ELETROCAR/Técnico Contabilidade/2023",
+      "banca": "FUNDATEC",
+      "orgao": "ELETROCAR",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "A equação fundamental contábil é:",
       "opcoes": [
@@ -987,7 +1193,10 @@
     },
     {
       "id": "cg-01a-70",
-      "banca": "FUNDATEC/IPE Saúde/Analista de Gestão em Saúde/Contabilidade/2022",
+      "banca": "FUNDATEC",
+      "orgao": "IPE Saúde",
+      "cargo": "Analista de Gestão em Saúde / Contabilidade",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "A situação patrimonial pode ser positiva, negativa ou nula. Qual das alternativas a seguir representa corretamente a situação patrimonial negativa?",
       "opcoes": [
@@ -1003,7 +1212,10 @@
     },
     {
       "id": "cg-01a-71",
-      "banca": "FUNDATEC/Pref. Panambi/Contador/2020",
+      "banca": "FUNDATEC",
+      "orgao": "Pref. Panambi",
+      "cargo": "Contador",
+      "ano": 2020,
       "tipo": "multipla_escolha",
       "enunciado": "A situação patrimonial líquida negativa em relação ao ativo total será:",
       "opcoes": [
@@ -1019,7 +1231,10 @@
     },
     {
       "id": "cg-01a-72",
-      "banca": "FUNDATEC/Pref. Caçapava do Sul/Técnico Contabilidade/2020",
+      "banca": "FUNDATEC",
+      "orgao": "Pref. Caçapava do Sul",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2020,
       "tipo": "multipla_escolha",
       "enunciado": "As equações básicas consistem em avaliar a situação patrimonial das empresas, a partir da diferença entre os ativos e passivos circulantes e não circulantes. Há três situações: _____, quando o valor do passivo for _____ ao valor do ativo; situação líquida _____, quando ativo e passivo são iguais; e situação líquida _____, quando o ativo é _____ que o passivo.\n\nAssinale a alternativa que preenche correta e respectivamente as lacunas.",
       "opcoes": [
@@ -1035,7 +1250,10 @@
     },
     {
       "id": "cg-01a-73",
-      "banca": "FUNDATEC/Pref. Chuí/Contador/2019",
+      "banca": "FUNDATEC",
+      "orgao": "Pref. Chuí",
+      "cargo": "Contador",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Determinada entidade apresentou sua demonstração contábil com a seguinte situação patrimonial: Ativo menos situação líquida é igual a zero. Essa é uma característica da situação patrimonial líquida:",
       "opcoes": [
@@ -1051,7 +1269,10 @@
     },
     {
       "id": "cg-01a-74",
-      "banca": "FUNDATEC/Pref. São Borja/Técnico Contabilidade/2019",
+      "banca": "FUNDATEC",
+      "orgao": "Pref. São Borja",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que indica situação patrimonial líquida negativa.",
       "opcoes": [
@@ -1067,7 +1288,10 @@
     },
     {
       "id": "cg-01a-75",
-      "banca": "FUNDATEC/Pref. Salvador das Missões/Tesoureiro/2019",
+      "banca": "FUNDATEC",
+      "orgao": "Pref. Salvador das Missões",
+      "cargo": "Tesoureiro",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "É sabido que a equação formada pelos direitos pertencentes à entidade, mais seus bens e menos suas obrigações resulta no que conhecemos como Patrimônio Líquido. Em relação ao assunto, analise as assertivas abaixo:\n\nI. Quando o ativo é menor que o passivo, temos um patrimônio líquido negativo.\nII. Os recursos aplicados na entidade têm origem em capitais próprios e de terceiros. Os capitais próprios são representados pelas contas do patrimônio líquido.\nIII. Na equação elementar do patrimônio contábil, ativo e passivo podem ser substituídos, respectivamente, por receita e despesa, uma vez que o resultado (patrimônio líquido) será o mesmo.\n\nQuais estão corretas?",
       "opcoes": [
@@ -1083,7 +1307,10 @@
     },
     {
       "id": "cg-01a-76",
-      "banca": "AVANÇASP/Pref. Valinhos/Auditor/2024",
+      "banca": "AVANÇASP",
+      "orgao": "Pref. Valinhos",
+      "cargo": "Auditor",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Uma empresa apresenta a seguinte situação patrimonial:\n\nAtivo Circulante: R$ 100.000,00 | Ativo Não Circulante: R$ 200.000,00\nPassivo Circulante: R$ 80.000,00 | Passivo Não Circulante: R$ 100.000,00\n\nCom base nesses dados, a situação líquida da empresa é de:",
       "opcoes": [
@@ -1099,7 +1326,10 @@
     },
     {
       "id": "cg-01a-77",
-      "banca": "IBFC/Pref. Feira de Santana/Contador/2024",
+      "banca": "IBFC",
+      "orgao": "Pref. Feira de Santana",
+      "cargo": "Contador",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Suponha que a empresa possua Bens no montante de R$ 200.000, Direitos totalizando R$ 100.000 e Obrigações resultando em R$ 180.000. Assinale a alternativa que corresponda à Situação Líquida Patrimonial referente a esta situação.",
       "opcoes": [
@@ -1114,7 +1344,10 @@
     },
     {
       "id": "cg-01a-78",
-      "banca": "SELECON/Pref. Alto Araguaia/Contador/2024",
+      "banca": "SELECON",
+      "orgao": "Pref. Alto Araguaia",
+      "cargo": "Contador",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "A empresa cujos sócios integralizaram o capital inicial por meio de depósito bancário na conta da pessoa jurídica, sem ter havido outra movimentação, demonstra a seguinte equação patrimonial:",
       "opcoes": [
@@ -1129,7 +1362,10 @@
     },
     {
       "id": "cg-01a-79",
-      "banca": "Instituto ACCESS/CM Conquista/Controlador Geral/2024",
+      "banca": "Instituto ACCESS",
+      "orgao": "CM Conquista",
+      "cargo": "Controlador Geral",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "A situação líquida da empresa é apresentada pela diferença entre o Ativo e o Passivo. Considerando uma composição patrimonial hipotética em que o Ativo é maior que o Passivo e há mais capital próprio do que capital de terceiros, a situação líquida patrimonial apresentada é",
       "opcoes": [
@@ -1144,7 +1380,10 @@
     },
     {
       "id": "cg-01a-80",
-      "banca": "Consulplan/Pref. Pouso Alegre/Contador/2024",
+      "banca": "Consulplan",
+      "orgao": "Pref. Pouso Alegre",
+      "cargo": "Contador",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "O Balanço Patrimonial contém informações agrupadas em contas de Ativo, de Passivo e de Patrimônio Líquido. A Equação Patrimonial pode ser apresentada como: Patrimônio Líquido = Ativo − Passivo. Na hipótese de a soma dos valores dos ativos ser menor que a soma dos valores dos passivos, o valor do patrimônio líquido será negativo, caracterizando o estado patrimonial chamado de:",
       "opcoes": [
@@ -1159,7 +1398,10 @@
     },
     {
       "id": "cg-01a-81",
-      "banca": "MS Concursos/Pref. Mirante da Serra/Contador/2024",
+      "banca": "MS Concursos",
+      "orgao": "Pref. Mirante da Serra",
+      "cargo": "Contador",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "Quando o ativo é reduzido e o passivo fica inalterado, o patrimônio líquido fica:",
       "opcoes": [
@@ -1174,7 +1416,10 @@
     },
     {
       "id": "cg-01a-82",
-      "banca": "MS Concursos/Pref. Formigueiro/Tesoureiro/2024",
+      "banca": "MS Concursos",
+      "orgao": "Pref. Formigueiro",
+      "cargo": "Tesoureiro",
+      "ano": 2024,
       "tipo": "multipla_escolha",
       "enunciado": "A situação patrimonial _____ ocorre quando o conjunto de bens e direitos é maior do que as obrigações. Neste caso, o Patrimônio Líquido será positivo. É também conhecida como situação líquida _____, pois o _____ é maior do que o passivo exigível.",
       "opcoes": [
@@ -1189,7 +1434,10 @@
     },
     {
       "id": "cg-01a-83",
-      "banca": "AVANÇASP/Pref. Morungaba/Assessor Contábil/2023",
+      "banca": "AVANÇASP",
+      "orgao": "Pref. Morungaba",
+      "cargo": "Assessor Contábil",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Suponha que, em determinada data, uma entidade detenha um patrimônio bruto de R$ 1.000.000,00, e um passivo a descoberto de R$ 500.000,00. Assim, considerando a equação fundamental da contabilidade, o Passivo Exigível desta entidade na mesma data é de:",
       "opcoes": [
@@ -1205,7 +1453,10 @@
     },
     {
       "id": "cg-01a-84",
-      "banca": "DIRENS Aeronáutica/EEAR/Estágio de Adaptação/Administração/2023",
+      "banca": "DIRENS Aeronáutica",
+      "orgao": "EEAR",
+      "cargo": "Estágio de Adaptação / Administração",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Qual Situação Líquida NÃO representa Ativo maior que Passivo?",
       "opcoes": [
@@ -1220,7 +1471,10 @@
     },
     {
       "id": "cg-01a-85",
-      "banca": "Legalle/UFPEL/Administrador/2023",
+      "banca": "Legalle",
+      "orgao": "UFPEL",
+      "cargo": "Administrador",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Considerando aspectos básicos de administração financeira, é possível afirmar que a diferença entre os ativos e os passivos após a inclusão de outros recursos e a dedução de outras obrigações, reconhecida no Balanço Patrimonial como patrimônio líquido, podendo ser um montante positivo ou negativo, é:",
       "opcoes": [
@@ -1236,7 +1490,10 @@
     },
     {
       "id": "cg-01a-86",
-      "banca": "CENTEC/SEDUC CE/Professor de Finanças/2023",
+      "banca": "CENTEC",
+      "orgao": "SEDUC CE",
+      "cargo": "Professor de Finanças",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Analisando as contas abaixo, aponte o item que representa a CORRETA situação patrimonial.\n\nDados: Caixa = R$ 3.000; Aplicações Financeiras = R$ 7.000; Empréstimos a Pagar = R$ 5.000; Duplicatas a Pagar = R$ 15.000; Terrenos = R$ 30.000; Impostos a Pagar = R$ 20.000.",
       "opcoes": [
@@ -1252,7 +1509,10 @@
     },
     {
       "id": "cg-01a-87",
-      "banca": "Instituto Verbena/UFG/Técnico Contabilidade/2023",
+      "banca": "Instituto Verbena",
+      "orgao": "UFG",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2023,
       "tipo": "multipla_escolha",
       "enunciado": "Considerando que uma empresa tem o passivo circulante duas vezes maior que o ativo circulante; que o ativo não circulante é três vezes maior que o passivo não circulante; e que o ativo circulante é igual ao passivo não circulante, qual é a situação do PL?",
       "opcoes": [
@@ -1267,7 +1527,10 @@
     },
     {
       "id": "cg-01a-88",
-      "banca": "QUADRIX/CREF 3/Contador/2023",
+      "banca": "QUADRIX",
+      "orgao": "CREF 3",
+      "cargo": "Contador",
+      "ano": 2023,
       "tipo": "certo_errado",
       "enunciado": "Suponha-se que, em determinada data, uma entidade detenha um ativo total de R$ 500.000 e um passivo a descoberto de R$ 200.000. Nesse caso, considerando a equação fundamental da contabilidade, é correto afirmar que o passivo exigível dessa entidade na mesma data é de R$ 700.000.",
       "resposta": "certo",
@@ -1276,7 +1539,10 @@
     },
     {
       "id": "cg-01a-89",
-      "banca": "IBFC/DPE MT/Controlador Interno/2022",
+      "banca": "IBFC",
+      "orgao": "DPE MT",
+      "cargo": "Controlador Interno",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Sobre a Equação Fundamental do Patrimônio, leia o parágrafo a seguir:\n\n\"O balanço patrimonial é formado por _____, _____ e _____, e a equação fundamental é escrita na forma: _____.\"  \n\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
       "opcoes": [
@@ -1291,7 +1557,10 @@
     },
     {
       "id": "cg-01a-90",
-      "banca": "IBFC/SESACRE/Técnico Contabilidade/2022",
+      "banca": "IBFC",
+      "orgao": "SESACRE",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "A Situação Líquida do Patrimônio é a diferença entre Ativo e Passivo. As empresas podem apresentar diferentes situações líquidas. Diante do exposto, assinale a alternativa INCORRETA.",
       "opcoes": [
@@ -1306,7 +1575,10 @@
     },
     {
       "id": "cg-01a-91",
-      "banca": "IBFC/SESACRE/Técnico Contabilidade/2022",
+      "banca": "IBFC",
+      "orgao": "SESACRE",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Em Contabilidade, sabe-se da existência da Equação Patrimonial, também conhecida como Equação Contábil Básica. Sobre sua composição, é correto afirmar:",
       "opcoes": [
@@ -1321,7 +1593,10 @@
     },
     {
       "id": "cg-01a-92",
-      "banca": "IDECAN/TJ PI/Analista Judiciário/Contador/2022",
+      "banca": "IDECAN",
+      "orgao": "TJ PI",
+      "cargo": "Analista Judiciário / Contador",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que define corretamente como o saldo de uma conta é apurado e quando a empresa apresenta um passivo a descoberto, respectivamente.",
       "opcoes": [
@@ -1337,7 +1612,10 @@
     },
     {
       "id": "cg-01a-93",
-      "banca": "IDECAN/UNILAB/Contador/2022",
+      "banca": "IDECAN",
+      "orgao": "UNILAB",
+      "cargo": "Contador",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "A respeito dos elementos da equação patrimonial, assinale a afirmativa INCORRETA.",
       "opcoes": [
@@ -1352,7 +1630,10 @@
     },
     {
       "id": "cg-01a-94",
-      "banca": "Consulplan/CFC/Exame de Suficiência/2022",
+      "banca": "Consulplan",
+      "orgao": "CFC",
+      "cargo": "Exame de Suficiência",
+      "ano": 2022,
       "tipo": "multipla_escolha",
       "enunciado": "Um empresário do ramo imobiliário deseja ampliar seu conhecimento sobre conceitos contábeis. Relacione adequadamente os itens a seguir.\n\n1. Ativo.\n2. Passivo.\n3. Balanço Patrimonial.\n4. Patrimônio Líquido.\n5. Estoque.\n6. Capital Nominal.\n\n( ) Bens de propriedade da empresa; pertence ao ativo.\n( ) É o mais importante relatório gerado pela contabilidade; identifica a saúde financeira da empresa.\n( ) Importância que os proprietários investem inicialmente na empresa.\n( ) Obrigações exigíveis da empresa, denominado também passivo exigível.\n( ) Conjunto de bens e direitos de propriedade da empresa; itens positivos do patrimônio.\n( ) Representa o total das aplicações dos proprietários na empresa.\n\nA sequência está correta em",
       "opcoes": [
@@ -1367,7 +1648,10 @@
     },
     {
       "id": "cg-01a-95",
-      "banca": "IDECAN/Pref. Campina Grande/Analista de Planejamento e Orçamento/2021",
+      "banca": "IDECAN",
+      "orgao": "Pref. Campina Grande",
+      "cargo": "Analista de Planejamento e Orçamento",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "A empresa XY possui R$ 100.000,00 em ativos e R$ 60.000,00 em passivos. Caso ela resolva distribuir R$ 20.000,00 de dividendos, é possível afirmar que:",
       "opcoes": [
@@ -1382,7 +1666,10 @@
     },
     {
       "id": "cg-01a-96",
-      "banca": "Instituto AOCP/PC PA/Investigador de Polícia Civil/2021",
+      "banca": "Instituto AOCP",
+      "orgao": "PC PA",
+      "cargo": "Investigador de Polícia Civil",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "Acerca da situação líquida e da equação fundamental do patrimônio, analise as assertivas e assinale a alternativa que aponta a(s) correta(s).\n\nI. A situação líquida positiva é quando o total de bens e direitos é maior que o total das obrigações.\nII. A situação líquida negativa é quando o total de bens e direitos é menor que o total das obrigações.\nIII. Na equação fundamental do patrimônio, o patrimônio líquido é diretamente relacionado com o ativo e inversamente relacionado com o passivo.",
       "opcoes": [
@@ -1398,7 +1685,10 @@
     },
     {
       "id": "cg-01a-97",
-      "banca": "Instituto AOCP/ITEP RN/Perito Criminal/Contabilidade e Economia/2021",
+      "banca": "Instituto AOCP",
+      "orgao": "ITEP RN",
+      "cargo": "Perito Criminal / Contabilidade e Economia",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à teoria da contabilidade, analise as assertivas e assinale a alternativa que aponta a(s) correta(s).\n\nI. O objetivo da contabilidade é fornecer informações úteis para a tomada de decisões.\nII. O valor registrado no patrimônio líquido de uma entidade não pode ser superior ao valor total de seus ativos.\nIII. As aplicações de recursos representam o ativo da entidade, enquanto os recursos de terceiros representam o seu passivo, origens de recursos.",
       "opcoes": [
@@ -1414,7 +1704,10 @@
     },
     {
       "id": "cg-01a-98",
-      "banca": "Instituto AOCP/UFPB/Contabilidade/2019",
+      "banca": "Instituto AOCP",
+      "orgao": "UFPB",
+      "cargo": "Contabilidade",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação ao conceito de Patrimônio Líquido, assinale a alternativa INCORRETA.",
       "opcoes": [
@@ -1430,7 +1723,10 @@
     },
     {
       "id": "cg-01a-99",
-      "banca": "IADES/IGEPPS/Técnico Administrativo e Financeiro/2018",
+      "banca": "IADES",
+      "orgao": "IGEPPS",
+      "cargo": "Técnico Administrativo e Financeiro",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "O balanço patrimonial encerrado em 31/12/20X1 evidenciou que o total do Ativo Não Circulante e parte do Ativo Circulante eram financiados por Capital Próprio. Com base apenas nessa informação, é correto afirmar, com absoluta certeza, que",
       "opcoes": [
@@ -1446,7 +1742,9 @@
     },
     {
       "id": "cg-01a-100",
-      "banca": "IADES/ARCON PA/2018",
+      "banca": "IADES",
+      "orgao": "ARCON PA",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "O patrimônio de uma entidade, em determinado momento, é o conjunto de bens, direitos e obrigações demonstrados no balanço patrimonial. Se uma empresa apresenta situação patrimonial negativa, então é correto afirmar que",
       "opcoes": [
@@ -1462,7 +1760,10 @@
     },
     {
       "id": "cg-01a-101",
-      "banca": "IADES/HEMOCENTRO DF/Contabilidade/2017",
+      "banca": "IADES",
+      "orgao": "HEMOCENTRO DF",
+      "cargo": "Contabilidade",
+      "ano": 2017,
       "tipo": "multipla_escolha",
       "enunciado": "Considere hipoteticamente que o Ativo Total de uma empresa seja de R$ 285.000, e o Patrimônio Líquido, de R$ 114.000. Com base apenas nessas informações, assinale a alternativa correta.",
       "opcoes": [
@@ -1478,7 +1779,10 @@
     },
     {
       "id": "cg-01a-102",
-      "banca": "COPS UEL/CM Londrina/Contador/2017",
+      "banca": "COPS UEL",
+      "orgao": "CM Londrina",
+      "cargo": "Contador",
+      "ano": 2017,
       "tipo": "multipla_escolha",
       "enunciado": "Os bens de uma determinada empresa montam em R$ 60.000,00, sendo seu capital total equivalente a 250% do valor dos bens, tendo, ainda, obrigações equivalentes a 60% dos capitais circulantes e não circulantes.\n\nCom base nessas informações, considere as afirmativas a seguir.\nI. A situação líquida é positiva de R$ 60.000,00.\nII. O capital alheio é de R$ 90.000,00.\nIII. O capital próprio é de R$ 150.000,00.\nIV. O total do ativo é de R$ 210.000,00.\n\nAssinale a alternativa correta.",
       "opcoes": [
@@ -1494,7 +1798,10 @@
     },
     {
       "id": "cg-01a-103",
-      "banca": "FUMARC/CM Dores do Rio Preto/Contador/2016",
+      "banca": "FUMARC",
+      "orgao": "CM Dores do Rio Preto",
+      "cargo": "Contador",
+      "ano": 2016,
       "tipo": "multipla_escolha",
       "enunciado": "Considerando-se A = Ativo, P = Passivo e SL = Situação Líquida, pode-se afirmar que a situação de Passivo a Descoberto ocorrerá quando:",
       "opcoes": [
@@ -1509,7 +1816,10 @@
     },
     {
       "id": "cg-01a-104",
-      "banca": "IBFC/SES-PR/Contador/2016",
+      "banca": "IBFC",
+      "orgao": "SES-PR",
+      "cargo": "Contador",
+      "ano": 2016,
       "tipo": "multipla_escolha",
       "enunciado": "Determinada empresa está com a seguinte situação patrimonial: Ativo = R$ 500.000,00 e Passivo Exigível = R$ 500.000,00. Esta empresa apresenta situação líquida:",
       "opcoes": [
@@ -1524,7 +1834,10 @@
     },
     {
       "id": "cg-01a-105",
-      "banca": "UFPR/UNILA/Contador/2014",
+      "banca": "UFPR",
+      "orgao": "UNILA",
+      "cargo": "Contador",
+      "ano": 2014,
       "tipo": "multipla_escolha",
       "enunciado": "Determinada empresa apresenta em seu Balanço Patrimonial, no grupo Passivo (incluindo valores de curto e de longo prazo) o valor de R$ 32.500,00 e no grupo Patrimônio Líquido o valor de R$ 28.650,00. O valor do Capital de Terceiros na empresa será de:",
       "opcoes": [
@@ -1540,7 +1853,10 @@
     },
     {
       "id": "cg-01a-106",
-      "banca": "FUMARC/PC MG/Analista da Polícia Civil/Ciências Contábeis/2013",
+      "banca": "FUMARC",
+      "orgao": "PC MG",
+      "cargo": "Analista da Polícia Civil / Ciências Contábeis",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "No balanço patrimonial levantado em 31/12/2012, a Cia. São Lucas possui bens e direitos no valor total de R$ 2.100.000,00. Sabendo-se que o Passivo Exigível da companhia representa 2/4 (dois quartos) do valor do Patrimônio Líquido nele registrado, é CORRETO afirmar que este último é da ordem de",
       "opcoes": [
@@ -1555,7 +1871,10 @@
     },
     {
       "id": "cg-01a-107",
-      "banca": "CEV UECE/FUNCEME/Analista de Suporte à Pesquisa/Ciências Contábeis/2018",
+      "banca": "CEV UECE",
+      "orgao": "FUNCEME",
+      "cargo": "Analista de Suporte à Pesquisa / Ciências Contábeis",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Quanto à movimentação que sofrem, as contas contábeis podem ser classificadas em",
       "opcoes": [
@@ -1570,7 +1889,10 @@
     },
     {
       "id": "cg-01a-108",
-      "banca": "CEV UECE/DETRAN CE/Analista de Trânsito e Transporte/Ciências Contábeis/2018",
+      "banca": "CEV UECE",
+      "orgao": "DETRAN CE",
+      "cargo": "Analista de Trânsito e Transporte / Ciências Contábeis",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Se o Ativo (bens + direitos) de uma empresa for R$ 1.000,00 e seu Passivo (obrigações com terceiros) R$ 800,00, o capital próprio será",
       "opcoes": [
@@ -1585,7 +1907,10 @@
     },
     {
       "id": "cg-01a-109",
-      "banca": "CEV UECE/Pref. Sobral/Auditor Fiscal de Tributos Municipais/2018",
+      "banca": "CEV UECE",
+      "orgao": "Pref. Sobral",
+      "cargo": "Auditor Fiscal de Tributos Municipais",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "A situação patrimonial líquida positiva ocorre quando",
       "opcoes": [
@@ -1600,7 +1925,10 @@
     },
     {
       "id": "cg-01a-110",
-      "banca": "CEV UECE/PEFOCE/Perito Criminal de 1ª Classe/Ciências Contábeis/2002",
+      "banca": "CEV UECE",
+      "orgao": "PEFOCE",
+      "cargo": "Perito Criminal de 1ª Classe / Ciências Contábeis",
+      "ano": 2002,
       "tipo": "multipla_escolha",
       "enunciado": "Diz-se que a situação líquida é negativa quando o Ativo Total é:",
       "opcoes": [
@@ -1615,7 +1943,10 @@
     },
     {
       "id": "cg-01a-111",
-      "banca": "IBADE/CM Vila Velha/Contador/2021",
+      "banca": "IBADE",
+      "orgao": "CM Vila Velha",
+      "cargo": "Contador",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "Em relação à situação líquida patrimonial de uma empresa, pode-se encontrar o caso em que o passivo é maior que o ativo. Esta situação denomina-se:",
       "opcoes": [
@@ -1631,7 +1962,10 @@
     },
     {
       "id": "cg-01a-112",
-      "banca": "IBADE/CM Vila Velha/Auditor Interno/2021",
+      "banca": "IBADE",
+      "orgao": "CM Vila Velha",
+      "cargo": "Auditor Interno",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "Analise as afirmativas abaixo:\nI. Situação líquida nula quando não houver Ativo.\nII. Ativo > obrigações = situação líquida ativa.\nIII. Situação líquida passiva é equivalente a passivo a descoberto.\nIV. O total das obrigações é equivalente à situação deficitária.\n\nEstão corretas, somente:",
       "opcoes": [
@@ -1647,7 +1981,10 @@
     },
     {
       "id": "cg-01a-113",
-      "banca": "IBADE/Pref. Itapemirim/Contador/2019",
+      "banca": "IBADE",
+      "orgao": "Pref. Itapemirim",
+      "cargo": "Contador",
+      "ano": 2019,
       "tipo": "multipla_escolha",
       "enunciado": "O Patrimônio Empresarial composto pelos ativos, passivos e pelo patrimônio líquido pode ser entendido como origens e aplicações de recursos. A alternativa que apresenta uma origem e uma aplicação, respectivamente, é:",
       "opcoes": [
@@ -1663,7 +2000,10 @@
     },
     {
       "id": "cg-01a-114",
-      "banca": "IBADE/CM Vilhena/Auditor Interno/2018",
+      "banca": "IBADE",
+      "orgao": "CM Vilhena",
+      "cargo": "Auditor Interno",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "A alternativa que apresenta corretamente o que se pode entender como situação líquida negativa é:",
       "opcoes": [
@@ -1679,7 +2019,10 @@
     },
     {
       "id": "cg-01a-115",
-      "banca": "IBADE/CAERN/Contador/2018",
+      "banca": "IBADE",
+      "orgao": "CAERN",
+      "cargo": "Contador",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "A equação patrimonial caracteriza-se por apresentar o equilíbrio entre ativos e passivos na contabilidade. Pode ser entendida como Origens e Aplicações de recursos. Identifique nas alternativas aquela que apresenta somente exemplos de aplicações de recursos.",
       "opcoes": [
@@ -1695,7 +2038,10 @@
     },
     {
       "id": "cg-01a-116",
-      "banca": "IBADE/Pref. Cujubim/Controlador Interno/2018",
+      "banca": "IBADE",
+      "orgao": "Pref. Cujubim",
+      "cargo": "Controlador Interno",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Diferença entre o ativo e o passivo da organização, ou seja, entre os bens e direitos que ela possui e suas obrigações. Estamos diante do conceito de:",
       "opcoes": [
@@ -1711,7 +2057,10 @@
     },
     {
       "id": "cg-01a-117",
-      "banca": "IBADE/Pref. Ji-Paraná/Fiscal Fazendário/2018",
+      "banca": "IBADE",
+      "orgao": "Pref. Ji-Paraná",
+      "cargo": "Fiscal Fazendário",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "Sabendo que uma empresa A possui Ativos no valor de R$ 10.000 e Passivos no valor de R$ 8.000, enquanto a empresa B possui Ativos no valor de R$ 18.000 e Passivos no valor de R$ 20.000, pode-se afirmar que os PL respectivos são:",
       "opcoes": [
@@ -1727,7 +2076,10 @@
     },
     {
       "id": "cg-01a-118",
-      "banca": "IBADE/CM Vilhena/Contador/2018",
+      "banca": "IBADE",
+      "orgao": "CM Vilhena",
+      "cargo": "Contador",
+      "ano": 2018,
       "tipo": "multipla_escolha",
       "enunciado": "A equação patrimonial, de uma forma geral, pode ser interpretada como as Aplicações e as Origens de recursos, que determinam o patrimônio de uma entidade empresarial. A alternativa que apresenta, respectivamente, uma aplicação e uma origem de recursos é:",
       "opcoes": [
@@ -1743,7 +2095,10 @@
     },
     {
       "id": "cg-01a-119",
-      "banca": "VUNESP/Contador/Desenvolvesp/2014",
+      "banca": "VUNESP",
+      "orgao": "Desenvolvesp",
+      "cargo": "Contador",
+      "ano": 2014,
       "tipo": "multipla_escolha",
       "enunciado": "De acordo com a equação fundamental do patrimônio, uma entidade ao ter o aumento da situação líquida positiva, ou a diminuição da situação líquida negativa, tal entidade terá:",
       "opcoes": [
@@ -1759,7 +2114,10 @@
     },
     {
       "id": "cg-01a-120",
-      "banca": "VUNESP/Perito/PC SP/2014",
+      "banca": "VUNESP",
+      "orgao": "PC SP",
+      "cargo": "Perito",
+      "ano": 2014,
       "tipo": "multipla_escolha",
       "enunciado": "As demonstrações contábeis retratam os efeitos patrimoniais e financeiros das transações e outros eventos, por meio do grupamento dos mesmos em classes amplas de acordo com as suas características econômicas. Essas classes amplas são denominadas de elementos das demonstrações contábeis. Os elementos diretamente relacionados à mensuração da posição patrimonial e financeira no balanço patrimonial são os ativos, os passivos e o patrimônio líquido. Assim sendo, considerando que em 31 de dezembro de 2013 uma determinada companhia efetuou o pagamento de fornecedores, essa é uma operação que",
       "opcoes": [
@@ -1775,7 +2133,10 @@
     },
     {
       "id": "cg-01a-121",
-      "banca": "VUNESP/Pref. São José dos Campos/Analista em Gestão Municipal — Ciências Contábeis/2012",
+      "banca": "VUNESP",
+      "orgao": "Pref. São José dos Campos",
+      "cargo": "Analista em Gestão Municipal — Ciências Contábeis",
+      "ano": 2012,
       "tipo": "multipla_escolha",
       "enunciado": "Em Ciências Contábeis, em que se entende por Ativo Circulante (AC), Ativo Não-Circulante (ANC), Passivo Circulante (PC), Passivo Não-Circulante (PNC), Patrimônio Líquido (PL) e Situação Líquida (SL), pode-se afirmar que a pior situação para uma entidade com fins lucrativos será",
       "opcoes": [
@@ -1791,7 +2152,10 @@
     },
     {
       "id": "cg-01a-122",
-      "banca": "VUNESP/FUNSERV Sorocaba/Contador/2011",
+      "banca": "VUNESP",
+      "orgao": "FUNSERV Sorocaba",
+      "cargo": "Contador",
+      "ano": 2011,
       "tipo": "multipla_escolha",
       "enunciado": "Os componentes patrimoniais de uma entidade correspondem ao conjunto de",
       "opcoes": [
@@ -1807,7 +2171,10 @@
     },
     {
       "id": "cg-01a-123",
-      "banca": "VUNESP/Pref. Sorocaba/Auditor Fiscal de Tributos Municipais/2006",
+      "banca": "VUNESP",
+      "orgao": "Pref. Sorocaba",
+      "cargo": "Auditor Fiscal de Tributos Municipais",
+      "ano": 2006,
       "tipo": "multipla_escolha",
       "enunciado": "A situação líquida é positiva quando o ativo total é",
       "opcoes": [
@@ -1823,7 +2190,10 @@
     },
     {
       "id": "cg-01a-124",
-      "banca": "VUNESP/Pref. Sorocaba/Contador/2006",
+      "banca": "VUNESP",
+      "orgao": "Pref. Sorocaba",
+      "cargo": "Contador",
+      "ano": 2006,
       "tipo": "multipla_escolha",
       "enunciado": "Segundo a Resolução CFC 1.049/05, o Patrimônio Líquido compreende os recursos próprios da Entidade, e o seu valor é a diferença positiva entre o valor do Ativo e o valor do Passivo. Quando o valor do Passivo for maior que o valor do Ativo, o resultado é denominado",
       "opcoes": [
@@ -1839,7 +2209,10 @@
     },
     {
       "id": "cg-01a-125",
-      "banca": "VUNESP/Pref. Sorocaba/Contador/2006",
+      "banca": "VUNESP",
+      "orgao": "Pref. Sorocaba",
+      "cargo": "Contador",
+      "ano": 2006,
       "tipo": "multipla_escolha",
       "enunciado": "No Balanço Patrimonial, a situação líquida é negativa quando o passivo exigível é",
       "opcoes": [
@@ -1855,7 +2228,10 @@
     },
     {
       "id": "cg-01a-126",
-      "banca": "FGV/FunSaúde CE/Técnico Contabilidade/2021",
+      "banca": "FGV",
+      "orgao": "FunSaúde CE",
+      "cargo": "Técnico Contabilidade",
+      "ano": 2021,
       "tipo": "multipla_escolha",
       "enunciado": "Na elaboração das demonstrações contábeis, assinale a conta de origem devedora.",
       "opcoes": [
@@ -1871,7 +2247,10 @@
     },
     {
       "id": "cg-01a-127",
-      "banca": "FGV/Contador/SUDENE/PE/2013",
+      "banca": "FGV",
+      "orgao": "Contador",
+      "cargo": "SUDENE / PE",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "Observe as contas: Fornecedores; Impostos a Recuperar; Reserva de Lucro; Adiantamento de Salários; Estoque; Custo de Vendas e Receita do período. Assinale a alternativa que indica a equação contábil que representa o método das partidas dobradas em relação às contas listadas acima.",
       "opcoes": [
@@ -1887,7 +2266,10 @@
     },
     {
       "id": "cg-01a-128",
-      "banca": "FGV/Contador/AL MT/2013",
+      "banca": "FGV",
+      "orgao": "AL MT",
+      "cargo": "Contador",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "Assinale a alternativa que indica a composição patrimonial do capital total à disposição de uma empresa.",
       "opcoes": [
@@ -1903,7 +2285,10 @@
     },
     {
       "id": "cg-01a-129",
-      "banca": "FGV/DETRAN RN/Assistente Técnico/Contabilidade/2010",
+      "banca": "FGV",
+      "orgao": "DETRAN RN",
+      "cargo": "Assistente Técnico / Contabilidade",
+      "ano": 2010,
       "tipo": "multipla_escolha",
       "enunciado": "A equação patrimonial é a representação quantitativa do patrimônio de uma entidade. Se o passivo suplantar o ativo, tem-se a seguinte equação:",
       "opcoes": [
@@ -1919,7 +2304,10 @@
     },
     {
       "id": "cg-01a-130",
-      "banca": "CEBRASPE/PC DF/Contador/2025",
+      "banca": "CEBRASPE",
+      "orgao": "PC DF",
+      "cargo": "Contador",
+      "ano": 2025,
       "tipo": "certo_errado",
       "enunciado": "No cotidiano das entidades contábeis, é impossível ocorrer uma situação patrimonial expressa por ativos + |passivos| = patrimônio líquido, em que a simbologia |x| representa o valor absoluto de x.",
       "resposta": "errado",
@@ -1928,7 +2316,10 @@
     },
     {
       "id": "cg-01a-131",
-      "banca": "UFPR/Câmara de Araucária/Técnico em Contabilidade/2013",
+      "banca": "UFPR",
+      "orgao": "Câmara de Araucária",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "A empresa Filippe S/A, em dado momento, apresenta o seguinte patrimônio (em R$):\n\nAtivo Circulante: Caixa 500 | Clientes 800 | Estoques 700\nAtivo Não Circulante: Imóveis 1.800\nPassivo Circulante: Fornecedores 600 | Salários a Pagar 400 | Impostos a Pagar 300\nPassivo Não Circulante: Empréstimos 500\nPatrimônio Líquido: ?\n\nSeu capital próprio é:",
       "opcoes": [

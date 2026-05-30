@@ -453,7 +453,9 @@ function diagramasParaCanvas() {
 }
 
 function htmlEnunciado(q) {
-  const banca = q.banca ? `<div class="questao-banca">(${q.banca})</div>` : '';
+  const bancaParts = [q.banca, q.orgao, q.cargo, q.ano].filter(Boolean);
+  if (q.adaptada) bancaParts.push('adaptada');
+  const banca = bancaParts.length ? `<div class="questao-banca">(${bancaParts.join(' / ')})</div>` : '';
   const linhas = q.enunciado.split('\n');
   let html = '';
   let diagBuf = [];
@@ -1046,7 +1048,9 @@ function toggleRevisao(q, qNum) {
       }, { merge: true })
       .catch(e => console.error('Erro ao registrar fixação:', e));
     ref.set({
-      id: qRich.id, banca: qRich.banca || '', tipo: qRich.tipo, enunciado: qRich.enunciado,
+      id: qRich.id, banca: qRich.banca || null, orgao: qRich.orgao || null, cargo: qRich.cargo || null,
+      ano: qRich.ano || null, adaptada: qRich.adaptada || false,
+      tipo: qRich.tipo, enunciado: qRich.enunciado,
       opcoes: qRich.opcoes || null, resposta: qRich.resposta, comentario: qRich.comentario,
       dificuldade: qRich.dificuldade || 1,
       _materia: qRich._materia, _materiaId: qRich._materiaId,
