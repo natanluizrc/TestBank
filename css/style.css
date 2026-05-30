@@ -385,12 +385,13 @@ button:disabled { cursor: default; }
   display: flex;
   align-items: center;
   gap: 0.4rem;
-  flex-wrap: wrap;
   padding: 0.4rem 0;
   border-bottom: 1px solid #e5e5e5;
 }
 
 .filtro-select {
+  flex: 1;
+  min-width: 0;
   height: 2rem;
   padding: 0 0.4rem;
   border: 1px solid #d1d5db;
@@ -399,8 +400,6 @@ button:disabled { cursor: default; }
   color: #555;
   background: #fff;
   cursor: pointer;
-  flex-shrink: 0;
-  max-width: 9rem;
 }
 
 .filtro-select.ativo {
