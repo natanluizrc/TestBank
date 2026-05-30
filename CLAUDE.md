@@ -45,6 +45,8 @@ Sem build, sem bundler, sem transpilação. Firebase SDK via CDN.
 ──────────────────────────────────────────────
   Aula 00   Aula 01A   Aula 01B   Aula 02  ...  ← barra de aulas (nível 2) — sticky
 ──────────────────────────────────────────────
+  Banca ▾   Órgão ▾   Cargo ▾   Ano ▾   Tipo ▾   Dificuldade ▾   ← filtros — sticky
+──────────────────────────────────────────────
   [placar] [000] [000] [000]   Expandir tudo    ← barra de placar — sticky
 ```
 
@@ -133,17 +135,34 @@ Diagramas no enunciado usam caracteres box-drawing Unicode (`┌┐└┘│─�
 
 Campo `comentario`: texto puro, sem markdown — nenhum `**negrito**`, `_itálico_` ou lista com `-`. Prosa direta e didática.
 
+### Ordenação das questões
+
+As questões em cada arquivo JSON devem estar ordenadas pelos critérios abaixo, nessa prioridade:
+
+1. `banca` — A → Z
+2. `orgao` — A → Z (ausente/undefined vai ao final)
+3. `cargo` — A → Z (ausente/undefined vai ao final)
+4. `ano` — decrescente (mais recente primeiro; ausente vai ao final)
+5. `tipo` — `multipla_escolha` antes de `certo_errado`
+6. `dificuldade` — crescente (1 → 5)
+
+Ao adicionar questões novas, re-ordenar o arquivo inteiro com o script `scripts/sort_questoes.js` (ou equivalente inline) antes de salvar.
+
 ## Adicionando novo conteúdo (fluxo padrão)
 
-Quando o usuário enviar um PDF:
-1. Extrair texto com `pdftotext -enc UTF-8` via Bash
+PDFs dos cursos ficam em `PDFs/{materia}/` (ex: `PDFs/ContG/`). Scripts de apoio em `scripts/`.
+
+Quando o usuário indicar qual aula processar:
+1. Extrair texto com `pdftotext -enc UTF-8 PDFs/ContG/ContG_XXXX.pdf PDFs/ContG/aula-XX-raw.txt`
 2. Questões: extrair da seção "Lista de Questões" do PDF; comentários da seção "Questões Comentadas"
-3. Atribuir `dificuldade` (1–5) a cada questão
-4. Campo `banca` separado do `enunciado` — nunca embutir a banca dentro do texto da questão
-5. IDs no formato `{mat}-XX-NN` (abreviação da matéria + número da aula + número da questão)
-6. Salvar em `data/{materia}/aula-XX.json`
-7. Registrar o material na lista `MATERIAS` em `app.js`
-8. Cada material deve ter no mínimo 30 questões
+3. Usar `scripts/normalizar_campos.js` (ou equivalente) para limpar bancas, órgãos e cargos
+4. Atribuir `dificuldade` (1–5) a cada questão
+5. Campo `banca` separado do `enunciado` — nunca embutir a banca dentro do texto da questão
+6. IDs no formato `{mat}-XX-NNN` (abreviação + número da aula com zero-padding + sequencial 3 dígitos)
+7. Salvar em `data/{materia}/aula-XX.json`
+8. Ordenar as questões conforme critério padrão (ver seção "Ordenação das questões")
+9. Registrar a aula na lista `MATERIAS` em `app.js` (slug + titulo)
+10. Cada arquivo deve ter no mínimo 30 questões
 
 Não modificar arquivos JSON existentes, salvo para corrigir erros reportados pelo usuário.
 
@@ -152,8 +171,17 @@ Antes de salvar o JSON, validar:
 - Nenhum `comentario` contém `**` ou `_`
 - Questões `multipla_escolha` têm campo `opcoes`; `certo_errado` não têm
 - IDs sequenciais sem lacunas
+- Arquivo ordenado conforme critério padrão
 
 Se o `pdftotext` truncar um enunciado (termina abruptamente, banca ausente, opções sem enunciado): pedir screenshot da página ao usuário e usar `Read` na imagem para recuperar o conteúdo.
+
+### Armadilhas conhecidas no parser ContG
+
+- **Step 1a removido:** `\n([A-E])(?=[a-z])` é muito agressivo — converte "Assinale", "Capital Social" etc. como opções falsas.
+- **Notação D=/C=:** ao detectar opções, checar se após a letra vem `=` ou `-` — é notação contábil, não opção.
+- **"A empresa" no enunciado:** linha começando com "A " pode ser capturada como opção A — corrigir manualmente no raw JSON.
+- **Ruído de página:** remover "Luciano Rosa, Júlio Cardozo Aula XX", CPF do aluno, numeração de página.
+- Usar `PDFs/ContG/parse_0300.js` como template para novos parsers.
 
 ## Autonomia nas ações
 
