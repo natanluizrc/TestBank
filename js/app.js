@@ -27,6 +27,9 @@ const MATERIAS = [
       { slug: 'aula-01b', titulo: 'Aula 01B' },
       { slug: 'aula-02a', titulo: 'Aula 02A' },
       { slug: 'aula-02b', titulo: 'Aula 02B' },
+      { slug: 'aula-03a', titulo: 'Aula 03A' },
+      { slug: 'aula-03b', titulo: 'Aula 03B' },
+      { slug: 'aula-03c', titulo: 'Aula 03C' },
       { slug: 'aula-04',  titulo: 'Aula 04' },
       { slug: 'aula-05',  titulo: 'Aula 05' },
     ]

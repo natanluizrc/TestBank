@@ -1,0 +1,486 @@
+{
+  "slug": "aula-03a",
+  "titulo": "Aula 03A",
+  "materia": "ContG",
+  "questoes": [
+    {
+      "id": "cg-03a-001",
+      "banca": "FCC/ALAPA/Assistente Legislativo Atividade Orçamentária e Financeira/Especialidade - Assistente de Contabilidade/2020",
+      "tipo": "multipla_escolha",
+      "enunciado": "O supermercado Alimentos&Bebidas contabilizou as seguintes operações no mês de Abril/X2: I. Vendas de Abril/X2 totalizando R$ 350.000,00. Desse valor, 60% foi recebido à vista e o restante será recebido no mês de Maio/X2. O custo dos estoques vendidos totalizou R$ 80.000,00. II. Em 30/Abril/X2, houve o pagamento de salário dos funcionários referente a Abril/X2. O valor total desembolsado foi de R$ 60.000,00. III. A depreciação do imobilizado da empresa foi de R$ 10.000,00. IV. Em 01/Abril/X2, foi feita uma compra a prazo (vencimento em 15/Maio/X2) de lote de vinhos para reposição para o estoque do mês no valor de R$ 100.000,00. Considerando as transações acima, os montantes líquidos reconhecidos de 01/Abril/X2 a 30/Abril/X2 em caixa e no resultado do exercício são, em reais,",
+      "resposta": "E",
+      "comentario": "I. Vendas de Abril/X2 totalizando R$ 350.000,00. Desse valor, 60% foi recebido à vista e o restante será recebido no mês de Maio/X2. O custo dos estoques vendidos totalizou R$ 80.000,00. Vimos que a contabilidade adota o regime da competência, no qual o registro das receitas e despesas ocorre independentemente do recebimento e pagamento. Consequentemente, reconheceremos a parte da venda a prazo também. Pelo reconhecimento da receita: D - Caixa (Ativo) R$ 210.000,00 ( 350.000 x 60%) D Clientes (Ativo) R$ 140.000,00 (350.000 x 40% ou 350.000 210.000) C Receita de Vendas (Resultado) R$ 350.000,00 Pela baixa da mercadoria no estoque: D - CMV (Resultado) C Estoque (Ativo) Razonetes: R$ 80.000,00 R$ 80.000,00 II. Em 30/Abril/X2, houve o pagamento de salário dos funcionários referente a Abril/X2. O valor total desembolsado foi de R$ 60.000,00. Notem que ocorreram em Abril tanto a despesa com salários quanto o seu pagamento. Fique Atento! Independentemente do pagamento deveríamos, com base no regime de competência, reconhecer a despesa de salário no mês trabalhado. Vejamos a Contabilização: Pelo reconhecimento da despesa: D Despesa com Salários a pagar (Resultado) R$ 60.000,00 C Salários a pagar (Passivo) R$ 60.000,00 Pelo pagamento dos salários: D Salários a pagar (Passivo) C- Caixa (Ativo) R$ 60.000,00 R$ 60.000,00 Razonetes: III. A depreciação do imobilizado da empresa foi de R$ 10.000,00. Nesse item, estamos registrando o desgaste pela ação do tempo, pelo uso, pela obsolescência. Essa redução é conhecida como depreciação. Contabilização: D- Despesa Depreciação (Resultado) C- Depreciação Acumulada (Retificadora do Ativo) Razonetes: R$ 10.000,00. R$ 10.000,00. IV. Em 01/Abril/X2, foi feita uma compra a prazo (vencimento em 15/Maio/X2) de lote de vinhos para reposição para o estoque do mês no valor de R$ 100.000,00. No último item, a entidade está adquirindo mercadorias, a prazo, para recompor o seu estoque. Contabilização: D Estoque (Ativo) R$ 100.000,00 C Fornecedores (Passivo) R$ 100.000,00 Razonetes: Vamos apurar os saldos das contas e o resultado do exercício: Assim, o gabarito é a letra E: Caixa: 150.000,00; Resultado do exercício: 200.000,00.",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) Caixa: 290.000,00; Resultado do exercício: 260.000,00.",
+        "B) Caixa: 50.000,00; Resultado do exercício: (10.000,00).",
+        "C) Caixa: 150.000,00; Resultado do exercício: 260.000,00.",
+        "D) Caixa: 140.000,00; Resultado do exercício: 200.000,00.",
+        "E) Caixa: 150.000,00; Resultado do exercício: 200.000,00."
+      ]
+    },
+    {
+      "id": "cg-03a-002",
+      "banca": "FCC/ALAPA/Analista Legislativo Atividade Orçamentária e Financeira e de Controle Interno/Especialidade - Contador /2020",
+      "tipo": "multipla_escolha",
+      "enunciado": "A Cia. Só Problemas é uma empresa comercial e possuía, em 30/09/2019, a seguinte situação patrimonial: Disponível ........................................................................... R$ 200.000,00 Estoques ............................................................................. R$ 50.000,00 Fornecedores ...................................................................... R$ 80.000,00 Capital Social ...................................................................... R$ 170.000,00 Durante o mês de outubro de 2019, a Cia. realizou as seguintes operações: Data 01/10 07/10 11/10 17/10 23/10 31/10 31/10 Operação Venda de estoque a prazo pelo valor de R$ 70.000,00, sendo que o estoque havia custado R$ 20.000,00. Pagamento de R$ 40.000,00 ao fornecedor Pedro para que este entregue mercadorias para a empresa em dezembro de 2019. Recebimento de R$ 50.000,00 do cliente Diogo, assumindo o compromisso de entregar lhe produtos em 31 de outubro de 2019. Pagamento de fornecedores no valor de R$ 30.000,00. Reconhecimento de um processo trabalhista em que o valor de perda provável é R$ 20.000,00. Pagamento dos salários dos funcionários correspondentes ao mês de outubro de 2019 no valor de R$ 25.000,00. Entrega, ao cliente Diogo, das mercadorias correspondentes ao valor que havia sido recebido em 11/10. O custo das mercadorias entregues foi R$ 15.000,00. Após o registro das operações acima, o total do patrimônio líquido da Cia. Só Problemas, em 31/10/19, era, em reais,",
+      "resposta": "E",
+      "comentario": "O saldo inicial do Patrimônio Líquido era R$ 170.000. Como a questão quer saber apenas o valor final do Patrimônio Líquido, iremos analisar como as operações afetam esse grupo para ganharmos tempo: Venda de estoque a prazo pelo valor de R$ 70.000,00, sendo que o estoque havia custado R$ 20.000,00. Aumento do PL de 70.000 - 20.000 = R$ 50.000 Pagamento de R$ 40.000,00 ao fornecedor Pedro para que este entregue mercadorias para a empresa em dezembro de 2019. Não tem efeito no Patrimônio Líquido de acordo com o Regime de Competência. Trata-se de um fato permutativo. Recebimento de R$ 50.000,00 do cliente Diogo, assumindo o compromisso de entregar-lhe produtos em 31 de outubro de 2019. Não tem efeito no Patrimônio Líquido de acordo com o Regime de Competência. Trata-se de um fato permutativo. Pagamento de fornecedores no valor de R$ 30.000,00. Não tem efeito no Patrimônio Líquido representa a quitação de um passivo. Reconhecimento de um processo trabalhista em que o valor de perda provável é R$ 20.000,00. Se a perda for considerada provável a empresa deve constituir uma provisão que é um passivo de prazo ou valores incertos. Essa constituição gera diminuição no PL em 20.000 Pagamento dos salários dos funcionários correspondentes ao mês de outubro de 2019 no valor de R$ 25.000,00. Como os salários são do mês de outubro, temos o reconhecimento de uma despesa, o que reduz o Patrimônio Líquido em R$ 25.000 Entrega, ao cliente Diogo, das mercadorias correspondentes ao valor que havia sido recebido em 11/10. O custo das mercadorias entregues foi R$ 15.000,00. Agora reconhecemos a receita de vendas de acordo com o Regime de Competência, bem como apropriamos o custo da mercadoria vendida ao resultado do exercício. O efeito no PL será de 50.000 - 15.000 = R$ 35.000 positivo. O saldo final do Patrimônio Líquido será de 170.000 + 50.000 - 20.000 - 25.000 + 35.000 = 210.000",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) 160.000,00.",
+        "B) 195.000,00.",
+        "C) 230.000,00.",
+        "D) 175.000,00.",
+        "E) 210.000,00."
+      ]
+    },
+    {
+      "id": "cg-03a-003",
+      "banca": "FCC/SJRP/Auditor Fiscal Tributário Municipal/2019",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na empresa Adequada, foi identificado o seguinte lançamento contábil: Débito em Caixa .......................................................................................................... R$ 7.000. Débito em Imóveis ....................................................................................................... R$ 8.000. Crédito em Capital Social ............................................................................................ R$ 15.000. O lançamento acima refere-se a transação de:",
+      "resposta": "A",
+      "comentario": "Durante o curso vimos que os sócios poderão integralizar o capital social não só com dinheiro, mas também com veículos, imóveis, estoque, máquinas, direitos etc. Logo, analisando o lançamento, notamos que a entidade está aumentando o seu ativo, por meio do débito nas contas Caixa e Imóveis e como contrapartida creditando a conta Capital Social. Isso é um exemplo da integralização de capital social por meio de caixa e imóveis. O gabarito é letra a.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) integralização de capital social por meio de caixa e imóveis.",
+        "B) retirada de participação societária por meio de caixa e imóveis.",
+        "C) depreciação de imóveis em montante superior ao valor contábil líquido.",
+        "D) reposição de imóveis por meio de caixa e integralização de capital social.",
+        "E) valorização do preço de mercado dos imóveis."
+      ]
+    },
+    {
+      "id": "cg-03a-004",
+      "banca": "FCC/ICMS-SC/Auditoria e Fiscalização/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 30/11/2017, a empresa TecnoBite, que atua no setor de revenda de computadores, apresentava a seguinte situação patrimonial: Caixa e Equivalentes de Caixa R$ 5.000,00 Capital Social R$ 41.000,00 Contas a Pagar R$ 14.000,00 Imobilizado R$ 75.000,00 Depreciação Acumulada R$ 25.000,00 Durante o mês de dezembro de 2017, a TecnoBite realizou as seguintes operações: Obtenção de empréstimo, em 01/12/2017, no valor de R$ 50.000,00, para ser pago em 60 dias. A taxa de juros compostos contratada foi de 2% a.m. Aquisição de estoque no valor de R$ 35.000,00, à vista. Pagamento de R$ 8.000,00 do total de Contas a Pagar. Venda de 60% do estoque no valor total de R$ 75.000,00 à vista, para diversos clientes. Aquisição de estoque no valor de R$ 30.000,00, à vista. Pagamento de despesas gerais referentes ao mês de dezembro de 2017 no valor total de R$ 6.000,00. O imobilizado tem uma vida útil de 60 meses, sem valor residual, sendo utilizado o método das cotas constantes, dos quais já passaram 20 meses. O valor do patrimônio líquido da empresa TecnoBite era, em 31/12/2017, em reais,",
+      "resposta": "E",
+      "comentario": "Vamos, inicialmente, montar o balanço patrimonial inicial: Obtenção de empréstimo, em 01/12/2017, no valor de R$ 50.000,00, para ser pago em 60 dias. A taxa de juros compostos contratada foi de 2% a.m. Uma vez que a operação é de curto prazo e a questão não informa se é relevante, não há necessidade de ajustar a valor presente. D Caixa (AC) C Empréstimos a pagar (PC) 50.000,00 50.000,00 Pode ser em caixa ou bancos. A questão não disse. Geralmente vai para bancos, mas não faz diferença, já que ambos são disponibilidades. Aquisição de estoque no valor de R$ 35.000,00, à vista. D Estoques (AC) C Caixa (AC) 35.000,00 35.000,00 Pagamento de R$ 8.000,00 do total de Contas a Pagar. D Contas a pagar (PC) C Caixa (AC) 8.000,00 8.000,00 Venda de 60% do estoque no valor total de R$ 75.000,00 à vista, para diversos clientes. Pela baixa da mercadoria no estoque: D CMV (Despesa) 60% x 35.000 C Estoques (AC) 21.000 21.000 Pelo reconhecimento da receita: D Caixa (AC) C Receita de Vendas (Receita) 75.000 75.000 Aquisição de estoque no valor de R$ 30.000,00, à vista. D Estoques (AC) C Caixa (AC) 30.000,00 30.000,00 Pagamento de despesas gerais referentes ao mês de dezembro de 2017 no valor total de R$ 6.000,00. D Despesas gerais (Despesa) C Caixa (AC) 6.000,00 6.000,00 - O imobilizado tem uma vida útil de 60 meses, sem valor residual, sendo utilizado o método das cotas constantes, dos quais já passaram 20 meses. Temos de reconhecer a despesa de depreciação. Depreciação = 75.000/60 = 1.250 D Encargos de depreciação (Despesa) C Depreciação acumulada (Ret. Ativo) 1.250 1.250 - Reconhecimento da despesa financeira Temos de nos atentar para um último detalhe! Como o prazo para pagamento do empréstimo é de 2 meses, devemos reconhecer 1 mês de encargo financeiro. Encargo financeiro = 50.000 x 2% = R$ 1.000,00 D Despesas financeiras (Despesa) C Empréstimos a pagar (PC) 1.000,00 1.000,00 Somando o PL, encontraremos R$ 86.750,00. Mas, professores, e quanto à destinação dos lucros acumulados. Vejam que a questão não fala nada sobre dividendos. Então, não podemos pressupor como essa entidade paga dividendos. Ademais, a vedação de manter a conta lucros acumulados é válida somente para as sociedades anônimas, informação que também foi omitida. O gabarito é letra e.",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) 88.000,00.",
+        "B) 73.000,00.",
+        "C) 89.000,00.",
+        "D) 87.750,00.",
+        "E) 86.750,00."
+      ]
+    },
+    {
+      "id": "cg-03a-005",
+      "banca": "FCC/ICMS-SC/Auditoria e Fiscalização/2018",
+      "tipo": "multipla_escolha",
+      "enunciado": "A Cia. Negociante possuía a seguinte estrutura patrimonial em 31/12/2016 (valores em reais): Durante o ano 2017, a Cia. Negociante realizou as seguintes transações: Venda do imóvel A em 01/01/2017 por R$ 110.000,00, à vista. Pagamento a Fornecedores no valor de R$ 80.000,00. Recebimento de Duplicatas a receber de clientes no valor de R$ 90.000,00. Aquisição, em 01/07/2017, do imobilizado B no valor de R$ 60.000,00, sendo 25%, à vista, e o restante para ser pago em 2018. A vida útil econômica estimada do bem era de 5 anos e valor residual de R$ 10.000,00. Obtenção de empréstimo, em 01/07/2017, no valor de R$ 150.000,00, com taxa de juros de 5% ao semestre. Os juros serão pagos em 2018. Recompra, em 30/09/2017, de ações de sua própria emissão no valor de R$ 20.000,00. Pagamento antecipado ao Fornecedor Duvidoso, no valor de R$ 50.000,00, por mercadorias a serem entregues em dezembro de 2017. Recebimento antecipado do cliente João no valor de R$ 200.000,00, para que a Cia. lhe entregue produtos em dezembro de 2017. Recebimento das mercadorias pagas antecipadamente ao Fornecedor Duvidoso. Entrega em dezembro das mercadorias ao cliente João. O custo das mercadorias entregues foi de R$ 75.000,00. Após o reconhecimento das transações acima, o total do Ativo da Cia. Negociante era, em 31/12/2017, em reais,",
+      "resposta": "C",
+      "comentario": "Vamos analisar os fatos apresentados e verificarmos o efeito no Ativo: Venda do imóvel A em 01/01/2017 por R$ 110.000,00, à vista. O valor contábil do Imóvel era 120.000 20.000 = 100.000 e foi vendido por 110.000 à vista, portanto, há um ganho de R$ 10.000 (receita). D Bancos (Ativo) D Depreciação Acumulada (retificadora do ativo) C Imobilizado Imóvel A (ativo) C Ganho na Alienação de Imóvel (resultado) 110.000 20.000 120.000 10.000. O efeito no ativo foi de 110.000 + 20.000 120.000 = aumento de 10.000 Pagamento a Fornecedores no valor de R$ 80.000,00. D Fornecedores C Caixa 80.000 80.000 O efeito no ativo foi diminuição de 80.000 Recebimento de Duplicatas a receber de clientes no valor de R$ 90.000,00. D Duplicatas a Receber C Caixa 90.000 90.000 Não há efeito no total do Ativo. Aquisição, em 01/07/2017, do imobilizado B no valor de R$ 60.000,00, sendo 25%, à vista, e o restante para ser pago em 2018. A vida útil econômica estimada do bem era de 5 anos e valor residual de R$ 10.000,00. Contabilização da aquisição: D Imobilizado B C Caixa C Fornecedores 60.000,00 15.000,00 45.000,00 Tivemos aumento no Ativo de 60.000 15.000 = 45.000,00 Contabilização da depreciação: Depreciação Anual = (60.000 10.000)/5 = 10.000 No ano de 2017 o bem foi depreciado por 6 meses, portanto, 5.000 D Despesa de Depreciação C Depreciação Acumulada 5.000 5.000 Diminuição no Ativo de 5.000,00 Obtenção de empréstimo, em 01/07/2017, no valor de R$ 150.000,00, com taxa de juros de 5% ao semestre. Os juros serão pagos em 2018. D Bancos C Empréstimos a pagar 150.000 150.000 Há o reconhecimento da despesa financeira em 2017, mas não afetará o Ativo. Aumento do Ativo de 150.000,00 Recompra, em 30/09/2017, de ações de sua própria emissão no valor de R$ 20.000,00. D Ações em Tesouraria (PL) C Caixa 20.000 20.000 Diminuição do Ativo de 20.000,00 Pagamento antecipado ao Fornecedor Duvidoso, no valor de R$ 50.000,00, por mercadorias a serem entregues em dezembro de 2017. D Adiantamento a Fornecedores (ativo) C Bancos (ativo) 50.000,00 50.000,00 Não há alteração no total do ativo. Recebimento antecipado do cliente João no valor de R$ 200.000,00, para que a Cia. lhe entregue produtos em dezembro de 2017. D Bancos (Ativo) C Adiantamento de Clientes (Passivo) 200.000 200.000 Aumento do Ativo de 200.000,00 Recebimento das mercadorias pagas antecipadamente ao Fornecedor Duvidoso. D Estoques (ativo) C Adiantamento a Fornecedores (ativo) 50.000,00 50.000,00 Não há efeito no total do ativo. Entrega em dezembro das mercadorias ao cliente João. O custo das mercadorias entregues foi de R$ 75.000,00. D CMV C Estoques D Adiantamento de Clientes C Receita de Vendas 75.000 75.000 200.000 200.000 Ocorreu a diminuição do ativo de 75.000 Saldo Final = 350.000 + 10.000 80.000 + 45.000 5.000 + 150.000 20.000 + 200.000 75.000 Saldo Final = 575.000,00",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) 525.000,00.",
+        "B) 595.000,00.",
+        "C) 575.000,00.",
+        "D) 580.000,00.",
+        "E) 567.500,00."
+      ]
+    },
+    {
+      "id": "cg-03a-006",
+      "banca": "FCC/ARTESP/ Técnico em Contabilidade - Administração/2017",
+      "tipo": "multipla_escolha",
+      "enunciado": "A empresa Contadores do Samba S. A. adquiriu no mês de janeiro mercadorias para revenda e, pagou 50% à vista e o restante em duas parcelas de 25% cada, vencendo a primeira em fevereiro e a segunda em março do referido ano. Em abril, vendeu 50% das mercadorias a prazo (para recebimento em maio e em junho do mesmo ano). Dessa forma, o custo dos produtos vendidos foi reconhecido em",
+      "resposta": "D",
+      "comentario": "Opa, receita por competência na área! Se a venda foi realizada em abril, a receita foi ganha nesse período, ainda que a venda tenha sido a prazo. Por consequência do regime de competência, ao mesmo tempo que reconhecermos a receita de vendas, iremos reconhecer as despesas (Custo do produto vendido é uma despesa). Portanto, o custo dos produtos vendidos foi reconhecido em abril. Obs.: em homenagem ao princípio da competência, a receita é reconhecida quando a mercadoria for entregue. Como a questão não especificou se ela foi entregue ou não, devemos deduzir que ela foi entregue no momento da venda.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) janeiro.",
+        "B) janeiro, fevereiro e março.",
+        "C) abril, maio e junho.",
+        "D) abril.",
+        "E) maio e junho."
+      ]
+    },
+    {
+      "id": "cg-03a-007",
+      "banca": "FCC/ARTESP/Administração/2017",
+      "tipo": "multipla_escolha",
+      "enunciado": "A empresa Verde & Branco antecipou o pagamento de mercadorias a serem entregues, pelo fornecedor Gama, em 5 meses. No momento do pagamento ao seu fornecedor, a empresa",
+      "resposta": "B",
+      "comentario": "Vejam que houve um adiantamento a fornecedor! A mercadoria somente ingressará no estoque em um momento posterior. O que se tem é a entrega do dinheiro para o fornecedor, existindo o direito. Vamos efetuar a contabilização desse fato contábil: D Adiantamento a fornecedores (Ativo Circulante) C Caixa (Ativo Circulante) Portanto, nós creditamos a conta caixa e debitamos a conta de Adiantamento a Fornecedores (Ativo Circulante). O gabarito é a letra b.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) debitou o caixa e creditou passivo circulante.",
+        "B) creditou o caixa e debitou ativo circulante.",
+        "C) creditou o caixa e creditou estoques.",
+        "D) creditou o caixa e debitou passivo não circulante",
+        "E) debitou o caixa e creditou ativo não circulante."
+      ]
+    },
+    {
+      "id": "cg-03a-008",
+      "banca": "FCC/Auditor Fiscal/SEFAZ/MA/2016",
+      "tipo": "multipla_escolha",
+      "enunciado": "A empresa Compro Melhor S.A. negociou com um fornecedor a aquisição de 120.000 unidades de determinada mercadoria que deveriam ser entregues nos 12 meses posteriores. A negociação ocorreu em 31/10/2015 e, tendo em vista a perspectiva de aumento de preços no período, a Compro Melhor S.A. pagou, nesta data, o valor integral de R$ 12.000.000,00 ao fornecedor. Durante o ano de 2015, a empresa requereu, e o fornecedor entregou, 40% do total de unidades contratadas. O valor evidenciado no Balanço Patrimonial de 31/12/2015, correspondente ao direito que a empresa Compro Melhor S.A. detinha sobre o fornecedor foi, em reais:",
+      "resposta": "D",
+      "comentario": "Em 31.10.2015, a empresa Compro melhor S.A efetuou a seguinte contabilização: D- Adiantamento a fornecedores C- BCM R$ 12.000.000 R$ 12.000.000 No momento em que 40% das mercadorias (R$ 4.800.000) foram entregues, o lançamento foi: D - Estoques C - Adiantamento a fornecedores R$ 4.800.000 R$ 4.800.000 Deste modo, o valor evidenciado no Balanço Patrimonial de 31/12/2015, correspondente ao direito que a empresa Compro Melhor S.A. detinha sobre o fornecedor era: 12.000.000 - 4.800.000 = R$ 7.200.000. O gabarito é a letra d. Atenção: Considere as informações, abaixo, para responder a questão. A empresa comercial Nague S.A. realizou as seguintes transações no mês de julho de 2016: 8.000,00, referentes ao mês de junho de 2016. presa, no valor de R$ no valor de R$ 9.000,00 seriam pagos em agosto de 2016. que custaram R$ 30.000,00 por R$ 80.000,00, sendo 60% à vista e 40% para recebimento em setembro de 2016. funciona a loja. ente ao mês de julho de 2016 do imóvel onde de agosto/2016 a julho/2017.",
+      "dificuldade": 3,
+      "opcoes": [
+        "A) 4.800.000,00.",
+        "B) 0,00.",
+        "C) 12.000.000,00.",
+        "D) 7.200.000,00.",
+        "E) 10.000.000,00."
+      ]
+    },
+    {
+      "id": "cg-03a-009",
+      "banca": "FCC/SEFAZ MA/Técnico da Receita Estadual/2016",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com base nessas informações e de acordo com o regime da competência, o resultado operacional de julho de 2016 foi, em reais, de",
+      "resposta": "A",
+      "comentario": "Vamos efetuar a contabilização de cada um dos fatos contábeis apresentados. Compra de mercadorias para revenda no valor de R$ 33.000,00 à vista. Lançamentos: D - Estoque C Bancos 33.000 33.000 Pagamento, por meio de transferência bancária, dos salários dos funcionários da empresa, no valor de R$ 8.000,00, referentes ao mês de junho de 2016. Os salários já foram apropriados como despesas no mês de junho, agora temos apenas o pagamento do passivo Lançamentos: D - Salários a pagar 8.000 C - Bancos 8.000 Utilização da mão de obra dos funcionários da área administrativa e de vendas, cujos salários e encargos no valor de R$ 9.000,00 seriam pagos em agosto de 2016. Lançamentos: D - Despesa com salários 9.000 C - Salários a pagar 9.000 Venda de mercadorias que custaram R$ 30.000,00 por R$ 80.000,00, sendo 60% à vista e 40% para recebimento em setembro de 2016. Pelo reconhecimento da receita: D - Bancos D - Clientes C - Receita de vendas 48.000 32.000 80.000 Pela baixa da mercadoria no estoque: D - CMV C - Estoque 30.000 30.000 Lançamentos: D - Despesas com energia elétrica 500 C - Contas a pagar Pagamento, no valor de R$ 2.000,00, do aluguel referente ao mês de julho de 2016 do imóvel onde funciona a loja. Como o pagamento é do aluguel do mês, vamos reconhecer uma despesa no resultado do mês: D - Despesas com aluguel C - Bancos 2.000 2.000 Pagamento, no valor de R$ 3.000,00, referente ao seguro do imóvel, cuja vigência é referente ao período de agosto/2016 a julho/2017. Lançamentos: D - Prêmio de Seguros a apropriar (Ativo Circulante) C - Bancos 3.000 3.000 Agora vamos encontrar o Resultado Operacional, através da Demonstração do Resultado do Exercício: Destacamos que para a FCC, resultado operacional não inclui o resultado financeiro, como se fosse o grupo Resultado antes Receitas e Despesas financeiras previsto no CPC 26. Obs.: veremos a Demonstração do Resultado do Exercício, com maiores detalhes, em aula mais avançadas. Receita de vendas CMV Lucro Bruto Despesa com salário Despesa com aluguel Despesa com energia elétrica Lucro operacional 80.000 (30.000) 50.000 (9.000) (2.000) (500) 38.500",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) 38.500,00.",
+        "B) 5.500,00.",
+        "C) 5.000,00.",
+        "D) 50.000,00.",
+        "E) 18.000,00."
+      ]
+    },
+    {
+      "id": "cg-03a-010",
+      "banca": "FCC/PGE-MT/Contador/2016",
+      "tipo": "multipla_escolha",
+      "enunciado": "A Cia. GAMA foi constituída, em 31/12/2015, mediante integralização em dinheiro de 70% de seu Capital Social, sendo este, de acordo com o Estatuto Social da Cia., de R$ 100.000,00. Durante o mês de janeiro de 2016, a Cia. realizou as seguintes operações: Data 05/01/16 11/01/16 14/01/16 18/01/16 25/01/16 Operação Compra de Estoque no valor de R$ 50.000,00 para ser pago em 20 dias, sem juros. Adiantamento ao Fornecedor MJC, no valor de R$ 30.000,00, para recebimento futuro de mercadorias. Integralização do restante do Capital Social com Veículos. Recebimento de R$ 40.000,00 do cliente VIP, para entrega futura de mercadorias. Pagamento de Fornecedores, referente às compras efetuadas em 05/01/2016. Data 26/01/16 28/01/16 31/01/16 Operação Venda por R$ 80.000,00 de mercadorias que haviam custado R$ 35.000,00. O valor da venda seria recebido em março de 2016. Entrega, pelo Fornecedor MJC, de mercadorias no valor de R$ 40.000,00. O saldo remanescente a pagar seria pago em março de 2016. Contratação e pagamento de um seguro contra incêndio no valor de R$ 24.000,00, com vigência de 12 meses, a partir de 01/02/2016. O total do Ativo da Cia. Gama, em 31/01/16, após o registro das operações acima era, em reais,",
+      "resposta": "B",
+      "comentario": "Iremos contabilizar cada um dos fatos contábeis apresentados para verificarmos o efeito no Ativo. A questão afirma que a Cia. GAMA foi constituída, em 31/12/2015, mediante integralização em dinheiro de 70% de seu Capital Social. Lançamentos: D Caixa (ativo) C Capital social a integralizar (retificadora PL) C Capital social (patrimônio líquido) 70.000,00 30.000,00 100.000,00 Esse lançamento gerou aumento no Ativo de R$ 70.000,00 05/01/16 Compra de Estoque no valor de R$ 50.000,00 para ser pago em 20 dias, sem juros. Lançamentos: D - Estoque (ativo) C - Fornecedores (Passivo) 50.000 50.000 Esse lançamento gerou aumento no Ativo de R$ 50.000,00 11/01/16 Adiantamento ao Fornecedor MJC, no valor de R$ 30.000,00, para recebimento futuro de mercadorias. Lançamentos: D - Adiantamento a fornecedor MJC (Ativo) C - Caixa (Ativo) 30.000 30.000 Esse lançamento não gerou aumento no Ativo. Destacamos que não podemos confundir a conta Fornecedores, classificada no Passivo, com a conta Adiantamento a fornecedores, classificada no Ativo. 14/01/16 Integralização do restante do Capital Social com Veículos. Lançamentos: D - Veículos (ativo) C - Capital a Integralizar (Passivo) 30.000 30.000 Esse lançamento gerou aumento no Ativo de R$ 30.000,00 18/01/16 Recebimento de R$ 40.000,00 do cliente VIP, para entrega futura de mercadorias. Lançamentos: D Caixa (Ativo) C - Adiantamento de clientes (Passivo) 40.000 40.000 Esse lançamento gerou aumento no Ativo de 40.000. Destacamos que não podemos confundir a conta Clientes, classificada no Ativo, com a conta Adiantamento de clientes, classificada no Ativo. 25/01/16 Pagamento de Fornecedores, referente às compras efetuadas em 05/01/2016. Lançamentos: D Fornecedores (Passivo) C Caixa (Ativo) 50.000 50.000 Esse lançamento gerou diminuição no Ativo de 50.000. 26/01/16 Venda por R$ 80.000,00 de mercadorias que haviam custado R$ 35.000,00. O valor da venda seria recebido em março de 2016. Esse lançamento será feito em duas partes, pois temos dois fatos contábeis: a venda das mercadorias e a baixa do estoque vendido: Lançamentos: D - Clientes (Ativo) C - Receita de vendas (aumento do PL) 80.000 80.000 Esse lançamento gerou aumento no Ativo de 80.000. D CMV (diminuição do PL) C Estoques (ativo) 35.000 35.000 Esse lançamento gerou diminuição no Ativo de 35.000. 28/01/16 Entrega, pelo Fornecedor MJC, de mercadorias no valor de R$ 40.000,00. O saldo remanescente a pagar seria pago em março de 2016. Lançamentos: D - Estoque (Ativo) C - Adiantamento a fornecedor (Ativo) C - Fornecedores (Passivo) 40.000 30.000 10.000 Esse lançamento gerou aumento no Ativo de 10.000. 31/01/16 Contratação e pagamento de um seguro contra incêndio no valor de R$ 24.000,00, com vigência de 12 meses, a partir de 01/02/2016. A empresa pagou despesa de seguro antecipadamente, para o ano corrente. Embora tenha efetuado o pagamento para o ano todo, não há que se reconhecer a despesa quando do pagamento, já que a prestação é mensal. Assim, a despesa de seguro deverá ser reconhecida mensalmente. Lançamentos Pelo pagamento: D Despesas antecipadas Seguros (ativo) C Caixa (ativo) 24.000,00 24.000,00 Esse lançamento não gerou aumento no Ativo. Feitas as contabilizações, o saldo final do Ativo será de: 70.000 + 50.000 + 30.000 + 40.000 - 50.000 + 80.000 + 35.000 + 10.000 = R$ 195.000. O gabarito é letra b. Atenção: Para responder à questão, considere as informações abaixo. O Balanço Patrimonial da empresa Brasil Comércio S.A., em 31/12/2013, é apresentado a seguir: A empresa atua exclusivamente na compra e venda de mercadorias e, durante o ano de 2014, as seguintes operações foram contabilizadas pela Brasil Comércio S.A.: Data 03/07/14 31/07/14 22/08/14 24/09/14 10/10/14 07/11/14 Operação Recebimento de todas as mercadorias correspondentes aos adiantamentos que haviam sido feitos aos fornecedores. Recebimento do saldo de Valores a Receber de Clientes existente no Balanço Patrimonial de 31/12/2013. Compra adicional de mercadorias pelo valor de R$ 15.000,00, tendo efetuado o pagamento à vista. Entrega das mercadorias aos clientes que haviam efetuado adiantamentos para a empresa. Pagamento de todo o saldo da conta Fornecedores. Venda das mercadorias remanescentes no estoque por R$ 200.000,00, tendo recebido 90% do valor total das vendas no próprio ano de 2014. O saldo remanescente será recebido durante o ano 2015. Considere que não há incidência de qualquer tributo nas transações de compras e vendas efetuadas pela empresa e que é adotado o sistema de Inventário Periódico para avaliação do estoque.",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) 230.000,00.",
+        "B) 195.000,00.",
+        "C) 225.000,00.",
+        "D) 171.000,00.",
+        "E) 201.000,00."
+      ]
+    },
+    {
+      "id": "cg-03a-011",
+      "banca": "FCC/DPE RR/Tec.Contabilidade/2015",
+      "tipo": "multipla_escolha",
+      "enunciado": "Após o registro das operações acima, o valor total do ativo da empresa Brasil Comércio S.A., em 31/12/2014, era, em reais,",
+      "resposta": "A",
+      "comentario": "Iremos contabilizar cada um dos fatos contábeis apresentados para verificarmos o efeito no Ativo. 03/07/14 - Recebimento de todas as mercadorias correspondentes aos adiantamentos que haviam sido feitos aos fornecedores. Se analisarmos o balanço patrimonial da empresa, encontraremos a conta adiantamento a fornecedores no ativo com saldo de 25.000,00 Lançamentos: D - Estoque (ativo) C - Adiantamento a fornecedor (Ativo) 25.000 25.000 Esse lançamento não gerou aumento no Ativo. 31/07/14 - Recebimento do saldo de Valores a Receber de Clientes existente no Balanço Patrimonial de 31/12/2013. Lançamentos: D - Bancos (Ativo) C - Clientes (Ativo) 120.000 120.000 Esse lançamento não gerou aumento no Ativo. 22/08/14 - Compra adicional de mercadorias pelo valor de R$ 15.000,00, tendo efetuado o pagamento à vista. Lançamentos: D - Estoque (ativo) C - Bancos (Ativo) 15.000 15.000 Esse lançamento não gerou aumento no Ativo. 24/09/14 - Entrega das mercadorias aos clientes que haviam efetuado adiantamentos para a empresa. Lançamentos: D Adiantamento de clientes (Passivo) C - Estoque (ativo) 70.000 70.000 Esse lançamento gerou diminuição no Ativo de 70.000. Destacamos que não podemos confundir a conta Clientes, classificada no Ativo, com a conta Adiantamento de clientes, classificada no Ativo. 10/10/14 - Pagamento de todo o saldo da conta Fornecedores Lançamentos: D - Fornecedores (Passivo) 60.000 C - Banco (Ativo) 60.000 Esse lançamento gerou diminuição no Ativo de 60.000. 07/11/14 Venda das mercadorias remanescentes no estoque por R$ 200.000,00, tendo recebido 90% do valor total das vendas no próprio ano de 2014. O saldo remanescente será recebido durante o ano 2015. Esse lançamento será feito em duas partes, pois temos dois fatos contábeis: a venda das mercadorias e a baixa do estoque vendido: Lançamentos: D Bancos (Ativo) D - Clientes (Ativo) C - Receita de vendas (aumento do PL) 180.000 20.000 200.000 Esse lançamento gerou aumento no Ativo de 200.000. Agora, a questão fala que o estoque remanescente foi vendido. O saldo inicial dos estoques é de 80.000, depois tivemos a entrada de 25.000, compra adicional de 15.000 e entrega aos clientes de 70.000. CMV = 80.000 + 25.000 +15.000 70.000 = R$ 50.000 D CMV (diminuição do PL) 50.000 C Estoques (ativo) 50.000 Esse lançamento gerou diminuição no Ativo de 50.000. O saldo final do Ativo da empresa, após essas contabilizações é de: 400.000 (saldo inicial) 70.000 60.000 + 200.000 50.000 = R$ 420.000,00. O gabarito é a letra a.",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) 420.000,00.",
+        "B) 405.000,00.",
+        "C) 490.000,00.",
+        "D) 475.000,00.",
+        "E) 540.000,00."
+      ]
+    },
+    {
+      "id": "cg-03a-012",
+      "banca": "FCC/TRT 3/Contabilidade/2015",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em uma empresa comercial, um fato contábil que gera um aumento no saldo do ativo total é",
+      "resposta": "C",
+      "comentario": "Contabilizando cada um dos fatos contábeis, temos: a) o recebimento de clientes por venda realizada a prazo. D Bancos (Ativo Circulante) C Clientes (Ativo Circulante) Esse lançamento não altera o total do ativo. b) a aquisição de mercadorias à vista. D Mercadorias (Ativo Circulante) C Caixa (Ativo Circulante) Esse lançamento também não altera o total do ativo. c) a obtenção de um empréstimo bancário. D Bancos (Ativo Circulante) C Empréstimos (Passivo Circulante) Esse lançamento altera o total do ativo. É o nosso gabarito. d) a constituição de reserva legal. D Lucros Acumulados (Patrimônio Líquido) C Reserva Legal (Patrimônio Líquido) Esse lançamento também não altera o total do ativo. e) o pagamento de dividendos. D Dividendos a pagar (Passivo Circulante) C Caixa (Ativo Circulante) O gabarito é a letra c.",
+      "dificuldade": 3,
+      "opcoes": [
+        "A) o recebimento de clientes por venda realizada a prazo.",
+        "B) a aquisição de mercadorias à vista.",
+        "C) a obtenção de um empréstimo bancário.",
+        "D) a constituição de reserva legal.",
+        "E) o pagamento de dividendos."
+      ]
+    },
+    {
+      "id": "cg-03a-013",
+      "banca": "FCC/TRF 3ª Região/Técnico Judiciário - Contabilidade/2014",
+      "tipo": "multipla_escolha",
+      "enunciado": "A empresa Conceitual contratou e pagou, em 31/07/2013, um seguro contra incêndio no valor de R$ 48.000,00. Esse seguro tem vigência de 01/08/2013 a 31/07/2014. Ao elaborar suas demonstrações contábeis, em 30/09/2013, a empresa Conceitual apresentou",
+      "resposta": "B",
+      "comentario": "No momento da contratação, em 31.07.2013, lançaremos: D - Despesas antecipadas de seguros (Ativo) R$ 48.000,00 C - Bancos conta movimento (Ativo) R$ 48.000,00 O valor mensal do seguro é de R$ 48.000,00/12 = R$ 4.000,00. Obs.: o intervalo 01/08/2013 a 31/07/2014 representa 12 meses. Conforme o transcurso dos meses, lançaremos, mês a mês, de acordo com o regime de competência: D - Despesa de seguro (resultado) C - Despesa antecipada de seguro R$ 4.000,00 R$ 4.000,00 Portanto, em 30.09.2013, já teremos transcorrido dois meses. Nossa despesa antecipada de seguro estará reduzida de R$ 8.000,00 (R$ 4.000,00 x 2 meses). Assim, se tínhamos R$ 48.000 registrado no ativo, teremos agora R$ 40.000,00. Diante do exposto, podemos afirmar que despesas acumuladas com seguros no valor de R$ 8.000,00, na DRE. O gabarito é letra b. Obs.: a banca sempre tentará confundir com sinônimos. Nesse caso, temos que despesas acumuladas com seguros = despesas de seguros. Elas são contas de resultado.",
+      "dificuldade": 3,
+      "opcoes": [
+        "A) despesas acumuladas com seguros no valor de R$ 48.000,00, na DRE.",
+        "B) despesas acumuladas com seguros no valor de R$ 8.000,00, na DRE.",
+        "C) despesas acumuladas com seguros no valor de R$ 12.000,00, na DRE.",
+        "D) seguros pagos antecipadamente de R$ 48.000,00, no Balanço Patrimonial.",
+        "E) seguros pagos antecipadamente de R$ 44.000,00, no Balanço Patrimonial."
+      ]
+    },
+    {
+      "id": "cg-03a-014",
+      "banca": "FCC/METRO SP/Analista Desenvolvimento Gestão Júnior - Economia/2014",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um lote de estoque foi adquirido em março para ser pago em 12 parcelas mensais e iguais a partir do mês de abril. Este estoque foi vendido no mês de junho e o valor da venda somente será recebido em outubro. O valor do estoque vendido deverá ser reconhecido como custo dos produtos vendidos, na Demonstração de Resultados, em",
+      "resposta": "D",
+      "comentario": "Mais um caso de aplicação do regime de competência. Como a venda foi realizada em junho, reconheceremos a receita nesse mês e ao mesmo tempo iremos reconhecer as despesas (Custo do produto vendido é uma despesa). Assim, o custo dos produtos vendidos foi reconhecido em junho. O gabarito é letra d.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) março.",
+        "B) 12 parcelas iguais nos 12 meses em que ocorrerem os pagamentos da compra.",
+        "C) março e outubro.",
+        "D) junho.",
+        "E) outubro."
+      ]
+    },
+    {
+      "id": "cg-03a-015",
+      "banca": "FCC/TRF 4ª Região/Técnico Judiciário - Contabilidade/2014",
+      "tipo": "multipla_escolha",
+      "enunciado": "A Cia. Italiana recebeu R$ 180.000,00 por mercadorias a serem entregues em 3 meses, e estima que o custo dessas mercadorias será de R$ 70.000,00, pois ainda precisam ser produzidas. No momento do recebimento do respectivo valor, a Cia. Italiana",
+      "resposta": "C",
+      "comentario": "Em homenagem ao princípio da competência, a receita é reconhecida quando a mercadoria for entregue. Como as mercadorias serão entregues em 3 meses aos clientes, a Cia. Italiana deverá registrar uma obrigação, ou seja, um passivo. O gabarito é letra c.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) reconheceu receita.",
+        "B) apurou um lucro estimado.",
+        "C) reconheceu um passivo.",
+        "D) reduziu estoque.",
+        "E) reconheceu um adiantamento a fornecedor."
+      ]
+    },
+    {
+      "id": "cg-03a-016",
+      "banca": "FCC/SEFAZ SP/Agente Fiscal de Rendas - Gestão Tributária/2013",
+      "tipo": "multipla_escolha",
+      "enunciado": "Determinada empresa adquiriu estoque de mercadorias em outubro de 2011, tendo pago 40% em novembro e o restante em dezembro de 2011. A venda deste estoque foi realizada em janeiro de 2012, cujo valor foi recebido 60% em março e 40% em abril de 2012. Com base nestas informações, o custo das mercadorias vendidas deveria ter sido reconhecido na Demonstração do Resultado do mês de",
+      "resposta": "D",
+      "comentario": "Nesse tipo de questão, devemos fazer a seguinte pergunta: Quando foi entregue? O enunciado informou que a venda deste estoque foi realizada em JANEIRO de 2012. Consequentemente, com base no regime de competência, o custo das mercadorias vendidas deveria ter sido reconhecido na Demonstração do Resultado do mês de janeiro. O gabarito é letra d. Obs.: em homenagem ao princípio da competência, a receita é reconhecida quando a mercadoria for entregue. Como a questão não especificou se ela foi entregue ou não, devemos deduzir que ela foi entregue no momento da venda.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) outubro.",
+        "B) novembro.",
+        "C) dezembro.",
+        "D) janeiro.",
+        "E) março (60%) e do mês de abril (40%)."
+      ]
+    },
+    {
+      "id": "cg-03a-017",
+      "banca": "FCC/Técnico em contabilidade/FHEMIG/2013",
+      "tipo": "multipla_escolha",
+      "enunciado": "O registro da aquisição de estoques de mercadorias no valor de R$ 50.000,00, sendo 60% vencíveis no prazo de 90 dias e 40% à vista, compreende um lançamento contábil que",
+      "resposta": "D",
+      "comentario": "O registro de estoque de mercadorias por R$ 50.000,00, sendo 60% são vencíveis no prazo de 90 dias e 40% à vista, é feito do seguindo modo: Débito Mercadorias (ativo circulante) Crédito Caixa (ativo circulante) Crédito Fornecedores (passivo circulante) 50.000,00 20.000,00 30.000,00 Nota-se, pois que o ativo aumentará em R$ 30.000,00 (50 20), enquanto o passivo também terá um aumento nesta quantia. O gabarito é a letra d.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) altera para mais o patrimônio líquido.",
+        "B) diminui os ativos circulante e não circulante.",
+        "C) apenas permuta valores entre ativos circulante e não circulante.",
+        "D) aumenta o ativo circulante e o passivo circulante.",
+        "E) modifica o patrimônio líquido e diminui o ativo circulante."
+      ]
+    },
+    {
+      "id": "cg-03a-018",
+      "banca": "FCC/TRF 2ª Região/Analista Judiciário - Contadoria/2012",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma empresa contratou, em 1o de outubro de 2011, uma apólice de seguro contra incêndio de seus imóveis, com cobertura para o período de 1o de outubro de 2011 a 30 de setembro de 2013, em três pagamentos iguais e sucessivos de R$ 50.000,00. O valor lançado como despesa de seguros no exercício de 2011, em R$, foi igual a",
+      "resposta": "B",
+      "comentario": "No momento da contratação, em 1.10.2011, lançaremos: D - Despesas antecipadas de seguros (Ativo) R$ 150.000,00 C- Seguros a pagar (Passivo) R$ 150.000,00 O valor mensal do seguro é de R$ 150.000,00/24 = R$ 6.250,00. Obs.: o intervalo 01/10/2011 a 30/09/2013 representa 24 meses Conforme o transcurso dos meses, lançaremos, mês a mês, de acordo com o regime de competência: D - Despesa de seguro (resultado) R$ 6.250,00 C - Despesa antecipada de seguro (Ativo) R$ 6.250,00 Portanto, em 31.12.2013, já teremos transcorrido três meses. Nossa despesa de seguros no exercício de 2011, em R$, foi igual de R$ 18.750,00 (R$ 6.250,00 x 3 meses). O gabarito é letra b.",
+      "dificuldade": 3,
+      "opcoes": [
+        "A) 37.500,00.",
+        "B) 18.750,00.",
+        "C) 75.000,00.",
+        "D) 56.250,00.",
+        "E) 0,00"
+      ]
+    },
+    {
+      "id": "cg-03a-019",
+      "banca": "FCC/MPE RN/Analista Contabilidade/2012",
+      "tipo": "multipla_escolha",
+      "enunciado": "De acordo com a legislação societária o registro das mutações patrimoniais deve ser feito de acordo com",
+      "resposta": "E",
+      "comentario": "Vimos que o regime de competência deve ser adotado pelas entidades como regra. Inclusive, há previsão expressa na Lei 6404/76: Art. 177. A escrituração da companhia será mantida em registros permanentes, com obediência aos preceitos da legislação comercial e desta Lei e aos princípios de contabilidade geralmente aceitos, devendo observar métodos ou critérios contábeis uniformes no tempo e REGISTRAR AS MUTAÇÕES PATRIMONIAIS SEGUNDO O REGIME DE COMPETÊNCIA. Obs.: podemos considerar como mutações patrimoniais, as receitas e despesas da entidade.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) o custo de oportunidade.",
+        "B) regime de caixa.",
+        "C) custo de aquisição.",
+        "D) valor justo.",
+        "E) regime de competência."
+      ]
+    },
+    {
+      "id": "cg-03a-020",
+      "banca": "FCC/Nossa Caixa/2011",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em uma sociedade por ações, no final do exercício, o lançamento que representa o reconhecimento do passivo referente ao dividendo obrigatório mínimo é:",
+      "resposta": "D",
+      "comentario": "Os dividendos mínimos obrigatórios representam a parcela dos lucros da sociedade que é devida aos sócios. Por exemplo, se a sociedade X auferiu um lucro de R$ 10.000,00 no exercício de 2011 e tem dividendos a pagar de 50% sobre esse valor, deverá fazer o seguinte lançamento para destinação deste dividendo: D Lucros acumulados (conta provisória, de onda é destinado o lucro) 5.000 C Dividendos a pagar 5.000. Conforme a Lei 6404/76, os acionistas têm direito de receber como dividendo obrigatório, em cada exercício, a parcela dos lucros estabelecida no estatuto. O gabarito da nossa questão, portanto, é letra d.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) D Dividendos a Pagar C Lucros Acumulados",
+        "B) D Despesa com Dividendos",
+        "C) Dividendos a Pagar",
+        "D) D Lucros Acumulados C Dividendos a Pagar",
+        "E) D Lucros Acumulados C Reserva de Lucros"
+      ]
+    },
+    {
+      "id": "cg-03a-021",
+      "banca": "FCC/NOSSA CAIXA/Contabilidade/2011",
+      "tipo": "multipla_escolha",
+      "enunciado": "Considere o lançamento abaixo, extraído da escrituração contábil da Cia. Alvorecer: D Disponível 1.200,00 C Duplicatas a Receber 1.080,00 C Receita Financeira 150,00 Esse lançamento está",
+      "resposta": "C",
+      "comentario": "Pessoal, aqui vale uma nota interessante. Neste caso, o cliente está quitando uma dívida acrescida de encargos financeiros, como por exemplo, juros por atrasos. O valor da dívida a receber era de 1080, porém, os encargos deveriam ser de 120. O lançamento está incorreto, pois o Método das Partidas Dobradas não está sendo obedecido, pois a soma dos débitos, R$ 1200, não é igual à dos créditos, R$ 1130,00.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) correto e relaciona-se a uma compra a prazo efetuada pela companhia.",
+        "B) correto e refere-se ao recebimento de uma duplicata paga no vencimento.",
+        "C) Duplicatas a Receber 1.080,00",
+        "D) correto e refere-se ao recebimento de uma duplicata paga após o vencimento.",
+        "E) incorreto, pois implica uma diminuição do patrimônio líquido da companhia."
+      ]
+    },
+    {
+      "id": "cg-03a-022",
+      "banca": "FCC/SERGAS/Economista/2010",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma companhia vendeu mercadorias à vista por R$ 500.000,00, cujo custo da aquisição, feita a prazo, foi R$ 386.000,00. A companhia, na ocasião da venda, não tinha quitado ainda a dívida com seu fornecedor. O registro contábil da operação de venda provocará",
+      "resposta": "C",
+      "comentario": "Lançamentos: D - Clientes (Ativo) C - Receita de vendas (aumento do PL) 500.000 500.000 D CMV (diminuição do PL) C Estoques (ativo) 386.000 386.000 Esses fatos contábeis geraram as seguintes alterações: Ativo = 500.000 386.000 = aumento no Ativo de 114.000 Patrimônio Líquido = 500.000 386.000 = aumento no Ativo de 114.000",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) um aumento do Patrimônio Líquido de R$ 114.000,00 e nenhuma mudança no valor do Ativo.",
+        "B) uma diminuição no Passivo no valor de R$ 386.000,00 e nenhuma mudança no valor do Patrimônio Líquido.",
+        "C) um aumento no Ativo e no Patrimônio Líquido de R$ 114.000,00.",
+        "D) um aumento no Ativo de R$ 114.000,00 e uma diminuição no Passivo de R$ 386.000,00.",
+        "E) um aumento no Ativo de R$ 500.000,00 e nenhuma mudança no valor do Passivo."
+      ]
+    },
+    {
+      "id": "cg-03a-023",
+      "banca": "FCC/Técnico/TRF 4ª/2010",
+      "tipo": "multipla_escolha",
+      "enunciado": "O registro do recebimento de duplicatas com juros de mora em função do atraso do devedor no pagamento",
+      "resposta": "D",
+      "comentario": "Imagine o recebimento de duplicata no valor de R$ 1.000,00, com juros (por fora) de R$ 100,00. Como fazer o lançamento? D Caixa (Ativo) C Duplicatas a receber (Ativo) C Receita de juros (Resultado) 1.100,00 1.000,00 100,00 Com isso: O ativo aumentou R$ 100,00 (1.100 1.000). O PL aumentou R$ 100,00, em decorrência dos juros. O gabarito é letra d. Obs.: sabe-se que o recebimento/pagamento de duplicatas/clientes com juros/desconto é sempre um fato misto.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) aumenta o Ativo e diminui o Passivo num montante igual.",
+        "B) não altera o Patrimônio Líquido da entidade.",
+        "C) diminui o Passivo num montante maior que o aumento do Ativo.",
+        "D) aumenta o Patrimônio Líquido da entidade.",
+        "E) é um fato contábil permutativo."
+      ]
+    },
+    {
+      "id": "cg-03a-024",
+      "banca": "FCC/DPE SP/Contador/2010",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na apuração de resultado utilizando o regime de caixa",
+      "resposta": "D",
+      "comentario": "Fique Atento! A questão afirmou que teremos por base o regime de caixa. a) são computados todos os tipos de receitas do período e as receitas antecipadas. Errado, nesse regime só computamos as receitas recebidas. b) as despesas antecipadas são atribuídas ao resultado de acordo com o período de vigência do contrato que lhes deu origem. Errado, elas serão atribuídas ao resultado no momento do pagamento. c) são reconhecidas no resultado as depreciações e as receitas a vista. Errado, depreciação diminui o caixa? Não! Ela é utilizada para registrar o desgaste pela ação do tempo, pelo uso, pela obsolescência. Logo, não será reconhecida nesse regime. d) não são reconhecidas as despesas provisionadas e o resultado de equivalência patrimonial. Correto, ambos não afetam o caixa. Obs.: veremos as provisões e o resultado de equivalência patrimonial, com maiores detalhes, em aulas mais avançadas. e) será atribuído ao resultado do exercício as despesas efetivamente incorridas no período. Errado, somente as despesas efetivamente pagas que serão atribuídas ao resultado do exercício O gabarito é letra d.",
+      "dificuldade": 3,
+      "opcoes": [
+        "A) são computados todos os tipos de receitas do período e as receitas antecipadas.",
+        "B) as despesas antecipadas são atribuídas ao resultado de acordo com o período de vigência do contrato que lhes deu origem.",
+        "C) são reconhecidas no resultado as depreciações e as receitas a vista.",
+        "D) não são reconhecidas as despesas provisionadas e o resultado de equivalência patrimonial.",
+        "E) será atribuído ao resultado do exercício as despesas efetivamente incorridas no período."
+      ]
+    },
+    {
+      "id": "cg-03a-025",
+      "banca": "FCC/TRT 22ª Região/Analista Judiciário Administrativa/2010.Adaptada",
+      "tipo": "multipla_escolha",
+      "enunciado": "Pelo regime de competência,",
+      "resposta": "D",
+      "comentario": "a) as receitas e as despesas não são atribuídas aos exercícios de acordo com a real incorrência. b) a receita é reconhecida no período em que é arrecadada e a despesa paga nesse mesmo período. c) as receitas e as despesas são atribuídas ao exercício de acordo com o recebimento ou pagamento em dinheiro. Erradas, já que são características do regime de caixa. d) as receitas e as despesas são atribuídas aos exercícios, de acordo com a data do fato gerador. Correto, essa alternativa trouxe características do regime de competência.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) as receitas e as despesas não são atribuídas aos exercícios de acordo com a real incorrência.",
+        "B) a receita é reconhecida no período em que é arrecadada e a despesa paga nesse mesmo período.",
+        "C) as receitas e as despesas são atribuídas ao exercício de acordo com o recebimento ou pagamento em dinheiro.",
+        "D) as receitas e as despesas são atribuídas aos exercícios, de acordo com a data do fato gerador."
+      ]
+    },
+    {
+      "id": "cg-03a-026",
+      "banca": "FCC/DPE-SP/Contador/2010",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma empresa efetua a quitação antecipada, de uma fatura relativa ao fornecimento de suprimentos, no valor de R$ 20.000,00 obtendo um desconto de 10%. No registro dessa operação a empresa",
+      "resposta": "E",
+      "comentario": "Atenção! Não podemos confundir o desconto condicional com o incondicional. Senão vejamos. O desconto condicional é aquele que depende de determinada condição a ser cumprida pelo cliente, como, por exemplo, a quitação antecipada de título de crédito, recebendo um desconto de 10%. Neste caso, a condição para que se aufira o bônus é que o cliente antecipe o pagamento. Não o fazendo, não receberá. Já o desconto incondicional, por seu turno, é aquele concedido no momento da compra, independentemente de condição. Este não aparece como despesa financeira, mas, sim, como dedução da receita bruta de vendas, logo no início da demonstração do resultado do exercício. quantia e necessitaremos entregar menos ao fornecedor, o lançamento é feito do seguinte modo: D Fornecedores (passivo) C Caixa (ativo) C Descontos obtidos (resultado) 20.000,00 18.000,00 2.000,00",
+      "dificuldade": 3,
+      "opcoes": [
+        "A) registra um débito em conta de ativo no valor de R$ 20.000.",
+        "B) contabiliza um débito de R$ 18.000 em conta do passivo.",
+        "C) lança o valor do desconto como despesas comerciais.",
+        "D) efetua um crédito de R$ 20.000 em conta de passivo.",
+        "E) reconhece uma receita pelo valor do desconto obtido."
+      ]
+    },
+    {
+      "id": "cg-03a-027",
+      "banca": "FCC/TRF 4/Contabilidade/2010",
+      "tipo": "multipla_escolha",
+      "enunciado": "O registro do recebimento de duplicatas com juros de mora em função do atraso do devedor no pagamento",
+      "resposta": "D",
+      "comentario": "O registro do recebimento de duplicatas com juros de mora em função do atraso do devedor no pagamento é considerado um fato contábil misto, pois envolve ao mesmo tempo um fato modificativo e um fato misto. Vamos supor que o valor das duplicatas era de R$ 2.000, mas incidiram juros de 10%, portanto, o cliente pagou o total de R$ 2.200,00. Lançamentos: D Bancos (Ativo) C Juros Ativos (receita) C Duplicatas a receber (ativo) R$ 2.200,00 R$ 200,00 R$ 2.000,00 Vamos analisar as alternativas: a) aumenta o Ativo e diminui o Passivo num montante igual. Errado, esse fato não gera efeitos no Passivo. b) não altera o Patrimônio Líquido da entidade. Errado, a empresa reconheceu os juros ativos no resultado, aumentando seu Patrimônio Líquido. c) diminui o Passivo num montante maior que o aumento do Ativo. Errado, esse fato não gera efeitos no Passivo. d) aumenta o Patrimônio Líquido da entidade. Correto, as receitas financeiras ou juros ativos aumentam o Patrimônio Líquido. e) é um fato contábil permutativo. Errado, esse fato contábil é classificado como fato misto.",
+      "dificuldade": 3,
+      "opcoes": [
+        "A) aumenta o Ativo e diminui o Passivo num montante igual.",
+        "B) não altera o Patrimônio Líquido da entidade.",
+        "C) diminui o Passivo num montante maior que o aumento do Ativo.",
+        "D) aumenta o Patrimônio Líquido da entidade.",
+        "E) é um fato contábil permutativo."
+      ]
+    },
+    {
+      "id": "cg-03a-028",
+      "banca": "FCC/DP/SP/2009",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma empresa efetua a quitação antecipada, de uma fatura relativa ao fornecimento de suprimentos, no valor de R$ 20.000,00 obtendo um desconto de 10%. No registro dessa operação a empresa",
+      "resposta": "E",
+      "comentario": "A contabilização do pagamento deve ser registrada da seguinte forma: D Fornecedores (Passivo Circulante) C Receita Financeira (Descontos obtidos) C Caixa ou Bancos (Ativo Circulante) 20.000 2.000 18.000 Análise das alternativas: A) Alternativa Incorreta. Há um crédito em conta de ativo, no valor de 18.000 B) Alternativa Incorreta. O valor do débito em conta de passivo é de 20.000 C) Alternativa Incorreta. O valor do desconto obtido é lançado como Receita Financeira. D) Alternativa Incorreta. A conta de Passivo é debitada em 20.000, e não creditada. E) Alternativa Correta. Os descontos financeiros obtidos são contabilizados como Receita Financeira.",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) registra um débito em conta de ativo no valor de R$ 20.000.",
+        "B) contabiliza um débito de R$ 18.000 em conta do passivo.",
+        "C) lança o valor do desconto como despesas comerciais.",
+        "D) efetua um crédito de R$ 20.000 em conta de passivo.",
+        "E) reconhece uma receita pelo valor do desconto obtido."
+      ]
+    },
+    {
+      "id": "cg-03a-029",
+      "banca": "FCC/DP/SP/2009",
+      "tipo": "multipla_escolha",
+      "enunciado": "O registro da venda à vista de um estoque provoca",
+      "resposta": "E",
+      "comentario": "Exemplo: Venda à vista de um estoque registrado por R$ 1.000,00 ao preço de R$ 1.500,00 Pela venda do estoque, lançamos: D Caixa C Receita de vendas 1.500 1.500 Pela baixa da mercadoria, lançamos: D Custo da mercadoria vendida 1.000 C Estoque 1.000 Analisemos as assertivas. (A) um aumento do passivo circulante. Incorreto. A venda à vista não tem efeitos sobre o passivo circulante. (B) a diminuição do patrimônio líquido. Incorreto. O PL é aumentado com a apuração do lucro na venda e a consequente transferência do resultado para o balanço. (C) um crédito em conta de ativo. Incorreto. Esta questão contém uma pegadinha. Vejam que ele está pedindo que trabalhemos com o registro da venda. Não falou a questão sobre a baixa do estoque. Devemos levar em consideração tão somente o lançamento: D Caixa C Receita de vendas 1.500 1.500 Assim, não há, neste lançamento, crédito em conta de ativo. Se levássemos ambos os lançamentos em consideração, aí sim teríamos crédito em conta do ativo. (D) uma diminuição de um passivo circulante. Incorreto. Não há alteração do passivo neste registro. (E) alteração na situação líquida da empresa. Correto. O resultado do exercício aumenta com a venda de mercadorias acima do preço de custo. Este resultado, como sabido, é transferido para o capital próprio. Assim, o registro de uma venda à vista altera sim a situação líquida da empresa. Repare que, nessa questão, a FCC também não considerou a baixa do estoque e a contabilização do Custo da Mercadoria Vendida.",
+      "dificuldade": 4,
+      "opcoes": [
+        "A) um aumento do passivo circulante.",
+        "B) a diminuição do patrimônio líquido.",
+        "C) um crédito em conta de ativo.",
+        "D) uma diminuição de um passivo circulante.",
+        "E) alteração na situação líquida da empresa."
+      ]
+    },
+    {
+      "id": "cg-03a-030",
+      "banca": "FCC/TRE-PB/Contabilidade/2007",
+      "tipo": "multipla_escolha",
+      "enunciado": "Ao quitar um título no valor de R$ 10.000, com um atraso de trinta dias, a Cia. Samambaia incorreu em multa de 10% do valor total da dívida. Nesse caso, o registro dessa operação envolverá um lançamento de",
+      "resposta": "E",
+      "comentario": "Valor do Título = 10.000 Multa = 10.000 x 0,10 = 1.000 Valor Total Pago = 11.000 Contabilização: D Títulos a pagar D Despesas com multas C Caixa 10.000 1.000 11.000",
+      "dificuldade": 2,
+      "opcoes": [
+        "A) débito da conta Caixa no valor total de R$ 1.000.",
+        "B) crédito na conta Títulos a Pagar no valor de R$ 10.000.",
+        "C) débito na conta Títulos a Pagar no valor de R$ 9.000.",
+        "D) crédito na conta Bancos c/movimento no total de R$ 9.000.",
+        "E) débito em conta de despesa no valor de R$ 1.000."
+      ]
+    }
+  ]
+}
