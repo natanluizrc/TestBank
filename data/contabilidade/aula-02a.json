@@ -67,7 +67,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "Foi registrada erroneamente a compra à vista de uma máquina no valor de R$ 30.000,00, sendo o valor correto dessa máquina de R$ 40.000,00.",
       "resposta": "B",
-      "comentario": "Lançamento de complementação:",
+      "comentario": "Quando um lançamento é registrado a menor, o método correto de retificação é a complementação: faz-se um novo lançamento apenas pela diferença faltante, sem cancelar o registro original. Aqui, a máquina foi registrada por R$ 30.000 mas vale R$ 40.000; basta lançar a diferença de R$ 10.000 — D Máquinas / C Caixa — para completar o valor correto.",
       "dificuldade": 2,
       "opcoes": [
         "A) Máquina C Caixa ......... 30.000 Nesse caso e conforme as normas de contabilidade, deverá o profissional contábil realizar A o estorno",
@@ -180,7 +180,7 @@
       "tipo": "certo_errado",
       "enunciado": "Entre os vários componentes de um plano de contas completo, um dos mais conhecidos é o elenco de contas, composto pela disposição organizada das contas de uso da instituição, com seus códigos, em geral, numéricos, e o literal que qualifica tal conta.",
       "resposta": "certo",
-      "comentario": "",
+      "comentario": "Correto. O elenco de contas é o componente central do plano de contas: lista todas as contas utilizadas pela entidade de forma organizada, com códigos numéricos padronizados e os respectivos literais. Ele garante uniformidade na escrituração e facilita a localização e identificação de cada conta no sistema contábil.",
       "dificuldade": 2
     },
     {
@@ -264,7 +264,7 @@
       "tipo": "certo_errado",
       "enunciado": "Entre os vários componentes de um plano de contas completo, um dos mais conhecidos é o elenco de contas, composto pela disposição organizada das contas de uso da instituição, com seus códigos, em geral, numéricos, e o literal que qualifica tal conta.",
       "resposta": "certo",
-      "comentario": "",
+      "comentario": "Correto. O plano de contas de uma entidade é composto por diversos elementos; entre eles, o elenco de contas é o mais reconhecido. Ele apresenta de forma organizada todas as contas disponíveis para escrituração, identificadas por códigos em geral numéricos e pelos literais que nomeiam cada conta, garantindo padronização e clareza nos registros.",
       "dificuldade": 2
     },
     {
@@ -317,7 +317,7 @@
       "tipo": "certo_errado",
       "enunciado": "A aquisição de mercadorias a prazo é um exemplo de fato administrativo modificativo.",
       "resposta": "errado",
-      "comentario": "",
+      "comentario": "Errado. A aquisição de mercadorias a prazo é um fato permutativo: D — Estoque (ativo +) e C — Fornecedores (passivo +). Ativo e passivo aumentam em igual valor, sem nenhum efeito no PL. Fato modificativo é aquele que altera o PL por meio de receita (aumentativo) ou despesa (diminutivo).",
       "dificuldade": 2
     },
     {
@@ -696,7 +696,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "A compra à vista de computadores gera um lançamento contábil:",
       "resposta": "A",
-      "comentario": "",
+      "comentario": "A compra à vista de computadores envolve somente contas do ativo: D — Computadores (ativo +) e C — Caixa ou Banco (ativo −). Como as duas contas pertencem ao mesmo grupo patrimonial, o lançamento segue a 1ª fórmula — permuta interna no ativo, sem qualquer envolvimento de passivo ou resultado.",
       "dificuldade": 2,
       "opcoes": [
         "A) de primeira fórmula, em contas do ativo",
@@ -847,7 +847,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "O lançamento contábil referente ao pagamento de duplicata com desconto de 10% representa um fato:",
       "resposta": "E",
-      "comentario": "",
+      "comentario": "No pagamento de duplicata com desconto obtido de 10%: D — Fornecedores (passivo −, valor cheio) e C — Caixa (ativo −, valor menor) e C — Descontos Obtidos (receita, PL +). O passivo cai pelo valor integral; o caixa sai menos; a diferença é receita financeira. PL sobe e o ativo cai menos que o passivo — fato misto aumentativo.",
       "dificuldade": 2,
       "opcoes": [
         "A) permutativo",
@@ -978,7 +978,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "O recebimento antecipado de uma duplicata, com desconto de 5% concedido ao cliente, representa um fato contábil:",
       "resposta": "E",
-      "comentario": "",
+      "comentario": "No recebimento antecipado com desconto concedido ao cliente: D — Caixa (ativo +, valor menor) e D — Descontos Concedidos (despesa, PL −) e C — Duplicatas a Receber (ativo −, valor cheio). O ativo total diminui — sai o valor cheio e entra apenas o líquido — e o PL também cai pela despesa com desconto. Resultado: fato misto diminutivo.",
       "dificuldade": 2,
       "opcoes": [
         "A) Modificativo Aumentativo",
@@ -994,7 +994,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "NÃO provoca alteração no valor do Patrimônio Líquido, mas pode modificar a composição dos demais elementos patrimoniais o seguinte fato contábil:",
       "resposta": "A",
-      "comentario": "",
+      "comentario": "O fato permutativo reorganiza a composição dos elementos patrimoniais sem afetar o Patrimônio Líquido: um elemento aumenta enquanto outro diminui em igual valor, sem gerar receita ou despesa. É o oposto do fato modificativo, que necessariamente produz efeito no PL por meio de contas de resultado.",
       "dificuldade": 2,
       "opcoes": [
         "A) permutativo",
@@ -1476,7 +1476,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "A classe das variações patrimoniais que somente modifica a natureza dos componentes patrimoniais sem repercutirem no montante do Patrimônio Líquido são denominadas",
       "resposta": "D",
-      "comentario": "Outras Bancas",
+      "comentario": "As variações que modificam apenas a composição dos elementos patrimoniais sem alterar o total do PL são chamadas de qualitativas ou permutativas. São os fatos em que um elemento aumenta enquanto outro decresce pelo mesmo valor — como a compra a prazo (ativo + / passivo +) ou o recebimento de cliente (caixa + / clientes −) — sem gerar receita ou despesa.",
       "dificuldade": 2,
       "opcoes": [
         "A) modificativas ou qualitativas.",
@@ -1515,7 +1515,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "O pagamento de uma dívida caracteriza-se como um fato contábil",
       "resposta": "C",
-      "comentario": "",
+      "comentario": "O pagamento de uma dívida gera: D — Fornecedores (passivo −) e C — Caixa (ativo −). Ativo e passivo diminuem em igual valor; o PL não se altera. Sem modificação do patrimônio líquido, o fato é classificado como permutativo — há troca de elementos entre grupos patrimoniais distintos, mas o total do PL permanece intacto.",
       "dificuldade": 2,
       "opcoes": [
         "A) aumentativo.",
@@ -1553,7 +1553,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "Em uma empresa comercial, um fato contábil que gera um aumento no saldo do ativo total é",
       "resposta": "C",
-      "comentario": "",
+      "comentario": "A obtenção de empréstimo bancário gera D — Caixa (ativo +) e C — Empréstimos a Pagar (passivo +), aumentando o total do ativo. Os demais eventos são permutas no ativo sem variar o total (A: caixa + / clientes −; B: estoque + / caixa −), reclassificação dentro do PL sem afetar o ativo (D), ou redução do ativo por saída de caixa (E).",
       "dificuldade": 2,
       "opcoes": [
         "A) o recebimento de clientes por venda realizada a prazo.",
@@ -1666,7 +1666,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "Os sistemas de contabilidade registram fatos que podem afetar o patrimônio das entidades quantitativa ou qualitativamente. Quando do registro de um fato contábil modificativo, uma das contrapartidas será necessariamente uma conta:",
       "resposta": "C",
-      "comentario": "",
+      "comentario": "Um fato modificativo altera o Patrimônio Líquido, o que só ocorre por meio de contas de resultado: receita (PL +) ou despesa (PL −). Por isso, em todo lançamento classificado como modificativo, pelo menos uma das contrapartidas é necessariamente uma conta de receita ou de despesa. Contas exclusivamente patrimoniais não movimentam o PL diretamente.",
       "dificuldade": 2,
       "opcoes": [
         "A) de receita ou de passivo;",
@@ -1800,7 +1800,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "A Fit Alimentos Saudáveis adquiriu em 30/06/14, da Farinhas & Farinhas, 5 kg de Farinha de arroz, 4 kg de farinha de amêndoas e 3 kg de polvilho doce, sendo que cada um dos itens custaram R$35, R$480 e R$20, respectivamente. A data de vencimento da compra realizada pela Fit Alimentos era 30/07/14. No dia 02/08/14 o Contas a Pagar informou que não havia sido feito o pagamento a Farinha & farinhas, e que o mesmo estaria sujeito a multa de 10%. O Gerente Financeiro da Fit Alimentos solicitou que fosse realizado o pagamento no dia seguinte. As operações realizadas nos dias 30/06 e 03/08 configuram, respectivamente, os fatos contábeis:",
       "resposta": "B",
-      "comentario": "",
+      "comentario": "30/06 — Compra a prazo: D Estoque / C Fornecedores. Ativo e passivo crescem em igual valor; PL inalterado — Permutativo. 03/08 — Pagamento em atraso com multa de 10%: D Fornecedores (valor original) + D Juros e Multas (despesa) / C Caixa (valor total com multa). O PL diminui pelo encargo e o caixa sai a mais do que o passivo baixado — Misto Diminutivo.",
       "dificuldade": 2,
       "opcoes": [
         "A) Permutativo e Modificativo Diminutivo;",
@@ -1838,7 +1838,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "A principal característica do método das partidas dobradas é que A para um lançamento de débito deve ter um lançamento de crédito.",
       "resposta": "C",
-      "comentario": "",
+      "comentario": "No método das partidas dobradas, cada crédito (fonte de recursos) tem um débito correspondente de igual valor (destinação). No balanço como um todo, os créditos acumulados correspondem ao passivo exigível somado ao patrimônio líquido — o passivo em sentido amplo —, evidenciando que as fontes de recursos financiam integralmente o ativo. Essa igualdade expressa a equação fundamental da contabilidade.",
       "dificuldade": 2,
       "opcoes": [
         "A) para cada destinação existe uma única fonte",
@@ -1927,7 +1927,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "O pagamento de uma dívida no valor de R$ 600.000,00, com desconto de 10% (dez por cento), representa um fato administrativo:",
       "resposta": "C",
-      "comentario": "",
+      "comentario": "No pagamento com desconto, o passivo baixa pelo valor original de R$ 600.000, mas o caixa sai apenas R$ 540.000 (desconto de 10% = R$ 60.000). Essa diferença é reconhecida como desconto obtido, uma receita financeira que aumenta o PL. Como o passivo cai mais do que o ativo, com efeito positivo no PL, o fato é misto aumentativo.",
       "dificuldade": 2,
       "opcoes": [
         "A) Modificativo aumentativo",
@@ -2398,7 +2398,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "A medida a ser adotada para correção nos casos de lançamentos em que ocorram erros de escrituração (não motivados por informações INCORRETAS dos contribuintes) será:",
       "resposta": "C",
-      "comentario": "",
+      "comentario": "Para corrigir erros de escrituração não decorrentes de informações incorretas do contribuinte, a medida adequada é o estorno: faz-se um lançamento de sentido contrário ao registro errado, anulando completamente seus efeitos. Diferente da complementação — que ajusta valores lançados a menor —, o estorno cancela integralmente o lançamento incorreto para que seja refeito de forma correta.",
       "dificuldade": 2,
       "opcoes": [
         "A) reversão",
@@ -2872,7 +2872,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "De acordo com as Normas Brasileiras de Contabilidade sobre escrituração contábil, a retificação de lançamento contábil é o processo técnico de correção de registro realizado com erro na escrituração contábil da entidade e pode ser feito por meio de estorno, transferência e A ratificação.",
       "resposta": "D",
-      "comentario": "",
+      "comentario": "A NBC T 2.5 prevê três métodos de retificação de lançamentos com erro de escrituração: estorno (lançamento inverso para anular o registro errado), transferência (realocação do valor para a conta correta) e ajuste ou complementação (registro da diferença quando o valor foi lançado a menor). A questão apresenta os dois primeiros e pede o terceiro: o ajuste.",
       "dificuldade": 2,
       "opcoes": [
         "A) transferência de saldo",
@@ -2890,7 +2890,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "As variações patrimoniais podem ser classificadas em quantitativas e qualitativas. As variações qualitativas são aquelas que A aumentam ou diminuem o patrimônio líquido.",
       "resposta": "B",
-      "comentario": "",
+      "comentario": "Nessa classificação, as variações qualitativas são as que afetam a qualidade do patrimônio ao alterar o PL. As diminutivas reduzem o PL por meio do reconhecimento de despesas e perdas. A alternativa A descreve as variações quantitativas (permutas), que apenas redistribuem valores entre os elementos sem tocar no PL.",
       "dificuldade": 2,
       "opcoes": [
         "A) alteram a composição dos elementos patrimoniais, sem afetar o patrimônio líquido",
@@ -2926,7 +2926,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "Uma empresa de prestação de serviços no setor de limpeza comprou recentemente, à vista, 200 novos equipamentos de limpeza para substituir os equipamentos antigos e ultrapassados. Esse evento contábil significa um fato A misto diminutivo no Ativo e no Passivo.",
       "resposta": "D",
-      "comentario": "",
+      "comentario": "A compra à vista de equipamentos novos gera: D — Equipamentos (ativo +) e C — Caixa (ativo −), sendo permuta interna no ativo. Se a operação envolver também a quitação de financiamento dos equipamentos antigos (passivo −) e contratação de nova dívida (passivo +) com diferença de valores gerando resultado, surgem movimentos mistos no passivo.",
       "dificuldade": 2,
       "opcoes": [
         "A) modificativo no Passivo não Circulante",
@@ -2963,7 +2963,7 @@
       "tipo": "multipla_escolha",
       "enunciado": "As variações patrimoniais cujas permutações são o mesmo valor dos elementos do Patrimônio, ou seja, são as alterações do Patrimônio que não alteram o valor do Patrimônio Líquido, tais como: a compra de veículo e a contratação de operações de crédito, que são classificadas como A qualitativas.",
       "resposta": "A",
-      "comentario": "",
+      "comentario": "As variações que descrevem permutas — compra de veículo (ativo + / caixa −) e contratação de crédito (caixa + / passivo +) — não alteram o PL. Nessa nomenclatura são chamadas de variações quantitativas: redistribuem valores entre os elementos patrimoniais sem modificar o total do PL. Variações qualitativas, na mesma lógica, são as que afetam o PL.",
       "dificuldade": 2,
       "opcoes": [
         "A) quantitativas",
