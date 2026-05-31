@@ -259,7 +259,7 @@
       "cargo": "Técnico em Contabilidade",
       "ano": 2018,
       "tipo": "certo_errado",
-      "enunciado": "No que diz respeito aos estados patrimoniais, é possível que ativo e passivo tenham valor igual a zero, respectivamente, na constituição e no encerramento das atividades da empresa.",
+      "enunciado": "Julgue o item a seguir, relativo ao patrimônio das entidades.\n\nNo que diz respeito aos estados patrimoniais, é possível que ativo e passivo tenham valor igual a zero, respectivamente, na constituição e no encerramento das atividades da empresa.",
       "resposta": "errado",
       "comentario": "Na constituição da empresa, o ativo nunca é zero, pois os sócios precisam integralizar ao menos parte do capital (no mínimo 10% em dinheiro, segundo a Lei 6.404/76). O Ativo é igual ao PL na constituição, enquanto o Passivo pode ser zero — não o Ativo. No encerramento, é possível que ambos (Ativo e Passivo) se zerem após a liquidação de todas as obrigações.",
       "dificuldade": 3,
