@@ -93,7 +93,7 @@ button:disabled { cursor: default; }
   min-width: 5rem;
   text-align: center;
   border-radius: 5px;
-  font-size: 0.875rem;
+  font-size: 1rem;
   color: #555;
   transition: background 0.12s, color 0.12s;
   white-space: nowrap;
@@ -116,7 +116,7 @@ button:disabled { cursor: default; }
   object-fit: cover;
 }
 
-#btn-logout { font-size: 0.875rem; color: #888; padding: 0.25rem 0.5rem; }
+#btn-logout { font-size: 1rem; color: #888; padding: 0.25rem 0.5rem; }
 #btn-logout:hover { color: #1a1a1a; }
 
 /* ---- Barra de matérias ---- */
@@ -146,7 +146,7 @@ button:disabled { cursor: default; }
   height: 2rem;
   min-width: 5rem;
   text-align: center;
-  font-size: 0.875rem;
+  font-size: 1rem;
   font-weight: 700;
   color: #555;
   border-bottom: 2px solid transparent;
@@ -184,7 +184,7 @@ button:disabled { cursor: default; }
   justify-content: center;
   min-width: 5rem;
   text-align: center;
-  font-size: 0.875rem;
+  font-size: 1rem;
   color: #555;
   border-bottom: 2px solid transparent;
   transition: color 0.12s, border-color 0.12s;
@@ -208,7 +208,7 @@ button:disabled { cursor: default; }
   padding: 0.65rem 0;
   border-bottom: 1px solid #e5e5e5;
   margin-bottom: 1.5rem;
-  font-size: 0.875rem;
+  font-size: 1rem;
   color: #444;
 }
 .questoes-barra .barra-placar { display: flex; gap: 0.35rem; align-items: center; }
@@ -218,7 +218,7 @@ button:disabled { cursor: default; }
   display: inline-flex;
   align-items: center;
   border-radius: 4px;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   font-variant-numeric: tabular-nums;
   letter-spacing: 0.03em;
 }
@@ -227,7 +227,7 @@ button:disabled { cursor: default; }
 .barra-placar .erro    { background: #fee2e2; color: #b91c1c; }
 .barra-placar .fixadas { background: #fef3c7; color: #b45309; }
 .questoes-barra button {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: #ea580c;
   background: transparent;
   border: 1px solid #ea580c;
@@ -250,7 +250,7 @@ button:disabled { cursor: default; }
   display: inline-flex;
   align-items: center;
   border-radius: 4px;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   font-variant-numeric: tabular-nums;
   letter-spacing: 0.03em;
   color: #4b5563;
@@ -269,7 +269,7 @@ button:disabled { cursor: default; }
   display: flex;
   flex-direction: column;
   gap: 0.3rem;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: #888;
   margin-bottom: 0.75rem;
 }
@@ -282,7 +282,6 @@ button:disabled { cursor: default; }
 
 .validada-check {
   color: #15803d;
-  font-size: 0.75rem;
   font-weight: 700;
 }
 
@@ -290,7 +289,7 @@ button:disabled { cursor: default; }
 .questao-enunciado { font-size: 1rem; margin-bottom: 0.875rem; white-space: pre-wrap; }
 
 .diagrama {
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   line-height: 1.5;
   margin: 0.75rem 0;
   padding: 0.6rem 0.75rem;
@@ -302,10 +301,6 @@ button:disabled { cursor: default; }
   display: block;
   max-width: 100%;
   -webkit-overflow-scrolling: touch;
-}
-
-@media (max-width: 480px) {
-  .diagrama { font-size: 0.8rem; padding: 0.5rem; }
 }
 
 /* ---- Opções ---- */
@@ -341,7 +336,7 @@ button:disabled { cursor: default; }
   padding: 0.75rem;
   background: #fff7ed;
   border-radius: 5px;
-  font-size: 0.875rem;
+  font-size: 1rem;
   border-left: 3px solid #ea580c;
 }
 
@@ -350,7 +345,7 @@ button:disabled { cursor: default; }
 
 /* ---- Botão revelar (modo lista) ---- */
 .btn-revelar {
-  font-size: 0.875rem;
+  font-size: 1rem;
   color: #ea580c;
   border: 1px solid #ea580c;
   border-radius: 5px;
@@ -403,7 +398,7 @@ button:disabled { cursor: default; }
   border: 1px solid #d1d5db;
   border-radius: 4px;
   font-family: inherit;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   font-weight: inherit;
   color: #555;
   background: #fff;
@@ -421,7 +416,7 @@ button:disabled { cursor: default; }
 }
 
 .btn-limpar {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: #6b7280;
   background: transparent;
   border: 1px solid #d1d5db;
@@ -451,20 +446,20 @@ button:disabled { cursor: default; }
   padding: 0 1.5rem;
   height: 2rem;
   border-radius: 6px;
-  font-size: 0.875rem;
+  font-size: 1rem;
   transition: background 0.15s;
 }
 
 .btn-proxima:hover { background: #333; }
 
 /* ---- Simulado ---- */
-.simulado-config h2 { margin-bottom: 1.5rem; font-size: 1.25rem; }
+.simulado-config h2 { margin-bottom: 1.5rem; font-size: 1.5rem; }
 
 .config-grupo { margin-bottom: 1.25rem; }
 
 .config-grupo label {
   display: block;
-  font-size: 0.875rem;
+  font-size: 1rem;
   margin-bottom: 0.4rem;
   color: #444;
 }
@@ -501,10 +496,10 @@ button:disabled { cursor: default; }
 
 /* ---- Resultado ---- */
 .resultado-placar { text-align: center; margin: 2rem 0; }
-.resultado-placar .score { font-size: 3rem; font-weight: 700; line-height: 1; }
-.resultado-placar .pct   { font-size: 1.25rem; color: #555; margin-top: 0.25rem; }
-.resultado-placar .tempo { font-size: 0.875rem; color: #888; margin-top: 0.5rem; }
-.resultado-acoes  { margin-top: 1.5rem; }
+.resultado-placar .score { font-size: 2rem; font-weight: 700; line-height: 1; }
+.resultado-placar .pct   { font-size: 1.5rem; color: #555; margin-top: 0.25rem; }
+.resultado-placar .tempo { font-size: 1rem; color: #888; margin-top: 0.5rem; }
+.resultado-acoes    { margin-top: 1.5rem; }
 .resultado-gabarito { margin-top: 2rem; }
 
 /* ---- Histórico ---- */
@@ -523,12 +518,12 @@ button:disabled { cursor: default; }
 }
 
 .historico-item:hover { background: #fafafa; }
-.historico-titulo  { font-size: 0.875rem; }
-.historico-info    { font-size: 0.8rem; color: #888; margin-top: 0.15rem; }
+.historico-titulo  { font-size: 1rem; }
+.historico-info    { font-size: 0.75rem; color: #888; margin-top: 0.15rem; }
 .historico-placar  { font-weight: 700; font-size: 1rem; }
 
 .btn-limpar-simulados {
-  font-size: 0.875rem;
+  font-size: 1rem;
   color: #c05050;
   border: 1px solid #c05050;
   border-radius: 5px;
@@ -551,7 +546,7 @@ button:disabled { cursor: default; }
 }
 .hist-tab {
   padding: 0.45rem 1.25rem;
-  font-size: 0.875rem;
+  font-size: 1rem;
   background: none;
   border: none;
   cursor: pointer;
@@ -571,7 +566,7 @@ button:disabled { cursor: default; }
   margin-bottom: 1rem;
 }
 .qh-chip {
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   font-variant-numeric: tabular-nums;
   padding: 0.2rem 0.55rem;
   border-radius: 4px;
@@ -583,7 +578,7 @@ button:disabled { cursor: default; }
 
 .qh-grupo { margin-bottom: 1.25rem; }
 .qh-grupo-header {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   font-weight: 700;
   color: #555;
   padding: 0.25rem 0;
@@ -601,12 +596,12 @@ button:disabled { cursor: default; }
 }
 .qh-num {
   width: 2.75rem;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   color: #374151;
   flex-shrink: 0;
 }
 .qh-stat {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   padding: 0.1rem 0.45rem;
   border-radius: 4px;
 }
@@ -615,7 +610,7 @@ button:disabled { cursor: default; }
 .qh-stat.amarelo  { background: #fef3c7; color: #b45309; }
 
 .btn-voltar {
-  font-size: 0.875rem;
+  font-size: 1rem;
   color: #555;
   margin-bottom: 1rem;
   padding: 0.25rem 0;
@@ -629,7 +624,7 @@ button:disabled { cursor: default; }
 /* ---- Marcador de revisão ---- */
 .btn-marcar {
   margin-left: auto;
-  font-size: 0.875rem;
+  font-size: 1rem;
   padding: 0 0.75rem;
   height: 2rem;
   display: inline-flex;
@@ -653,7 +648,7 @@ button:disabled { cursor: default; }
   color: #888;
   text-align: center;
   padding: 3rem;
-  font-size: 0.875rem;
+  font-size: 1rem;
 }
 
 /* ---- Responsivo ---- */
@@ -662,7 +657,7 @@ button:disabled { cursor: default; }
   .topbar-esquerda { display: none; }
   .topbar-abas { flex: 1; overflow-x: auto; scrollbar-width: none; justify-content: flex-start; }
   .topbar-abas::-webkit-scrollbar { display: none; }
-  .aba-global { padding: 0 0.55rem; font-size: 0.8rem; min-width: auto; flex-shrink: 0; }
+  .aba-global { padding: 0 0.55rem; font-size: 0.75rem; min-width: auto; flex-shrink: 0; }
   .topbar-usuario { gap: 0.5rem; }
   #avatar { width: 26px; height: 26px; }
   #btn-logout { display: none; }
