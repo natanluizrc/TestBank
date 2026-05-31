@@ -10,7 +10,7 @@
       "cargo": "Controlador Geral",
       "ano": 2024,
       "tipo": "multipla_escolha",
-      "enunciado": "A situação líquida da empresa é apresentada pela diferença entre o Ativo e o Passivo. Considerando uma composição patrimonial hipotética em que o Ativo é maior que o Passivo e há mais capital próprio do que capital de terceiros, a situação líquida patrimonial apresentada é",
+      "enunciado": "A situação líquida da empresa é apresentada pela diferença entre o Ativo e o Passivo, ou seja, a diferença entre a composição do patrimônio. Considerando o disposto, analise a composição hipotética de um patrimônio a seguir:\n\n┌─────────────────┬─────────────────────┐\n│ Ativo           │ Passivo             │\n│                 │ R$ 995,00           │\n│ R$ 1.000,00     │ Patrimônio Líquido  │\n│                 │ R$ 5,00             │\n└─────────────────┴─────────────────────┘\n\nA situação líquida patrimonial apresentada é",
       "opcoes": [
         "A) negativa, em que o Ativo é menor que o Passivo.",
         "B) nula, situação em que o Ativo é igual ao Passivo.",
