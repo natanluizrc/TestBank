@@ -449,7 +449,7 @@
       "cargo": "Professor de Finanças",
       "ano": 2023,
       "tipo": "multipla_escolha",
-      "enunciado": "Analisando as contas abaixo, aponte o item que representa a CORRETA situação patrimonial.\n\nDados: Caixa = R$ 3.000; Aplicações Financeiras = R$ 7.000; Empréstimos a Pagar = R$ 5.000; Duplicatas a Pagar = R$ 15.000; Terrenos = R$ 30.000; Impostos a Pagar = R$ 20.000.",
+      "enunciado": "Analisando as contas abaixo, aponte o item que representa a CORRETA situação patrimonial.\n\n┌────────────────────────┬───────────┐\n│         Caixa          │ R$ 3.000  │\n├────────────────────────┼───────────┤\n│ Aplicações Financeiras │ R$ 7.000  │\n├────────────────────────┼───────────┤\n│  Empréstimos a Pagar   │ R$ 5.000  │\n├────────────────────────┼───────────┤\n│   Duplicatas a Pagar   │ R$ 15.000 │\n├────────────────────────┼───────────┤\n│        Terrenos        │ R$ 30.000 │\n├────────────────────────┼───────────┤\n│    Impostos a Pagar    │ R$ 20.000 │\n└────────────────────────┴───────────┘",
       "opcoes": [
         "A) A situação líquida patrimonial é positiva ou superavitária em R$ 40.000.",
         "B) A situação líquida patrimonial é negativa ou deficitária.",
@@ -469,7 +469,7 @@
       "cargo": "Técnico Administrativo",
       "ano": 2013,
       "tipo": "multipla_escolha",
-      "enunciado": "O Balanço Patrimonial da empresa Lucro Certo Ltda. apresenta os seguintes saldos: Ativo Circulante R$ 305.000; Ativo Não Circulante R$ 640.000; Passivo Circulante R$ 180.000; Passivo Não Circulante R$ 420.000; Patrimônio Líquido R$ 345.000.\n\nEssa empresa apresenta, em seu Balanço Patrimonial, o total da origem de seus recursos, em reais, no valor correspondente a",
+      "enunciado": "O Balanço Patrimonial da empresa Lucro Certo Ltda. apresenta os seguintes saldos:\n\n┌────────────────────────┬────────────┐\n│    Ativo Circulante    │ R$ 305.000 │\n├────────────────────────┼────────────┤\n│  Ativo Não Circulante  │ R$ 640.000 │\n├────────────────────────┼────────────┤\n│   Passivo Circulante   │ R$ 180.000 │\n├────────────────────────┼────────────┤\n│ Passivo Não Circulante │ R$ 420.000 │\n├────────────────────────┼────────────┤\n│   Patrimônio Líquido   │ R$ 345.000 │\n└────────────────────────┴────────────┘\n\nEssa empresa apresenta, em seu Balanço Patrimonial, o total da origem de seus recursos, em reais, no valor correspondente a",
       "opcoes": [
         "A) R$ 945.000,00.",
         "B) R$ 840.000,00.",

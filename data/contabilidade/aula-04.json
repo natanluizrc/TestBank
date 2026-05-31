@@ -214,7 +214,7 @@
       "cargo": "Contador",
       "ano": 2024,
       "tipo": "multipla_escolha",
-      "enunciado": "Um supermercado apresentava os seguintes saldos em 31/12/2023: Caixa: R$40.000; Estoque de produtos perecíveis: R$80.000; Estoque de produtos não perecíveis: R$100.000; Contas a receber em até 60 dias: R$120.000; Conta corrente no banco: R$150.000; Investimentos no banco para resgate em um ano: R$170.000. Assinale a opção que indica o saldo de Caixa e equivalentes de Caixa, apresentado na Demonstração dos Fluxos de Caixa em 31/12/2023.",
+      "enunciado": "Um supermercado apresentava os seguintes saldos em 31/12/2023:\n\n┌───────────────────────────────────────────────┬───────────┐\n│                     Caixa                     │ R$40.000  │\n├───────────────────────────────────────────────┼───────────┤\n│        Estoque de produtos perecíveis         │ R$80.000  │\n├───────────────────────────────────────────────┼───────────┤\n│      Estoque de produtos não perecíveis       │ R$100.000 │\n├───────────────────────────────────────────────┼───────────┤\n│        Contas a receber em até 60 dias        │ R$120.000 │\n├───────────────────────────────────────────────┼───────────┤\n│            Conta corrente no banco            │ R$150.000 │\n├───────────────────────────────────────────────┼───────────┤\n│ Investimentos no banco para resgate em um ano │ R$170.000 │\n└───────────────────────────────────────────────┴───────────┘\n\nAssinale a opção que indica o saldo de Caixa e equivalentes de Caixa, apresentado na Demonstração dos Fluxos de Caixa em 31/12/2023.",
       "opcoes": [
         "A) R$190.000.",
         "B) R$270.000.",
@@ -312,7 +312,7 @@
       "cargo": "Exame de Suficiência",
       "ano": 2024,
       "tipo": "multipla_escolha",
-      "enunciado": "Em 31/12/2023, a Cia Lua apresentava os seguintes saldos em seu ativo: Aplicações financeiras com vencimento em 720 dias: R$70.000; Clientes com previsão de recebimento em 380 dias: R$60.000; Disponibilidades: R$50.000; Estoques com previsão de venda em até 180 dias: R$40.000; Perdas estimadas com crédito de liquidação duvidosa: R$6.000; Perdas estimadas com desvalorização de estoque: R$8.000. Assinale a opção que indica o saldo do ativo circulante em 31/12/2023.",
+      "enunciado": "Em 31/12/2023, a Cia Lua apresentava os seguintes saldos em seu ativo:\n\n┌─────────────────────────────────────────────────────┬──────────┐\n│  Aplicações financeiras com vencimento em 720 dias  │ R$70.000 │\n├─────────────────────────────────────────────────────┼──────────┤\n│  Clientes com previsão de recebimento em 380 dias   │ R$60.000 │\n├─────────────────────────────────────────────────────┼──────────┤\n│                  Disponibilidades                   │ R$50.000 │\n├─────────────────────────────────────────────────────┼──────────┤\n│   Estoques com previsão de venda em até 180 dias    │ R$40.000 │\n├─────────────────────────────────────────────────────┼──────────┤\n│ Perdas estimadas com crédito de liquidação duvidosa │ R$6.000  │\n├─────────────────────────────────────────────────────┼──────────┤\n│   Perdas estimadas com desvalorização de estoque    │ R$8.000  │\n└─────────────────────────────────────────────────────┴──────────┘\n\nAssinale a opção que indica o saldo do ativo circulante em 31/12/2023.",
       "opcoes": [
         "A) R$76.000.",
         "B) R$82.000.",
@@ -371,7 +371,7 @@
       "cargo": "Analista",
       "ano": 2024,
       "tipo": "multipla_escolha",
-      "enunciado": "Uma loja apresentava os seguintes dados em seu ativo, em 01/12/2023: Disponibilidades: R$10.000; Estoques com previsão de venda em até 6 meses: R$40.000; Clientes com previsão de recebimento em 18 meses: R$50.000; Terrenos destinados à valorização: R$60.000; Perdas estimadas com crédito de liquidação duvidosa: R$500. Em dezembro de 2023, a loja constatou que a inadimplência era estimada em 4% e que os estoques tinham perdas estimadas de 10%. Considerando apenas esses fatos, assinale a opção que indica o ativo circulante da loja, em 31/12/2023.",
+      "enunciado": "Uma loja apresentava os seguintes dados em seu ativo, em 01/12/2023:\n\n┌─────────────────────────────────────────────────────┬──────────┐\n│                  Disponibilidades                   │ R$10.000 │\n├─────────────────────────────────────────────────────┼──────────┤\n│    Estoques com previsão de venda em até 6 meses    │ R$40.000 │\n├─────────────────────────────────────────────────────┼──────────┤\n│  Clientes com previsão de recebimento em 18 meses   │ R$50.000 │\n├─────────────────────────────────────────────────────┼──────────┤\n│          Terrenos destinados à valorização          │ R$60.000 │\n├─────────────────────────────────────────────────────┼──────────┤\n│ Perdas estimadas com crédito de liquidação duvidosa │ R$500    │\n└─────────────────────────────────────────────────────┴──────────┘\n\nEm dezembro de 2023, a loja constatou que a inadimplência era estimada em 4% e que os estoques tinham perdas estimadas de 10%. Considerando apenas esses fatos, assinale a opção que indica o ativo circulante da loja, em 31/12/2023.",
       "opcoes": [
         "A) R$40.000.",
         "B) R$46.000.",
@@ -411,7 +411,7 @@
       "cargo": "Contador",
       "ano": 2024,
       "tipo": "multipla_escolha",
-      "enunciado": "Em 31/12/2022, uma sociedade empresária apresentava as seguintes contas em seus ativos: Contas a receber de clientes: R$50.000; Contas a receber de partes relacionadas, decorrentes de transações operacionais: R$45.000; Contas a receber de partes relacionadas, não decorrentes de transações operacionais: R$30.000. Os três recebimentos estavam previstos para março de 2023. No Balanço Patrimonial da sociedade empresária, os saldos do ativo circulante e do ativo realizável a longo prazo, em 31/12/2022, eram, respectivamente, de",
+      "enunciado": "Em 31/12/2022, uma sociedade empresária apresentava as seguintes contas em seus ativos:\n\n┌─────────────────────────────────────────────────────────────────────────────────────┬──────────┐\n│                            Contas a receber de clientes                             │ R$50.000 │\n├─────────────────────────────────────────────────────────────────────────────────────┼──────────┤\n│   Contas a receber de partes relacionadas, decorrentes de transações operacionais   │ R$45.000 │\n├─────────────────────────────────────────────────────────────────────────────────────┼──────────┤\n│ Contas a receber de partes relacionadas, não decorrentes de transações operacionais │ R$30.000 │\n└─────────────────────────────────────────────────────────────────────────────────────┴──────────┘\n\nOs três recebimentos estavam previstos para março de 2023. No Balanço Patrimonial da sociedade empresária, os saldos do ativo circulante e do ativo realizável a longo prazo, em 31/12/2022, eram, respectivamente, de",
       "opcoes": [
         "A) Zero e R$125.000.",
         "B) R$50.000 e R$75.000.",
@@ -471,7 +471,7 @@
       "cargo": "Contador",
       "ano": 2024,
       "tipo": "multipla_escolha",
-      "enunciado": "Os seguintes saldos são apresentados no balanço patrimonial de uma sociedade empresária, que presta serviços de arquitetura, em 31/12/2023: adiantamentos concedidos a acionistas (90 dias): R$30.000; disponibilidades: R$50.000; empréstimos à sociedade coligada (120 dias): R$70.000; clientes (60 dias): R$80.000; terreno utilizado na atividade fim: R$90.000. Assinale a opção que indica o saldo do ativo realizável a longo prazo da sociedade empresária, em 31/12/2023.",
+      "enunciado": "Os seguintes saldos são apresentados no balanço patrimonial de uma sociedade empresária, que presta serviços de arquitetura, em 31/12/2023:\n\n┌─────────────────────────────────────────────────┬──────────┐\n│ adiantamentos concedidos a acionistas (90 dias) │ R$30.000 │\n├─────────────────────────────────────────────────┼──────────┤\n│                disponibilidades                 │ R$50.000 │\n├─────────────────────────────────────────────────┼──────────┤\n│   empréstimos à sociedade coligada (120 dias)   │ R$70.000 │\n├─────────────────────────────────────────────────┼──────────┤\n│               clientes (60 dias)                │ R$80.000 │\n├─────────────────────────────────────────────────┼──────────┤\n│       terreno utilizado na atividade fim        │ R$90.000 │\n└─────────────────────────────────────────────────┴──────────┘\n\nAssinale a opção que indica o saldo do ativo realizável a longo prazo da sociedade empresária, em 31/12/2023.",
       "opcoes": [
         "A) Zero.",
         "B) R$30.000.",
