@@ -396,7 +396,7 @@
       "orgao": "PC-DF",
       "cargo": "Contador",
       "tipo": "certo_errado",
-      "enunciado": "Ativo + patrimônio líquido < passivo exigível é uma expressão que sintetiza a situação de passivo a descoberto.",
+      "enunciado": "Julgue o item a seguir, em relação ao patrimônio contábil.\n\nAtivo + patrimônio líquido < passivo exigível é uma expressão que sintetiza a situação de passivo a descoberto.",
       "resposta": "certo",
       "comentario": "Correto. Na situação de passivo a descoberto, o Passivo supera a soma do Ativo com o PL (negativo). A expressão está correta: mesmo somando o PL negativo ao Ativo, o resultado ainda é menor que o Passivo.",
       "dificuldade": 2,
