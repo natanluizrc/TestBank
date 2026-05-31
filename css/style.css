@@ -28,7 +28,7 @@ body {
   width: 100%;
 }
 
-.login-card h1 { font-size: 2rem; font-weight: 700; margin-bottom: 0.5rem; }
+.login-card h1 { font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem; }
 .login-card p { color: #666; margin-bottom: 2rem; }
 
 /* ---- Botões base ---- */
@@ -453,7 +453,7 @@ button:disabled { cursor: default; }
 .btn-proxima:hover { background: #333; }
 
 /* ---- Simulado ---- */
-.simulado-config h2 { margin-bottom: 1.5rem; font-size: 1.5rem; }
+.simulado-config h2 { margin-bottom: 1.5rem; font-size: 1.25rem; }
 
 .config-grupo { margin-bottom: 1.25rem; }
 
@@ -496,8 +496,8 @@ button:disabled { cursor: default; }
 
 /* ---- Resultado ---- */
 .resultado-placar { text-align: center; margin: 2rem 0; }
-.resultado-placar .score { font-size: 2rem; font-weight: 700; line-height: 1; }
-.resultado-placar .pct   { font-size: 1.5rem; color: #555; margin-top: 0.25rem; }
+.resultado-placar .score { font-size: 1.25rem; font-weight: 700; line-height: 1; }
+.resultado-placar .pct   { font-size: 1.25rem; color: #555; margin-top: 0.25rem; }
 .resultado-placar .tempo { font-size: 1rem; color: #888; margin-top: 0.5rem; }
 .resultado-acoes    { margin-top: 1.5rem; }
 .resultado-gabarito { margin-top: 2rem; }
