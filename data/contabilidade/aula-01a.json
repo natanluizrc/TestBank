@@ -684,7 +684,7 @@
       "cargo": "Contador",
       "ano": 2024,
       "tipo": "multipla_escolha",
-      "enunciado": "O Balanço Patrimonial contém informações agrupadas em contas de Ativo, de Passivo e de Patrimônio Líquido. A Equação Patrimonial pode ser apresentada como: Patrimônio Líquido = Ativo − Passivo. Na hipótese de a soma dos valores dos ativos ser menor que a soma dos valores dos passivos, o valor do patrimônio líquido será negativo, caracterizando o estado patrimonial chamado de:",
+      "enunciado": "O Balanço Patrimonial contém informações agrupadas em contas de Ativo, de Passivo e de Patrimônio Líquido. Por sua vez, a Equação Patrimonial é uma representação quantitativa do patrimônio de uma entidade e pode ser assim apresentada: Patrimônio Líquido = Ativo − Passivo. Na hipótese de a soma dos valores dos ativos ser menor que a soma dos valores dos passivos, o valor do patrimônio líquido será negativo, caracterizando o estado patrimonial chamado de:",
       "opcoes": [
         "A) Ativo deficitário.",
         "B) Passivo a descoberto.",
