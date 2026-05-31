@@ -288,6 +288,7 @@ button:disabled { cursor: default; }
 .validada-check {
   color: #15803d;
   font-size: 0.75rem;
+  font-weight: 700;
 }
 
 .questao-banca { font-size: 0.75rem; color: #888; margin-bottom: 0.6rem; }
