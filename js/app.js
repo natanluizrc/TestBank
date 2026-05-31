@@ -300,9 +300,47 @@ function renderListaQuestoes(questoes) {
     'filtro-tipo':  q => q.tipo,
     'filtro-dif':   q => String(q.dificuldade ?? ''),
   };
+  const FILTRO_LABEL = {
+    'filtro-banca': 'Banca', 'filtro-orgao': 'Órgão', 'filtro-cargo': 'Cargo',
+    'filtro-ano': 'Ano', 'filtro-tipo': 'Tipo', 'filtro-dif': 'Dificuldade',
+  };
   const FILTROS = Object.keys(FILTRO_CAMPO);
 
   const val = id => document.getElementById(id)?.value || '';
+
+  const opcoesHtml = (id, qs) => {
+    if (id === 'filtro-tipo') {
+      const tipos = new Set(qs.map(q => q.tipo));
+      return [
+        tipos.has('multipla_escolha') ? '<option value="multipla_escolha">Múltipla Escolha</option>' : '',
+        tipos.has('certo_errado')     ? '<option value="certo_errado">Certo/Errado</option>'         : '',
+      ].join('');
+    }
+    if (id === 'filtro-dif') {
+      return uniq(qs.map(q => q.dificuldade).filter(Boolean))
+        .sort((a, b) => a - b)
+        .map(n => `<option value="${n}">${stars(n)}</option>`).join('');
+    }
+    const raw = { 'filtro-banca': q => q.banca, 'filtro-orgao': q => q.orgao, 'filtro-cargo': q => q.cargo, 'filtro-ano': q => q.ano };
+    return opts(qs.map(raw[id]));
+  };
+
+  const atualizarCascata = changedId => {
+    const idx = FILTROS.indexOf(changedId);
+    let base = questoes;
+    for (let i = 0; i <= idx; i++) {
+      const v = val(FILTROS[i]);
+      if (v) base = base.filter(q => FILTRO_CAMPO[FILTROS[i]](q) === v);
+    }
+    for (let i = idx + 1; i < FILTROS.length; i++) {
+      const id = FILTROS[i];
+      const el = document.getElementById(id);
+      if (!el) continue;
+      const prev = el.value;
+      el.innerHTML = `<option value="">${FILTRO_LABEL[id]}</option>` + opcoesHtml(id, base);
+      if (prev) el.value = prev;
+    }
+  };
 
   const aplicarFiltros = () => {
     questoesFiltradas = questoes.filter(q =>
@@ -316,7 +354,10 @@ function renderListaQuestoes(questoes) {
     atualizarPlacar();
   };
 
-  FILTROS.forEach(id => document.getElementById(id)?.addEventListener('change', aplicarFiltros));
+  FILTROS.forEach(id => document.getElementById(id)?.addEventListener('change', () => {
+    atualizarCascata(id);
+    aplicarFiltros();
+  }));
 
   document.getElementById('btn-expandir').addEventListener('click', (e) => {
     const btn = e.currentTarget;
