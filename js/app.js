@@ -268,12 +268,10 @@ function renderListaQuestoes(questoes) {
 
   area.innerHTML = `
     <div class="barra-filtros barra-filtros-sticky">
-      <div class="filtros-linha">
+      <div class="filtros-grid">
         <select id="filtro-banca" class="filtro-select"><option value="">Banca</option>${opts(questoes.map(q => q.banca))}</select>
-        <select id="filtro-ano"   class="filtro-select"><option value="">Ano</option>${opts(questoes.map(q => q.ano))}</select>
         <select id="filtro-cargo" class="filtro-select"><option value="">Cargo</option>${opts(questoes.map(q => q.cargo))}</select>
-      </div>
-      <div class="filtros-linha">
+        <select id="filtro-ano"   class="filtro-select"><option value="">Ano</option>${opts(questoes.map(q => q.ano))}</select>
         <select id="filtro-tipo" class="filtro-select"><option value="">Tipo</option>${tipoOpts}</select>
         <select id="filtro-dif"  class="filtro-select"><option value="">Dificuldade</option>${difOpts}</select>
         <button id="btn-limpar-filtros" class="btn-limpar inativo">Limpar</button>
@@ -294,13 +292,13 @@ function renderListaQuestoes(questoes) {
 
   const FILTRO_CAMPO = {
     'filtro-banca': q => q.banca,
-    'filtro-ano':   q => String(q.ano ?? ''),
     'filtro-cargo': q => q.cargo,
+    'filtro-ano':   q => String(q.ano ?? ''),
     'filtro-tipo':  q => q.tipo,
     'filtro-dif':   q => String(q.dificuldade ?? ''),
   };
   const FILTRO_LABEL = {
-    'filtro-banca': 'Banca', 'filtro-ano': 'Ano', 'filtro-cargo': 'Cargo',
+    'filtro-banca': 'Banca', 'filtro-cargo': 'Cargo', 'filtro-ano': 'Ano',
     'filtro-tipo': 'Tipo', 'filtro-dif': 'Dificuldade',
   };
   const FILTROS = Object.keys(FILTRO_CAMPO);
@@ -320,7 +318,7 @@ function renderListaQuestoes(questoes) {
         .sort((a, b) => a - b)
         .map(n => `<option value="${n}">${stars(n)}</option>`).join('');
     }
-    const raw = { 'filtro-banca': q => q.banca, 'filtro-ano': q => q.ano, 'filtro-cargo': q => q.cargo };
+    const raw = { 'filtro-banca': q => q.banca, 'filtro-cargo': q => q.cargo, 'filtro-ano': q => q.ano };
     return opts(qs.map(raw[id]));
   };
 
