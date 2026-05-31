@@ -270,11 +270,11 @@ function renderListaQuestoes(questoes) {
     <div class="barra-filtros barra-filtros-sticky">
       <div class="filtros-linha">
         <select id="filtro-banca" class="filtro-select"><option value="">Banca</option>${opts(questoes.map(q => q.banca))}</select>
-        <select id="filtro-orgao" class="filtro-select"><option value="">Órgão</option>${opts(questoes.map(q => q.orgao))}</select>
+        <select id="filtro-ano"   class="filtro-select"><option value="">Ano</option>${opts(questoes.map(q => q.ano))}</select>
         <select id="filtro-cargo" class="filtro-select"><option value="">Cargo</option>${opts(questoes.map(q => q.cargo))}</select>
       </div>
       <div class="filtros-linha">
-        <select id="filtro-ano"  class="filtro-select"><option value="">Ano</option>${opts(questoes.map(q => q.ano))}</select>
+        <button id="btn-limpar-filtros" class="btn-limpar hidden">Limpar</button>
         <select id="filtro-tipo" class="filtro-select"><option value="">Tipo</option>${tipoOpts}</select>
         <select id="filtro-dif"  class="filtro-select"><option value="">Dificuldade</option>${difOpts}</select>
       </div>
@@ -294,15 +294,14 @@ function renderListaQuestoes(questoes) {
 
   const FILTRO_CAMPO = {
     'filtro-banca': q => q.banca,
-    'filtro-orgao': q => q.orgao,
-    'filtro-cargo': q => q.cargo,
     'filtro-ano':   q => String(q.ano ?? ''),
+    'filtro-cargo': q => q.cargo,
     'filtro-tipo':  q => q.tipo,
     'filtro-dif':   q => String(q.dificuldade ?? ''),
   };
   const FILTRO_LABEL = {
-    'filtro-banca': 'Banca', 'filtro-orgao': 'Órgão', 'filtro-cargo': 'Cargo',
-    'filtro-ano': 'Ano', 'filtro-tipo': 'Tipo', 'filtro-dif': 'Dificuldade',
+    'filtro-banca': 'Banca', 'filtro-ano': 'Ano', 'filtro-cargo': 'Cargo',
+    'filtro-tipo': 'Tipo', 'filtro-dif': 'Dificuldade',
   };
   const FILTROS = Object.keys(FILTRO_CAMPO);
 
@@ -321,7 +320,7 @@ function renderListaQuestoes(questoes) {
         .sort((a, b) => a - b)
         .map(n => `<option value="${n}">${stars(n)}</option>`).join('');
     }
-    const raw = { 'filtro-banca': q => q.banca, 'filtro-orgao': q => q.orgao, 'filtro-cargo': q => q.cargo, 'filtro-ano': q => q.ano };
+    const raw = { 'filtro-banca': q => q.banca, 'filtro-ano': q => q.ano, 'filtro-cargo': q => q.cargo };
     return opts(qs.map(raw[id]));
   };
 
@@ -351,6 +350,7 @@ function renderListaQuestoes(questoes) {
       card.classList.toggle('hidden', !ids.has(card.dataset.qid))
     );
     FILTROS.forEach(id => document.getElementById(id)?.classList.toggle('ativo', !!val(id)));
+    document.getElementById('btn-limpar-filtros')?.classList.toggle('hidden', !FILTROS.some(id => val(id)));
     atualizarPlacar();
   };
 
@@ -358,6 +358,15 @@ function renderListaQuestoes(questoes) {
     atualizarCascata(id);
     aplicarFiltros();
   }));
+
+  document.getElementById('btn-limpar-filtros')?.addEventListener('click', () => {
+    FILTROS.forEach(id => {
+      const el = document.getElementById(id);
+      if (el) { el.value = ''; el.classList.remove('ativo'); }
+    });
+    FILTROS.forEach(id => atualizarCascata(id));
+    aplicarFiltros();
+  });
 
   document.getElementById('btn-expandir').addEventListener('click', (e) => {
     const btn = e.currentTarget;
