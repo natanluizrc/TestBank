@@ -220,7 +220,7 @@
       "cargo": "Técnico em Contabilidade",
       "ano": 2018,
       "tipo": "certo_errado",
-      "enunciado": "Situação líquida e patrimônio líquido são expressões sinônimas, mas a primeira é mais adequada para expressar o estado patrimonial da entidade, enquanto a segunda é de utilização obrigatória no balanço patrimonial.",
+      "enunciado": "Julgue o item a seguir, relativo ao patrimônio das entidades.\n\nSituação líquida e patrimônio líquido são expressões sinônimas, mas a primeira é mais adequada para expressar o estado patrimonial da entidade, enquanto a segunda é de utilização obrigatória no balanço patrimonial.",
       "resposta": "certo",
       "comentario": "Situação líquida é o capital próprio da entidade — a diferença entre bens e direitos (ativo) e obrigações (passivo). Patrimônio líquido é a denominação legal obrigatória usada no balanço patrimonial (Lei 6.404/76). Na prática contábil, as duas expressões são tratadas como sinônimas, embora tecnicamente o PL seja uma das espécies do gênero situação líquida.",
       "dificuldade": 2,
