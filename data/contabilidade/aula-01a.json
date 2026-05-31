@@ -1036,6 +1036,26 @@
       "validado": true
     },
     {
+      "id": "cg-01a-132",
+      "banca": "FGV",
+      "orgao": "DETRAN RN",
+      "cargo": "Assessor Técnico / Contabilidade",
+      "ano": 2010,
+      "tipo": "multipla_escolha",
+      "enunciado": "\"Tanto no aspecto quantitativo quanto no qualitativo, cada elemento patrimonial participa do patrimônio, quando é registrado um lançamento contábil.\" As contas que compõem o patrimônio de qualquer empresa são oriundas de:",
+      "opcoes": [
+        "A) Ativo e Passivo.",
+        "B) Ativo e Patrimônio Líquido.",
+        "C) Débitos e Créditos.",
+        "D) Patrimônio Líquido e Passivo.",
+        "E) Ativo e Créditos do Passivo Exigível."
+      ],
+      "resposta": "C",
+      "comentario": "A Contabilidade é conhecida como a Ciência das Contas. Cada elemento das demonstrações contábeis (ativos, passivos, patrimônio líquido, receitas e despesas) é registrado por meio de contas. O registro nas contas utiliza o Método das Partidas Dobradas, que opera pela sistemática de débitos e créditos. Portanto, as contas que compõem o patrimônio são oriundas de débitos e créditos — e não de categorias patrimoniais como Ativo e Passivo.",
+      "dificuldade": 2,
+      "validado": true
+    },
+    {
       "id": "cg-01a-129",
       "banca": "FGV",
       "orgao": "DETRAN RN",
