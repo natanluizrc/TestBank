@@ -427,6 +427,8 @@ button:disabled { cursor: default; }
   transition: background 0.12s, color 0.12s;
 }
 .btn-limpar:hover { background: #f5f5f5; color: #1a1a1a; }
+.btn-limpar.inativo { color: #d1d5db; border-color: #e5e7eb; cursor: default; }
+.btn-limpar.inativo:hover { background: transparent; color: #d1d5db; }
 
 
 .btn-proxima {

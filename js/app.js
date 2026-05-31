@@ -274,9 +274,9 @@ function renderListaQuestoes(questoes) {
         <select id="filtro-cargo" class="filtro-select"><option value="">Cargo</option>${opts(questoes.map(q => q.cargo))}</select>
       </div>
       <div class="filtros-linha">
-        <button id="btn-limpar-filtros" class="btn-limpar hidden">Limpar</button>
         <select id="filtro-tipo" class="filtro-select"><option value="">Tipo</option>${tipoOpts}</select>
         <select id="filtro-dif"  class="filtro-select"><option value="">Dificuldade</option>${difOpts}</select>
+        <button id="btn-limpar-filtros" class="btn-limpar inativo">Limpar</button>
       </div>
       <div class="questoes-barra">
         <div class="barra-placar">${placarHtml()}</div>
@@ -350,7 +350,7 @@ function renderListaQuestoes(questoes) {
       card.classList.toggle('hidden', !ids.has(card.dataset.qid))
     );
     FILTROS.forEach(id => document.getElementById(id)?.classList.toggle('ativo', !!val(id)));
-    document.getElementById('btn-limpar-filtros')?.classList.toggle('hidden', !FILTROS.some(id => val(id)));
+    document.getElementById('btn-limpar-filtros')?.classList.toggle('inativo', !FILTROS.some(id => val(id)));
     atualizarPlacar();
   };
 
@@ -359,7 +359,8 @@ function renderListaQuestoes(questoes) {
     aplicarFiltros();
   }));
 
-  document.getElementById('btn-limpar-filtros')?.addEventListener('click', () => {
+  document.getElementById('btn-limpar-filtros')?.addEventListener('click', (e) => {
+    if (e.currentTarget.classList.contains('inativo')) return;
     FILTROS.forEach(id => {
       const el = document.getElementById(id);
       if (el) { el.value = ''; el.classList.remove('ativo'); }
