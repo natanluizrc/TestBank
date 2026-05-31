@@ -331,7 +331,7 @@
       "cargo": "Agente de Polícia Civil",
       "ano": 2022,
       "tipo": "multipla_escolha",
-      "enunciado": "Considerando que as informações (em reais) a seguir se refiram ao primeiro exercício financeiro de determinada entidade, assinale a opção em que é apresentado corretamente o valor da situação líquida patrimonial desse período.\n\nFornecedores: R$ 22.000 | Ativo imobilizado: R$ 35.000 | Caixa e equivalentes: R$ 10.000 | Depreciação acumulada: R$ 4.000 | Estoques: R$ 24.000 | Empréstimos a pagar (longo prazo): R$ 30.000",
+      "enunciado": "Considerando que as informações (em reais) a seguir se refiram ao primeiro exercício financeiro de determinada entidade, assinale a opção em que é apresentado corretamente o valor da situação líquida patrimonial desse período.\n\nFornecedores: R$ 22.000\nAtivo imobilizado: R$ 35.000\nCaixa e equivalentes: R$ 10.000\nDepreciação acumulada: R$ 4.000\nEstoques: R$ 24.000\nEmpréstimos a pagar (longo prazo): R$ 30.000",
       "opcoes": [
         "A) negativa em R$ 11.000,00.",
         "B) negativa em R$ 7.000,00.",
@@ -351,7 +351,7 @@
       "cargo": "Agente de Polícia Civil",
       "ano": 2022,
       "tipo": "multipla_escolha",
-      "enunciado": "Uma entidade apresentou as seguintes informações (em reais) durante seu primeiro exercício financeiro:\n\nFornecedores: R$ 38.000 | Ativo imobilizado: R$ 36.000 | Caixa e equivalentes: R$ 12.000 | Depreciação acumulada: R$ 3.600 | Estoques: R$ 27.000 | Empréstimos a pagar (longo prazo): R$ 44.000\n\nCom base nessas informações, é correto afirmar que o valor da situação líquida patrimonial no período foi",
+      "enunciado": "Uma entidade apresentou as seguintes informações (em reais) durante seu primeiro exercício financeiro:\n\nFornecedores: R$ 38.000\nAtivo imobilizado: R$ 36.000\nCaixa e equivalentes: R$ 12.000\nDepreciação acumulada: R$ 3.600\nEstoques: R$ 27.000\nEmpréstimos a pagar (longo prazo): R$ 44.000\n\nCom base nessas informações, é correto afirmar que o valor da situação líquida patrimonial no período foi",
       "opcoes": [
         "A) negativa em R$ 82.000,00.",
         "B) negativa em R$ 10.600,00.",
@@ -1994,7 +1994,7 @@
       "cargo": "Técnico em Contabilidade",
       "ano": 2013,
       "tipo": "multipla_escolha",
-      "enunciado": "A empresa Filippe S/A, em dado momento, apresenta o seguinte patrimônio (em R$):\n\nAtivo Circulante: Caixa 500 | Clientes 800 | Estoques 700\nAtivo Não Circulante: Imóveis 1.800\nPassivo Circulante: Fornecedores 600 | Salários a Pagar 400 | Impostos a Pagar 300\nPassivo Não Circulante: Empréstimos 500\nPatrimônio Líquido: ?\n\nSeu capital próprio é:",
+      "enunciado": "A empresa Filippe S/A, em dado momento, apresenta o seguinte patrimônio (em R$):\n\nAtivo Circulante: Caixa 500\nClientes 800\nEstoques 700\nAtivo Não Circulante: Imóveis 1.800\nPassivo Circulante: Fornecedores 600\nSalários a Pagar 400\nImpostos a Pagar 300\nPassivo Não Circulante: Empréstimos 500\nPatrimônio Líquido: ?\n\nSeu capital próprio é:",
       "opcoes": [
         "a) R$ 1.900.",
         "b) R$ 2.000.",
