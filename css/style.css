@@ -185,7 +185,7 @@ button:disabled { cursor: default; }
   min-width: 5rem;
   text-align: center;
   font-size: 0.875rem;
-  font-weight: 600;
+  font-weight: 500;
   color: #555;
   border-bottom: 2px solid transparent;
   transition: color 0.12s, border-color 0.12s;
@@ -221,7 +221,7 @@ button:disabled { cursor: default; }
   align-items: center;
   border-radius: 4px;
   font-size: 0.8rem;
-  font-weight: 600;
+  font-weight: 500;
   font-family: 'Courier New', monospace;
   letter-spacing: 0.05em;
 }
@@ -231,7 +231,7 @@ button:disabled { cursor: default; }
 .barra-placar .fixadas { background: #fef3c7; color: #b45309; }
 .questoes-barra button {
   font-size: 0.8rem;
-  font-weight: 600;
+  font-weight: 500;
   color: #ea580c;
   background: transparent;
   border: 1px solid #ea580c;
@@ -255,7 +255,7 @@ button:disabled { cursor: default; }
   align-items: center;
   border-radius: 4px;
   font-size: 0.8rem;
-  font-weight: 600;
+  font-weight: 500;
   font-family: 'Courier New', monospace;
   letter-spacing: 0.05em;
   color: #4b5563;
@@ -280,7 +280,7 @@ button:disabled { cursor: default; }
 }
 
 .questao-banca { font-size: 0.75rem; color: #888; margin-bottom: 0.6rem; }
-.questao-enunciado { margin-bottom: 0.875rem; white-space: pre-wrap; }
+.questao-enunciado { margin-bottom: 0.875rem; white-space: pre-wrap; font-weight: 500; }
 
 .diagrama {
   font-family: 'Courier New', Consolas, monospace;
@@ -416,12 +416,12 @@ button:disabled { cursor: default; }
 .filtro-select.ativo {
   border-color: #1a1a1a;
   color: #1a1a1a;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .btn-limpar {
   font-size: 0.78rem;
-  font-weight: 600;
+  font-weight: 500;
   color: #6b7280;
   background: transparent;
   border: 1px solid #d1d5db;
@@ -529,7 +529,7 @@ button:disabled { cursor: default; }
 .historico-item:hover { background: #fafafa; }
 .historico-titulo { font-size: 0.9rem; font-weight: 500; }
 .historico-info { font-size: 0.8rem; color: #888; margin-top: 0.15rem; }
-.historico-placar { font-weight: 600; font-size: 1rem; }
+.historico-placar { font-weight: 500; font-size: 1rem; }
 
 .btn-limpar-simulados {
   font-size: 0.85rem;
@@ -556,7 +556,7 @@ button:disabled { cursor: default; }
 .hist-tab {
   padding: 0.45rem 1.25rem;
   font-size: 0.9rem;
-  font-weight: 600;
+  font-weight: 500;
   background: none;
   border: none;
   cursor: pointer;
@@ -578,7 +578,7 @@ button:disabled { cursor: default; }
 .qh-chip {
   font-family: monospace;
   font-size: 0.85rem;
-  font-weight: 600;
+  font-weight: 500;
   padding: 0.2rem 0.55rem;
   border-radius: 4px;
 }
@@ -608,13 +608,13 @@ button:disabled { cursor: default; }
 .qh-num {
   width: 2.75rem;
   font-size: 0.85rem;
-  font-weight: 600;
+  font-weight: 500;
   color: #374151;
   flex-shrink: 0;
 }
 .qh-stat {
   font-size: 0.8rem;
-  font-weight: 600;
+  font-weight: 500;
   padding: 0.1rem 0.45rem;
   border-radius: 4px;
 }
