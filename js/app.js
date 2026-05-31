@@ -277,12 +277,11 @@ function renderListaQuestoes(questoes) {
         <select id="filtro-ano"  class="filtro-select"><option value="">Ano</option>${opts(questoes.map(q => q.ano))}</select>
         <select id="filtro-tipo" class="filtro-select"><option value="">Tipo</option>${tipoOpts}</select>
         <select id="filtro-dif"  class="filtro-select"><option value="">Dificuldade</option>${difOpts}</select>
-        <button id="btn-limpar-filtros" class="btn-limpar hidden">Limpar</button>
       </div>
-    </div>
-    <div class="questoes-barra aula-barra-sticky">
-      <div class="barra-placar">${placarHtml()}</div>
-      <button id="btn-expandir">Ver Gabaritos</button>
+      <div class="questoes-barra">
+        <div class="barra-placar">${placarHtml()}</div>
+        <button id="btn-expandir">Ver Gabaritos</button>
+      </div>
     </div>
     ${questoes.map((q, i) => htmlQuestaoLista(q, i)).join('')}
   `;
@@ -314,19 +313,10 @@ function renderListaQuestoes(questoes) {
       card.classList.toggle('hidden', !ids.has(card.dataset.qid))
     );
     FILTROS.forEach(id => document.getElementById(id)?.classList.toggle('ativo', !!val(id)));
-    document.getElementById('btn-limpar-filtros')?.classList.toggle('hidden', !FILTROS.some(id => val(id)));
     atualizarPlacar();
   };
 
   FILTROS.forEach(id => document.getElementById(id)?.addEventListener('change', aplicarFiltros));
-
-  document.getElementById('btn-limpar-filtros')?.addEventListener('click', () => {
-    FILTROS.forEach(id => {
-      const el = document.getElementById(id);
-      if (el) { el.value = ''; el.classList.remove('ativo'); }
-    });
-    aplicarFiltros();
-  });
 
   document.getElementById('btn-expandir').addEventListener('click', (e) => {
     const btn = e.currentTarget;
