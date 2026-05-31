@@ -109,7 +109,7 @@
       "cargo": "Auditor",
       "ano": 2024,
       "tipo": "multipla_escolha",
-      "enunciado": "Uma empresa apresenta a seguinte situação patrimonial:\n\nAtivo Circulante: R$ 100.000,00 | Ativo Não Circulante: R$ 200.000,00\nPassivo Circulante: R$ 80.000,00 | Passivo Não Circulante: R$ 100.000,00\n\nCom base nesses dados, a situação líquida da empresa é de:",
+      "enunciado": "Uma empresa apresenta a seguinte situação patrimonial:\n\nAtivo:\nCirculante: R$ 100.000,00\nNão Circulante: R$ 200.000,00\n\nPassivo:\nCirculante: R$ 80.000,00\nNão Circulante: R$ 100.000,00\n\nCom base nesses dados, a situação líquida da empresa é de:",
       "opcoes": [
         "A) R$ 20.000,00.",
         "B) R$ 120.000,00.",
