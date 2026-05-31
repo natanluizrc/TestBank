@@ -180,6 +180,19 @@ Cruza as questões do JSON com a API pública do TEC Concursos para detectar err
 **Relatório:** `scripts/validacao/{slug}-resultado.json` (pasta no `.gitignore`, não versionada)
 **Não encontradas:** questões de bancas regionais/antigas (CETAP, CEPERJ, EEAR etc.) normalmente ausentes no TEC — não indica erro.
 
+**Campo `validado` no JSON:** o script grava automaticamente no JSON fonte ao final de cada execução:
+- `"validado": true` — questão com status MATCH (confirmada automaticamente)
+- `"validado": false` — questão com status DIFF ou NAO_ENCONTRADA (pendente de revisão manual)
+- campo ausente — questão ainda não passou pelo `validar_web.js`
+
+Após revisão manual de um lote de pendentes (`false`), marcar as confirmadas com `true` diretamente no JSON. As questões pendentes típicas são de bancas/concursos não indexados no TEC (CEPERJ, CETAP, EEAR, IDECAN, concursos antigos FCC/VUNESP/IBFC) — verificar o conteúdo da questão e marcar como `true` se correto.
+
+**Padrão "⚠️ sem diffs de metadados":** quando o status é DIFF mas `diferencas: []`, significa que banca/ano/órgão foram confirmados pelo TEC — apenas o texto difere levemente (formatação, versão ligeiramente diferente). Marcar como `true`.
+
+**Padrão "questão vinculada":** enunciados com "Considerando os mesmos elementos da questão anterior" não são encontrados pelo TEC (a busca por texto falha). Verificar o conteúdo diretamente — se correto, marcar como `true`.
+
+**Divergência de ano (edital vs aplicação):** CEBRASPE frequentemente publica edital em um ano e aplica no seguinte. Exemplo: edital 2024, prova 2025. TEC pode usar o ano de aplicação enquanto nosso JSON usa o edital. Não é erro — marcar como `true`.
+
 Não modificar arquivos JSON existentes, salvo para corrigir erros reportados pelo usuário.
 
 Antes de salvar o JSON, validar com `scripts/validar_aula.js` (automatiza as checagens abaixo):

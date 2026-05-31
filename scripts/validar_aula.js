@@ -231,7 +231,7 @@ function validarArquivo(filePath) {
     }
 
     // campos inesperados
-    const CAMPOS_VALIDOS = new Set(['id','banca','orgao','cargo','ano','tipo','enunciado','opcoes','resposta','comentario','dificuldade','adaptada']);
+    const CAMPOS_VALIDOS = new Set(['id','banca','orgao','cargo','ano','tipo','enunciado','opcoes','resposta','comentario','dificuldade','adaptada','validado']);
     for (const campo of Object.keys(q)) {
       if (!CAMPOS_VALIDOS.has(campo)) {
         warn(`${qid} — campo desconhecido: "${campo}"`); qAvisos++;

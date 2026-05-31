@@ -20,7 +20,8 @@
       ],
       "resposta": "C",
       "comentario": "O item I está errado: a Contabilidade não objetiva fornecer informações principalmente aos administradores — ela atende a todos os usuários, sendo os investidores e credores externos os principais (CPC 00, item 1.5). Os itens II e III estão corretos.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-00-36",
@@ -39,7 +40,8 @@
       ],
       "resposta": "E",
       "comentario": "O objeto de estudo da Contabilidade é o patrimônio das entidades. Gerenciamento, apuração de lucro e geração de relatórios são funções ou finalidades — não o objeto da ciência.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-18",
@@ -51,7 +53,8 @@
       "enunciado": "A respeito de teoria contábil, livros e registros dos fatos contábeis e método das partidas dobradas, julgue o item:\n\nCom relação aos objetivos apropriados para a contabilidade quanto à utilidade da informação contábil, existem divergências de percepções entre administradores e auditores.",
       "resposta": "certo",
       "comentario": "Correto. Administradores usam as informações contábeis para tomar decisões gerenciais. Já os auditores têm foco em verificar se as demonstrações estão livres de distorções e em conformidade com as normas. São perspectivas distintas sobre a utilidade da informação contábil.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-16",
@@ -70,7 +73,8 @@
       ],
       "resposta": "A",
       "comentario": "Item I correto: credores verificam endividamento e liquidez para avaliar a concessão de crédito. Item II correto: investidores buscam lucratividade e distribuição de dividendos. Item III errado: apurar lucro tributável é papel da Receita Federal, não de agências reguladoras. Item IV errado: empregados se interessam pela continuidade da empresa e garantia de emprego, não por demanda de mercado e precificação.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-00-09",
@@ -82,7 +86,8 @@
       "enunciado": "Em relação aos conceitos, objetivos e finalidades da contabilidade, julgue o item:\n\nO principal objetivo da contabilidade é fornecer informações úteis sobre o patrimônio da entidade para finalidades diversas, entre as quais, planejamento, controle e auxílio no processo decisório.",
       "resposta": "certo",
       "comentario": "Correto. A finalidade principal da Contabilidade é fornecer informações úteis sobre o patrimônio para auxiliar os usuários em planejamento, controle e tomada de decisão.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-11",
@@ -94,7 +99,8 @@
       "enunciado": "Em relação aos conceitos, objetivos e finalidades da contabilidade, julgue o item:\n\nA análise de balanços não é considerada uma técnica contábil, tendo em vista que foi formulada e desenvolvida no âmbito da administração financeira.",
       "resposta": "errado",
       "comentario": "Errado. A análise de balanços é sim uma das quatro técnicas contábeis, ao lado de escrituração, elaboração das demonstrações e auditoria. A origem histórica não importa — ela integra a ciência contábil.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-10",
@@ -106,7 +112,8 @@
       "enunciado": "Em relação aos conceitos, objetivos e finalidades da contabilidade, julgue o item:\n\nO objeto de estudo da contabilidade são as entidades econômico-administrativas, o que inclui as instituições com fins sociais.",
       "resposta": "errado",
       "comentario": "Errado. O objeto de estudo da Contabilidade é o patrimônio. As entidades econômico-administrativas (aziendas) representam o campo de aplicação — onde a Contabilidade atua —, não o que ela estuda.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-17",
@@ -125,7 +132,8 @@
       ],
       "resposta": "D",
       "comentario": "Para Vicenzo Masi (escola Patrimonialista), o objeto da Contabilidade é o patrimônio. As contas são instrumentos de registro; a azienda é o campo de aplicação; os réditos (resultado/lucro) são a finalidade econômica.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-13",
@@ -137,7 +145,8 @@
       "enunciado": "Considerando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da finalidade organizacional, julgue o item:\n\nSob a ótica citada, o objeto da contabilidade é o patrimônio do ente contábil específico.",
       "resposta": "certo",
       "comentario": "Correto. O objeto de estudo da Contabilidade é o patrimônio — conjunto de bens, direitos e obrigações do ente contábil específico.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-14",
@@ -149,7 +158,8 @@
       "enunciado": "Considerando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da finalidade organizacional, julgue o item:\n\nA contabilidade integra o rol das ciências exatas por estar dedicada à mensuração da riqueza do ente contábil.",
       "resposta": "errado",
       "comentario": "Errado. A Contabilidade é uma ciência social aplicada, não uma ciência exata. Usar números não transforma a ciência em exata — o que define a classificação é o objeto de estudo, que aqui é o patrimônio das entidades humanas.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-15",
@@ -161,7 +171,8 @@
       "resposta": "errado",
       "comentario": "Errado. O que foi descrito é o Patrimônio Líquido (PL = Ativo – Passivo). O patrimônio (ou ativo total) é o conjunto completo de bens, direitos e obrigações — inclui o passivo, não o subtrai.",
       "dificuldade": 2,
-      "orgao": "Polícia Federal"
+      "orgao": "Polícia Federal",
+      "validado": true
     },
     {
       "id": "cg-00-12",
@@ -173,7 +184,8 @@
       "enunciado": "A respeito da contabilidade geral, julgue o item:\n\nA contabilidade teórica consiste no registro das operações de determinada entidade em livros mantidos para essa finalidade.",
       "resposta": "errado",
       "comentario": "Errado. O enunciado descreve a Contabilidade Prática, que aplica as técnicas nos livros. A Contabilidade Teórica estuda a ciência contábil em si — seus princípios, normas e fundamentos.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-08",
@@ -192,7 +204,8 @@
       ],
       "resposta": "D",
       "comentario": "Conforme o CPC 00 (R2), item 1.5: investidores, credores por empréstimos e outros credores existentes e potenciais são os principais usuários dos relatórios financeiros de propósito geral — porque eles não podem exigir informações diretamente das entidades e precisam se basear nos relatórios publicados.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-00-48",
@@ -211,7 +224,8 @@
       ],
       "resposta": "A",
       "comentario": "O Princípio da Entidade reconhece a autonomia patrimonial da empresa — o patrimônio da empresa não se confunde com o dos seus sócios. É esse princípio que justifica tratar a entidade como um patrimônio distinto no universo de todos os patrimônios.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-47",
@@ -230,7 +244,8 @@
       ],
       "resposta": "A",
       "comentario": "Objeto = patrimônio; Finalidade = fornecer informações úteis para a tomada de decisões dos usuários em geral. As demais alternativas ou confundem o objeto com bens/atividades ou restringem a finalidade a usuários específicos.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-53",
@@ -249,7 +264,8 @@
       ],
       "resposta": "D",
       "comentario": "Escrituração é a técnica que registra todos os fatos contábeis por meio de lançamentos, controlando o patrimônio e suas variações. Avaliação, classificação e provisão não são técnicas contábeis — são processos ou elementos dentro da escrituração.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-59",
@@ -268,7 +284,8 @@
       ],
       "resposta": "E",
       "comentario": "O enunciado descreve as aziendas — campo de aplicação da Contabilidade. Azienda é o patrimônio gerido de maneira organizada para atingir objetivos econômicos ou sociais, com ou sem fins lucrativos. O conceito é mais amplo do que empresa ou companhia.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-54",
@@ -287,7 +304,8 @@
       ],
       "resposta": "B",
       "comentario": "Os administradores gerenciam a empresa no dia a dia e têm maior interesse em exibir bons resultados para consolidar sua posição e garantir participação nos lucros (bônus, etc.). Diferem dos acionistas, que focam principalmente em dividendos e valorização da ação.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-00-38",
@@ -306,7 +324,8 @@
       ],
       "resposta": "D",
       "comentario": "O objetivo primeiro da Contabilidade é fornecer informações úteis para a tomada de decisão dos usuários interessados — não exclusivamente gestores (letra B) nem só para fins fiscais (letra C). Todos os usuários (internos e externos) são contemplados.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-37",
@@ -325,7 +344,8 @@
       ],
       "resposta": "E",
       "comentario": "Os investidores são os que mais se preocupam com risco: aplicam capital esperando retorno e podem perder o que investiram. Credores verificam liquidez; fornecedores avaliam solvência de curto prazo; empregados buscam estabilidade de emprego.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-60",
@@ -344,7 +364,8 @@
       ],
       "resposta": "D",
       "comentario": "O objeto da Contabilidade é estudar o patrimônio das entidades (bens, direitos e obrigações). Gerar informações, elaborar relatórios e prestar contas são finalidades ou técnicas contábeis, não o objeto da ciência em si.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-58",
@@ -363,7 +384,8 @@
       "resposta": "D",
       "comentario": "Orçamento não é uma técnica contábil. As quatro técnicas são: escrituração, elaboração das demonstrações contábeis, auditoria e análise de balanços. Orçamento é uma ferramenta de gestão financeira.",
       "dificuldade": 2,
-      "cargo": "Não identificado"
+      "cargo": "Não identificado",
+      "validado": true
     },
     {
       "id": "cg-00-62",
@@ -381,7 +403,8 @@
       "resposta": "B",
       "comentario": "A sequência correta: \"Contabilidade é uma ciência que possibilita, por meio de suas técnicas, o controle permanente do Patrimônio das empresas.\" A letra D erra ao colocar \"escrituração\" no lugar de \"técnica\" — a escrituração é apenas uma das técnicas contábeis, não o conjunto delas.",
       "dificuldade": 2,
-      "cargo": "Não identificado"
+      "cargo": "Não identificado",
+      "validado": true
     },
     {
       "id": "cg-00-64",
@@ -400,7 +423,8 @@
       "resposta": "A",
       "comentario": "O campo de aplicação da Contabilidade exige patrimônio sendo gerido (azienda = patrimônio + gestão). O conceito independe de legalidade — até atividades ilícitas têm patrimônio. Só as simples reuniões de pessoas sem organização, sem finalidade e sem recursos ficam de fora, pois não há patrimônio a ser contabilizado.",
       "dificuldade": 3,
-      "cargo": "Agente Fiscal de Tributos Estaduais"
+      "cargo": "Agente Fiscal de Tributos Estaduais",
+      "validado": true
     },
     {
       "id": "cg-00-63",
@@ -419,7 +443,8 @@
       ],
       "resposta": "E",
       "comentario": "As aziendas se classificam quanto ao fim em: econômicas (empresas com objetivo de lucro), econômico-sociais (associações, cuja sobra é destinada a outros fins) e sociais (entes públicos como União, Estados, Municípios). Essa é a classificação pela finalidade — diferente de forma jurídica ou origem do capital.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-00-61",
@@ -437,7 +462,8 @@
       ],
       "resposta": "D",
       "comentario": "A auditoria independente é obrigatória para todas as companhias abertas (S.A. de capital aberto), conforme o art. 177, §3° da Lei 6.404/76. As outras técnicas também são obrigatórias em geral, mas a característica distintiva da auditoria é justamente essa exigência legal específica para companhias abertas.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-19",
@@ -456,7 +482,8 @@
       ],
       "resposta": "C",
       "comentario": "A Contabilidade tem duas funções: administrativa (controle do patrimônio) e econômica (apuração do resultado — lucro ou prejuízo, também chamado de rédito). As demais alternativas confundem funções com técnicas ou finalidades específicas.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-20",
@@ -475,7 +502,8 @@
       ],
       "resposta": "E",
       "comentario": "O objeto da Contabilidade é o patrimônio (bens, direitos e obrigações). Contas, lançamentos e demonstrações são instrumentos e produtos das técnicas contábeis.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-21",
@@ -494,7 +522,8 @@
       ],
       "resposta": "B",
       "comentario": "Patrimônio = bens + direitos + obrigações. O Patrimônio Líquido é um conceito derivado (ativo – passivo) e não compõe o patrimônio propriamente dito. \"Recursos\" é um termo impreciso.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-51",
@@ -513,7 +542,8 @@
       ],
       "resposta": "E",
       "comentario": "As quatro técnicas contábeis são: escrituração, demonstrações contábeis, auditoria e análise das demonstrações (análises). As demais alternativas descrevem elementos patrimoniais, equações contábeis ou classificações de fatos.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-52",
@@ -532,7 +562,8 @@
       ],
       "resposta": "A",
       "comentario": "O objeto das Ciências Contábeis é o patrimônio (bens + direitos + obrigações). Ativo e passivo são subdivisões do patrimônio; receitas e despesas são contas de resultado; situação líquida patrimonial é outra denominação para Patrimônio Líquido.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-07",
@@ -550,7 +581,8 @@
       ],
       "resposta": "D",
       "comentario": "Administrar recursos escassos compatibilizando-os com as necessidades da sociedade é objetivo da Economia, não da Contabilidade. Os objetivos contábeis giram em torno de mensurar, evidenciar e fornecer informações sobre o patrimônio.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-04",
@@ -569,7 +601,8 @@
       ],
       "resposta": "C",
       "comentario": "O objeto da Contabilidade é o patrimônio (bens, direitos e obrigações). Demonstrações contábeis e balanço patrimonial são produtos das técnicas contábeis, não o objeto da ciência.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-05",
@@ -588,7 +621,8 @@
       ],
       "resposta": "D",
       "comentario": "Escrituração = Técnica Contábil (5); Fornecedor = Usuário Externo (4); Entidade = Campo de Aplicação (2); Resultado = Finalidade Econômica (3); Patrimônio = Objeto de Estudo (1). Sequência: 5 – 4 – 2 – 3 – 1.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-00-03",
@@ -607,7 +641,8 @@
       ],
       "resposta": "C",
       "comentario": "A riqueza líquida (Patrimônio Líquido) é obtida pelo confronto entre ativo (bens e direitos) e passivo (obrigações): PL = Ativo – Passivo. Confrontar receitas com despesas indica o resultado do período, não a riqueza total acumulada.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-01",
@@ -626,7 +661,8 @@
       ],
       "resposta": "E",
       "comentario": "Ativo (bens e direitos) = aplicações de recursos. Passivo (obrigações) = origens externas dos recursos. A letra A erra ao incluir os direitos no passivo — direitos pertencem ao ativo. A letra C erra a terminologia: passivos são ordenados por exigibilidade, não por solvência.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-06",
@@ -645,7 +681,8 @@
       ],
       "resposta": "A",
       "comentario": "Conforme o CPC 26, as demonstrações contábeis de propósito geral existem para atender às necessidades informacionais dos usuários externos. A estrutura normativa do balanço patrimonial serve, portanto, para aprimorar a capacidade informativa dessas demonstrações.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-02",
@@ -664,7 +701,8 @@
       ],
       "resposta": "D",
       "comentario": "O objeto da Contabilidade é o patrimônio — conjunto de bens, direitos e obrigações. Receitas, despesas, caixa e lucro são aspectos relacionados ao patrimônio, mas não representam o objeto da ciência contábil em si.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-34",
@@ -682,7 +720,8 @@
       ],
       "resposta": "D",
       "comentario": "Escrituração é a técnica que registra cronologicamente todos os fatos que afetam o patrimônio nos livros contábeis, no idioma e moeda do país onde a entidade está instalada. O detalhe-chave aqui é o \"cronologicamente\".",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-31",
@@ -700,7 +739,8 @@
       ],
       "resposta": "A",
       "comentario": "Patrimônio = bens + direitos + obrigações. A letra B fala apenas de recursos financeiros (que são uma parcela do ativo). A letra C menciona só bens materiais. A letra D lista apenas parte dos direitos. Só a A traz a definição completa.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-46",
@@ -718,7 +758,8 @@
       ],
       "resposta": "C",
       "comentario": "Azienda é o patrimônio de uma pessoa gerido de maneira organizada — sinônimo de entidade econômico-administrativa. Abrange empresas lucrativas, associações e órgãos públicos (com ou sem fins lucrativos).",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-39",
@@ -737,7 +778,8 @@
       ],
       "resposta": "A",
       "comentario": "Fornecer informações econômicas e financeiras é a finalidade da Contabilidade. O objeto é o patrimônio; o campo de aplicação são as aziendas. A questão usa \"finalidade\" como o propósito central — o para quê a Contabilidade existe.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-42",
@@ -755,7 +797,8 @@
       ],
       "resposta": "C",
       "comentario": "A letra C está correta: a Contabilidade é um sistema de informação que controla o patrimônio e auxilia usuários na tomada de decisão. A A erra ao excluir pessoas físicas; a B erra ao dizer \"tempo real\"; a E descreve o Patrimônio Líquido, não o patrimônio.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-55",
@@ -773,7 +816,8 @@
       ],
       "resposta": "A",
       "comentario": "Bens tangíveis = corpóreos, concretos, materiais (têm substância física: máquinas, estoque, veículos). Bens intangíveis = incorpóreos, abstratos, imateriais (não têm substância física: patentes, marcas, licenças). A alternativa A combina corretamente todos esses adjetivos.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-56",
@@ -791,7 +835,8 @@
       ],
       "resposta": "D",
       "comentario": "Todas as quatro são técnicas contábeis reconhecidas pela doutrina. A questão lista exatamente as quatro técnicas, por isso a alternativa D é a correta.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-57",
@@ -809,7 +854,8 @@
       ],
       "resposta": "A",
       "comentario": "Patrimônio = bens + direitos + obrigações. A letra C descreve o Patrimônio Líquido (ativo – passivo), não o patrimônio total, que inclui as obrigações em vez de subtraí-las.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-50",
@@ -828,7 +874,8 @@
       ],
       "resposta": "E",
       "comentario": "O governo tem duplo interesse: arrecadar tributos (interesse fiscal) e analisar dados econômicos agregados para formular políticas públicas. É um dos usuários externos clássicos das demonstrações contábeis, explicitamente reconhecido pela doutrina.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-49",
@@ -847,7 +894,8 @@
       ],
       "resposta": "B",
       "comentario": "O conceito descrito define o objetivo da Contabilidade — fornecer informações úteis sobre o patrimônio para a tomada de decisões. O objeto é o patrimônio em si; o campo de aplicação são as entidades (aziendas). A confusão mais comum é entre objeto e objetivo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-35",
@@ -865,7 +913,8 @@
       ],
       "resposta": "B",
       "comentario": "A letra B está errada: a escrituração registra os fatos contábeis em ordem cronológica — não independentemente dela. A ordem cronológica é uma característica essencial da escrituração. As demais definições estão corretas.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-30",
@@ -883,7 +932,8 @@
       ],
       "resposta": "D",
       "comentario": "Os itens I a IV descrevem corretamente funções e utilidades da Contabilidade. O item V está errado ao dizer que a missão está voltada exclusivamente a gestores e entes governamentais — na verdade, a Contabilidade produz informações para todos os seus usuários (internos e externos).",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-00-45",
@@ -902,7 +952,8 @@
       ],
       "resposta": "B",
       "comentario": "O item I está errado: a Contabilidade é ciência social, não exata. Usar números não transforma uma ciência em exata. Os itens II (objeto = patrimônio, objetivo = controle), III (finalidade = informações) e IV (todos os usuários listados) estão corretos.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-00-44",
@@ -920,7 +971,8 @@
       ],
       "resposta": "D",
       "comentario": "O Conselho de Administração é usuário interno — faz parte da gestão da empresa. Clientes, bancos e acionistas (que não integram a administração) são usuários externos. Apenas acionistas controladores seriam considerados internos.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-43",
@@ -938,7 +990,8 @@
       ],
       "resposta": "A",
       "comentario": "A Contabilidade é uma ciência social (aplicada). Embora trabalhe intensamente com números e cálculos, o que define sua classificação é o objeto de estudo — o patrimônio das entidades humanas —, que pertence ao campo das ciências sociais.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-32",
@@ -957,7 +1010,8 @@
       ],
       "resposta": "C",
       "comentario": "As duas funções essenciais da Contabilidade são: administrativa (controle do patrimônio) e econômica (apuração do lucro ou prejuízo do exercício, também chamado rédito). As funções \"preventiva\", \"monetária\" e \"cambial\" não existem na doutrina contábil.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-40",
@@ -976,7 +1030,8 @@
       ],
       "resposta": "C",
       "comentario": "O objetivo da Contabilidade é gerar informações úteis para a tomada de decisões pelos usuários. As letras A, B, D e E descrevem aplicações específicas ou funções parciais — não o objetivo geral da ciência.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-41",
@@ -995,7 +1050,8 @@
       ],
       "resposta": "D",
       "comentario": "As quatro técnicas contábeis são: escrituração, demonstrações contábeis, auditoria e análise de balanços. Diário e Razão são livros contábeis — instrumentos da escrituração —, não técnicas em si.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-26",
@@ -1014,7 +1070,8 @@
       ],
       "resposta": "D",
       "comentario": "O conjunto de bens, direitos e obrigações vinculados a uma entidade e que constitui o meio para realizar seus objetivos é o patrimônio — definição clássica da Contabilidade.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-28",
@@ -1033,7 +1090,8 @@
       ],
       "resposta": "E",
       "comentario": "O campo de aplicação da Contabilidade são as aziendas — entidades que exercem atividade econômica como meio (hospitais, associações) ou como fim (empresas comerciais). Não se limita a atividades industriais nem ao setor público.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-29",
@@ -1052,7 +1110,8 @@
       ],
       "resposta": "A",
       "comentario": "Conforme a Estrutura Conceitual (CPC 00), as demonstrações contábeis objetivam fornecer informações úteis para a tomada de decisões econômicas pelos usuários em geral. As demais alternativas restringem indevidamente esse objetivo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-24",
@@ -1071,7 +1130,8 @@
       ],
       "resposta": "E",
       "comentario": "O objetivo da Contabilidade é gerar informações úteis para o apoio das decisões econômico-financeiras dos usuários. As demais alternativas restringem o objetivo a finalidades específicas (impostos, estoques, obrigações trabalhistas) — que são apenas facetas parciais.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-23",
@@ -1090,7 +1150,8 @@
       ],
       "resposta": "C",
       "comentario": "Todos esses grupos são usuários potenciais. O público (incluindo associações profissionais e entidades de classe) é reconhecido como usuário externo das demonstrações, pois as atividades das empresas afetam a comunidade de diversas formas.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-25",
@@ -1109,7 +1170,8 @@
       ],
       "resposta": "D",
       "comentario": "O objeto próprio da Contabilidade é o patrimônio das entidades (bens + direitos + obrigações). Os direitos (letra B) são apenas parte do patrimônio — correta mas incompleta. As obrigações dos donos da empresa confundem patrimônio da entidade com o dos sócios.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-00-22",
@@ -1128,7 +1190,8 @@
       ],
       "resposta": "B",
       "comentario": "A alternativa B descreve corretamente a Contabilidade como sistema de informações para subsidiar decisões. A D erra ao classificá-la como ciência exata; a E erra ao dizer que o objetivo principal é a tributação; a C erra ao reduzir tudo a simples registro.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-00-27",
@@ -1147,7 +1210,8 @@
       ],
       "resposta": "A",
       "comentario": "A Contabilidade se aplica a todas as entidades (aziendas), com ou sem fins lucrativos — empresas, associações, fundações, órgãos públicos. O termo \"entidades\" é o mais abrangente e tecnicamente correto; \"empresas\" seria muito restrito.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     }
   ]
 }
