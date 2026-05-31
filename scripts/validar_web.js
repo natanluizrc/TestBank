@@ -282,6 +282,21 @@ async function validarArquivo(filePath, delayMs) {
     questoes: resultados,
   }, null, 2) + '\n', 'utf-8');
 
+  // ─── Marca questões validadas no JSON fonte ─────────────────────────────────
+
+  const matchIds = new Set(resultados.filter(r => r.status === 'MATCH').map(r => r.id));
+  let atualizadas = 0;
+  for (const q of data.questoes) {
+    if (matchIds.has(q.id) && !q.validado) {
+      q.validado = true;
+      atualizadas++;
+    }
+  }
+  if (atualizadas > 0) {
+    fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + '\n', 'utf-8');
+    console.log(`\n${C.blue}[INFO]${C.reset} ${atualizadas} questões marcadas como validado: true em ${rel}`);
+  }
+
   // ─── Sumário ────────────────────────────────────────────────────────────────
 
   const taxa = questoes.length ? Math.round(nMatch * 100 / questoes.length) : 0;
