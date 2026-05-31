@@ -21,3 +21,6 @@ node_modules/
 
 # Claude Code
 .claude/
+
+# Resultados de validação web (gerados, não versionados)
+scripts/validacao/
