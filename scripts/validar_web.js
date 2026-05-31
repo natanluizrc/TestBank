@@ -284,17 +284,16 @@ async function validarArquivo(filePath, delayMs) {
 
   // ─── Marca questões validadas no JSON fonte ─────────────────────────────────
 
-  const matchIds = new Set(resultados.filter(r => r.status === 'MATCH').map(r => r.id));
-  let atualizadas = 0;
+  const matchIds   = new Set(resultados.filter(r => r.status === 'MATCH').map(r => r.id));
+  const pendIds    = new Set(resultados.filter(r => r.status === 'DIFF' || r.status === 'NAO_ENCONTRADA').map(r => r.id));
+  let nTrue = 0, nFalse = 0;
   for (const q of data.questoes) {
-    if (matchIds.has(q.id) && !q.validado) {
-      q.validado = true;
-      atualizadas++;
-    }
+    if (matchIds.has(q.id) && !q.validado) { q.validado = true;  nTrue++;  }
+    if (pendIds.has(q.id)  && q.validado === undefined) { q.validado = false; nFalse++; }
   }
-  if (atualizadas > 0) {
+  if (nTrue + nFalse > 0) {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + '\n', 'utf-8');
-    console.log(`\n${C.blue}[INFO]${C.reset} ${atualizadas} questões marcadas como validado: true em ${rel}`);
+    console.log(`\n${C.blue}[INFO]${C.reset} ${nTrue} confirmadas (true) · ${nFalse} pendentes (false) em ${rel}`);
   }
 
   // ─── Sumário ────────────────────────────────────────────────────────────────

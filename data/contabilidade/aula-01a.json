@@ -19,7 +19,8 @@
       ],
       "resposta": "D",
       "comentario": "Quando Ativo > Passivo, o PL é positivo — situação líquida favorável, ativa, positiva ou superavitária. A alternativa D descreve corretamente: Ativo maior que Passivo e PL (capital próprio) maior que Passivo (capital de terceiros).",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": false
     },
     {
       "id": "cg-01a-97",
@@ -274,7 +275,8 @@
       "enunciado": "Quando a situação líquida de uma entidade for negativa, isso significa que o somatório dos saldos das contas de passivo é menor que o somatório dos saldos das contas de ativo.",
       "resposta": "errado",
       "comentario": "Errado. Situação líquida negativa (passivo a descoberto) ocorre quando Passivo > Ativo. O somatório das contas de passivo é MAIOR, não menor, que o somatório das contas de ativo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": false
     },
     {
       "id": "cg-01a-30",
@@ -299,7 +301,8 @@
       "enunciado": "Em uma entidade em que o total de passivos se iguala ao total de seus ativos, ocorre o chamado passivo a descoberto.",
       "resposta": "errado",
       "comentario": "Errado. Quando Ativo = Passivo, a situação líquida é nula (PL = 0), não passivo a descoberto. O passivo a descoberto ocorre apenas quando Passivo > Ativo (PL < 0).",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": false
     },
     {
       "id": "cg-01a-60",
@@ -338,7 +341,8 @@
       ],
       "resposta": "D",
       "comentario": "Ativo = imobilizado + caixa − depreciação + estoques = 35.000 + 10.000 − 4.000 + 24.000 = R$ 65.000. Passivo = fornecedores + empréstimos = 22.000 + 30.000 = R$ 52.000. PL = 65.000 − 52.000 = R$ 13.000. Situação líquida positiva em R$ 13.000. A depreciação acumulada é retificadora do ativo imobilizado.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": false
     },
     {
       "id": "cg-01a-59",
@@ -396,7 +400,8 @@
       "resposta": "certo",
       "comentario": "Correto. Na situação de passivo a descoberto, o Passivo supera a soma do Ativo com o PL (negativo). A expressão está correta: mesmo somando o PL negativo ao Ativo, o resultado ainda é menor que o Passivo.",
       "dificuldade": 2,
-      "ano": 2024
+      "ano": 2024,
+      "validado": false
     },
     {
       "id": "cg-01a-61",
@@ -408,7 +413,8 @@
       "enunciado": "Determinada empresa apresentou, em 31 de dezembro de 2020, um patrimônio composto pelos seguintes elementos: Caixa R$ 20.000; Duplicatas a Receber R$ 50.000; Empréstimo a pagar R$ 30.000; Estoques R$ 40.000; Imóveis de uso próprio R$ 200.000; Depreciação Acumulada R$ 10.000; Capital Social R$ 220.000; Fornecedores R$ 20.000; Salários a pagar R$ 50.000; Reservas de Lucro R$ 10.000; Depósitos em banco R$ 10.000; Impostos a Recolher R$ 10.000; Aplicações Financeiras de Liquidez Imediata R$ 30.000.\n\nCom base nesses elementos, em 31 de dezembro de 2020, a situação patrimonial líquida da empresa alcançou o montante de R$ 230.000,00.",
       "resposta": "certo",
       "comentario": "Ativo = 20.000 + 50.000 + 40.000 + 200.000 − 10.000 + 10.000 + 30.000 = R$ 340.000. Passivo = 30.000 + 20.000 + 50.000 + 10.000 = R$ 110.000. PL = 340.000 − 110.000 = R$ 230.000. Confirmado também pela soma das contas de PL: Capital Social (220.000) + Reservas de Lucro (10.000) = R$ 230.000.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": false
     },
     {
       "id": "cg-01a-62",
@@ -420,7 +426,8 @@
       "enunciado": "Considerando os mesmos elementos patrimoniais da questão anterior (empresa com patrimônio levantado em 31/12/2020), os saldos dos recursos aplicados no ativo da empresa totalizaram R$ 350.000,00 em 31 de dezembro de 2020; desse total, R$ 120.000 foram provenientes de capital de terceiros.",
       "resposta": "errado",
       "comentario": "O enunciado contém dois erros. Primeiro: os recursos aplicados no ativo totalizam R$ 340.000, não R$ 350.000. Segundo: o capital de terceiros (Passivo) é R$ 110.000, não R$ 120.000. Basta calcular Ativo = 20.000 + 50.000 + 40.000 + 200.000 − 10.000 + 10.000 + 30.000 = R$ 340.000 e Passivo = 30.000 + 20.000 + 50.000 + 10.000 = R$ 110.000.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": false
     },
     {
       "id": "cg-01a-63",
@@ -472,7 +479,8 @@
       ],
       "resposta": "A",
       "comentario": "As origens de recursos são o Passivo (capital de terceiros) somado ao Patrimônio Líquido (capital próprio): R$ 180.000 + R$ 420.000 + R$ 345.000 = R$ 945.000. Esse valor é igual ao total do Ativo (aplicações), confirmando a equação fundamental. O Ativo por si só também totaliza R$ 305.000 + R$ 640.000 = R$ 945.000.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": false
     },
     {
       "id": "cg-01a-68",
@@ -666,7 +674,8 @@
       ],
       "resposta": "D",
       "comentario": "Bens de propriedade da empresa pertencentes ao ativo: Estoque (5). Mais importante relatório contábil: Balanço Patrimonial (3). Investimento inicial dos proprietários: Capital Nominal (6). Obrigações exigíveis: Passivo (2). Conjunto de bens e direitos: Ativo (1). Total das aplicações dos proprietários: Patrimônio Líquido (4). Sequência: 5, 3, 6, 2, 1, 4.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": false
     },
     {
       "id": "cg-01a-80",
@@ -943,7 +952,8 @@
       ],
       "resposta": "E",
       "comentario": "Capital de terceiros = Passivo = Ativo − PL = R$ 500.000 − R$ 200.000 = R$ 300.000. O capital total (ativo) é sempre igual à soma do capital próprio (PL) com o capital de terceiros (Passivo).",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": false
     },
     {
       "id": "cg-01a-128",
@@ -1022,7 +1032,8 @@
       ],
       "resposta": "B",
       "comentario": "Quando Passivo > Ativo, pela equação PL = Ativo − Passivo, o PL é negativo, configurando passivo a descoberto. O passivo não assume valor negativo; somente o PL fica com sinal negativo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": false
     },
     {
       "id": "cg-01a-129",
@@ -1181,7 +1192,8 @@
       ],
       "resposta": "B",
       "comentario": "Na equação fundamental, o lado esquerdo (Ativo) representa as aplicações de recursos — bens e direitos. O lado direito (Passivo + PL) representa as origens de recursos: capital de terceiros (Passivo) e capital próprio (PL). O método das partidas dobradas garante que débitos e créditos sejam sempre iguais, mantendo a equação equilibrada.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": false
     },
     {
       "id": "cg-01a-127",
@@ -1277,7 +1289,8 @@
       ],
       "resposta": "A",
       "comentario": "A equação fundamental da contabilidade é Ativo = Passivo + Patrimônio Líquido, ou suas formas equivalentes: PL = Ativo − Passivo e Passivo = Ativo − PL. Expandindo para subgrupos: AC + ANC = PC + PNC + PL.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": false
     },
     {
       "id": "cg-01a-70",
@@ -1296,7 +1309,8 @@
       ],
       "resposta": "C",
       "comentario": "A situação patrimonial negativa (passivo a descoberto) ocorre quando Ativo < Passivo, resultando em PL negativo. Não se deve confundir com PL < P (alternativa E), que pode ocorrer mesmo numa situação positiva onde o PL é apenas menor que o Passivo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": false
     },
     {
       "id": "cg-01a-72",
@@ -1673,7 +1687,8 @@
       ],
       "resposta": "A",
       "comentario": "O balanço patrimonial é composto por ativos, passivos e patrimônio líquido. A equação fundamental da contabilidade é Ativo = Passivo + Patrimônio Líquido (A = P + PL), podendo ser reescrita como PL = A − P ou P = A − PL.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": false
     },
     {
       "id": "cg-01a-77",
@@ -1969,7 +1984,8 @@
       ],
       "resposta": "B",
       "comentario": "Capital próprio = Patrimônio Líquido = Ativo − Passivo. Ativo Total = 500 + 800 + 700 + 1.800 = R$ 3.800. Passivo Total = 600 + 400 + 300 + 500 = R$ 1.800. PL = 3.800 − 1.800 = R$ 2.000.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": false
     },
     {
       "id": "cg-01a-105",
@@ -2087,7 +2103,8 @@
       ],
       "resposta": "E",
       "comentario": "Pela equação PL = Ativo − Passivo, se o Passivo supera o Ativo, o PL resulta negativo — situação denominada passivo a descoberto. O PL é o único grupo do balanço que pode assumir valor negativo.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": false
     },
     {
       "id": "cg-01a-119",
@@ -2126,7 +2143,8 @@
       ],
       "resposta": "A",
       "comentario": "A equação fundamental da contabilidade é Ativo = Passivo + Patrimônio Líquido. O lado esquerdo representa as aplicações de recursos (ativo); o lado direito representa as origens de recursos (passivo de terceiros + capital próprio).",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": false
     },
     {
       "id": "cg-01a-122",
@@ -2225,7 +2243,8 @@
       ],
       "resposta": "A",
       "comentario": "Ativo = bens + direitos = R$ 200.000; Passivo = obrigações = R$ 180.000. Situação líquida = Ativo − Passivo = R$ 20.000, positiva. A situação é favorável pois os bens e direitos superam as obrigações.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": false
     },
     {
       "id": "cg-01a-120",
@@ -2304,7 +2323,8 @@
       ],
       "resposta": "A",
       "comentario": "O patrimônio líquido (situação líquida) é a diferença entre o total dos ativos (bens e direitos) e o total dos passivos (obrigações): PL = Ativo − Passivo. Representa o interesse residual dos sócios após deduzir todas as obrigações.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": false
     },
     {
       "id": "cg-01a-48",
@@ -2323,7 +2343,8 @@
       ],
       "resposta": "B",
       "comentario": "PL = Ativo − Passivo = R$ 100.000 − R$ 40.000 = R$ 60.000. O ativo é maior que o passivo, portanto a situação é positiva (superavitária).",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": false
     },
     {
       "id": "cg-01a-123",
@@ -2442,7 +2463,8 @@
       ],
       "resposta": "D",
       "comentario": "O diagrama mostra Ativo = PL, com Passivo = zero. É o caso típico da constituição da sociedade, quando os sócios empregam capital e não há dívidas com terceiros.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": false
     }
   ]
 }
