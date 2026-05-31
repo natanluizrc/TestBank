@@ -351,7 +351,7 @@
       "cargo": "Agente de Polícia Civil",
       "ano": 2022,
       "tipo": "multipla_escolha",
-      "enunciado": "Uma entidade apresentou as seguintes informações (em reais) durante seu primeiro exercício financeiro:\n\nFornecedores: R$ 38.000\nAtivo imobilizado: R$ 36.000\nCaixa e equivalentes: R$ 12.000\nDepreciação acumulada: R$ 3.600\nEstoques: R$ 27.000\nEmpréstimos a pagar (longo prazo): R$ 44.000\n\nCom base nessas informações, é correto afirmar que o valor da situação líquida patrimonial no período foi",
+      "enunciado": "Uma entidade apresentou as seguintes informações (em reais) durante seu primeiro exercício financeiro:\n\n┌──────────────────────────────────────┬─────────────┐\n│             Fornecedores             │  R$ 38.000  │\n├──────────────────────────────────────┼─────────────┤\n│          Ativo imobilizado           │  R$ 36.000  │\n├──────────────────────────────────────┼─────────────┤\n│    Caixa e equivalentes de caixa     │  R$ 12.000  │\n├──────────────────────────────────────┼─────────────┤\n│        Depreciação acumulada         │   R$ 3.600  │\n├──────────────────────────────────────┼─────────────┤\n│               Estoques               │  R$ 27.000  │\n├──────────────────────────────────────┼─────────────┤\n│  Empréstimos a pagar no longo prazo  │  R$ 44.000  │\n└──────────────────────────────────────┴─────────────┘\n\nCom base nessas informações, é correto afirmar que o valor da situação líquida patrimonial no período foi",
       "opcoes": [
         "A) negativa em R$ 82.000,00.",
         "B) negativa em R$ 10.600,00.",
