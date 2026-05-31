@@ -164,6 +164,21 @@ Quando o usuário indicar qual aula processar:
 9. Registrar a aula na lista `MATERIAS` em `app.js` (slug + titulo)
 10. Cada arquivo deve ter no mínimo 30 questões
 11. **Validar** com `node scripts/validar_aula.js data/{materia}/aula-XX.json` — corrigir todos os erros antes de prosseguir
+12. **Validar online** (opcional) com `node scripts/validar_web.js data/{materia}/aula-XX.json` — cruza com TEC Concursos para detectar erros de metadados
+
+### validar_web.js — validação online
+
+Cruza as questões do JSON com a API pública do TEC Concursos para detectar erros de metadados (banca, ano, órgão) e divergências de texto.
+
+**Fonte de dados:** `GET https://www.tecconcursos.com.br/api/questoes/busca?busca={query}&limit=15`
+- Parâmetro correto é `busca` (não `texto`)
+- Retorna `enunciado` completo + metadados, sem autenticação
+- Não retorna alternativas nem gabarito (exige login)
+- QConcursos e Gran Cursos bloqueiam scraping; apenas TEC funciona
+
+**Classificação:** Jaccard de palavras (enunciado + opções) + match de banca/ano → ✅ match (≥0.75) / ⚠️ diff (≥0.50) / 🔍 não encontrada
+**Relatório:** `scripts/validacao/{slug}-resultado.json` (pasta no `.gitignore`, não versionada)
+**Não encontradas:** questões de bancas regionais/antigas (CETAP, CEPERJ, EEAR etc.) normalmente ausentes no TEC — não indica erro.
 
 Não modificar arquivos JSON existentes, salvo para corrigir erros reportados pelo usuário.
 
