@@ -19,7 +19,8 @@
         "B) D: Caixa R$ 5.000 / C: Capital Social R$ 5.000 | D: Imóvel R$ 3.000 / C: Bancos R$ 3.000",
         "C) D: Capital Social R$ 5.000 / C: Bancos R$ 5.000 | D: Títulos a Pagar R$ 5.000 / C: Bancos R$ 5.000",
         "D) D: Capital Social R$ 5.000 / C: Caixa R$ 5.000 | D: Títulos a Pagar R$ 1.000 + Imóveis R$ 2.000 / C: Bancos R$ 3.000"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-083",
@@ -37,7 +38,8 @@
         "B) Lucro de R$ 3.100,00.",
         "C) Prejuízo de R$ 100,00.",
         "D) Prejuízo de R$ 1.100,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-100",
@@ -57,7 +59,8 @@
         "C) Esse desconto é concedido no ato da compra e é uma dedução da receita.",
         "D) Esse desconto é concedido no ato da compra das mercadorias e não é dedutível na DR.",
         "E) Esse desconto é concedido somente na compra de mercadorias para revenda ou de bens para uso."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-106",
@@ -76,7 +79,8 @@
         "C) D - Terreno / C - Duplicatas a Receber.",
         "D) D - Fornecedores / C - Terrenos.",
         "E) D - Financiamento / C - Edificações."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-076",
@@ -95,7 +99,8 @@
         "C) R$ 88.000,00.",
         "D) R$ 80.000,00.",
         "E) R$ 60.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-092",
@@ -114,7 +119,8 @@
         "C) regime misto.",
         "D) regime financeiro.",
         "E) regime orçamentário."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-101",
@@ -133,7 +139,8 @@
         "C) Diminui o ativo e o passivo.",
         "D) Aumenta o passivo e diminui o patrimônio líquido.",
         "E) Aumenta o passivo e o patrimônio líquido."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-099",
@@ -152,7 +159,8 @@
         "C) Lucro de R$ 140.000,00 Prejuízo de R$ 40.000,00.",
         "D) Lucro de R$ 160.000,00 Lucro de R$ 200.000,00.",
         "E) Lucro de R$ 200.000,00 Lucro de R$ 160.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-107",
@@ -171,7 +179,8 @@
         "C) D- Despesas com Prêmio de Seguros. C- Prêmio de Seguro a apropriar",
         "D) D- Despesas com Prêmio de Seguros. C- Prêmio de Seguros a pagar.",
         "E) D- Prêmio de Seguro a apropriar. C- Prêmio de Seguros a pagar."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-082",
@@ -190,7 +199,8 @@
         "C) Caixa e Competência;",
         "D) Débito e Crédito;",
         "E) Débito e Competência."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-073",
@@ -209,7 +219,8 @@
         "C) regime de caixa",
         "D) regime de competência",
         "E) regime financeiro"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-084",
@@ -228,7 +239,8 @@
         "C) 110.000,00.",
         "D) 140.000,00.",
         "E) 170.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-081",
@@ -246,7 +258,28 @@
         "B) abril / 2022 corresponde a R$ 420.000,00.",
         "C) maio / 2022 corresponde a R$ 350.000,00.",
         "D) junho / 2022 corresponde a R$ 70.000,00."
-      ]
+      ],
+      "validado": true
+    },
+    {
+      "id": "cg-03-125",
+      "tipo": "multipla_escolha",
+      "enunciado": "Certa empresa adquiriu um veículo por R$20.000. Pagou em moeda corrente 50% da compra, com 5% de desconto, e aceitou uma duplicata pela dívida restante.\n\nCom essa operação, pode-se afirmar que o ativo da empresa:",
+      "opcoes": [
+        "A) Aumentou em R$20.000.",
+        "B) Diminuiu em R$9.500.",
+        "C) Aumentou em R$9.500.",
+        "D) Aumentou em R$10.500.",
+        "E) Diminuiu em R$10.500."
+      ],
+      "resposta": "C",
+      "comentario": "O desconto obtido no momento da aquisição é considerado incondicional e não é considerado como receita. Na verdade, não há necessidade de contabilização. Temos que o veículo custa 20.000 e foi concedido um desconto de 5%, isto é, 1.000. Portanto, o adquirente fez a aquisição por 19.000, pagando 50% à vista, isto é, 9.500 em dinheiro e 9.500 serão pagos a prazo: D Veículos (ativo) C Caixa (ativo circulante) C Duplicatas a pagar (passivo) 19.000 9.500 9.500 Percebam que o Ativo da empresa aumentou em 19.000 9.500 = 9.500.",
+      "dificuldade": 2,
+      "banca": "CONSULPLAN",
+      "orgao": "COFEN",
+      "cargo": "Técnico",
+      "validado": true,
+      "ano": 2011
     },
     {
       "id": "cg-03-115",
@@ -265,7 +298,8 @@
         "C) D Capital a Realizar C Capital Social R$ 200.000,00",
         "D) D Capital a Realizar C Móveis R$ 200.000,00",
         "E) D Capital Social C Capital a Realizar R$ 200.000,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-079",
@@ -283,7 +317,8 @@
         "B) Regime de Competência.",
         "C) Regime Fiscal.",
         "D) Regime Fixo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-128",
@@ -302,7 +337,8 @@
         "D) receitas ganhas e não recebidas.",
         "E) depreciações e amortizações do período."
       ],
-      "orgao": "UFAL"
+      "orgao": "UFAL",
+      "validado": true
     },
     {
       "id": "cg-03-094",
@@ -321,7 +357,8 @@
         "C) Duas contas devedoras e uma credora",
         "D) Uma conta devedora e uma credora",
         "E) Duas contas credores"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-129",
@@ -340,7 +377,8 @@
         "C) As despesas deverão ser reconhecidas contabilmente no período em que forem incorridas, não importando que hajam sido pagas ou não.",
         "D) As receitas e as despesas deverão ser contabilmente reconhecidas, respectivamente, quando do recebimento e pagamento de seu valor.",
         "E) O patrimônio líquido só pode ser positivo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-119",
@@ -359,7 +397,8 @@
         "C) um passivo.",
         "D) uma perda.",
         "E) uma receita."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-075",
@@ -378,7 +417,8 @@
         "C) regime financeiro.",
         "D) regime orçamentário.",
         "E) regime de competência"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-002",
@@ -397,7 +437,8 @@
         "C) 230.000,00.",
         "D) 175.000,00.",
         "E) 210.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-001",
@@ -416,7 +457,8 @@
         "C) Caixa: 150.000,00; Resultado do exercício: 260.000,00.",
         "D) Caixa: 140.000,00; Resultado do exercício: 200.000,00.",
         "E) Caixa: 150.000,00; Resultado do exercício: 200.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-007",
@@ -435,7 +477,8 @@
         "C) creditou o caixa e creditou estoques.",
         "D) creditou o caixa e debitou passivo não circulante",
         "E) debitou o caixa e creditou ativo não circulante."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-006",
@@ -454,7 +497,8 @@
         "C) abril, maio e junho.",
         "D) abril.",
         "E) maio e junho."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-011",
@@ -473,7 +517,8 @@
         "C) 490.000,00.",
         "D) 475.000,00.",
         "E) 540.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-024",
@@ -492,7 +537,8 @@
         "C) são reconhecidas no resultado as depreciações e as receitas a vista.",
         "D) não são reconhecidas as despesas provisionadas e o resultado de equivalência patrimonial.",
         "E) será atribuído ao resultado do exercício as despesas efetivamente incorridas no período."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-026",
@@ -511,7 +557,8 @@
         "C) lança o valor do desconto como despesas comerciais.",
         "D) efetua um crédito de R$ 20.000 em conta de passivo.",
         "E) reconhece uma receita pelo valor do desconto obtido."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-028",
@@ -529,7 +576,8 @@
         "C) lança o valor do desconto como despesas comerciais.",
         "D) efetua um crédito de R$ 20.000 em conta de passivo.",
         "E) reconhece uma receita pelo valor do desconto obtido."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-029",
@@ -547,7 +595,8 @@
         "C) um crédito em conta de ativo.",
         "D) uma diminuição de um passivo circulante.",
         "E) alteração na situação líquida da empresa."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-017",
@@ -566,7 +615,8 @@
         "C) apenas permuta valores entre ativos circulante e não circulante.",
         "D) aumenta o ativo circulante e o passivo circulante.",
         "E) modifica o patrimônio líquido e diminui o ativo circulante."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-004",
@@ -585,7 +635,8 @@
         "C) 89.000,00.",
         "D) 87.750,00.",
         "E) 86.750,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-005",
@@ -604,7 +655,8 @@
         "C) 575.000,00.",
         "D) 580.000,00.",
         "E) 567.500,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-014",
@@ -623,7 +675,8 @@
         "C) março e outubro.",
         "D) junho.",
         "E) outubro."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-019",
@@ -642,7 +695,8 @@
         "C) custo de aquisição.",
         "D) valor justo.",
         "E) regime de competência."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-021",
@@ -661,7 +715,8 @@
         "C) Duplicatas a Receber 1.080,00",
         "D) correto e refere-se ao recebimento de uma duplicata paga após o vencimento.",
         "E) incorreto, pois implica uma diminuição do patrimônio líquido da companhia."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-020",
@@ -680,7 +735,8 @@
         "D) D Lucros Acumulados C Dividendos a Pagar",
         "E) D Lucros Acumulados C Reserva de Lucros"
       ],
-      "cargo": "Contador"
+      "cargo": "Contador",
+      "validado": true
     },
     {
       "id": "cg-03-010",
@@ -699,7 +755,8 @@
         "C) 225.000,00.",
         "D) 171.000,00.",
         "E) 201.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-016",
@@ -718,7 +775,8 @@
         "C) dezembro.",
         "D) janeiro.",
         "E) março (60%) e do mês de abril (40%)."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-008",
@@ -737,7 +795,8 @@
         "C) 12.000.000,00.",
         "D) 7.200.000,00.",
         "E) 10.000.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-009",
@@ -756,7 +815,8 @@
         "C) 5.000,00.",
         "D) 50.000,00.",
         "E) 18.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-022",
@@ -775,7 +835,8 @@
         "C) um aumento no Ativo e no Patrimônio Líquido de R$ 114.000,00.",
         "D) um aumento no Ativo de R$ 114.000,00 e uma diminuição no Passivo de R$ 386.000,00.",
         "E) um aumento no Ativo de R$ 500.000,00 e nenhuma mudança no valor do Passivo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-003",
@@ -794,7 +855,8 @@
         "C) depreciação de imóveis em montante superior ao valor contábil líquido.",
         "D) reposição de imóveis por meio de caixa e integralização de capital social.",
         "E) valorização do preço de mercado dos imóveis."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-030",
@@ -813,7 +875,8 @@
         "C) débito na conta Títulos a Pagar no valor de R$ 9.000.",
         "D) crédito na conta Bancos c/movimento no total de R$ 9.000.",
         "E) débito em conta de despesa no valor de R$ 1.000."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-018",
@@ -832,7 +895,8 @@
         "C) 75.000,00.",
         "D) 56.250,00.",
         "E) 0,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-013",
@@ -851,7 +915,8 @@
         "C) despesas acumuladas com seguros no valor de R$ 12.000,00, na DRE.",
         "D) seguros pagos antecipadamente de R$ 48.000,00, no Balanço Patrimonial.",
         "E) seguros pagos antecipadamente de R$ 44.000,00, no Balanço Patrimonial."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-027",
@@ -870,7 +935,8 @@
         "C) diminui o Passivo num montante maior que o aumento do Ativo.",
         "D) aumenta o Patrimônio Líquido da entidade.",
         "E) é um fato contábil permutativo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-023",
@@ -889,7 +955,8 @@
         "C) diminui o Passivo num montante maior que o aumento do Ativo.",
         "D) aumenta o Patrimônio Líquido da entidade.",
         "E) é um fato contábil permutativo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-015",
@@ -908,7 +975,8 @@
         "C) reconheceu um passivo.",
         "D) reduziu estoque.",
         "E) reconheceu um adiantamento a fornecedor."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-025",
@@ -927,7 +995,8 @@
         "B) a receita é reconhecida no período em que é arrecadada e a despesa paga nesse mesmo período.",
         "C) as receitas e as despesas são atribuídas ao exercício de acordo com o recebimento ou pagamento em dinheiro.",
         "D) as receitas e as despesas são atribuídas aos exercícios, de acordo com a data do fato gerador."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-012",
@@ -946,7 +1015,8 @@
         "C) a obtenção de um empréstimo bancário.",
         "D) a constituição de reserva legal.",
         "E) o pagamento de dividendos."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-114",
@@ -965,7 +1035,8 @@
         "C) ( ) Débito na conta contábil Caixa ou Bancos e Crédito em Despesa com Viagem.",
         "D) ( ) Débito na conta contábil Adiantamento para Viagem e Crédito, na conta contábil Bancos.",
         "E) ( ) Débito na conta contábil Adiantamento para Viagens e Débito na conta contábil Despesa com Viagem."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-062",
@@ -984,7 +1055,8 @@
         "C) R$ 2.500,00; R$ 3.000,00; R$ 3.250,00.",
         "D) R$ 3.000,00; R$ 2.750,00; R$ 2.900,00.",
         "E) R$ 3.000,00; R$ 3.250,00; R$ 3.650,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-064",
@@ -1003,7 +1075,8 @@
         "C) R$ 350,00.",
         "D) R$ 800,00.",
         "E) R$ 1.600,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-063",
@@ -1021,7 +1094,8 @@
         "B) Zero em fevereiro.",
         "C) R$ 900,00 em março.",
         "D) R$ 360,00 em abril."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-048",
@@ -1040,7 +1114,8 @@
         "C) Em março, a receita foi de R$ 3.000.",
         "D) Em abril, a receita foi de R$ 2.250.",
         "E) Em maio, a receita foi de R$ 9.000."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-050",
@@ -1059,7 +1134,8 @@
         "C) D Caixa C - Receita antecipada",
         "D) D - Custos dos serviços prestados C - Receita antecipada",
         "E) D Caixa C - Resultado de Exercícios Futuros"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-056",
@@ -1078,7 +1154,8 @@
         "C) D = Adiantamento a Fornecedor; C = Caixa",
         "D) D = Matéria prima; C = Adiantamento a Fornecedor; C = Caixa",
         "E) D = Fornecedor; C = Adiantamento a Fornecedor; C = Caixa"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-049",
@@ -1097,7 +1174,8 @@
         "C) Despesa de R$667,00, nos meses de fevereiro a outubro.",
         "D) Despesa de R$750,00, nos meses de fevereiro a setembro.",
         "E) Despesa de R$1.200,00, no mês de fevereiro."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-071",
@@ -1116,7 +1194,8 @@
         "C) pagamento de empréstimo com juros contratuais.",
         "D) emissão de duplicata com ágio.",
         "E) aceite de duplicata com deságio."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-046",
@@ -1135,7 +1214,8 @@
         "C) lucro, sem poder inferir nada sobre riscos financeiros;",
         "D) prejuízo, logo teve dificuldades de caixa;",
         "E) prejuízo, ainda que possa não ter tido dificuldades de caixa."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-070",
@@ -1154,7 +1234,8 @@
         "C) R$ 400,00.",
         "D) R$ 2.400,00.",
         "E) R$ 120,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-039",
@@ -1173,7 +1254,8 @@
         "C) resultado;",
         "D) fornecedores;",
         "E) patrimônio líquido."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-040",
@@ -1192,7 +1274,8 @@
         "C) R$ 95.000,00;",
         "D) R$ 120.000,00;",
         "E) R$ 180.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-054",
@@ -1211,7 +1294,8 @@
         "C) Em março a receita foi de R$ 20.000.",
         "D) Em abril a receita foi de R$ 15.000.",
         "E) Em maio a receita foi de R$ 30.000."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-055",
@@ -1230,7 +1314,8 @@
         "C) Março.",
         "D) Abril.",
         "E) Maio."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-066",
@@ -1249,7 +1334,8 @@
         "C) fevereiro, março e abril.",
         "D) abril, maio e junho.",
         "E) maio, junho e julho."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-047",
@@ -1268,7 +1354,8 @@
         "C) R$ 17.000.",
         "D) R$ 26.000.",
         "E) R$ 29.000."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-045",
@@ -1287,7 +1374,8 @@
         "C) ocorrência do fato gerador;",
         "D) prazo exato de realização financeira;",
         "E) recebimento ou entrega de produtos ou serviços."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-043",
@@ -1306,7 +1394,8 @@
         "C) Em março, a receita foi de R$ 67.000.",
         "D) No trimestre, a receita foi de R$ 220.000.",
         "E) No trimestre, a receita foi de R$ 232.000"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-041",
@@ -1325,7 +1414,8 @@
         "C) R$ 10.000, em março, abril e maio.",
         "D) R$ 30.000, em junho.",
         "E) R$ 5.000, em janeiro, fevereiro, março, abril, maio e junho."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-042",
@@ -1344,7 +1434,8 @@
         "C) Venda à vista de plano trimestral em uma academia.",
         "D) Venda à vista de assinatura anual de revista.",
         "E) Recebimento de dinheiro por encomenda de roupa que ficará pronta em dois meses."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-044",
@@ -1363,7 +1454,8 @@
         "C) R$ 12.000 em março.",
         "D) Zero em abril.",
         "E) R$ 120.000 em dezembro."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-067",
@@ -1382,7 +1474,8 @@
         "C) D = Banco conta movimento; C = Empréstimos Bancários; C = Juros Passivos.",
         "D) D = Banco conta movimento; C = Empréstimos Bancários; C = Juros a Pagar.",
         "E) D = Banco conta movimento; C = Empréstimos Bancários;"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-068",
@@ -1401,7 +1494,8 @@
         "C) $170.",
         "D) $80.",
         "E) $30."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-053",
@@ -1420,7 +1514,8 @@
         "C) o pagamento obedeceu ao regime de competência;",
         "D) o recebimento da venda aumentou o patrimônio;",
         "E) o recebimento da venda tem efeito nulo no patrimônio."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-035",
@@ -1439,7 +1534,8 @@
         "C) R$341.000.",
         "D) R$356.000.",
         "E) R$380.000."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-034",
@@ -1458,7 +1554,8 @@
         "C) o ingresso de bens e numerários.",
         "D) a transferência dos riscos e benefícios.",
         "E) a prestação de serviço ou entrega de produto."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-033",
@@ -1477,7 +1574,8 @@
         "C) R$600.",
         "D) R$1.200.",
         "E) R$21.200."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-065",
@@ -1496,7 +1594,8 @@
         "C) R$ 12.000,00.",
         "D) R$ 14.000,00.",
         "E) R$ 24.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-052",
@@ -1515,7 +1614,8 @@
         "C) R$ 22.400",
         "D) R$ 56.000.",
         "E) R$ 65.600."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-032",
@@ -1533,7 +1633,8 @@
         "B) Aumento no passivo; diminuição no patrimônio líquido.",
         "C) Diminuição no ativo; aumento no patrimônio líquido.",
         "D) Diminuição no ativo; diminuição no patrimônio líquido."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-031",
@@ -1552,7 +1653,8 @@
         "C) R$500.",
         "D) R$4.800.",
         "E) R$6.000."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-036",
@@ -1571,7 +1673,8 @@
         "C) Reconhecimento de provisão para contingência.",
         "D) Reconhecimento do uso de um ativo imobilizado.",
         "E) Venda de estoque, sendo metade à vista e o restante a prazo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-037",
@@ -1590,7 +1693,8 @@
         "C) Aumento no ativo e no passivo e diminuição no patrimônio líquido.",
         "D) Aumento no ativo e no patrimônio líquido e diminuição no passivo.",
         "E) Diminuição no ativo e no passivo e aumento no patrimônio líquido."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-069",
@@ -1609,7 +1713,8 @@
         "C) Receita de R$ 60.000 no mês de janeiro.",
         "D) Receita de R$ 60.000 no mês de dezembro.",
         "E) Receita de R$ 20.000 nos meses de setembro, outubro e novembro."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-038",
@@ -1628,7 +1733,8 @@
         "C) Aumento no ativo e no patrimônio líquido, apenas.",
         "D) Aumento no ativo, no passivo e no patrimônio líquido.",
         "E) Aumento no ativo e no patrimônio líquido e diminuição no passivo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-051",
@@ -1647,7 +1753,8 @@
         "C) D- Ativo Circulante: R$ 40.000; D- Ativo Imobilizado: R$ 40.000; D- Capital Social a Integralizar: R$ 20.000; C- Capital Social Subscrito: R$ R$ 100.000.",
         "D) D- Ativo Circulante: R$ 50.000; D- Ativo Imobilizado: R$ 50.000; C- Capital Social a Integralizar: R$ 20.000; C- Capital Social: R$ 80.000.",
         "E) D- Ativo Circulante: R$ 50.000; D- Investimentos: R$ 50.000; C - Capital Social a Integralizar: R$ 20.000; CCapital Social: R$ 80.000."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-060",
@@ -1666,7 +1773,8 @@
         "C) R$ 15.000,00.",
         "D) R$ 30.000,00.",
         "E) R$ 90.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-061",
@@ -1685,7 +1793,8 @@
         "C) Quando o valor for efetivamente recebido.",
         "D) Na realização do evento.",
         "E) Quando os honorários dos artigos forem pagos."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-057",
@@ -1704,7 +1813,8 @@
         "C) D = Duplicatas a Pagar $50; D = Desconto Obtido $2; C = Caixa $48.",
         "D) D = Desconto Obtido $ 2; D = Duplicatas a Vencer $48; C = Caixa $50.",
         "E) D = Duplicatas a Vencer $50; C = Banco Conta Movimento $48; C = Desconto Obtido $2."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-058",
@@ -1723,7 +1833,8 @@
         "C) D = Duplicatas a Pagar $50; D = Desconto Obtido $2; C = Caixa $48.",
         "D) D = Desconto Obtido $ 2; D = Duplicatas a Vencer $48; C = Caixa $50.",
         "E) D = Duplicatas a Vencer $50; C = Banco Conta Movimento $48; C = Desconto Obtido $2."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-072",
@@ -1742,7 +1853,8 @@
         "C) D- Despesas Operacionais seguro (DRE) R$ 500,00 / C- Seguros a Pagar (PC) R$ 500,00",
         "D) D- Despesas Antecipadas seguro (AC) R$ 500,00 / C- Disponibilidades (AC) R$ 500,00",
         "E) D- Despesas Operacionais seguro (DRE) R$ 500,00 / C- Despesas Antecipadas seguro (AC) R$ 500,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-059",
@@ -1761,7 +1873,8 @@
         "C) Redução do Lucro e Aumento do Prejuízo;",
         "D) Redução da Despesa e Aumento do Passivo;",
         "E) Aumento do Lucro e Redução do Prejuízo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-093",
@@ -1780,7 +1893,8 @@
         "C) Caixa.",
         "D) Liquidação.",
         "E) Competência."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-096",
@@ -1799,7 +1913,8 @@
         "C) patrimonial do ativo circulante.",
         "D) de resultado (despesas).",
         "E) patrimonial do passivo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-085",
@@ -1818,13 +1933,14 @@
         "C) lucro de $ 300.000 pelo regime de caixa, com impacto positivo no caixa.",
         "D) prejuízo de $ 300.000 pelo regime de competência.",
         "E) nem lucro ou prejuízo, o resultado da transação somente será apurado no momento do recebimento da venda."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-097",
       "banca": "IADES",
       "tipo": "multipla_escolha",
-      "enunciado": "(IADES/SES DF/ Contador/2018 20X1. As despesas com a prestação do serviço totalizaram R$ 10.100,00, sendo 70% desembolsados em maio e o restante no mês seguinte. e Caixa, foi, respectivamente,",
+      "enunciado": "Uma empresa prestou um serviço em maio de 20X1 no valor de R$ 15.600,00, a ser recebido integralmente em junho de 20X1. As despesas com a prestação do serviço totalizaram R$ 10.100,00, sendo 70% desembolsados em maio e o restante no mês seguinte. O resultado pelo Regime de Competência e pelo Regime de Caixa, em maio de 20X1, foi, respectivamente,",
       "resposta": "D",
       "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas. Um deles, é mais simplificado, e se preocupa com as entradas e saídas de caixa ou equivalentes de caixa, por isso, é chamado de Regime de Caixa. Mas temos outro regime de apuração, mais aprofundado, e que se preocupa com o MOMENTO DA OCORRÊNCIA DO FATO GERADOR das receitas e despesas, o que não é, necessariamente a entrada ou saída de caixa. Esse é o Regime de Competência. Vamos apurar, assim, o resultado pelos dois regimes: Resultado pelo Regime de competência - maio de 20X1 Receitas relativas a maio de 20X1 recebidas em junho de 20X1 Despesas relativas a maio de 20X1 pagas em maio e junho de 20X1 Resultado pelo regime de competência - maio de 20X1 Resultado pelo Regime de caixa - maio de 20X1 Despesas relativas a maio de 20X1 pagas em maio (70%) Resultado pelo regime de caixa - maio de 20X1 Resultado pelo Regime de caixa - junho de 20X1 Receitas relativas a maio de 20X1 recebidas em junho de 20X1 Despesas relativas a maio de 20X1 pagas junho de 20X1 (30%) Resultado pelo regime de caixa - junho de 20X1 R$ 15.600,00 -R$ 10.100,00 R$ 5.500,00 -R$ 7.070,00 -R$ 7.070,00 R$ 15.600,00 -R$ 3.030,00 -R$ 12.570,00",
       "dificuldade": 4,
@@ -1837,7 +1953,8 @@
       ],
       "orgao": "SES DF",
       "cargo": "Contador",
-      "ano": 2018
+      "ano": 2018,
+      "validado": true
     },
     {
       "id": "cg-03-078",
@@ -1856,7 +1973,8 @@
         "C) Regime de Contabilidade Inversa.",
         "D) Regime de Competência.",
         "E) Regime Misto."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-095",
@@ -1874,7 +1992,8 @@
         "B) Débito: Capital a Integralizar......R$ 250.000,00 Crédito: Capital Social................R$ 250.000,00",
         "C) Débito: Imóveis.........................R$ 250.000,00 Crédito: Capital Social..............R$ 250.000,00",
         "D) Débito: Imóveis............................R$ 250.000,00 Crédito: Capital a Integralizar......R$ 250.000,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-116",
@@ -1893,7 +2012,8 @@
         "C) Zero.",
         "D) $ 7.200,00.",
         "E) $ 3.600,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-102",
@@ -1911,7 +2031,8 @@
         "B) O regime misto.",
         "C) O regime de competência.",
         "D) O regime da prudência."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-110",
@@ -1929,7 +2050,8 @@
         "B) 1º de agosto de 2013.",
         "C) 31 de agosto de 2013.",
         "D) Aplicações Financeiras C Receitas Financeiras"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-112",
@@ -1948,7 +2070,8 @@
         "C) D Salários a Pagar, C Despesas Administrativas; e, D Banco, C Salários a Pagar.",
         "D) D Caixa, C Salários a Pagar; e, D Despesas de Salários, C Despesas Operacionais.",
         "E) D Despesas com pessoal, C Caixa; e, D Despesas Administrativas, C Salários a Pagar."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-113",
@@ -1967,7 +2090,8 @@
         "C) Lucro de R$ 500,00 e Prejuízo de R$ 15.500,00.",
         "D) Lucro de R$ 9.000,00 e Prejuízo de R$ 14.000,00.",
         "E) Prejuízo de R$ 25.000,00 e Lucro de R$ 9.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-111",
@@ -1986,7 +2110,8 @@
         "C) devedor de R$ 140.000,00.",
         "D) devedor de R$ 150.000,00.",
         "E) devedor de R$ 210.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-090",
@@ -2004,7 +2129,8 @@
         "B) Pode escolher entre o Regime de Competência e o Regime de Caixa e deve evidenciar a escolha em nota explicativa.",
         "C) Deve seguir o Regime de Competência.",
         "D) Pode escolher entre o Regime de Competência e o Regime de Caixa, desde que siga o mesmo regime contábil em todas as demonstrações contábeis."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-091",
@@ -2022,7 +2148,8 @@
         "B) R$30.000 em janeiro",
         "C) R$30.000 em setembro",
         "D) R$7.500 em setembro, outubro, novembro e dezembro"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-089",
@@ -2034,7 +2161,8 @@
       "enunciado": "Em 31/12/X1 a empresa Baratão Ltda. apurou as seguintes situações: Vendas de mercadorias à vista no valor de R$ 14.000,00; Vendas de mercadorias a prazo no valor de R$ 15.000,00 (a receber em X2); Custos dos Produtos Vendidos no valor de R$ 18.000,00 (pagos no exercício de X1); Despesas com salários no valor de R$ 6.000,00, sendo R$ 5.000,00 pagos em X1 e R$1.000,00 a serem pagos em X2; Despesas com depreciação no valor de R$ 1.000,00. Com base nas situações acima, apure o resultado do ano de X1 pelo Regime de Competência. A R$ 9.000,00 B - R$ 9.000,00 C R$ 4.000,00 D R$ 5.000,00 E R$11.000,00",
       "resposta": "certo",
       "comentario": "Pessoal, na Contabilidade temos basicamente duas modalidades ou critérios de reconhecimento de despesas ou receitas. Um deles, é mais simplificado, e se preocupa com as entradas e saídas de caixa ou equivalentes de caixa, por isso, é chamado de Regime de Caixa. Mas temos outro regime de apuração, mais aprofundado, e que se preocupa com o MOMENTO DA OCORRÊNCIA DO FATO GERADOR das receitas e despesas, o que não é, necessariamente a entrada ou saída de caixa. Esse é o Regime de Competência. Como consequência do Regime de Competência, temos a simultaneidade de receitas e despesas correlatas. Vendas de mercadorias à vista no valor de R$ 14.000,00; Vendas de mercadorias a prazo no valor de R$ 15.000,00 (a receber em X2); Custos dos Produtos Vendidos no valor de R$ 18.000,00 (pagos no exercício de X1); Despesas com salários no valor de R$ 6.000,00, sendo R$ 5.000,00 pagos em X1 e R$1.000,00 a serem pagos em X2; Despesas com depreciação no valor de R$ 1.000,00. Assim: Receita de X1: R$ 14.000,00 + R$ 15.000,00 = R$ 29.000,00 Despesa de X1: R$ 18.000,00 + R$ 6.000,00 + R$ 1.000,00 = R$ 25.000,00 O resultado de X1: R$ 29.000,00 - R$ 25.000,00 = R$ 4.000,00",
-      "dificuldade": 4
+      "dificuldade": 4,
+      "validado": true
     },
     {
       "id": "cg-03-088",
@@ -2053,7 +2181,8 @@
         "C) aumento do Ativo e diminuição do Passivo.",
         "D) diminuição do Passivo e diminuição do Ativo.",
         "E) diminuição do Passivo e do Patrimônio Líquido e aumento do Ativo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-087",
@@ -2065,7 +2194,8 @@
       "enunciado": "Uma empresa utilizou o saldo da conta Lucros Acumulados para aumentar o seu Capital Social. Nesse caso, ocorre na Contabilidade A aumento do Patrimônio Líquido. B diminuição do Patrimônio Líquido. C aumento do Passivo e/ou diminuição do Ativo. D aumento do Ativo e/ou diminuição do Passivo. E nem aumento e nem diminuição do Patrimônio Líquido.",
       "resposta": "errado",
       "comentario": "Ao final do exercício social as contas de resultado (receitas e despesas) são zeradas. O saldo, lucro ou prejuízo, é transferido para o PL (especificadamente para conta Lucros ou Prejuízos Acumulados). No PL, podemos ter quatro destinações: 1) Compensação de prejuízos acumulados (prioridade) 2) Dividendos (para os sócios); 3) Reservas de lucros; 4) Aumento do capital social. O aumento do capital por meio dos lucros acumulados não altera o total do PL, ou seja, ocorre apenas troca de saldos no grupo: D Lucros Acumulados (-PL) C Capital Social (+ PL)",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-03-074",
@@ -2084,25 +2214,8 @@
         "C) lucro de R$ 60.000,00",
         "D) lucro de R$ 45.000,00",
         "E) lucro de R$ 15.000,00"
-      ]
-    },
-    {
-      "id": "cg-03-125",
-      "tipo": "multipla_escolha",
-      "enunciado": "Certa empresa adquiriu um veículo por R$20.000. Pagou em moeda corrente 50% da compra, com 5% de desconto, e aceitou uma duplicata pela dívida restante.\n\nCom essa operação, pode-se afirmar que o ativo da empresa:",
-      "opcoes": [
-        "A) Aumentou em R$20.000.",
-        "B) Diminuiu em R$9.500.",
-        "C) Aumentou em R$9.500.",
-        "D) Aumentou em R$10.500.",
-        "E) Diminuiu em R$10.500."
       ],
-      "resposta": "C",
-      "comentario": "O desconto obtido no momento da aquisição é considerado incondicional e não é considerado como receita. Na verdade, não há necessidade de contabilização. Temos que o veículo custa 20.000 e foi concedido um desconto de 5%, isto é, 1.000. Portanto, o adquirente fez a aquisição por 19.000, pagando 50% à vista, isto é, 9.500 em dinheiro e 9.500 serão pagos a prazo: D Veículos (ativo) C Caixa (ativo circulante) C Duplicatas a pagar (passivo) 19.000 9.500 9.500 Percebam que o Ativo da empresa aumentou em 19.000 9.500 = 9.500.",
-      "dificuldade": 2,
-      "banca": "Não identificado",
-      "orgao": "Não identificado",
-      "cargo": "Não identificado"
+      "validado": true
     },
     {
       "id": "cg-03-122",
@@ -2121,7 +2234,8 @@
         "C) Duplicatas a Receber R$ 10.000,00 a Receita de Vendas R$ 10.000,00",
         "D) Caixa R$ 3.000,00 Adiantamento de Clientes R$ 3.000,00",
         "E) Caixa R$ 7.000,00 Duplicatas a Receber R$ 3.000,00 a Receita de Vendas R$ 10.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-123",
@@ -2140,7 +2254,8 @@
         "C) Fornecedor R$ 14.968,50 a Descontos Obtidos R$ 418,50 a Disponibilidades R$ 14.550,00",
         "D) Fornecedor R$ 14.550,00 a Descontos Obtidos R$ 436,50 a Disponibilidades R$ 14.113,50",
         "E) Fornecedor R$ 14.563,11 a Descontos Obtidos R$ 13,11 a Disponibilidades R$ 14.550,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-124",
@@ -2159,7 +2274,8 @@
         "C) Venda de mercadorias do estoque, à vista e com lucro de R$ 13,00.",
         "D) Realização do estoque pelo dobro do custo de aquisição.",
         "E) Receita com a venda de mercadorias a prazo por R$ 39,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-117",
@@ -2178,7 +2294,8 @@
         "C) Subscrição de Capital com integralização posterior.",
         "D) Subscrição de Capital com integralização parcial em dinheiro.",
         "E) Integralização total do Capital Social em equipamentos."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-118",
@@ -2197,7 +2314,8 @@
         "C) Débito em despesas pagas antecipadamente e crédito em disponibilidades.",
         "D) Débito em despesa de seguros e crédito em disponibilidades.",
         "E) Débito em despesas pagas antecipadamente e crédito em passivo circulante."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-120",
@@ -2215,7 +2333,8 @@
         "B) mutação patrimonial.",
         "C) regime de competência.",
         "D) execução orçamentária."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-121",
@@ -2233,7 +2352,8 @@
         "B) Ocorre a redução de um passivo que se reflete como um aumento do Patrimônio Líquido.",
         "C) Ocorre a saída de um ativo da empresa, que é proveniente de uma atividade rotineira.",
         "D) Não afeta o ativo e nem o passivo da empresa."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-098",
@@ -2252,7 +2372,8 @@
         "C) 180.000,00.",
         "D) 150.000,00.",
         "E) 115.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-103",
@@ -2271,7 +2392,8 @@
         "C) para perdas de estoque.",
         "D) para desvalorização do estoque.",
         "E) para perdas em investimentos permanentes."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-104",
@@ -2290,7 +2412,8 @@
         "C) Diminui estoque e aumenta capital.",
         "D) Diminui estoque e aumenta fornecedores.",
         "E) Aumenta estoque e aumenta fornecedores."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-105",
@@ -2309,7 +2432,8 @@
         "C) receitas e despesas devem ser contabilizadas em função do fato gerador, independentemente dos recebimentos e pagamentos.",
         "D) receitas e despesas devem ser contabilizadas excluindo-se a incidência de impostos, para melhor entendimento do resultado efetivo da entidade.",
         "E) o pagamento de juros de dívidas não deve ser considerado como despesa, uma vez que não expressa o sacrifício da entidade para a geração de receita."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-127",
@@ -2328,7 +2452,8 @@
         "C) empréstimos bancários.",
         "D) móveis e utensílios.",
         "E) capital social."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-126",
@@ -2347,7 +2472,8 @@
         "C) Débito de contas a pagar e Crédito de veículos.",
         "D) Débito de veículos e Crédito de caixa.",
         "E) Débito de veículos e Crédito de contas a receber."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-108",
@@ -2366,7 +2492,8 @@
         "C) Débito: Passivo Circulante - Fornecedores Crédito: Ativo Circulante Caixa",
         "D) Débito: Ativo Circulante Adiantamento a Fornecedores Crédito: Passivo Circulante Fornecedores",
         "E) Débito: Ativo Circulante Adiantamento a Fornecedores Crédito: Ativo Circulante Caixa"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-109",
@@ -2385,7 +2512,8 @@
         "C) aumenta o valor do Passivo Circulante.",
         "D) mantém o valor do Ativo Circulante.",
         "E) reduz o valor do Passivo Circulante."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-077",
@@ -2403,7 +2531,8 @@
         "B) regime de competência.",
         "C) regime permutativo.",
         "D) regime de caixa."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-03-086",
@@ -2415,7 +2544,8 @@
       "enunciado": "Com base nessas informações, qual é o resultado do regime de competência no período? A - R$ 6.200,00. B - R$ 5.000,00. C R$ 800,00. D R$ 2.800,00.",
       "resposta": "certo",
       "comentario": "No mês de maio de 2023, a empresa F. realizou as seguintes transações: Venda de mercadorias no valor de R$ 5.000,00 a prazo. O custo das mercadorias vendidas foi de R$ 2.000,00, sendo que a metade do valor referente a compra foi paga no mês de abril e a outra metade, em maio; Reconhecimento da Receita D Clientes R$ 5.000,00 C Receita de Vendas R$ 5.000,00 Baixa no Estoque D CMV R$ 2.000,00 C - Estoque R$ 2.000,00 Recebimento de R$ 6.000,00 referente a serviço prestado no mês anterior; Fato 1: Reconhecimento da receita em abril (mês anterior) D Clientes R$ 5.000,00 C Receita de Vendas R$ 5.000,00 Fato 2: Recebimento dessa receita em maio D Caixa R$ 6.000,00 C Clientes R$ 6.000,00 Pagamento de salário referente ao mês anterior no valor de R$ 1.000,00; Fato 1: Reconhecimento da despesa em abril (mês anterior) D Despesa com Salários R$ 1.000,00 C - Salários a pagar R$12.000,00 Fato 2: Pagamento de salário referente ao mês anterior D Salários a pagar R$ 1.000,00 C Caixa R$ 1.000,00 Reconhecimento da despesa de salários de maio no valor de R$ 2.100,00 para pagamento no mês seguinte; Fato 1: Reconhecimento da despesa em maio. D Despesa com Salários R$ 2.100,00 C - Salários a pagar R$ 2.100,00 Fato 2: Pagamento de salários em junho (no mês seguinte) D Salários a pagar R$ 2.100,00 C Caixa R$ 2.100,00 Pagamento de R$ 1.200,00 referente a seguro para os próximos 12 meses, com reconhecimento de 1/12 nesse mês como despesa. Fato 1: Pagamento de R$ 1.200,00 referente a seguro para os próximos 12 meses D Despesa antecipada com seguros R$ 1.200,00 C Caixa R$ 1.200,00 Fato 2: Apropriação da despesa com seguros: D Despesa com Seguros R$ 100,00 C - Despesa antecipada com seguros R$ 100,00 Com base nessas informações, o resultado do regime de competência no período foi de: Resultado em maio/22 = 5.000 - 2.000 2.100 100 = 5.000 4.200 = 800",
-      "dificuldade": 4
+      "dificuldade": 4,
+      "validado": true
     }
   ]
 }
