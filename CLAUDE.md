@@ -118,7 +118,7 @@ Organizados por matéria em `data/{materia}/aula-XX.json` — slug da matéria e
 
 - `slug` — identificador do arquivo (ex: `aula-01a`)
 - `titulo` — nome na aba (ex: `"Aula 01A"`)
-- `materia` — nome da matéria (ex: `"ContG"`)
+- `materia` — nome completo da matéria (ex: `"Contabilidade Geral"`)
 - `questoes[]` — cada item tem: `id`, `banca`, `orgao`, `cargo`, `ano`, `tipo`, `enunciado`, `resposta`, `comentario`, `dificuldade`
   - `banca`: string — nome da banca examinadora (ex: `"CEBRASPE"`, `"FCC"`, `"VUNESP"`)
   - `orgao`: string opcional — órgão/instituição do concurso (ex: `"BACEN"`, `"Pref. Campinas"`)
