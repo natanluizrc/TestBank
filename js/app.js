@@ -528,28 +528,40 @@ function diagramasParaCanvas() {
     });
     ctx.stroke();
 
-    // Pass 2: texto centralizado horizontal e verticalmente dentro de cada célula
-    const isHBorder = lines.map(l => [...l].some(ch => '─┌┐└┘┬┴┼├┤'.includes(ch)));
+    // Pass 2: texto centralizado por célula (detecta bordas por coluna, suporta células mescladas)
+    const chars2d = lines.map(l => [...l]);
 
-    const cellCenterY = (row) => {
+    // Uma linha é borda horizontal para a célula cujo separador esquerdo está em leftBound
+    // se o caractere nessa posição tem extensão para a direita (início de linha horizontal).
+    const isHBorderForCell = (row, leftBound) => {
+      const ch = chars2d[row]?.[leftBound];
+      return !!(ch && BOX[ch] && BOX[ch].r);
+    };
+
+    const cellCenterYForCell = (row, leftBound) => {
       let top = row, bot = row;
-      for (let i = row - 1; i >= 0; i--) { if (isHBorder[i]) { top = i + 1; break; } else top = i; }
-      for (let i = row + 1; i < lines.length; i++) { if (isHBorder[i]) { bot = i - 1; break; } else bot = i; }
+      for (let i = row - 1; i >= 0; i--) {
+        if (isHBorderForCell(i, leftBound)) { top = i + 1; break; } else top = i;
+      }
+      for (let i = row + 1; i < lines.length; i++) {
+        if (isHBorderForCell(i, leftBound)) { bot = i - 1; break; } else bot = i;
+      }
       return (cellY(top) + cellY(bot + 1)) / 2;
     };
 
     ctx.textAlign = 'center';
     lines.forEach((line, row) => {
-      if (isHBorder[row]) return;
-      const chars = [...line];
-      const cy = cellCenterY(row);
+      const chars = chars2d[row];
       let i = 0;
       while (i < chars.length) {
         if (BOX[chars[i]]) { i++; continue; }
         const start = i;
+        let leftBound = 0;
+        for (let j = start - 1; j >= 0; j--) { if (BOX[chars[j]]) { leftBound = j; break; } }
         while (i < chars.length && !BOX[chars[i]]) i++;
+        if (isHBorderForCell(row, leftBound)) continue;
         const text = chars.slice(start, i).join('').trim();
-        if (text) ctx.fillText(text, cellX(start) + (i - start) * cw / 2, cy);
+        if (text) ctx.fillText(text, cellX(start) + (i - start) * cw / 2, cellCenterYForCell(row, leftBound));
       }
     });
 
