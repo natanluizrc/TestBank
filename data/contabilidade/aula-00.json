@@ -277,7 +277,7 @@
       "cargo": "Profissional Júnior / Ciências Contábeis",
       "ano": 2012,
       "tipo": "multipla_escolha",
-      "enunciado": "A contabilidade é hoje em dia plenamente reconhecida por sua capacidade provedora de informações. Quanto mais transparentes e detalhadas as informações forem apresentadas, tanto melhor elas poderão ser interpretadas pelos usuários, conhecidos mundialmente por stakeholders.\n\nDentre os stakeholders (usuários), aqueles que têm maior interesse em exibir os resultados, consolidar sua posição na organização e garantir sua participação nesses resultados são os:",
+      "enunciado": "A contabilidade é hoje em dia plenamente reconhecida por sua capacidade provedora de informações. A Lei Sarbanes-Oxley objetiva, a par do restabelecimento da credibilidade e da confiança no mercado, também, garantir que informações contábeis oferecidas aos usuários da contabilidade sejam, de igual modo, plenamente confiáveis. Quanto mais transparentes e detalhadas as informações forem apresentadas, tanto melhor elas poderão ser interpretadas e compreendidas pelos usuários, conhecidos mundialmente por stakeholders.\n\nDentre os stakeholders (usuários), aqueles que têm maior interesse em exibir os resultados, consolidar sua posição na organização e garantir sua participação nesses resultados são os:",
       "opcoes": [
         "A) acionistas",
         "B) administradores",
@@ -1002,7 +1002,7 @@
       "banca": "VUNESP",
       "orgao": "CMSC",
       "cargo": "Contador",
-      "ano": 2014,
+      "ano": 2013,
       "tipo": "multipla_escolha",
       "enunciado": "A contabilidade é uma ciência social que tem como objeto o patrimônio das entidades, sejam privadas ou públicas. Nesse sentido, assinale a alternativa que define o que é um conjunto de bens, direitos e obrigações vinculados à entidade econômica, e que constitui um meio indispensável para que a entidade realize seus objetivos.",
       "opcoes": [
