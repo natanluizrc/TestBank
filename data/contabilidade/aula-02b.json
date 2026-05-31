@@ -19,7 +19,8 @@
         "B) R$ 12.500,00",
         "C) R$ 15.000,00",
         "D) R$ 20.000,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-016",
@@ -37,7 +38,8 @@
         "B) A escrituração do Livro Diário não pode ser substituída pela escrituração do Livro Razão.",
         "C) A adoção de fichas não dispensa o uso de livro apropriado para o lançamento do balanço patrimonial e do resultado financeiro.",
         "D) É um Livro que contém os registros contábeis de todos os lançamentos em ordem cronológica."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-015",
@@ -55,7 +57,8 @@
         "B) R$ 11.000,00.",
         "C) R$ 12.000,00.",
         "D) R$ 10.000,00."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-009",
@@ -74,7 +77,8 @@
         "C) São consideradas formalidades intrínsecas: o livro ser escriturado em idioma e moedas nacionais, estar em ordem cronológica de dia, mês e ano e estar sem intervalos em branco nem entrelinhas, sem borraduras, rasuras e emendas",
         "D) São consideradas formalidades extrínsecas: o livro ser encadernado com folhas numeradas em sequência, ter os termos de abertura e de encerramento e ser autenticado no órgão competente do registro do comércio",
         "E) São indispensáveis a impressão e a encadernação em caso de escrituração contábil dos livros em formato digital. 30 179 08155932443 - Natan Luiz Rodrigues Chaves"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-029",
@@ -93,7 +97,8 @@
         "D) 329.000,00.",
         "E) 257.000,00."
       ],
-      "cargo": "Contador"
+      "cargo": "Contador",
+      "validado": true
     },
     {
       "id": "cg-02b-008",
@@ -112,7 +117,8 @@
         "C) escrituração do livro diário poderá ser substituída pela escrituração do livro razão",
         "D) O livro razão serve para controlar os saldos de todas as contas registradas no livro diário de forma individualizada",
         "E) Salvo disposição especial de lei, o livro diário, antes de posto em uso, deve ser autenticado no Registro Público de Empresas Mercantis"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-047",
@@ -124,7 +130,8 @@
       "enunciado": "No livro-razão, lançam-se todas as operações ocorridas, e quaisquer outros fatos que provoquem variações patrimoniais.",
       "resposta": "errado",
       "comentario": "Como o nome indica, o livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa. O livro Razão serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada. O primeiro passo para escriturar este livro é abrir uma página para cada conta usada na Escrituração do livro Diário. Neste quesito, a banca acabou cobrando a literalidade do item 14 da ITG 2000 (R1) ESCRITURAÇÃO CONTÁBIL, vejam: 14. No Livro Diário devem ser lançadas, em ordem cronológica, com individualização, clareza e referência ao documento probante, todas as operações ocorridas, e quaisquer outros fatos que provoquem variações patrimoniais. Observem que a banca parafraseou esse item e atribuiu, de forma errada, ao livro razão. Com relação à escrituração contábil, julgue o item a seguir.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02b-052",
@@ -136,7 +143,8 @@
       "enunciado": "O balancete de verificação está associado ao livrorazão, expressando de forma sintética todas as contas da razão e seus saldos, podendo apresentar ou não as suas movimentações.",
       "resposta": "certo",
       "comentario": "Item correto, pessoal. As informações necessárias para a elaboração do balancete de verificação são extraídas do livro-razão, apresentando todas as contas da razão e seus saldos. Dependendo do número de colunas que ele tiver, poderá apresentar movimentações ocorridas nessas contas.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-053",
@@ -148,7 +156,8 @@
       "enunciado": "Balancete de verificação é aquele que é extraído após o encerramento de todas as contas retificadoras e de resultado de um período, visando à confirmação de saldos.",
       "resposta": "errado",
       "comentario": "O balancete de verificação é elaborado com o saldo de todas as contas, sejam elas patrimoniais ou de resultado, e não apenas de contas retificadoras e de resultado. Alguns autores mais antigos, apresentavam o conceito de balancete de verificação inicial, com contas patrimoniais e de resultado, e, depois, o balancete de verificação final, após o encerramento das contas de resultado.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-054",
@@ -160,7 +169,8 @@
       "enunciado": "O balancete é utilizado para fins de verificação, encerramento de exercício social ou avaliação de ajustes necessários, sendo muito utilizado para fins de levantamento do balanço patrimonial, mas, diferentemente do balanço, não contempla a forma comparativa.",
       "resposta": "errado",
       "comentario": "Esse trecho da assertiva está correto: O balancete é utilizado para fins de verificação, encerramento de exercício social ou avaliação de ajustes necessários, sendo muito utilizado para fins de levantamento do balanço patrimonial. Contudo, o final tem um erro, pois, a depender do número de colunas, o balancete de verificação apresenta informações comparativas, como saldos de exercícios anteriores.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-096",
@@ -172,7 +182,8 @@
       "enunciado": "O balancete de verificação está associado ao livro- razão, expressando de forma sintética todas as contas da razão e seus saldos, podendo apresentar ou não as suas movimentações.",
       "resposta": "certo",
       "comentario": "Item correto, pessoal. As informações necessárias para a elaboração do balancete de verificação são extraídas do livro-razão, apresentando todas as contas da razão e seus saldos. Dependendo do número de colunas que ele tiver, poderá apresentar movimentações ocorridas nessas contas.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-061",
@@ -191,7 +202,8 @@
         "C) Mesmo no caso de escrituração mecanizada ou eletrônica, o diário não poderá ser substituído por fichas.",
         "D) O balanço patrimonial e o de resultado econômico devem ser lançados em livro distinto do diário.",
         "E) No diário, deve constar unicamente a assinatura do técnico em ciências contábeis legalmente habilitado e responsável pelos lançamentos nele efetuados."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-049",
@@ -203,7 +215,8 @@
       "enunciado": "Um balancete de verificação deve ter, no mínimo, duas colunas e, no máximo, oito colunas.",
       "resposta": "errado",
       "comentario": "O Balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. O objetivo desse demonstrativo é verificarmos se foi aplicado corretamente o Método das Partidas Dobradas. Infelizmente, a norma que trata de balancete é omissa quanto ao número de colunas. Em razão disso, temos que recorrer a doutrina. Em regra: Balancete de Verificação 2 colunas: apenas o Saldo Final das contas. Balancete de Verificação 4 colunas: Saldo Anterior + Movimento + Saldo Final Balancete de Verificação 6 colunas: Balancete Anterior + Movimento do Período + Balancete atual Balancete de Verificação 8 colunas: Balancete Anterior + Movimento do Período + Saldo do Período + Balancete atual Ocorre que é possível encontrar um balancete de 1 coluna (Ele é comum em provas/exames e aceito por parte da doutrina): Salientamos que podemos utilizar um sinal negativo ou parênteses para diferenciar os saldos credores dos devedores. A banca já havia cobrado na prova da PF de 2018, todavia lá ela tinha limitado a seis colunas. Isso evidenciava o erro. Vejam: (CEBRASPE/PF/Agente de Polícia Federal/2018) O balancete de verificação pode ser levantado em modelos que vão de um mínimo de duas colunas a um máximo de seis colunas. Diante do exposto, o entendimento provável da banca CEBRASPE é este: norma sobre balancete é omissa quanto ao número de colunas. Julgue o próximo item, que versam sobre o balancete de verificação.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-055",
@@ -222,7 +235,8 @@
         "C) permite a identificação de eventos registrados em duplicidade pelo contador.",
         "D) visa atender às necessidades de informação dos usuários externos, embora sua elaboração não seja obrigatória pela legislação comercial e societária.",
         "E) de uma empresa, mesmo quando demonstra igualdade entre os saldos devedores e credores, não exclui uma possível ocorrência de erro nas demonstrações contábeis da empresa."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-056",
@@ -240,7 +254,8 @@
         "B) o valor do registro contábil e o saldo das contas",
         "C) a conta devedora, a conta credora, o histórico que represente a essência econômica da transação e o valor do registro contábil",
         "D) a relação das contas patrimoniais e de resultados e respectivos saldos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-060",
@@ -252,7 +267,8 @@
       "enunciado": "O lançamento é a técnica utilizada para se processar a escrituração. No caso dos livros caixa e de contas a pagar, os eventos são registrados por meio de lançamentos contábeis que seguem o método das partidas simples.",
       "resposta": "errado",
       "comentario": "Errado, como regra, os diversos livros contábeis, tais como, livro caixa e de contas a pagar são escriturados pelo método das partidas DOBRADAS e não pelo Método das Partidas Simples.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-065",
@@ -264,7 +280,8 @@
       "enunciado": "O balancete de verificação deve ser obrigatoriamente elaborado a cada mês.",
       "resposta": "errado",
       "comentario": "Em relação ao balancete de verificação, julgue o item seguinte.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02b-062",
@@ -276,7 +293,8 @@
       "enunciado": "O livro caixa é, ao mesmo tempo, facultativo e obrigatório; neste último caso, para alguns tipos de entidades, como as microempresas e empresas de pequeno porte optantes pelo SIMPLES Nacional.",
       "resposta": "certo",
       "comentario": "O item está correto. É exatamente o que dissemos. O livro caixa, pela legislação comercial, é facultativo. Todavia, é obrigatório, em alguns casos, para os contribuintes que estejam regidos pela Lei Complementar 123 (Simples Nacional). Julgue o item a seguir, a respeito de escrituração.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-063",
@@ -288,7 +306,8 @@
       "enunciado": "No caso de operações que sejam realizadas fora da sede do estabelecimento, é admitida a escrituração resumida no livro diário, por totais relativos ao período máximo de 60 dias, desde que sejam conservados os documentos que permitam verificação posterior.",
       "resposta": "errado",
       "comentario": "De acordo com o Regulamento do Imposto de Renda, art.273, §3º, admite-se a escrituração resumida do Diário, com totais que não excedam o período de TRINTA dias, relativamente a contas, cujas operações sejam numerosas ou realizadas fora da sede do estabelecimento, desde que utilizados livros auxiliares regularmente autenticados, para registro individualizado, e conservados os documentos que permitam a sua perfeita verificação. Em relação ao balancete de verificação, julgue o item seguinte.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-068",
@@ -300,7 +319,8 @@
       "enunciado": "O balancete de verificação inclui as contas patrimoniais e as contas de resultado.",
       "resposta": "certo",
       "comentario": "O balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. No que se refere ao balancete de verificação contábil, julgue o item subsequente.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02b-066",
@@ -312,7 +332,8 @@
       "enunciado": "Na elaboração do balancete, o livro diário é a fonte de informações do contabilista para a realização dos trabalhos relacionados à referida demonstração contábil.",
       "resposta": "errado",
       "comentario": "Em relação ao balancete de verificação, julgue o item seguinte.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-067",
@@ -324,7 +345,8 @@
       "enunciado": "O balancete de verificação é uma demonstração financeira obrigatória pela legislação societária, e sua finalidade restringe-se a fornecer aos usuários internos da entidade informações sobre a evolução dos saldos das contas devedoras e credoras em determinado período.",
       "resposta": "errado",
       "comentario": "O balancete de verificação é um demonstrativo de CARÁTER AUXILIAR, ou melhor, não é obrigatório. O objetivo desse demonstrativo é verificarmos se foi aplicado corretamente o Método das Partidas Dobradas e não a movimentação dos saldos do período. Lembrando que ele poderá ser utilizado tanto por usuários internos como externos. Por conta desses erros, o gabarito é errado. Acerca das conciliações contábeis e do balancete de verificação, julgue o item a seguir.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-064",
@@ -336,7 +358,8 @@
       "enunciado": "A diferença entre os modelos de balancete de 6 e de 8 colunas corresponde aos saldos devedores e credores que dizem respeito ao movimento do período, constantes no segundo modelo e ausentes no primeiro.",
       "resposta": "certo",
       "comentario": "Balancete de Verificação 6 colunas: O balancete de 6 colunas evidencia as contas com os saldos iniciais (saldo devedor ou credor), o movimento ocorrido no período e saldos finais (devedor ou credor). Exemplo: Balancete de Verificação 8 colunas: o balancete de 8 colunas evidencia as contas com os saldos iniciais (saldo devedor ou credor), o movimento ocorrido no período (devedor ou credor, o saldo do período analisado (devedor ou credor) e saldos finais (devedor ou credor). Acerca das conciliações contábeis e do balancete de verificação, julgue o item a seguir.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02b-048",
@@ -348,7 +371,8 @@
       "enunciado": "O livro razão é um livro contábil utilizado para o registro das movimentações ocorridas em cada rubrica que compõe o plano de contas de uma entidade.",
       "resposta": "certo",
       "comentario": "O livro Razão serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada. Por registrar todos os fatos (registro das movimentações ocorridas em cada rubrica que compõe o plano de contas de uma entidade), ele é considerado um livro principal. No que se refere ao uso e à elaboração do balancete de verificação contábil, do balanço patrimonial e da demonstração de resultado do exercício, julgue o item subsequente.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02b-046",
@@ -360,7 +384,8 @@
       "enunciado": "O balancete de verificação permite que sejam identificadas as inversões, de débito por crédito e de crédito por débito, ocorridas de forma simultânea em um lançamento contábil.",
       "resposta": "errado",
       "comentario": "O Balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. O objetivo desse demonstrativo é verificarmos se foi aplicado corretamente o Método das Partidas Dobradas. Vale ressaltar que nem todos os erros de escrituração são constatáveis no Balancete de Verificação. Em suma: Balancete de verificação Evidência Igualdade matemática dos débitos e créditos Não evidência Estornos do período Classificação das contas Movimento individual das contas Lançamento do período Deste modo, o balancete de verificação NÃO detecta a inversão do débito na conta a creditar e do crédito na conta a debitar. Julgue o próximo item, a respeito de escrituração contábil.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-050",
@@ -372,7 +397,8 @@
       "enunciado": "O balancete de verificação baseia-se no método das partidas dobradas, podendo valer-se tanto do método analítico como do método sintético (ou simplificado) para a elaboração do balanço patrimonial e da demonstração do resultado do exercício.",
       "resposta": "certo",
       "comentario": "O Balancete de verificação é um demonstrativo de caráter auxiliar em que são relacionadas todas as contas, sejam ela patrimoniais ou de resultado. O objetivo desse demonstrativo é verificarmos se foi aplicado corretamente o Método das Partidas Dobradas. Destacamos que sua elaboração antecede a das demonstrações contábeis. No tocante ao nível de detalhamento, o item 2 da NBC T 2.7 Do Balancete, explica que o grau de detalhamento do balancete deverá ser consentâneo com sua finalidade. Isso significa que ele pode ser elaborado por meio de contas analíticas (detalhadas) ou até sintéticas.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-057",
@@ -390,7 +416,8 @@
         "B) nos balancetes de duas e de quatro colunas",
         "C) nos balancetes de quatro e de seis colunas",
         "D) nos balancetes de seis e de oito colunas"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-051",
@@ -409,7 +436,8 @@
         "C) apenas balancetes de seis colunas.",
         "D) balancetes de seis ou oito colunas.",
         "E) apenas balancetes de oito colunas."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-058",
@@ -421,7 +449,8 @@
       "enunciado": "Para saber se os saldos iniciais e finais de determinadas contas são devedores ou credores, é necessário recorrer a um balancete de oito colunas.",
       "resposta": "errado",
       "comentario": "O balancete de 8 colunas evidencia as contas com os saldos iniciais (saldo devedor ou credor), o movimento ocorrido no período (devedor ou credor, o saldo do período analisado (devedor ou credor) e saldos finais (devedor ou credor). Todavia, não é necessário recorrer a um balancete de oito colunas para saber se os saldos iniciais e finais de determinadas contas são devedores ou credores. Para isso, basta o balancete de 6 colunas. O balancete de 6 colunas evidencia as contas com os saldos iniciais (saldo devedor ou credor), o movimento ocorrido no período e saldos finais (devedor ou credor).",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02b-069",
@@ -433,7 +462,8 @@
       "enunciado": "O balancete de verificação é um resumo ordenado de todas as contas utilizadas pela contabilidade da entidade que o apresenta, destinando-se a detectar todos os possíveis erros de contabilização eventualmente ocorridos.",
       "resposta": "errado",
       "comentario": "O balancete só serve para saber de houve a aplicação correta das partidas dobradas. Assim, caso haja a existência de débito sem crédito correspondente, o balancete irá apresentar. Todavia, nem todos os erros de contabilização eventualmente ocorridos são detectados. Por exemplo: se a empresa efetuar a venda de mercadorias a prazo e, por engano, registrar a entrada de caixa, o balancete de verificação não irá apresentar esse erro. A soma dos débitos ainda será igual à soma dos créditos. No que se refere ao balancete de verificação contábil, julgue o item subsequente.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02b-070",
@@ -445,7 +475,8 @@
       "enunciado": "O balancete de verificação pode ser levantado em modelos que vão de um mínimo de duas colunas a um máximo de seis colunas.",
       "resposta": "errado",
       "comentario": "Observação Cebraspe: a banca recentemente considerou a possibilidade de existir um balancete de verificação com apenas 1 coluna.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02b-059",
@@ -457,7 +488,8 @@
       "resposta": "certo",
       "comentario": "O livro Razão é um livro sistemático e ele apresenta os saldos de cada conta em determinado momento. Serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada.",
       "dificuldade": 2,
-      "cargo": "Escrivão de Polícia Federal"
+      "cargo": "Escrivão de Polícia Federal",
+      "validado": true
     },
     {
       "id": "cg-02b-090",
@@ -476,7 +508,8 @@
         "C) facultativo e cronológico",
         "D) facultativo e sistemático",
         "E) principal e cronológico"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-092",
@@ -495,7 +528,8 @@
         "C) Contas a Receber",
         "D) Diário",
         "E) Razão"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-075",
@@ -514,7 +548,8 @@
         "C) Razão",
         "D) Registro de Duplicatas",
         "E) Registro de inventários"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-081",
@@ -533,7 +568,8 @@
         "C) especiais",
         "D) societários",
         "E) auxiliares e obrigatórios"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-074",
@@ -552,7 +588,8 @@
         "C) método da teoria patrimonialista",
         "D) princípio do registro pelo valor original",
         "E) regime de competência"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-080",
@@ -571,7 +608,8 @@
         "C) Há a obrigatoriedade de impressão e encadernação do livro, independente da forma de escrituração",
         "D) Há a obrigatoriedade de impressão, encadernação e arquivamento na entidade, para posterior eliminação do arquivo magnético",
         "E) Não há necessidade de impressão e encadernação em forma de livro, porém o arquivo magnético autenticado pelo registro público competente deve ser mantido pela entidade. 93 179 08155932443 - Natan Luiz Rodrigues Chaves"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-085",
@@ -590,7 +628,8 @@
         "C) Caixa",
         "D) Diário",
         "E) Apuração do Lucro"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-093",
@@ -609,7 +648,8 @@
         "C) Caixa.",
         "D) Diário,",
         "E) Razão. 103 179 08155932443 - Natan Luiz Rodrigues Chaves"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-073",
@@ -628,7 +668,8 @@
         "C) apuração de lucro real",
         "D) verificação de prejuízos",
         "E) análise de lucros"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-072",
@@ -647,7 +688,8 @@
         "C) Ter nele lançadas, em ordem cronológica, com individualização, clareza e referência ao documento probante, todas as operações ocorridas, e, lançados, quaisquer outros fatos que provoquem variações patrimoniais",
         "D) Ter as suas folhas numeradas sequencialmente",
         "E) Conter termo de abertura e de encerramento, assinados pelo titular ou representante legal da entidade e pelo profissional da contabilidade regularmente habilitado no Conselho Regional de Contabilidade"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-077",
@@ -666,7 +708,8 @@
         "C) identificar a utilização de conta indevida, no registro contábil",
         "D) indicar claramente a situação econômico-financeira da empresa",
         "E) detectar a inversão do débito na conta a creditar e do crédito na conta a debitar"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-091",
@@ -685,7 +728,8 @@
         "C) exclusivos e secundários",
         "D) obrigatórios e facultativos",
         "E) fiscais e cíveis"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-083",
@@ -704,7 +748,8 @@
         "C) obrigatório",
         "D) principal",
         "E) sistemático"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-084",
@@ -723,7 +768,8 @@
         "C) LALUR",
         "D) Razão",
         "E) Registro de Apuração do ICMS"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-089",
@@ -741,7 +787,8 @@
         "B) obrigatórios",
         "C) principais",
         "D) sistemáticos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-087",
@@ -760,7 +807,8 @@
         "C) Livro Razão, o Livro de Entradas de Mercadorias, o Livro de Saídas de Mercadorias e o Livro de Registro de Prestação de Serviços",
         "D) Livro Razão, o Livro de Entradas de Mercadorias, o Livro de Saídas de Mercadorias e o Livro de Registro de Duplicatas",
         "E) Livro Caixa, o Livro de Entradas de Mercadorias, o Livro de Saídas de Mercadorias e o Livro de Registro de Prestação de Serviços"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-088",
@@ -778,7 +826,8 @@
         "B) II, III e IV",
         "C) II, V e VI",
         "D) III, IV e VI"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-076",
@@ -797,7 +846,8 @@
         "C) balanço patrimonial",
         "D) demonstração do valor adicionado",
         "E) demonstração do resultado do exercício"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-078",
@@ -816,7 +866,8 @@
         "C) Em ordem cronológica de mês, dispensando-se a ordem de dia",
         "D) Com o registro das ocorrências de cada dia, mas sem a necessidade de respeitar a ordem cronológica",
         "E) Com registro das ocorrências de cada mês, mas sem a necessidade de respeitar a ordem cronológica"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-079",
@@ -835,7 +886,8 @@
         "C) livro diário",
         "D) livro de contas correntes",
         "E) livro de registro de duplicatas"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-086",
@@ -854,7 +906,8 @@
         "C) formalidade",
         "D) reestruturação de contas",
         "E) registros de ativos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-094",
@@ -873,7 +926,8 @@
         "C) do fundamento de débito e crédito",
         "D) do registro no Caixa",
         "E) do registro no Razão"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-071",
@@ -892,7 +946,8 @@
         "C) quatro",
         "D) cinco",
         "E) seis"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-082",
@@ -911,7 +966,8 @@
         "C) Razão",
         "D) de Apuração do Lucro Real",
         "E) para Registro de Inventário"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-018",
@@ -929,7 +985,8 @@
         "B) Em partidas simples",
         "C) Em ordem cronológica",
         "D) Sem referência ao documento probante"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-099",
@@ -947,7 +1004,8 @@
         "B) Livro Balancete",
         "C) Livro Razão",
         "D) Livro Diário"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-038",
@@ -966,7 +1024,8 @@
         "C) páginas numeradas tipograficamente e os termos de abertura e de encerramento",
         "D) páginas numeradas tipograficamente e escrituração sem borrões, rasuras e escritos nas entrelinhas",
         "E) termos de abertura e de encerramento e escrituração sem borrões, rasuras e escritos nas entrelinhas. 58 179 08155932443 - Natan Luiz Rodrigues Chaves"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-032",
@@ -985,7 +1044,8 @@
         "D) Livro Registro de Debêntures",
         "E) Livro Diário"
       ],
-      "orgao": "ALGÁS"
+      "orgao": "ALGÁS",
+      "validado": true
     },
     {
       "id": "cg-02b-033",
@@ -1003,7 +1063,8 @@
         "B) R$ 180.000,00 e R$ 180.000,00",
         "C) R$ 210.000,00 e R$ 150.000,00",
         "D) R$ 230.000,00 e R$ 130.000,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-035",
@@ -1022,7 +1083,8 @@
         "C) R$ 8.000,00",
         "D) R$ 9.000,00",
         "E) R$ 10.000,00 SALDOS (R$) 1.000,00 1.000,00 1.000,00 1.000,00 1.000,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-026",
@@ -1041,7 +1103,8 @@
         "C) Somente as afirmativas III e IV são corretas.",
         "D) Somente as afirmativas I, II e III são corretas.",
         "E) Somente as afirmativas II, III e IV são corretas."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-095",
@@ -1060,7 +1123,8 @@
         "C) balanço contábil.",
         "D) livro-razão.",
         "E) balanço patrimonial."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-028",
@@ -1078,7 +1142,8 @@
         "B) Obedecer, nos lançamentos, à rigorosa ordem cronológica",
         "C) Obedecer, a escrituração, a um método uniforme",
         "D) Não conter registro nas entrelinhas e nas margens"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-037",
@@ -1096,7 +1161,8 @@
         "B) obrigatório, cronológico e principal",
         "C) facultativo, sistemático e principal",
         "D) facultativo, cronológico e sistemático"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-030",
@@ -1115,7 +1181,8 @@
         "C) Conta debitada e conta creditada.",
         "D) Nome do contador e do administrador da empresa.",
         "E) Razão Social e CNPJ da empresa."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-100",
@@ -1134,7 +1201,8 @@
         "C) Balanço Geral",
         "D) Demonstração do Resultado",
         "E) Demonstrativo Consolidado"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-013",
@@ -1152,7 +1220,8 @@
         "C) DRE",
         "D) Razão"
       ],
-      "cargo": "Tesoureiro"
+      "cargo": "Tesoureiro",
+      "validado": true
     },
     {
       "id": "cg-02b-014",
@@ -1171,7 +1240,8 @@
         "C) O valor dos débitos e créditos em cada conta",
         "D) Histórico da transação, descrevendo de forma resumida o que ocorreu",
         "E) Colunas para débitos, créditos e saldo, para demonstrar a diferença acumulada"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-019",
@@ -1189,7 +1259,8 @@
         "B) o saldo final da conta foi R$ 1.500,00 credor",
         "C) o total de créditos foi maior que o total de débitos",
         "D) a diferença entre os créditos e os débitos foi R$ 1.500,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-023",
@@ -1208,7 +1279,8 @@
         "C) Apresenta apenas os saldos das contas patrimoniais",
         "D) Diferentemente do balanço patrimonial, os saldos devedores e credores não são necessariamente iguais",
         "E) Utiliza somente os saldos do livro Caixa; portanto, é levantado apenas uma vez por ano"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-020",
@@ -1227,7 +1299,8 @@
         "C) No patrimônio líquido, houve aumento de R$ 250,00",
         "D) O saldo das contas devedoras totalizou R$ 1.770,00",
         "E) No patrimônio líquido, houve diminuição de R$ 500,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-021",
@@ -1246,7 +1319,8 @@
         "C) Lançamento com valor errado",
         "D) Lançamento a crédito na conta errada",
         "E) conta a ser creditada foi debitada"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-022",
@@ -1264,7 +1338,8 @@
         "B) R$ 13.200,00",
         "C) R$ 13.300,00",
         "D) R$ 13.400,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-025",
@@ -1283,7 +1358,28 @@
         "C) Conta a ser creditada, conta a ser debitada, histórico da operação, valor da operação em moeda nacional ou estrangeira e data de referência de atualização de valores",
         "D) Histórico da operação, valor da operação em moeda nacional ou estrangeira, data de referência de atualização de valores e conta a ser creditada",
         "E) Valor da operação, data de realização da operação, duas contas a serem debitadas e histórico da operação"
-      ]
+      ],
+      "validado": true
+    },
+    {
+      "id": "cg-02b-024",
+      "banca": "IADES",
+      "tipo": "multipla_escolha",
+      "enunciado": "A história de uma organização é necessariamente registrada em um livro obrigatório denominado livro diário. Nele, todos os fatos contábeis são registrados, por meio de processo manual, mecanizado ou eletrônico, com a aplicação do método das partidas dobradas, que se chama lançamento (ou partida) de diário. Com relação a esse tema, assinale a alternativa que apresenta os requisitos necessários para a validação de um lançamento contábil.",
+      "resposta": "A",
+      "comentario": "Alguns requisitos existem para essas partidas de diário, a saber: ITG 2000, CFC: Item 6. A escrituração em forma contábil de que trata o item 5 deve conter, no mínimo: a) data do registro contábil, ou seja, a data em que o fato contábil ocorreu; b) conta devedora; c) conta credora; d) histórico que represente a essência econômica da transação ou o código de histórico padronizado, neste caso baseado em tabela auxiliar inclusa em livro próprio; e) valor do registro contábil; f) informação que permita identificar, de forma unívoca, todos os registros que integram um mesmo lançamento contábil. O livro diário e o livro Razão possuem algumas formalidades, extrínsecas e intrínsecas, que, atualmente são apresentadas para livros no formato não digital e no formato digital: Formato Não Digital: Formalidades Extrínsecas (Finalidade: dificultar adulteração): - Deve ser encadernado; - As folhas devem ser numeradas; - Conterem termo de abertura e de encerramento assinados pelo titular ou representante legal da entidade e pelo profissional da contabilidade regularmente habilitado no Conselho Regional de Contabilidade. Intrínsecas (Finalidade: resguardar a fidedignidade dos fatos ocorridos em relação aos fatos registrados): - Seguir uma ordem cronológica; - Não deve haver rasuras, borrões, sinais, linhas em branco, entrelinhas, folhas em branco etc.; e - A escrituração deve ser feita em língua e moeda nacionais. Formato Digital: Formalidade dos livros em formato digital: a) serem assinados digitalmente pela entidade e pelo profissional da contabilidade regularmente habilitado; b) quando exigível por legislação específica, serem autenticados no registro público ou entidade competente. (Alterada pela ITG 2000 (R1)) Observação: Em caso de escrituração contábil em forma digital, não há necessidade de impressão e encadernação em forma de livro, porém o arquivo magnético autenticado pelo registro público competente deve ser mantido pela entidade.",
+      "dificuldade": 1,
+      "opcoes": [
+        "A) Data de realização da operação, conta a ser debitada, conta a ser creditada, histórico da operação e valor da operação em moeda nacional",
+        "B) Conta a ser debitada, conta a ser creditada, data de registro da operação, histórico da operação e valor da operação em moeda nacional",
+        "C) Conta a ser creditada, conta a ser debitada, histórico da operação, valor da operação em moeda nacional ou estrangeira e data de referência de atualização de valores",
+        "D) Histórico da operação, valor da operação em moeda nacional ou estrangeira, data de referência de atualização de valores e conta a ser creditada",
+        "E) Valor da operação, data de realização da operação, duas contas a serem debitadas e histórico da operação"
+      ],
+      "orgao": "SES DF",
+      "cargo": "Técnico em Contabilidade",
+      "ano": 2018,
+      "validado": true
     },
     {
       "id": "cg-02b-106",
@@ -1302,7 +1398,8 @@
         "C) Livro Razão",
         "D) Registro de saídas",
         "E) Registro de entradas"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-105",
@@ -1321,7 +1418,8 @@
         "C) Contas Correntes",
         "D) Caixa",
         "E) Contas a Receber"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-102",
@@ -1340,7 +1438,8 @@
         "C) a escrituração contábil deve refletir os registros contábeis de forma isolada, sem levar em consideração os princípios contábeis.",
         "D) a escrituração contábil deve ser realizada apenas uma vez ao ano, no fechamento do balanço patrimonial.",
         "E) a escrituração deve ser feita de forma cronológica e não admite rasuras ou emendas."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-104",
@@ -1359,7 +1458,8 @@
         "C) Registro de entradas",
         "D) Livro Diário",
         "E) Livro da Despesa"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-107",
@@ -1378,7 +1478,8 @@
         "C) Registro de entradas",
         "D) Livro Razão",
         "E) Livro Caixa"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-101",
@@ -1396,7 +1497,8 @@
         "C) Balanço patrimonial",
         "D) Proposta orçamentária E Orçamento participativo"
       ],
-      "cargo": "Fiscal Tributário"
+      "cargo": "Fiscal Tributário",
+      "validado": true
     },
     {
       "id": "cg-02b-108",
@@ -1415,7 +1517,8 @@
         "C) Razão",
         "D) Contascorrente",
         "E) Contasareceber"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-103",
@@ -1434,7 +1537,8 @@
         "C) saldos patrimoniais",
         "D) diário",
         "E) lançamentos contábeis"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-003",
@@ -1453,7 +1557,8 @@
         "C) Precisa ser apresentado diariamente",
         "D) As contas são extraídas através do livro Razão",
         "E) Nenhuma das alternativas anteriores"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-005",
@@ -1472,7 +1577,8 @@
         "C) registro em ordem cronológica de dia, mês e ano",
         "D) não deve conter rasuras",
         "E) não deve conter ressalvas. 23 179 08155932443 - Natan Luiz Rodrigues Chaves"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-004",
@@ -1491,7 +1597,8 @@
         "C) fluxo de caixa",
         "D) demonstração de variáveis",
         "E) balancete"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-098",
@@ -1510,7 +1617,8 @@
         "C) V-V-F-F",
         "D) F-V-F-V",
         "E) F-F-F-F"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-017",
@@ -1529,7 +1637,8 @@
         "C) II, III e IV apenas",
         "D) I, II, III e IV",
         "E) I, II e IV apenas"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-034",
@@ -1548,7 +1657,8 @@
         "C) Somente os itens I e II.",
         "D) Somente o item III",
         "E) Somente os itens II e III."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-012",
@@ -1566,7 +1676,8 @@
         "B) Apenas a afirmativa I está correta",
         "C) Apenas as afirmativas I e II estão corretas",
         "D) As afirmativas I, II e III estão corretos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-031",
@@ -1585,7 +1696,8 @@
         "C) de Registro de Saídas",
         "D) de Registro de Entradas",
         "E) de Apuração do Lucro Real"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-011",
@@ -1604,25 +1716,8 @@
         "C) Holerite",
         "D) Ata",
         "E) Contracheque"
-      ]
-    },
-    {
-      "id": "cg-02b-024",
-      "banca": "MULTIBANCAS",
-      "tipo": "multipla_escolha",
-      "enunciado": "IADES/SES DF/Técnico em Contabilidade/2018) A história de uma organização é necessariamente registrada em um livro obrigatório denominado livro diário. Nele, todos os fatos contábeis são registrados, por meio de processo manual, mecanizado ou eletrônico, com a aplicação do método das partidas dobradas, que se chama lançamento (ou partida) de diário. Com relação a esse tema, assinale a alternativa que apresenta os requisitos necessários para a validação de um lançamento contábil.",
-      "resposta": "A",
-      "comentario": "Alguns requisitos existem para essas partidas de diário, a saber: ITG 2000, CFC: Item 6. A escrituração em forma contábil de que trata o item 5 deve conter, no mínimo: a) data do registro contábil, ou seja, a data em que o fato contábil ocorreu; b) conta devedora; c) conta credora; d) histórico que represente a essência econômica da transação ou o código de histórico padronizado, neste caso baseado em tabela auxiliar inclusa em livro próprio; e) valor do registro contábil; f) informação que permita identificar, de forma unívoca, todos os registros que integram um mesmo lançamento contábil. O livro diário e o livro Razão possuem algumas formalidades, extrínsecas e intrínsecas, que, atualmente são apresentadas para livros no formato não digital e no formato digital: Formato Não Digital: Formalidades Extrínsecas (Finalidade: dificultar adulteração): - Deve ser encadernado; - As folhas devem ser numeradas; - Conterem termo de abertura e de encerramento assinados pelo titular ou representante legal da entidade e pelo profissional da contabilidade regularmente habilitado no Conselho Regional de Contabilidade. Intrínsecas (Finalidade: resguardar a fidedignidade dos fatos ocorridos em relação aos fatos registrados): - Seguir uma ordem cronológica; - Não deve haver rasuras, borrões, sinais, linhas em branco, entrelinhas, folhas em branco etc.; e - A escrituração deve ser feita em língua e moeda nacionais. Formato Digital: Formalidade dos livros em formato digital: a) serem assinados digitalmente pela entidade e pelo profissional da contabilidade regularmente habilitado; b) quando exigível por legislação específica, serem autenticados no registro público ou entidade competente. (Alterada pela ITG 2000 (R1)) Observação: Em caso de escrituração contábil em forma digital, não há necessidade de impressão e encadernação em forma de livro, porém o arquivo magnético autenticado pelo registro público competente deve ser mantido pela entidade.",
-      "dificuldade": 1,
-      "opcoes": [
-        "A) Data de realização da operação, conta a ser debitada, conta a ser creditada, histórico da operação e valor da operação em moeda nacional",
-        "B) Conta a ser debitada, conta a ser creditada, data de registro da operação, histórico da operação e valor da operação em moeda nacional. 43 179 08155932443 - Natan Luiz Rodrigues Chaves C Conta a ser creditada, conta a ser debitada, histórico da operação, valor da operação em moeda nacional ou estrangeira e data de referência de atualização de valores",
-        "C) Histórico da operação, valor da operação em moeda nacional ou estrangeira, data de referência de atualização de valores e conta a ser creditada",
-        "D) Valor da operação, data de realização da operação, duas contas a serem debitadas e histórico da operação"
       ],
-      "orgao": "SES DF",
-      "cargo": "Técnico em Contabilidade",
-      "ano": 2018
+      "validado": true
     },
     {
       "id": "cg-02b-114",
@@ -1641,7 +1736,8 @@
         "C) Verificar a igualdade entre os saldos das contas de débito e crédito",
         "D) Determinar o valor total do Ativo",
         "E) Apresentar o fluxo de caixa da empresa"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-007",
@@ -1653,7 +1749,8 @@
       "enunciado": "Ao final do exercício de 2021, a Pão da Vida Ltda. detinha um patrimônio bruto de R$ 5.500.000,00 e um patrimônio líquido de 25% desse valor. Do passivo exigível, uma parcela de 15% será quitada nos próximos 12 meses, sendo o restante vencível a longo prazo. A empresa dispõe, ainda, de ativo circulante no valor de R$ 1.700.000,00. Com base nesse caso hipotético, julgue o item. O livro-razão é um livro contábil obrigatório para as entidades em geral, devido à ITG 2000 (R1) Escrituração Contábil (do Conselho Federal de Contabilidade), e tem a finalidade de demonstrar a movimentação analítica das contas registradas no livro diário, de forma individualizada e em ordem cronológica. 27 179 08155932443 - Natan Luiz Rodrigues Chaves",
       "resposta": "certo",
       "comentario": "A escrituração é encontrada nos livros contábeis e fiscais. Atualmente, esses registros são feitos, quase que totalmente, de forma digital. Mas para fins de prova, em alguns momentos temos que pensar um pouco como isso era feito manualmente, ok? O livro Razão é um livro sistemático e ele apresenta os saldos de cada conta em determinado momento. Serve para controlar os saldos de todas as contas registradas no Livro Diário de forma individualizada. É um livro facultativo, principal (isto é, registram todos os fatos) e sistemático (leva em conta principalmente a organização das informações), apresentando os saldos das contas. Segundo a legislação do IR, os contribuintes sujeitos à apuração do lucro real devem escriturar o livro razão. Todavia, se uma questão fizer menção à ITG 2000 (R1), é possível que o Razão seja considerado como um livro obrigatório, vejam: 9. Os livros contábeis obrigatórios, entre eles o Livro Diário e o Livro Razão Destacamos que o livro diário e o livro Razão possuem algumas formalidades, extrínsecas e intrínsecas, que, atualmente são apresentadas para livros no formato não digital e no formato digital: Formato Não Digital: Formalidades Extrínsecas (Finalidade: dificultar adulteração): - Deve ser encadernado; - As folhas devem ser numeradas; - Conterem termo de abertura e de encerramento assinados pelo titular ou representante legal da entidade e pelo profissional da contabilidade regularmente habilitado no Conselho Regional de Contabilidade. Intrínsecas (Finalidade: resguardar a fidedignidade dos fatos ocorridos em relação aos fatos registrados): - Seguir uma ordem cronológica; - Não deve haver rasuras, borrões, sinais, linhas em branco, entrelinhas, folhas em branco etc.; e - A escrituração deve ser feita em língua e moeda nacionais. Formato Digital: Formalidade dos livros em formato digital: a) serem assinados digitalmente pela entidade e pelo profissional da contabilidade regularmente habilitado; b) quando exigível por legislação específica, serem autenticados no registro público ou entidade competente. (Alterada pela ITG 2000 (R1)) Observação: Em caso de escrituração contábil EM FORMA DIGITAL, NÃO HÁ NECESSIDADE DE IMPRESSÃO E ENCADERNAÇÃO EM FORMA DE LIVRO, porém o arquivo magnético autenticado pelo registro público competente deve ser mantido pela entidade. Diante do exposto e com base na ITG 2000 (R1), é correto afirmar que o livro-razão é um livro contábil obrigatório para as entidades em geral e tem a finalidade de demonstrar a movimentação analítica das contas registradas no livro diário, de forma individualizada e em ordem cronológica.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02b-006",
@@ -1672,7 +1769,8 @@
         "C) R$ 73.000,00 é a soma dos saldos das contas patrimoniais e de resultado, devedoras",
         "D) R$ 71.900,00 é a soma dos saldos das contas patrimoniais devedoras",
         "E) R$ 67.500,00 é a soma dos saldos das contas de resultado devedoras"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-036",
@@ -1690,7 +1788,8 @@
         "B) o de registro de duplicatas e o de contas correntes",
         "C) o diário e o razão",
         "D) o caixa e o de apuração do lucro real"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-027",
@@ -1709,7 +1808,8 @@
         "C) V F V V.",
         "D) F V V F.",
         "E) V V F V."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-097",
@@ -1727,7 +1827,8 @@
         "B) sessenta dias",
         "C) noventa dias",
         "D) cento e vinte dias"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-001",
@@ -1744,7 +1845,8 @@
         "A) de duas e de quatro colunas",
         "B) de oito colunas",
         "C) de quatro e de seis colunas"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-002",
@@ -1761,7 +1863,8 @@
         "A) R$ 328.500,00",
         "B) R$ 329.250,00",
         "C) R$ 329.875,00"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-045",
@@ -1779,7 +1882,8 @@
         "C) o registro em forma mecanizada.",
         "D) o controle por razão auxiliar.",
         "E) a escrituração mensal, como forma acumulativa."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-039",
@@ -1797,7 +1901,8 @@
         "B) assinados pelos administradores regularmente habilitados pelo conselho contábil",
         "C) assinados digitalmente pela entidade, pelo profissional da contabilidade regularmente habilitado e por um auditor",
         "D) assinados manualmente pela entidade e pelo profissional da contabilidade regularmente habilitados, bem como por um auditor independente"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-040",
@@ -1816,7 +1921,8 @@
         "C) Perderam a finalidade quando do surgimento do SPED contábil e caíram em desuso.",
         "D) Não existe um conjunto de informações básicas definidas para os lançamentos no Livro Diário.",
         "E) Os principais livros contábeis são os livros Diário, Razão e LALUR. Apenas o livro Diário é de uso obrigatório."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-041",
@@ -1835,7 +1941,8 @@
         "C) se trata de um procedimento contábil em desuso, pois foi substituído pelos bancos de dados das operações.",
         "D) envolvem, pelo menos, uma conta debitada; uma conta creditada; local e data da operação; histórico da operação; valor da operação e informação que permita identificar, de forma unívoca, todos os registros que integram um mesmo lançamento contábil.",
         "E) foram popularizados com o Frei Luca Pacioli, e só se tornaram efetivamente usados com o advento do computador eletrônico e dos programas gerenciadores de bancos de dados."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-042",
@@ -1854,7 +1961,8 @@
         "C) A escrituração contábil e a emissão de relatórios, peças, análises, demonstrativos e demonstrações contábeis são de atribuição da equipe da contabilidade, independentemente do registro profissional, neste caso.",
         "D) As demonstrações contábeis devem ser transcritas no razão auxiliar, completando-se com as assinaturas do titular ou de representante legal da entidade.",
         "E) Em caso de escrituração contábil em forma digital, são imperativas a impressão e a encadernação em forma de livro contábil diário."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-113",
@@ -1873,7 +1981,8 @@
         "C) nas fichas de compensação",
         "D) no livro diário",
         "E) no livro razão auxiliar"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-109",
@@ -1891,7 +2000,8 @@
         "B) de Inventário",
         "C) de Entrada de Mercadorias",
         "D) Razão"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-110",
@@ -1909,7 +2019,8 @@
         "B) as entradas e saídas de numerário",
         "C) os materiais que se achem estocados nas datas em que forem levantados os balanços",
         "D) todas as operações de serviços"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-112",
@@ -1928,7 +2039,8 @@
         "C) serem registrados e publicados em cartório específico",
         "D) quando exigível, serem registrados em cartórios e arquivados na receita federal do brasil",
         "E) quando exigível por legislação específica, serem autenticados no registro público ou entidade competente"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-111",
@@ -1946,7 +2058,8 @@
         "B) balanço financeiro e orçamentário",
         "C) balancete patrimonial",
         "D) balancete de verificação"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-043",
@@ -1965,7 +2078,8 @@
         "C) Livro Diário e o Livro Razão ... profissional da contabilidade regularmente habilitado",
         "D) Livro diário, o Livro Razão e o Livro de Atas das Assembleias Gerais ... contador da organização e pelo administrador",
         "E) Livro Diário, o Livro Razão, o Livro de Atas das Assembleias Gerais e o Livro de Registro de Ações Nominativas ... contador da organização e pelo administrador"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02b-044",
@@ -1984,7 +2098,8 @@
         "C) numerar as folhas dos livros sequencialmente.",
         "D) providenciar, junto à Junta Comercial, o termo de abertura e de encerramento assinados pelo titular ou representante legal da entidade.",
         "E) providenciar a emissão do balancete de verificação, que será arquivado, obrigatoriamente, junto aos livros obrigatórios, para efeito de formalização junto ao órgão de registro."
-      ]
+      ],
+      "validado": true
     }
   ]
 }

@@ -20,7 +20,8 @@
         "E) Misto diminutivo."
       ],
       "cargo": "Analista Legislativo - Contabilidade",
-      "orgao": "CM Rio Branco"
+      "orgao": "CM Rio Branco",
+      "validado": true
     },
     {
       "id": "cg-02a-020",
@@ -38,7 +39,8 @@
         "B) fatos modificativos aumentativos",
         "C) atos mistos aumentativos",
         "D) atos modificativos aumentativos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-018",
@@ -56,7 +58,8 @@
         "B) complementação",
         "C) ressalva",
         "D) realocação"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-022",
@@ -75,7 +78,8 @@
         "C) a transferência",
         "D) a retificação",
         "E) a ratificação"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-011",
@@ -94,7 +98,8 @@
         "C) Relaciona todas as contas a serem utilizadas no registro das variações patrimoniais, com o objetivo de uniformizar os registros contábeis da empresa",
         "D) Evidencia o agrupamento de contas por meio de códigos e classificações que orienta os registros dos atos contábeis ocorridos na empresa e servem de parâmetro para a elaboração das demonstrações contábeis",
         "E) O nível de detalhamento da escrituração contábil deve ser padronizado até o sétimo nível para todas as entidades e estar alinhado às necessidades de informação de seus usuários"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-103",
@@ -112,7 +117,8 @@
         "B) regularizar a conta indevidamente debitada ou creditada, por meio da transposição do registro para a conta adequada",
         "C) regularizar a conta indevidamente debitada ou creditada, por meio de ajuste do registro para a conta correta",
         "D) complementar, aumentando ou reduzindo o valor anteriormente registrado erroneamente"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-019",
@@ -131,7 +137,8 @@
         "C) O fato modificativo aumentativo é aquele que provoca aumento da situação líquida mediante aumento do ativo ou diminuição do passivo",
         "D) O fato modificativo provoca aumento ou redução do ativo ou passivo, concomitantemente com modificação na situação líquida. Necessariamente haverá uma conta de receita ou despesa envolvida",
         "E) Os fatos permutativos configuram apenas trocas, permutas, entre bens do ativo e passivo exigível, em que haja alteração no valor total do patrimônio líquido e contas de resultado"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-031",
@@ -150,7 +157,8 @@
         "C) 4 - 1 - 3 - 2.",
         "D) 2 - 1 - 4 - 3.",
         "E) 3 - 4 - 1 - 2. ( ) Integralização de capital no valor de R$ 200.000,00, 40% em dinheiro e 60% em equipamentos. ( ) Aquisição de móveis por R$ 50.000,00 com pagamento à vista em cheque. ( ) Pagamento de R$ 5.600,00 de aluguel e R$ 400,00 de IPTU referentes ao imóvel alugado, sendo R$ 1.000,00 em dinheiro e R$ 5.000,00 em cheque. ( ) Aquisição de móveis por R$ 20.000,00, com pagamento de 20% à vista em cheque e 80% a prazo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-001",
@@ -169,7 +177,8 @@
         "C) deve ser acompanhado de um registro a débito de valor equivalente, em uma ou mais contascontábeis",
         "D) deve ser acompanhado de um registro a crédito de valor equivalente, em apenas uma conta-contábil, de natureza credora",
         "E) deve ser acompanhado de um registro a crédito de valor equivalente, em apenas uma conta-contábil, de natureza credora ou devedora"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-072",
@@ -181,7 +190,8 @@
       "enunciado": "Entre os vários componentes de um plano de contas completo, um dos mais conhecidos é o elenco de contas, composto pela disposição organizada das contas de uso da instituição, com seus códigos, em geral, numéricos, e o literal que qualifica tal conta.",
       "resposta": "certo",
       "comentario": "Correto. O elenco de contas é o componente central do plano de contas: lista todas as contas utilizadas pela entidade de forma organizada, com códigos numéricos padronizados e os respectivos literais. Ele garante uniformidade na escrituração e facilita a localização e identificação de cada conta no sistema contábil.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02a-080",
@@ -193,7 +203,8 @@
       "enunciado": "Um procedimento usual na escrituração contábil é o estorno, que ocorre quando um erro de lançamento foi cometido; o estorno, necessariamente, deve reverter integralmente o lançamento errado, não sendo admitido estorno parcial de lançamento.",
       "resposta": "certo",
       "comentario": "Com relação aos objetivos e princípios da contabilidade, aos elementos que compõem o patrimônio das entidades e aos eventos que podem vir a impactar esse patrimônio, julgue o item seguinte.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02a-152",
@@ -205,7 +216,8 @@
       "enunciado": "Entre os vários componentes de um plano de contas completo, um dos mais conhecidos é o elenco de contas, composto pela disposição organizada das contas de uso da instituição, com seus códigos, em geral, numéricos, e o literal que qualifica tal conta.",
       "resposta": "certo",
       "comentario": "Correto. O plano de contas de uma entidade é composto por diversos elementos; entre eles, o elenco de contas é o mais reconhecido. Ele apresenta de forma organizada todas as contas disponíveis para escrituração, identificadas por códigos em geral numéricos e pelos literais que nomeiam cada conta, garantindo padronização e clareza nos registros.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02a-073",
@@ -217,7 +229,8 @@
       "enunciado": "A identificação de quando uma conta deve ser debitada e quando ela deve ser creditada é informação que consta da parte do plano de contas conhecida como funcionamento.",
       "resposta": "certo",
       "comentario": "1.1.1.01 Caixa Função: representa o valor dos Bens Numerários em poder da empresa, normalmente compostos por dinheiro e cheques. Funcionamento: debitada pelas entradas de dinheiro ou cheques de terceiros e creditada pelas saídas de dinheiro ou cheques de terceiros recebidos pela empresa. Natureza do saldo: devedora.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-074",
@@ -229,7 +242,8 @@
       "enunciado": "A construção de um bom plano de contas somente é possível caso se tenha como pressuposto o foco nas necessidades de informação na equipe responsável pelo desenvolvimento das atividades contábeis da empresa. Um plano de contas é bom quando atende as necessidades de trabalho, organização e informação do pessoal da contabilidade.",
       "resposta": "errado",
       "comentario": "Com relação aos atos e fatos administrativos e aos fatos contábeis, julgue o item seguinte.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-153",
@@ -241,7 +255,8 @@
       "enunciado": "A identificação de quando uma conta deve ser debitada e quando ela deve ser creditada é informação que consta da parte do plano de contas conhecida como funcionamento.",
       "resposta": "certo",
       "comentario": "1.1.1.01 Caixa Função: representa o valor dos Bens Numerários em poder da empresa, normalmente compostos por dinheiro e cheques. Funcionamento: debitada pelas entradas de dinheiro ou cheques de terceiros e creditada pelas saídas de dinheiro ou cheques de terceiros recebidos pela empresa. Natureza do saldo: devedora.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-154",
@@ -253,7 +268,8 @@
       "enunciado": "A construção de um bom plano de contas somente é possível caso se tenha como pressuposto o foco nas necessidades de informação na equipe responsável pelo desenvolvimento das atividades contábeis da empresa. Um plano de contas é bom quando atende as necessidades de trabalho, organização e informação do pessoal da contabilidade.",
       "resposta": "errado",
       "comentario": "Com relação aos atos e fatos administrativos e aos fatos contábeis, julgue o item seguinte.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-083",
@@ -265,7 +281,8 @@
       "enunciado": "Considere que uma empresa tenha chegado a um acordo com um de seus fornecedores para saldar determinado débito com a entrega de um ativo da companhia. Considere, ainda, que nenhum desconto tenha sido concedido pelo credor e nenhum encargo adicional tenha sido pago pela devedora. Nessa situação, a variação no patrimônio dos envolvidos foi qualitativa e não quantitativa, não se tratando de um fato contábil modificativo.",
       "resposta": "certo",
       "comentario": "Para entendermos melhor a situação, vamos imaginar que a dívida da empresa com os fornecedores era de R$ 1.000 e foi quitada em dinheiro por essa mesma quantia, isto é, sem desconto ou encargo adicional. A contabilização que deve ser feita é: D - Fornecedores C - Bancos R$ 1.000 R$ 1.000 Percebam que estamos diante de um fato permutativo, visto que variação no patrimônio dos envolvidos foi qualitativa e não quantitativa, não se tratando de um fato contábil modificativo. Item corretíssimo.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02a-084",
@@ -277,7 +294,8 @@
       "enunciado": "Considere que um empréstimo tenha sido contratado pelo prazo de 12 meses, com juros prefixados mensais, e que, ao final de cada período mensal, será debitada na conta-corrente da financiada uma parcela de capital e uma parcela de juros, conforme metodologia definida entre as partes. Nessas condições, a cada mês ocorre um fato misto que modifica a situação patrimonial líquida negativamente.",
       "resposta": "certo",
       "comentario": "O pagamento mensal da parcela do empréstimo mais ou juros do período pode ser contabilizada assim: D - Empréstimo a Pagar (Passivo) D - Despesa Financeira (resultado) C - Bancos (Ativo) Percebam que temos permutações de elementos patrimoniais e uma conta de resultado (despesa). Logo, trata-se de um fato contábil misto diminutivo. Julgue os itens seguintes, a respeito de contas, devedoras ou credoras e seus saldos.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02a-085",
@@ -289,7 +307,8 @@
       "enunciado": "Se determinada obrigação foi quitada em atraso, gerando o pagamento de encargos financeiros, então, nessas condições, ao menos duas contas credoras e uma conta devedora serão necessárias para espelhar contabilmente o evento.",
       "resposta": "errado",
       "comentario": "O pagamento de uma obrigação em atraso com juros pode ser contabilizado da seguinte forma: D - Contas a Pagar (Passivo) D - Despesa Financeira (resultado) C - Bancos (Ativo) Percebam que é necessário, pelo menos, duas contas DEVEDORAS e uma credora. Portanto, item errado. Acerca dos lançamentos contábeis, julgue o item que se segue.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02a-088",
@@ -306,7 +325,8 @@
         "A) misto",
         "B) permutativo",
         "C) modificativo diminutivo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-081",
@@ -318,7 +338,8 @@
       "enunciado": "A aquisição de mercadorias a prazo é um exemplo de fato administrativo modificativo.",
       "resposta": "errado",
       "comentario": "Errado. A aquisição de mercadorias a prazo é um fato permutativo: D — Estoque (ativo +) e C — Fornecedores (passivo +). Ativo e passivo aumentam em igual valor, sem nenhum efeito no PL. Fato modificativo é aquele que altera o PL por meio de receita (aumentativo) ou despesa (diminutivo).",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02a-087",
@@ -330,7 +351,8 @@
       "enunciado": "Como exemplo de escrituração de um fato misto, tem- se a ocorrência de lançamentos em contas de ativo circulante e de passivo não circulante como contrapartidas uns dos outros.",
       "resposta": "errado",
       "comentario": "Permuta entre elementos do ativo Permuta entre elementos do passivo Permuta entre elementos do passivo e do ativo Permuta entre elementos do PL 2. Fatos Modificativos: São os que alteram o valor do patrimônio líquido. Dividem-se em: 2.1. Fatos Modificativos Aumentativos: Aumentam o valor do PL 2.1. Fatos Modificativos Diminutivos: Diminuem o valor do PL Posicionamento Importante: há fatos contábeis que NÃO envolvem receitas nem despesas, mas geram alterações no patrimônio líquido. Exemplo: a integralização de capital em dinheiro, distribuição de dividendos, aquisição de ações em tesouraria e ajuste de avaliação patrimonial. Esse tipo de fato deve ser considerado MODIFICATIVO. Posicionamento recente da banca Cebraspe",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-076",
@@ -342,7 +364,8 @@
       "enunciado": "Um depósito bancário com recursos oriundos do caixa da entidade constitui um fato permutativo.",
       "resposta": "certo",
       "comentario": "Com relação aos atos e fatos administrativos, julgue o item subsequente.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02a-070",
@@ -354,7 +377,8 @@
       "enunciado": "O lançamento de 3. fórmula pode ser utilizado para o registro no livro diário da aquisição de mercadorias em que apenas uma parcela do valor da transação esteja sendo paga à vista.",
       "resposta": "errado",
       "comentario": "Com relação aos atos e fatos administrativos, julgue o item subsequente.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-077",
@@ -366,7 +390,8 @@
       "enunciado": "O aumento do caixa e do capital de uma entidade, por meio de um aporte de recursos dos sócios, é um fato permutativo, pois não gera nem receita nem despesa.",
       "resposta": "errado",
       "comentario": "Entendimento do CEBRASPE! O aumento do caixa e do capital de uma entidade, por meio",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-079",
@@ -378,7 +403,8 @@
       "enunciado": "A expressão contábil de um fato permutativo necessariamente envolve ao menos uma conta de natureza devedora e uma conta de natureza credora.",
       "resposta": "errado",
       "comentario": "Permuta entre elementos do ativo Permuta entre elementos do passivo Permuta entre elementos do passivo e do ativo Permuta entre elementos do PL Julgue os próximos itens, a respeito de escrituração contábil.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-156",
@@ -390,7 +416,8 @@
       "enunciado": "A expressão contábil de um fato permutativo necessariamente envolve ao menos uma conta de natureza devedora e uma conta de natureza credora.",
       "resposta": "errado",
       "comentario": "Julgue os próximos itens, a respeito de escrituração contábil.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-071",
@@ -402,7 +429,8 @@
       "enunciado": "O pagamento de uma conta sem juros, metade em cheque e metade em dinheiro, é um fato misto.",
       "resposta": "errado",
       "comentario": "Adendo! Assunto que é cobrado como pegadinha em provas é o tema recebimento e pagamento em cheque. O recebimento em cheque é realizado através da tesouraria, ou seja, da conta caixa. Todavia, o pagamento em cheque é feito através de crédito na conta bancos conta movimento. Resumindo: Pagamento por meio de cheque: sai da conta bancos. Recebimento por meio de cheque: entra na conta caixa. A contabilização é a seguinte: D Contas a pagar (- Passivo) C Bancos (- Ativo) C Caixa (- Ativo) Em relação ao plano de contas contábil, julgue os itens subsequentes.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02a-082",
@@ -421,7 +449,8 @@
         "C) Apenas os itens I e III estão certos.",
         "D) Apenas os itens II e III estão certos.",
         "E) Todos os itens estão certos."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-089",
@@ -439,7 +468,8 @@
         "C) o recebimento de bem em doação",
         "D) o financiamento com entrada imediata do recurso para pagamento em 10 anos"
       ],
-      "cargo": "Escrivão de Polícia Civil"
+      "cargo": "Escrivão de Polícia Civil",
+      "validado": true
     },
     {
       "id": "cg-02a-067",
@@ -451,7 +481,8 @@
       "enunciado": "O lançamento a seguir constitui um fato contábil modificativo diminutivo. debite ações em tesouraria credite bancos",
       "resposta": "certo",
       "comentario": "Ações em tesouraria mantidas na tesouraria. Ela é redutora do Patrimônio Líquido (PL). Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) O CPC 00 (R2) afirma que uma entidade não pode ter direitos contra ela mesma. Por isso que as ações que a empresa adquire de si própria, como as ações em tesouraria, não representam ativos para a entidade e são classificadas como redução do Patrimônio Líquido. Bancos depositado no Banco. Ela é uma conta do ativo. Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) Após essa introdução, observemos os efeitos desse lançamento: Aquisição de ações em tesouraria D - Ações em tesouraria ( PL) C - Bancos ( Ativo) Não há unanimidade entre os autores sobre este assunto. Alguns entendem que qualquer alteração no PL (como integralização de capital ou compra de ações em tesouraria) é fato modificativo. Outros, entendem que, para ser fato modificativo ou misto, tem que obrigatoriamente envolver uma conta de resultado. Priii! Aqui vamos chamar o \"VAR\": Entendimento do CEBRASPE! Compra de ações em tesouraria é um fato modificativo. No que diz respeito aos atos e fatos administrativos, julgue o item a seguir.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02a-068",
@@ -463,7 +494,8 @@
       "enunciado": "Um fato que simultaneamente modifique o patrimônio de forma qualitativa e de forma quantitativa é um fato composto, estando bem representado pelo provisionamento para distribuição de dividendos.",
       "resposta": "errado",
       "comentario": "Em relação a plano de contas e escrituração contábil, julgue o item a seguir.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02a-069",
@@ -475,7 +507,8 @@
       "enunciado": "A expressão contábil a seguir, que é utilizada no sistema clássico de escrituração, indica uma partida de segunda ou terceira fórmula. Diversos a Diversos",
       "resposta": "errado",
       "comentario": "Outra forma de lançamento, também conhecida como partida de Diário ou Lançamento Manual. A conta a palavra diversos, saiba que há mais de uma conta creditada ou debitada. Como o quesito quer qual é tipo de fórmula desse lançamento, vejamos nosso esquema: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. Nesse lançamento temos 2 ou mais contas debitadas e 2 ou mais contas creditadas. Assim, temos um lançamento de quarta fórmula. Com relação à escrituração contábil, julgue o item a seguir.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02a-151",
@@ -487,7 +520,8 @@
       "enunciado": "O lançamento a seguir constitui um fato contábil modificativo diminutivo. debite ações em tesouraria credite bancos",
       "resposta": "certo",
       "comentario": "Ações em tesouraria mantidas na tesouraria. Ela é redutora do Patrimônio Líquido (PL). Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) O CPC 00 (R2) afirma que uma entidade não pode ter direitos contra ela mesma. Por isso que as ações que a empresa adquire de si própria, como as ações em tesouraria, não representam ativos para a entidade e são classificadas como redução do Patrimônio Líquido. Bancos depositado no Banco. Ela é uma conta do ativo. Assim, possui saldo devedor (aumenta pelo débito e diminui pelo crédito) Após essa introdução, observemos os efeitos desse lançamento: Aquisição de ações em tesouraria D - Ações em tesouraria ( PL) C - Bancos ( Ativo) Não há unanimidade entre os autores sobre este assunto. Alguns entendem que qualquer alteração no PL (como integralização de capital ou compra de ações em tesouraria) é fato modificativo. Outros, entendem que, para ser fato modificativo ou misto, tem que obrigatoriamente envolver uma conta de resultado. Priii! Aqui vamos chamar o \"VAR\": Entendimento do CEBRASPE! Compra de ações em tesouraria é um fato modificativo. No que diz respeito aos atos e fatos administrativos, julgue o item a seguir.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02a-090",
@@ -499,7 +533,8 @@
       "enunciado": "A aquisição de um bem mediante uma parte a vista e outra a prazo exige, no mínimo, uma partida de terceira fórmula para ser registrada contabilmente.",
       "resposta": "errado",
       "comentario": "Inicialmente, vamos rever o nosso esquema: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. A contabilização é a seguinte: D - Imobilizado (+Ativo) C - Caixa (-Ativo) C - Duplicatas a pagar (+passivo) Uma empresa com fins lucrativos prestadora de serviços ao governo do estado do Ceará contratou, no dia 1.º do último mês findo, um novo funcionário de relações públicas, com salário de R$ 10.000, mais encargos legais, a ser pago no 5.º dia útil após o mês de prestação dos serviços. Com relação à situação hipotética anterior, julgue os itens seguintes.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-092",
@@ -511,7 +546,8 @@
       "enunciado": "O pagamento antecipado da dívida representa um fato contábil misto para a empresa XYZ.",
       "resposta": "certo",
       "comentario": "Vamos imaginar o valor da dívida da empresa seja de R$ 10.000,00, contudo, pelo pagamento efetuado antecipadamente, a empresa obteve um desconto de 10%. Qual seria essa modalidade de desconto? Financeiro ou Comercial? Trata-se de desconto condicional ou desconto financeiro é aquele que depende de determinada condição a ser cumprida pelo cliente, como, por exemplo, a quitação antecipada de título de crédito, recebendo um desconto de 10%. Esse desconto é concedido em MOMENTO POSTERIOR À NEGOCIAÇÃO. Na nossa questão, a empresa XYZ obteve um desconto financeiro, portanto, irá reconhecer uma receita financeira. Vejam este lançamento considerando os valores que usamos de exemplo: D - Duplicatas a Pagar (Passivo) C - Receita Financeira (receita) C - Bancos (ativo) R$ 10.000,00 (passivo) R$ 1.000,00 (receita financeira) R$ 9.000,00 (ativo) Percebam que temos um fato misto aumentativo, pois há permutação de elementos do passivo e ativo e, ao mesmo, tempo o reconhecimento de um fato modificativo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-093",
@@ -523,7 +559,8 @@
       "enunciado": "A terceira fórmula de lançamento, também denominada fórmula complexa, requer a utilização de uma conta devedora e duas ou mais contas credoras para o registro de um evento contábil.",
       "resposta": "errado",
       "comentario": "Ao registro de um fato contábil chamamos lançamento. Este é efetuado em livros contábeis próprios como o diário, razão, caixa, duplicatas a receber etc. Os lançamentos podem ter fórmulas de acordo com a quantidade de contas debitadas ou creditadas, a saber: Fórmulas de lançamento: Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Denominação Lançamento Simples Lançamento Composto Lançamento Composto Lançamento Complexo Onde se escreve 2, leia-se 2 ou mais. No lançamento de 3ª fórmula, temos duas contas debitadas e uma creditada, portanto, item errado. Além disso, o lançamento de 4ª fórmula que é conhecido como lançamento complexo. O lançamento de 1ª fórmula é chamado de lançamento simples; 2ª e 3ª fórmulas: lançamento composto e 4º fórmula - lançamento complexo. Determinada entidade contratou dois funcionários para a área de vendas no primeiro dia do mês. No dia 15 do referido mês, esses dois funcionários receberam adiantamentos correspondentes a 30% dos salários a que tinham direito no mês. O restante foi pago no quinto dia útil do mês subsequente. A respeito da situação hipotética apresentada, julgue o item a seguir.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-078",
@@ -542,7 +579,8 @@
         "C) obtenção de financiamento para a aquisição de veículo",
         "D) depreciação do imóvel da fábrica",
         "E) amortização de empréstimos com juros de mora"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-155",
@@ -561,7 +599,8 @@
         "C) obtenção de financiamento para a aquisição de veículo",
         "D) depreciação do imóvel da fábrica",
         "E) amortização de empréstimos com juros de mora"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-091",
@@ -573,7 +612,8 @@
       "enunciado": "A contratação do novo funcionário é um ato administrativo que impacta positivamente o patrimônio líquido da entidade contratante.",
       "resposta": "errado",
       "comentario": "Os atos administrativos (também conhecido como atos contábeis) são atos relevantes que não alteram o patrimônio da entidade, tal como a contratação de empregados, o simples fato de se conceder fiança a um terceiro ou avalizar um cheque. Ressaltamos que o registro de ATOS CONTÁBEIS pela Contabilidade Geral, é raro de acontecer e não é obrigatório, mas pode ser feita através das contas de compensação. Ou seja, eles são controlados de forma extracontábil. Com relação aos conceitos fundamentais da contabilidade e seu mecanismo de registro de fatos administrativos, julgue os itens que seguem.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02a-094",
@@ -585,7 +625,8 @@
       "enunciado": "Os adiantamentos pagos aos funcionários no dia 15 do referido mês são considerados fatos modificativos porque reduzem o ativo (saída de caixa) e reduzem o patrimônio (reconhecimento de despesa).",
       "resposta": "errado",
       "comentario": "Os adiantamentos pagos aos funcionários podem ser contabilizados da seguinte maneira: D Adiantamentos a funcionários (Ativo) C Caixa (Ativo) Trata-se de um fato permutativo e não fato modificativo, pois configura apenas trocas, permutas, entre bens do ativo, sem que haja alteração no valor total do patrimônio líquido e contas de resultado.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-075",
@@ -597,7 +638,8 @@
       "enunciado": "Considere que uma entidade comercial tenha recebido de um cliente o valor de R$ 380,00, sendo R$ 350,00 referentes ao valor da venda e R$ 30,00 relativos aos juros decorrentes do pagamento em atraso por parte do cliente. Nesse caso, verifica-se, no referido recebimento, um fato contábil misto.",
       "resposta": "certo",
       "comentario": "Com relação aos atos e fatos administrativos, julgue o item subsequente.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-02a-086",
@@ -609,7 +651,8 @@
       "enunciado": "A retificação de lançamento denominada transferência consiste em lançamento inverso àquele feito erroneamente com anulação total do valor registrado.",
       "resposta": "errado",
       "comentario": "Retificação de lançamento é o processo técnico de correção de registro realizado com erro na escrituração contábil da entidade e pode ser feito por meio de: a) estorno: lançamento inverso, anulando totalmente. b) transferência: transposição para a conta correta. c) complementação: aumentando ou diminuindo o saldo da conta; d) Ressalva: Por que a ressalva não consta da ITG 2000 como modalidade de retificação? Isso se deve ao fato de a ressalva ser mais utilizada quando da escrituração manual dos livros contábeis, fato pouco usual nos dias de hoje. Retificação do lançamento Estorno Lançamento inverso, anulando totalmente Transferência Transposição para a conta adequada Complementação Complementa (aumentando ou reduzindo) Ressalva Correção antes do término do lançamento Em relação a contas e sua natureza e escrituração de fatos administrativos, julgue o item subsecutivo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-02a-015",
@@ -628,7 +671,8 @@
         "C) Contas Patrimoniais que são: Ativo (bens + direitos), são contas de natureza devedora. Passivo (obrigações e patrimônio líquido), são as contas de natureza credora. Contas de Resultado composto por: Despesas Contas de natureza credora. Receitas Contas de natureza devedora",
         "D) Contas Patrimoniais que são: Ativo (bens + direitos), são contas de natureza devedora. Passivo (obrigações e patrimônio líquido), são as contas de natureza devedora. Contas de Resultado composto por: Despesas Contas de natureza credora. Receitas Contas de natureza credora",
         "E) Contas Patrimoniais que são: Ativo (bens + direitos), são contas de natureza devedora. Passivo (obrigações e patrimônio líquido), são as contas de natureza credora. Contas de Resultado composto por: Receitas Contas de natureza devedora. Despesas Contas de natureza devedora"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-063",
@@ -647,7 +691,8 @@
         "C) permutativo",
         "D) modificativo aumentativo",
         "E) misto aumentativo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-064",
@@ -666,7 +711,8 @@
         "C) terceira",
         "D) quarta",
         "E) quinta"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-058",
@@ -685,7 +731,8 @@
         "C) de primeira fórmula, em contas do passivo",
         "D) de terceira fórmula, em contas do ativo",
         "E) de quarta fórmula, em contas do ativo e do passivo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-056",
@@ -704,7 +751,8 @@
         "C) transferência e exclusão",
         "D) estorno e complementação",
         "E) complementação e exclusão"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-055",
@@ -723,7 +771,8 @@
         "C) terceira",
         "D) quarta",
         "E) quinta"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-057",
@@ -742,7 +791,8 @@
         "C) misto diminutivo",
         "D) misto aumentativo",
         "E) permutativo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-146",
@@ -761,7 +811,8 @@
         "C) natureza da conta.",
         "D) funcionamento da conta.",
         "E) tipo da conta."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-128",
@@ -780,7 +831,8 @@
         "C) Método das partidas dobradas",
         "D) Método das partidas simples",
         "E) Teoria Materialista"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-127",
@@ -799,7 +851,8 @@
         "C) modificativo aumentativo",
         "D) modificativo diminutivo",
         "E) permutativo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-133",
@@ -818,7 +871,8 @@
         "C) Correção, estorno e cancelamento",
         "D) Estorno, transferência e complementação",
         "E) Estorno, correção e inutilização"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-145",
@@ -836,7 +890,8 @@
         "B) diminutivo e patrimonial",
         "C) orçamentário e resultado",
         "D) permutativo e patrimonial"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-150",
@@ -855,7 +910,8 @@
         "C) modificativo aumentativo",
         "D) misto diminutivo",
         "E) misto aumentativo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-143",
@@ -873,7 +929,8 @@
         "B) lançamento de 3a fórmula",
         "C) lançamento de 2a fórmula",
         "D) lançamento de fórmula complexa"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-125",
@@ -892,7 +949,8 @@
         "C) Terceira fórmula",
         "D) Quarta fórmula",
         "E) Quinta fórmula"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-144",
@@ -910,7 +968,8 @@
         "B) fórmula secundária",
         "C) ato administrativo",
         "D) fato permutativo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-130",
@@ -929,7 +988,8 @@
         "C) transferência",
         "D) inversão de contas",
         "E) estorno"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-137",
@@ -948,7 +1008,8 @@
         "C) 3a fórmula",
         "D) 4a fórmula",
         "E) 5a fórmula"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-129",
@@ -967,7 +1028,8 @@
         "C) 3a fórmula para receitas",
         "D) 1a fórmula para receitas e despesas",
         "E) 4a fórmula para receitas e despesas"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-149",
@@ -986,7 +1048,8 @@
         "C) Permutativo",
         "D) Misto Aumentativo",
         "E) Misto Diminutivo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-135",
@@ -1004,7 +1067,8 @@
         "E) Insubsistência"
       ],
       "orgao": "Não identificado",
-      "cargo": "Não identificado"
+      "cargo": "Não identificado",
+      "validado": true
     },
     {
       "id": "cg-02a-139",
@@ -1023,7 +1087,8 @@
         "C) modificativo diminutivo.",
         "D) modificativo aumentativo.",
         "E) permutativo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-142",
@@ -1041,7 +1106,8 @@
         "B) débitos representam as origens de recursos",
         "C) débitos representam as aplicações de recursos só nas contas do ativo",
         "D) débitos representam as entradas de recursos nas contas de origem credora"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-148",
@@ -1060,7 +1126,8 @@
         "C) 2a fórmula",
         "D) 3a fórmula",
         "E) 4a fórmula"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-141",
@@ -1078,7 +1145,8 @@
         "B) misto aumentativo",
         "C) modificativo aumentativo",
         "D) modificativo diminutivo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-131",
@@ -1097,7 +1165,8 @@
         "C) mais de uma conta a débito e mais de uma conta a crédito",
         "D) quatro contas a débito e uma a crédito",
         "E) uma conta a débito e mais de uma a crédito"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-138",
@@ -1116,7 +1185,8 @@
         "C) 3ª",
         "D) 4ª",
         "E) 5ª"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-140",
@@ -1134,7 +1204,8 @@
         "B) fórmula complexa",
         "C) fórmula mista",
         "D) fórmula simples"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-147",
@@ -1152,7 +1223,8 @@
         "B) 3ª fórmula",
         "C) 4ª fórmula",
         "D) 5ª fórmula"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-134",
@@ -1171,7 +1243,8 @@
         "C) situação líquida negativa",
         "D) situação líquida positiva",
         "E) situação líquida nula"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-132",
@@ -1190,7 +1263,8 @@
         "C) modificativo",
         "D) permissivo",
         "E) permutativo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-136",
@@ -1209,7 +1283,8 @@
         "C) terceira fórmula",
         "D) quarta fórmula",
         "E) quinta fórmula"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-126",
@@ -1228,7 +1303,8 @@
         "C) modificativo aumentativo",
         "D) modificativo diminutivo",
         "E) permutativo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-032",
@@ -1246,7 +1322,8 @@
         "C) Método menos utilizado pela contabilidade, sendo o Método das Partidas Simples universalmente aceito devido a seu princípio de que o total de débitos tem que ser diferente do total de créditos.",
         "D) Método pelo qual se registra por meio de lançamentos a débito ou a crédito em uma ou mais contas as alterações ocorridas no patrimônio de uma entidade, permitindo que ele permaneça equilibrado."
       ],
-      "cargo": "Exame de Suficiência"
+      "cargo": "Exame de Suficiência",
+      "validado": true
     },
     {
       "id": "cg-02a-053",
@@ -1264,7 +1341,8 @@
         "B) 2, 4, 1, 3.",
         "C) 1, 3, 2, 4.",
         "D) 3, 1, 4, 2."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-054",
@@ -1282,7 +1360,8 @@
         "B) misto diminutivo.",
         "C) modificativo diminutivo.",
         "D) compensativo aumentativo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-016",
@@ -1300,7 +1379,8 @@
         "B) terceira fórmula, com duas contas devedoras e uma conta credora",
         "C) terceira fórmula, com uma conta devedora e duas contas credoras",
         "D) quarta fórmula, com duas contas devedoras e duas contas credoras"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-044",
@@ -1320,7 +1400,8 @@
         "D) III e IV, apenas",
         "E) I, II e IV, apenas",
         "F) I, II, III e IV"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-033",
@@ -1339,7 +1420,8 @@
         "C) 1.d; 2.a; 3.e; 4.b; 5.c",
         "D) 1.d; 2.b; 3.c; 4a.; 5.e",
         "E) 1.c; 2.a; 3.d; 4.e; 5.b"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-045",
@@ -1357,7 +1439,8 @@
         "C) quarta fórmula",
         "D) quinta fórmula"
       ],
-      "orgao": "IF AL"
+      "orgao": "IF AL",
+      "validado": true
     },
     {
       "id": "cg-02a-046",
@@ -1376,7 +1459,8 @@
         "D) Permutativo, permutativo, permutativo, modificativo aumentativo, modificativo diminutivo, modificativo aumentativo",
         "E) Permutativo, permutativo, modificativo aumentativo, misto aumentativo, modificativo diminutivo, modificativo aumentativo"
       ],
-      "orgao": "IF AL"
+      "orgao": "IF AL",
+      "validado": true
     },
     {
       "id": "cg-02a-017",
@@ -1394,7 +1478,8 @@
         "B) Esse método consiste em que cada débito corresponde a um crédito de igual valor",
         "C) Esse método consiste no registro de operações envolvendo o controle de um só elemento",
         "D) No livro Caixa, os eventos são registrados visando apenas ao controle do dinheiro (entradas e saídas)"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-036",
@@ -1411,7 +1496,8 @@
         "A) modificativo aumentativo",
         "B) misto aumentativo",
         "C) misto diminutivo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-023",
@@ -1430,7 +1516,8 @@
         "C) 4ª Fórmula: mais de uma conta debitada e uma conta creditada.",
         "D) 3ª Fórmula: uma conta debitada e mais de uma conta creditada.",
         "E) 2ª Fórmula: uma conta debitada e mais de uma conta creditada."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-062",
@@ -1447,7 +1534,8 @@
         "A) modificativo diminutivo",
         "B) misto",
         "C) composto"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-098",
@@ -1466,7 +1554,8 @@
         "C) apenas permuta valores entre ativos circulante e não circulante.",
         "D) aumenta o ativo circulante e o passivo circulante.",
         "E) modifica o patrimônio líquido e diminui o ativo circulante."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-100",
@@ -1485,7 +1574,8 @@
         "D) qualitativa ou permutativas.",
         "E) quantitativas ou relativas."
       ],
-      "cargo": "Técnico em Contabilidade"
+      "cargo": "Técnico em Contabilidade",
+      "validado": true
     },
     {
       "id": "cg-02a-097",
@@ -1504,7 +1594,8 @@
         "C) aquisição de imobilizado totalmente financiado.",
         "D) aplicação financeira a prazo fixo por 4 anos.",
         "E) aumento de capital com saldos de Reservas."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-099",
@@ -1523,7 +1614,8 @@
         "C) permutativo.",
         "D) misto.",
         "E) diminutivo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-095",
@@ -1542,7 +1634,8 @@
         "C) o pagamento do valor referente ao principal de um empréstimo obtido.",
         "D) a concessão de abatimento para um cliente da empresa.",
         "E) a obtenção de desconto financeiro pelo pagamento antecipado a fornecedores."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-096",
@@ -1561,7 +1654,8 @@
         "C) a obtenção de um empréstimo bancário.",
         "D) a constituição de reserva legal.",
         "E) o pagamento de dividendos."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-060",
@@ -1580,7 +1674,8 @@
         "C) São corretas apenas as afirmativas 1, 2 e 4.",
         "D) São corretas apenas as afirmativas 1, 4 e 5.",
         "E) São corretas apenas as afirmativas 2, 3 e 5."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-114",
@@ -1599,7 +1694,8 @@
         "C) D = Banco; C = Fornecedores; C = Juros Passivos",
         "D) D = Clientes; C = Caixa; C = Juros Passivos",
         "E) D = Caixa; C = Receita de Vendas pelo valor de custo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-105",
@@ -1618,7 +1714,8 @@
         "C) débitos e créditos têm o mesmo efeito patrimonial;",
         "D) toda aplicação de recurso tem uma origem;",
         "E) todo fato contábil modifica o patrimônio líquido."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-106",
@@ -1637,7 +1734,8 @@
         "C) depreciação de um veículo;",
         "D) pagamento do principal de uma dívida;",
         "E) recebimento por vendas a prazo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-115",
@@ -1656,7 +1754,8 @@
         "C) somente nos itens IV, VI e VII.",
         "D) somente nos itens I, IV e V.",
         "E) somente nos itens III, VI e VII."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-110",
@@ -1675,7 +1774,8 @@
         "D) de patrimônio líquido;",
         "E) retificadora do ativo ou do passivo."
       ],
-      "orgao": "MRE"
+      "orgao": "MRE",
+      "validado": true
     },
     {
       "id": "cg-02a-107",
@@ -1694,7 +1794,8 @@
         "C) misto;",
         "D) misto aumentativo;",
         "E) permutativo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-108",
@@ -1713,7 +1814,8 @@
         "C) estorno total;",
         "D) estorno parcial;",
         "E) transferência."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-101",
@@ -1732,7 +1834,8 @@
         "C) Ativo e Patrimônio Líquido.",
         "D) Passivo e Patrimônio Líquido.",
         "E) Patrimônio Líquido e Passivo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-104",
@@ -1751,7 +1854,8 @@
         "C) terceira fórmula.",
         "D) quarta fórmula.",
         "E) quinta fórmula."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-109",
@@ -1770,7 +1874,8 @@
         "C) misto aumentativo;",
         "D) misto diminutivo;",
         "E) permutativo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-113",
@@ -1789,7 +1894,8 @@
         "C) somente I e III;",
         "D) somente II e III;",
         "E) I, II e III;"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-111",
@@ -1808,7 +1914,8 @@
         "C) Permutativo e Misto Aumentativo;",
         "D) Modificativo Aumentativo e Misto Diminutivo;",
         "E) Modificativo Aumentativo e Permutativo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-112",
@@ -1827,7 +1934,8 @@
         "C) quitação de dívidas oriundas de captação de recursos junto a instituições financeiras;",
         "D) quitação de um crédito de curto prazo;",
         "E) comissões sobre empréstimos bancários."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-059",
@@ -1844,7 +1952,8 @@
         "A) para cada destinação existe uma única fonte",
         "B) não há débitos sem créditos correspondentes de igual valor",
         "C) as fontes de recursos representam o total do passivo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-041",
@@ -1862,7 +1971,8 @@
         "B) Dois ou mais débitos e um crédito",
         "C) Um débito e dois ou mais créditos",
         "D) Um débito e um crédito"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-038",
@@ -1880,7 +1990,8 @@
         "B) liquidação",
         "C) transferência",
         "D) O estorno"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-039",
@@ -1898,7 +2009,8 @@
         "B) Um crédito e dois ou mais débitos",
         "C) Um débito e dois ou mais créditos",
         "D) Um débito e um crédito"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-040",
@@ -1916,7 +2028,8 @@
         "B) Um crédito e dois ou mais débitos",
         "C) Um débito e dois ou mais créditos",
         "D) Um débito e um crédito"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-047",
@@ -1934,7 +2047,8 @@
         "B) Modificativo diminutivo",
         "C) Misto aumentativo",
         "D) Misto diminutivo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-042",
@@ -1952,7 +2066,8 @@
         "B) Fatos Permutativos, Fatos Compensativos e Fatos Mistos",
         "C) Fatos Permutativos, Fatos Modificativos e Fatos Administrativos",
         "D) Fatos Permutativos, Fatos Modificativos e Fatos Mistos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-065",
@@ -1970,7 +2085,8 @@
         "B) envolve contas patrimoniais e de resultado",
         "C) envolve apenas contas de receita e despesa alterando o resultado",
         "D) envolve apenas contas do ativo, passivo e patrimônio líquido sem alterar o resultado"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-061",
@@ -1989,7 +2105,8 @@
         "C) no patrimônio da entidade, agregando valor aos sócios e gerando impactos tributários.",
         "D) no patrimônio da entidade, e portanto devem ser registrados pela Contabilidade.",
         "E) no patrimônio da entidade, gerando lucros aos sócios, e portanto devem ser registrados pela Contabilidade."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-066",
@@ -2008,7 +2125,8 @@
         "C) Apenas a I e a III.",
         "D) Apenas a II e a III.",
         "E) A I, a II e a III."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-025",
@@ -2027,7 +2145,8 @@
         "C) qualitativos",
         "D) significativos",
         "E) representativos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-005",
@@ -2046,7 +2165,8 @@
         "C) escrituração débito partidas dobradas",
         "D) contabilidade lançamento partidas simples",
         "E) escrituração lançamento leis vigentes"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-102",
@@ -2065,7 +2185,8 @@
         "C) escrituração débito partidas dobradas",
         "D) contabilidade lançamento partidas simples",
         "E) escrituração lançamento leis vigentes"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-002",
@@ -2084,7 +2205,8 @@
         "C) Um lançamento com erro pode ser corrigido com complementação",
         "D) Pode ser corrigido com transferência",
         "E) Deve ser feito usando apenas uma conta"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-006",
@@ -2103,7 +2225,8 @@
         "C) débito crédito auditorias perícias",
         "D) lançamento conferência auditorias perícias",
         "E) auditoria parecer inspeções conferências"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-010",
@@ -2122,7 +2245,8 @@
         "C) Houve um erro de lançamento que deve ser corrigido por estorno, com débito na conta de imobilizado e crédito na conta duplicatas a pagar. Ambos os lançamentos no valor de R$ 100.000,00",
         "D) Houve um erro de lançamento que deve ser corrigido por estorno, com crédito na conta de imobilizado e débito na conta duplicatas a pagar. Ambos os lançamentos no valor de R$ 100.000,00",
         "E) Houve um erro, porém não é necessário corrigi-lo, uma vez que o funcionário estava em treinamento"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-028",
@@ -2141,7 +2265,8 @@
         "C) Misto diminutivo",
         "D) Compensativo",
         "E) Modificativo diminutivo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-029",
@@ -2160,7 +2285,8 @@
         "C) Apenas II e III",
         "D) Apenas I, III e IV",
         "E) I, II, III e IV"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-043",
@@ -2178,7 +2304,8 @@
         "B) cada lançamento de débito, haverá sempre um crédito, porém com valores que não se correspondem",
         "C) cada lançamento de débito, haverá dois de crédito",
         "D) cada lançamento de crédito, haverá dois débitos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-169",
@@ -2197,7 +2324,8 @@
         "C) Fatos modificativos",
         "D) Fatos permutativos",
         "E) Fatos mistos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-170",
@@ -2216,7 +2344,8 @@
         "C) Atos administrativos",
         "D) Fatos patrimoniais",
         "E) Fatos eventuais"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-171",
@@ -2235,7 +2364,8 @@
         "C) Fatos eventuais",
         "D) Fatos de valor",
         "E) Fatos mistos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-035",
@@ -2254,7 +2384,8 @@
         "C) alteração do patrimônio líquido em importância igual ao aumento do ativo",
         "D) troca entre os componentes patrimoniais do ativo e (ou) do passivo sem impacto sobre o patrimônio líquido",
         "E) aumento do passivo e diminuição do patrimônio líquido"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-034",
@@ -2273,7 +2404,8 @@
         "C) apenas contas de receita.",
         "D) uma conta do passivo e uma conta do patrimônio líquido.",
         "E) uma conta do ativo e uma conta do passivo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-166",
@@ -2292,7 +2424,8 @@
         "C) Fiança em favor de terceiros",
         "D) Compra de um veículo",
         "E) Aval de títulos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-163",
@@ -2311,7 +2444,8 @@
         "C) coincidência entre o total do ativo e do passivo",
         "D) condição necessária para o saldo credor do PL",
         "E) O saldo credo das contas do passivo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-158",
@@ -2330,7 +2464,8 @@
         "C) data da transação, valor e indicação do tipo de operação financeira envolvida",
         "D) nome do cliente, valor da transação e descrição resumida da operação financeira realizada",
         "E) valor da transação, nome da conta e descrição resumida do evento econômico"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-165",
@@ -2349,7 +2484,8 @@
         "C) Permutativos, Resultado e Mistos",
         "D) Resultado e Patrimoniais",
         "E) Permutativos, Modificativos e Mistos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-157",
@@ -2368,7 +2504,8 @@
         "C) Padroniza as contas utilizadas para registrar as transações",
         "D) Determina as estratégias de marketing da organização",
         "E) Regula as relações trabalhistas da organização"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-164",
@@ -2387,7 +2524,8 @@
         "C) 3ª fórmula",
         "D) 4ª fórmula",
         "E) 5ª fórmula"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-162",
@@ -2406,7 +2544,8 @@
         "C) estorno",
         "D) provisão",
         "E) evidenciação"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-167",
@@ -2425,7 +2564,8 @@
         "C) Método das Partidas Cobradas",
         "D) Método Inglês",
         "E) Método Aritmético"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-159",
@@ -2444,7 +2584,8 @@
         "C) Estabelecer as regras de segurança no local de trabalho;",
         "D) Estruturar e categorizar as contas contábeis para registrar transações financeiras;",
         "E) Controlar o acesso aos documentos fiscais"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-161",
@@ -2463,7 +2604,8 @@
         "C) O plano de contas deve ser flexível e adaptável às necessidades específicas de cada organização, permitindo a inclusão ou exclusão de contas conforme a sua natureza e operações",
         "D) O plano de contas é uma exigência legal e deve seguir as normas e princípios contábeis estabelecidos pelos órgãos reguladores",
         "E) O plano de contas é utilizado para registrar transações financeiras e patrimoniais, facilitando o controle e a análise das informações contábeis"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-013",
@@ -2482,7 +2624,8 @@
         "C) O plano de contas deve ser flexível e adaptável às necessidades específicas de cada organização, permitindo a inclusão ou exclusão de contas conforme a sua natureza e operações",
         "D) O plano de contas é uma exigência legal e deve seguir as normas e princípios contábeis estabelecidos pelos órgãos reguladores",
         "E) O plano de contas é utilizado para registrar transações financeiras e patrimoniais, facilitando o controle e a análise das informações contábeis"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-004",
@@ -2501,7 +2644,8 @@
         "C) 1-3-1-4",
         "D) 2-3-4-1",
         "E) 1-2-4-3"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-009",
@@ -2520,7 +2664,8 @@
         "C) considera que deve haver uma origem para toda aplicação de recurso",
         "D) afirma que nem todos os elementos aplicados no patrimônio possuem uma origem definida",
         "E) consiste na duplicação de patrimônio"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-003",
@@ -2539,7 +2684,8 @@
         "C) Estorno / Lançamento complementar / Ressalva",
         "D) Lançamento complementar / Estorno / Ressalva",
         "E) Lançamento complementar / Ressalva / Estorno"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-014",
@@ -2558,7 +2704,8 @@
         "C) C",
         "D) Pode substituir a escrituração contábil",
         "E) Consiste no registro de todas as contas da empresa"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-160",
@@ -2577,7 +2724,8 @@
         "C) Permutativo: o valor do patrimônio é alterado; Modificativo: há alteração qualitativa e quantitativa do patrimônio; Misto: não há alteração na situação líquida do patrimônio, apenas qualitativa",
         "D) Permutativo: não há alteração na situação líquida do patrimônio, apenas qualitativa; Modificativo: o valor do patrimônio é alterado; Misto: há alteração qualitativa e quantitativa do patrimônio",
         "E) Permutativo: não há alteração na situação líquida do patrimônio, apenas qualitativa; Modificativo: há alteração qualitativa e quantitativa do patrimônio; Misto: o valor do patrimônio é alterado"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-026",
@@ -2596,7 +2744,8 @@
         "C) Deve ser classificado como fato contábil misto",
         "D) Deve ser classificado como ato contábil modificativo",
         "E) Deve ser classificado como ato contábil não modificativo do ativo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-051",
@@ -2614,7 +2763,8 @@
         "B) I, III e IV apenas.",
         "C) I, II, III e IV.",
         "D) II e IV apenas."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-050",
@@ -2632,7 +2782,8 @@
         "B) F, V, F, V.",
         "C) V, F, V, F.",
         "D) F, V, V, F."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-049",
@@ -2650,7 +2801,8 @@
         "B) II-I-III.",
         "C) III-II-I.",
         "D) I-II-III."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-037",
@@ -2668,7 +2820,8 @@
         "B) Extravio",
         "C) Transferência",
         "D) Complementação"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-021",
@@ -2687,7 +2840,8 @@
         "C) apropriação do salário dos funcionários é um fato modificativo",
         "D) O pagamento de duplicatas em atraso é um fato permutativo",
         "E) O recebimento de duplicatas no vencimento é um fato modificativo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-027",
@@ -2704,7 +2858,8 @@
         "D) Fato misto diminutivo"
       ],
       "orgao": "Não identificado",
-      "cargo": "Não identificado"
+      "cargo": "Não identificado",
+      "validado": false
     },
     {
       "id": "cg-02a-008",
@@ -2716,7 +2871,8 @@
       "enunciado": "O método das partidas dobradas determina o registro simultâneo dos fatos contábeis em, no mínimo, duas contas contábeis, sendo que o valor total dos débitos deverá ser igual ao dos créditos.",
       "resposta": "certo",
       "comentario": "O método das partidas dobradas consiste em considerar que para todo e qualquer item que ingressa no patrimônio, há um lugar de onde ele é proveniente. Ou seja, não há geração espontânea de patrimônio, mas sim uma origem para todo elemento que se aplica no patrimônio, passando a integrálo. Guardem: APLICAÇÕES DE RECURSOS = ORIGEM DE RECURSOS Com base no método das partidas dobradas, algumas conclusões podem ser tomadas: - A soma dos débitos é sempre igual à soma dos créditos. - Um ou mais débitos numa ou mais contas deve corresponder a um ou mais créditos de valor equivalente em uma ou mais contas. - O total do ativo será sempre igual à soma do passivo exigível com o patrimônio líquido. - O total do ativo mais a despesa será sempre igual à soma do passivo exigível com o patrimônio líquido mais as receitas.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-02a-024",
@@ -2733,7 +2889,8 @@
         "A) a ressalva e a transferência Bo estorno e a transferência",
         "B) o estorno e a complementação",
         "C) a transferência e a complementação"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-030",
@@ -2751,7 +2908,8 @@
         "B) um débito e um crédito",
         "C) dois ou mais débitos e um crédito",
         "D) dois ou mais débitos e dois ou mais créditos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-048",
@@ -2770,7 +2928,8 @@
         "C) Patrimônio é o conjunto de bens, direitos e obrigações vinculado a uma pessoa.",
         "D) Escrituração é a técnica utilizada para a exposição do patrimônio e de suas variações.",
         "E) O método das partidas dobradas tem como princípio fundamental que cada débito corresponde a um crédito e vice-versa."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-007",
@@ -2787,7 +2946,8 @@
         "A) registros administrativos",
         "B) fatos administrativos",
         "C) direitos administrativos"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-012",
@@ -2805,7 +2965,8 @@
         "B) misto.",
         "C) modificativo diminutivo.",
         "D) modificativo aumentativo."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-121",
@@ -2824,7 +2985,8 @@
         "C) modificativo aumentativo.",
         "D) modificativo misto.",
         "E) misto."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-119",
@@ -2843,7 +3005,8 @@
         "D) métodos contábeis.",
         "E) elementos patrimoniais."
       ],
-      "cargo": "Contador"
+      "cargo": "Contador",
+      "validado": true
     },
     {
       "id": "cg-02a-120",
@@ -2861,7 +3024,8 @@
         "B) qualitativo",
         "C) qualitativo e quantitativo",
         "D) financeiro"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-116",
@@ -2879,7 +3043,8 @@
         "B) re-lançamento",
         "C) complementação",
         "D) ajuste"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-117",
@@ -2897,7 +3062,8 @@
         "B) diminuem o patrimônio líquido",
         "C) são registradas, independentemente do recebimento",
         "D) aumentam o patrimônio líquido, por conta do valor econômico registrado"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-122",
@@ -2915,7 +3081,8 @@
         "B) estorno, ratificação e complemento",
         "C) retificação, transferência ou estorno em definitivo",
         "D) estorno, transferência e complementação"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-123",
@@ -2933,7 +3100,8 @@
         "B) permutativo entre elementos do Passivo",
         "C) permutativo entre elementos do Ativo",
         "D) misto nos elementos do Passivo"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-118",
@@ -2952,7 +3120,8 @@
         "C) da convenção ou normatização.",
         "D) do regime contábil adotado.",
         "E) da exigibilidade ou liquidez."
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-124",
@@ -2970,7 +3139,8 @@
         "B) variáveis",
         "C) diminutiva",
         "D) aumentativa"
-      ]
+      ],
+      "validado": true
     },
     {
       "id": "cg-02a-168",
@@ -2989,7 +3159,8 @@
         "C) compensativo diminutivo.",
         "D) misto positivo.",
         "E) misto negativo."
-      ]
+      ],
+      "validado": true
     }
   ]
 }

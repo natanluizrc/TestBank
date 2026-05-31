@@ -210,13 +210,17 @@ async function validarArquivo(filePath, delayMs) {
 
   const data    = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
   const questoes = data.questoes;
-  console.log(`${C.blue}[INFO]${C.reset} ${questoes.length} questões · delay ${delayMs}ms · fonte: TEC Concursos\n`);
+  const pendentes = questoes.filter(q => q.validado === undefined);
+  const jaFeitas  = questoes.length - pendentes.length;
+  if (jaFeitas > 0)
+    console.log(`${C.blue}[INFO]${C.reset} ${jaFeitas} questões já validadas — processando apenas as ${pendentes.length} restantes\n`);
+  console.log(`${C.blue}[INFO]${C.reset} ${pendentes.length} questões · delay ${delayMs}ms · fonte: TEC Concursos\n`);
 
   const resultados = [];
   let nMatch = 0, nDiff = 0, nNao = 0, nErro = 0;
 
-  for (let i = 0; i < questoes.length; i++) {
-    const q    = questoes[i];
+  for (let i = 0; i < pendentes.length; i++) {
+    const q    = pendentes[i];
     const qNum = String(i + 1).padStart(3, '0');
     const query = buildQuery(q.enunciado);
 
@@ -265,7 +269,7 @@ async function validarArquivo(filePath, delayMs) {
       console.log(`  ${icone('ERRO')} Q${qNum} ${q.id} — ${e.message}`);
     }
 
-    if (i < questoes.length - 1) await sleep(delayMs);
+    if (i < pendentes.length - 1) await sleep(delayMs);
   }
 
   // ─── Grava relatório JSON ────────────────────────────────────────────────────
