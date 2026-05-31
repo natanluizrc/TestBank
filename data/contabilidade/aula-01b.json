@@ -19,7 +19,8 @@
       ],
       "resposta": "D",
       "comentario": "Contas de natureza devedora representam a aplicação dos recursos. Por isso, seus saldos aumentam com lançamentos a débito e diminuem com lançamentos a crédito. Isso vale tanto para as contas do ativo quanto para as contas de despesas.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-21",
@@ -38,7 +39,8 @@
       ],
       "resposta": "B",
       "comentario": "As afirmativas I e II estão corretas. I: contas de ativo são devedoras — aumentam a débito e diminuem a crédito. II: contas de passivo e PL são credoras — aumentam a crédito e diminuem a débito. A afirmativa III está errada: as contas de receitas possuem natureza credora (não devedora). Apenas as despesas têm natureza devedora.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-11",
@@ -57,7 +59,8 @@
       ],
       "resposta": "D",
       "comentario": "Com a venda, a empresa recebeu R$ 20.000 à vista (aumento do caixa) e gerou um direito a receber de R$ 20.000 (novo ativo). Paralelamente, os estoques foram baixados em R$ 20.000 (redução do ativo). O resultado líquido no ativo é 20.000 + 20.000 - 20.000 = R$ 20.000 de aumento. O lucro de R$ 20.000 aumentou o patrimônio líquido. Não houve efeito no passivo.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-20",
@@ -76,7 +79,8 @@
       ],
       "resposta": "C",
       "comentario": "A alternativa C está incorreta porque os conceitos foram invertidos. O PL é positivo quando os ativos superam os passivos, e negativo quando os passivos superam os ativos. A alternativa afirmou o contrário. As demais estão corretas: PL = Ativo - Passivo; suas fontes são capital de sócios e lucros; pode ser nulo quando ativo igual passivo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-38",
@@ -95,7 +99,8 @@
       ],
       "resposta": "B",
       "comentario": "Pela Teoria Patrimonialista, adotada pela contabilidade atual, as contas dividem-se em dois grandes grupos: contas patrimoniais (que representam o ativo, passivo e patrimônio líquido) e contas de resultado (que representam receitas e despesas). Os demais termos apresentados nas alternativas são fictícios.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-01",
@@ -114,7 +119,8 @@
       ],
       "resposta": "E",
       "comentario": "Contas devedoras representam aplicações de recursos. As contas de ativo e as contas de despesas possuem natureza devedora — aumentam pelo débito e diminuem pelo crédito. Bancos Conta Movimento é uma conta do ativo (bem), logo é devedora. As demais opções são todas credoras: Fornecedores e Empréstimos são passivos; Capital Social é patrimônio líquido; Depreciação Acumulada é retificadora do ativo, portanto credora (natureza oposta ao grupo onde está inserida).",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-83",
@@ -126,7 +132,8 @@
       "enunciado": "Contas representativas de bens e direitos são contas devedoras, enquanto contas representativas de obrigações são contas credoras, contudo, nem toda conta do passivo é credora.",
       "resposta": "certo",
       "comentario": "A afirmativa está correta. Bens e direitos (ativo) são devedores e obrigações (passivo) são credoras. Porém existem contas retificadoras do passivo, que possuem natureza oposta ao grupo — são devedoras, mesmo estando classificadas no passivo. Por isso, nem toda conta do passivo é necessariamente credora.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-50",
@@ -144,7 +151,8 @@
       ],
       "resposta": "B",
       "comentario": "As quatro contas retificadoras ou redutoras são: ajuste de ativo a valor presente (retificadora do ativo), depreciação acumulada (retificadora do ativo), juros passivos a transcorrer (retificadora do passivo) e ações em tesouraria (retificadora do PL). A alternativa A está errada (há 5 contas credoras, não 6). A C está errada (há 6 devedoras, não 7). A D está errada (há 6 contas do ativo e 3 do passivo).",
-      "dificuldade": 4
+      "dificuldade": 4,
+      "validado": true
     },
     {
       "id": "cg-01b-55",
@@ -163,7 +171,8 @@
       ],
       "resposta": "A",
       "comentario": "A alternativa A está correta. As contas de receitas e despesas formam o grupo das contas de resultado, chamadas temporárias porque são zeradas ao final do exercício para apuração do resultado. As demais estão erradas: receitas e despesas são contas de resultado (não patrimoniais); despesa representa consumo de recursos (não entrada de ativos); receita decorre do ganho de recursos (não reconhecimento de passivo); despesas são devedoras e receitas são credoras.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-56",
@@ -182,7 +191,8 @@
       ],
       "resposta": "A",
       "comentario": "Um lançamento a débito aumenta o saldo de contas devedoras (ativos e despesas) e diminui o saldo de contas credoras (passivos, PL e receitas). Portanto, um débito no ativo aumenta seu saldo, e um débito no passivo diminui seu saldo — o que equivale a dizer que o débito aumenta ativos e reduz passivos quando aplicado a essas contas especificamente.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-84",
@@ -194,7 +204,8 @@
       "enunciado": "Os saldos contábeis das contas que compõem o passivo deverão ser reduzidos por meio de lançamentos a crédito.",
       "resposta": "errado",
       "comentario": "As contas do passivo possuem natureza credora. Isso significa que seus saldos aumentam por lançamentos a crédito e são reduzidos por lançamentos a débito. A afirmativa está errada ao afirmar que os saldos do passivo são reduzidos por crédito — na verdade, são reduzidos por débito.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-47",
@@ -213,7 +224,8 @@
       ],
       "resposta": "B",
       "comentario": "A alternativa B contém apenas contas credoras: Promissórias a pagar (passivo), Lucros acumulados (PL) e Capital (PL). As demais alternativas incluem ao menos uma conta devedora: bancos, terrenos, patentes, duplicatas a receber, edificações, despesa de salários, equipamentos e caixa são todos contas do ativo ou despesas (devedoras).",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-60",
@@ -232,7 +244,8 @@
       ],
       "resposta": "D",
       "comentario": "A questão pede contas do ativo com natureza credora, ou seja, retificadoras do ativo. A alternativa D traz Depreciação Acumulada (retificadora do imobilizado) e Provisão para Devedores Duvidosos (retificadora das duplicatas a receber), ambas classificadas no ativo e de natureza credora. As demais alternativas incluem contas do ativo de natureza devedora ou contas que não pertencem ao ativo.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-98",
@@ -244,7 +257,8 @@
       "enunciado": "As contas permitem o registro dos fatos administrativos do dia a dia da entidade, os quais, por sua vez, são fundamentais para a elaboração das demonstrações contábeis e para o cumprimento dos objetivos da contabilidade.",
       "resposta": "certo",
       "comentario": "As contas são os instrumentos básicos de registro dos fatos que afetam o patrimônio e o resultado da entidade. Por meio delas, escrituram-se os fatos administrativos cotidianos que, ao serem consolidados, possibilitam a elaboração das demonstrações contábeis e o alcance dos objetivos da contabilidade.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-99",
@@ -256,7 +270,8 @@
       "enunciado": "As contas de ativo e de despesas serão debitadas sempre que for necessário aumentar os seus saldos, e serão creditadas quando a intenção for diminuí-los. Já as contas de passivo e de receitas seguem mecanismo inverso.",
       "resposta": "certo",
       "comentario": "As contas de ativo e de despesas são de natureza devedora — aumentam por débito e diminuem por crédito. As contas de passivo e de receitas são de natureza credora — aumentam por crédito e diminuem por débito. A afirmativa descreve corretamente esse mecanismo para os dois grupos.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-97",
@@ -268,7 +283,8 @@
       "enunciado": "As receitas e as despesas provocam variações patrimoniais, aumentando ou diminuindo o patrimônio líquido; por essa razão, segundo a teoria patrimonialista, elas são classificadas como contas patrimoniais.",
       "resposta": "errado",
       "comentario": "Pela teoria patrimonialista, as contas se dividem em dois grupos: patrimoniais (ativo, passivo e PL) e de resultado (receitas e despesas). Embora receitas e despesas afetem indiretamente o PL, elas não são contas patrimoniais — são contas de resultado, de natureza temporária.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-48",
@@ -280,7 +296,8 @@
       "enunciado": "As contas consideradas retificadoras no balanço patrimonial têm a mesma natureza dos grupos em que são apresentadas.",
       "resposta": "errado",
       "comentario": "As contas retificadoras possuem natureza contrária ao grupo em que estão inseridas. Uma retificadora do ativo (como Depreciação Acumulada) tem natureza credora, enquanto o ativo tem natureza devedora. Uma retificadora do PL (como Ações em Tesouraria) tem natureza devedora, enquanto o PL tem natureza credora. Exatamente essa natureza oposta é que faz com que elas reduzam o saldo do grupo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-49",
@@ -292,7 +309,8 @@
       "enunciado": "O saldo credor em uma conta de estoques de matérias-primas indica que a contabilização efetuada no período foi realizada sem erros.",
       "resposta": "errado",
       "comentario": "A conta Estoques é uma conta do ativo, de natureza devedora. Isso significa que ela somente pode ter saldo devedor ou nulo em uma escrituração regular. Um saldo credor nessa conta indica erro na escrituração, e não que ela foi realizada corretamente.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-92",
@@ -304,7 +322,8 @@
       "enunciado": "Os lançamentos em escrituração contábil podem ser realizados em contas sintéticas que compõem um plano de contas.",
       "resposta": "errado",
       "comentario": "Os lançamentos contábeis sempre são realizados nas contas analíticas — as mais detalhadas e desagregadas do plano de contas. As contas sintéticas totalizam os saldos das analíticas que integram, não sendo possível lançar diretamente nelas.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-93",
@@ -316,7 +335,8 @@
       "enunciado": "As contas de compensação não podem ser consideradas como contas analíticas.",
       "resposta": "errado",
       "comentario": "As contas de compensação (extrapatrimoniais) possuem todas as classificações usuais das demais contas contábeis, incluindo a distinção entre analíticas e sintéticas. Portanto, podem ser consideradas contas analíticas quando suficientemente detalhadas.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-114",
@@ -328,7 +348,8 @@
       "enunciado": "O saldo final encontrado em uma conta não altera a sua natureza, ainda que esteja errado.",
       "resposta": "certo",
       "comentario": "A natureza de uma conta é determinada pelo grupo ao qual pertence — ativo, passivo, PL, receita ou despesa —, não pelo saldo que ela apresenta. Erros de escrituração podem gerar um saldo contrário à natureza da conta (por exemplo, saldo credor em conta de ativo), mas isso não muda sua natureza. O saldo anômalo é um indicativo de erro, e a natureza permanece devedora ou credora conforme o grupo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-115",
@@ -340,7 +361,8 @@
       "enunciado": "As contas sintéticas são as que agregam os valores dos grupos e subgrupos no plano de contas.",
       "resposta": "certo",
       "comentario": "As contas sintéticas são as contas resumidas e agregadoras que totalizam os saldos de outras contas, representando grupos e subgrupos do plano de contas. Elas não recebem lançamentos contábeis diretamente — os lançamentos sempre ocorrem nas contas analíticas, que são as mais detalhadas. As contas sintéticas existem para apresentar informações consolidadas e facilitar a leitura das demonstrações.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-95",
@@ -352,7 +374,8 @@
       "enunciado": "Contas caixa, ações em tesouraria e depreciação têm em comum o fato de serem todas de natureza devedora.",
       "resposta": "certo",
       "comentario": "Conta Caixa é ativo — natureza devedora. Ações em tesouraria é retificadora do PL — como o PL é credor, sua retificadora tem natureza devedora. Depreciação (despesa de depreciação) é conta de resultado — natureza devedora. As três têm saldo que aumenta pelo débito.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-57",
@@ -364,7 +387,8 @@
       "enunciado": "As contas retificadoras acompanham as respectivas contas principais no balanço patrimonial, sendo lançadas sempre com sinal oposto ao do lançamento das contas que retificam.",
       "resposta": "certo",
       "comentario": "As contas retificadoras possuem natureza contrária ao grupo em que estão inseridas. Ao serem apresentadas no balanço, são deduzidas do saldo das contas principais que retificam. Assim, quando a conta principal é debitada (aumentando seu saldo), a retificadora é creditada (aumentando o saldo credor que reduzirá o valor líquido apresentado), configurando o sinal oposto.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-51",
@@ -383,7 +407,8 @@
       ],
       "resposta": "D",
       "comentario": "A alternativa D contém apenas contas credoras: Empréstimos a pagar (passivo), Salários a pagar (passivo) e Receita de vendas (receita). As demais alternativas incluem contas devedoras: Caixa, Contas a receber, Máquinas e equipamentos, Despesas com salários são contas do ativo ou de despesas.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-45",
@@ -395,7 +420,8 @@
       "enunciado": "No mesmo rol de contas, os saldos devedores somam R$ 89 mil (seguros antecipados R$ 1.000, caixa e equivalentes R$ 1.000, contas a receber R$ 30.000, estoques R$ 12.000, empréstimos a dirigentes R$ 10.000, adiantamento a fornecedores R$ 10.000 e imobilizado R$ 25.000).",
       "resposta": "certo",
       "comentario": "Somando os saldos das sete contas devedoras: 1.000 + 1.000 + 30.000 + 12.000 + 10.000 + 10.000 + 25.000 = R$ 89.000. Portanto, a afirmativa está correta.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-43",
@@ -407,7 +433,8 @@
       "enunciado": "No rol de contas composto por: depreciação acumulada, seguros antecipados, caixa e equivalentes, contas a receber, estoques, empréstimos a dirigentes, adiantamento a fornecedores, adiantamento de clientes, imobilizado, capital social, contas a pagar e reserva para contingências — há duas contas credoras que não pertencem ao passivo exigível.",
       "resposta": "errado",
       "comentario": "As contas credoras que não pertencem ao passivo exigível são: depreciação acumulada (retificadora do ativo), capital social (PL) e reserva para contingências (PL) — total de três, não duas como afirmado. O adiantamento de clientes e contas a pagar são passivos exigíveis. Por isso a afirmativa está errada.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-44",
@@ -419,7 +446,8 @@
       "enunciado": "No rol de contas composto por: depreciação acumulada, seguros antecipados, caixa e equivalentes, contas a receber, estoques, empréstimos a dirigentes, adiantamento a fornecedores, adiantamento de clientes, imobilizado, capital social, contas a pagar e reserva para contingências — existem sete contas de natureza devedora e cinco contas de natureza credora.",
       "resposta": "certo",
       "comentario": "As sete contas devedoras são: seguros antecipados (ativo), caixa e equivalentes (ativo), contas a receber (ativo), estoques (ativo), empréstimos a dirigentes (ativo), adiantamento a fornecedores (ativo) e imobilizado (ativo). As cinco contas credoras são: depreciação acumulada (retificadora do ativo), adiantamento de clientes (passivo), capital social (PL), contas a pagar (passivo) e reserva para contingências (PL).",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-91",
@@ -431,7 +459,8 @@
       "enunciado": "Do rol de contas composto por depreciação acumulada (R$ 7.000), seguros antecipados (R$ 1.000), caixa e equivalentes (R$ 1.000), contas a receber (R$ 30.000), estoques (R$ 12.000), empréstimos a dirigentes (R$ 10.000), adiantamento a fornecedores (R$ 10.000), adiantamento de clientes (R$ 11.000), imobilizado (R$ 25.000), capital social (R$ 29.000), contas a pagar (R$ 40.000) e reserva para contingências (R$ 2.000) — os saldos credores somam R$ 82 mil.",
       "resposta": "errado",
       "comentario": "As contas credoras do rol são: depreciação acumulada (retificadora do ativo) R$ 7.000, adiantamento de clientes (passivo) R$ 11.000, capital social (PL) R$ 29.000, contas a pagar (passivo) R$ 40.000 e reserva para contingências (PL) R$ 2.000. A soma é R$ 89.000, não R$ 82.000 como afirmado.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-53",
@@ -443,7 +472,8 @@
       "resposta": "errado",
       "comentario": "Tanto Caixa quanto Estoques são contas do ativo. Contas do ativo possuem natureza devedora — seus saldos aumentam pelo débito e diminuem pelo crédito. O saldo normal dessas contas é devedor, e não credor como erroneamente afirmado na questão.",
       "dificuldade": 1,
-      "cargo": "Agente de Polícia Federal"
+      "cargo": "Agente de Polícia Federal",
+      "validado": true
     },
     {
       "id": "cg-01b-96",
@@ -455,7 +485,8 @@
       "enunciado": "O balancete de uma sociedade anônima em 31/12/20x0 apresenta os seguintes saldos: caixa (devedor R$ 25.300), aplicação financeira (devedor R$ 5.700), estoques (devedor R$ 4.000), móveis e utensílios (devedor R$ 10.000), despesa de aluguel (devedor R$ 3.000), duplicatas a pagar (credor R$ 8.200), aluguel a pagar (credor R$ 3.000), capital social (credor R$ 30.000) e receita de serviços (credor R$ 6.800). Nessa situação hipotética, separando-se as contas patrimoniais das contas de resultado, será identificado um lucro no período.",
       "resposta": "certo",
       "comentario": "As contas de resultado do balancete são: despesa de aluguel R$ 3.000 (despesa) e receita de serviços R$ 6.800 (receita). O confronto gera lucro de R$ 6.800 - R$ 3.000 = R$ 3.800. As demais são patrimoniais e não integram o cálculo do resultado.",
-      "dificuldade": 4
+      "dificuldade": 4,
+      "validado": true
     },
     {
       "id": "cg-01b-52",
@@ -474,7 +505,8 @@
       ],
       "resposta": "D",
       "comentario": "Os itens I, II, III e V envolvem contas retificadoras. I: perdas estimadas com créditos de liquidação duvidosa é retificadora do ativo. II: ações em tesouraria é retificadora do PL. III: provisão para perdas por impairment é retificadora do ativo. V: provisão para perda por redução ao valor realizável líquido é retificadora do ativo (dos estoques). O item IV está errado porque provisão para riscos fiscais é uma conta do passivo, não retificadora.",
-      "dificuldade": 4
+      "dificuldade": 4,
+      "validado": true
     },
     {
       "id": "cg-01b-46",
@@ -486,7 +518,8 @@
       "enunciado": "Contas de débito são contas típicas do ativo e das despesas; contas de crédito são tipicamente usadas para expressar itens do passivo e das receitas.",
       "resposta": "certo",
       "comentario": "A afirmativa está correta em ambas as partes. Contas de débito (natureza devedora) tipicamente representam o ativo e as despesas, cujos saldos aumentam com lançamentos a débito. Contas de crédito (natureza credora) tipicamente representam passivos e receitas, cujos saldos aumentam com lançamentos a crédito. A ressalva é que o PL também é credor, mas a afirmativa se refere ao aspecto típico.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-58",
@@ -498,7 +531,8 @@
       "enunciado": "Pelo sistema de partidas dobradas, a conta caixa e equivalentes é debitada pelo ingresso de recursos financeiros na entidade, e creditada por ocasião dos pagamentos em caixa.",
       "resposta": "certo",
       "comentario": "A conta Caixa pertence ao ativo circulante e possui natureza devedora. Quando há ingresso de dinheiro, o saldo deve aumentar — o que ocorre pelo débito. Quando há pagamentos, o saldo deve diminuir — o que ocorre pelo crédito. O funcionamento está correto e de acordo com o método das partidas dobradas.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-59",
@@ -510,7 +544,8 @@
       "enunciado": "Uma conta de natureza devedora que não seja retificadora expressa uma aplicação de recurso.",
       "resposta": "certo",
       "comentario": "Contas de natureza devedora que não são retificadoras são as contas de ativo (bens e direitos) e as de despesas. Ambas representam aplicações de recursos: o ativo registra onde os recursos foram aplicados (maquinário, estoque, caixa), e as despesas registram o consumo de recursos para geração de receitas. Portanto, a afirmativa está correta.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-54",
@@ -522,7 +557,8 @@
       "enunciado": "Em outubro de 2019, a empresa Beta assinou um contrato para prestar determinado serviço. No mês seguinte, o cliente efetuou um adiantamento em dinheiro. Na contabilidade da empresa Beta, esse adiantamento representa, ao mesmo tempo, uma origem de recursos com registro a crédito de uma conta do passivo circulante, e uma aplicação de recursos com registro a débito de uma conta do ativo circulante.",
       "resposta": "certo",
       "comentario": "Pelo método das partidas dobradas, toda operação tem origem e aplicação de recursos. O adiantamento recebido do cliente é uma origem de recursos — registrada a crédito em Adiantamento de Clientes (passivo circulante). Simultaneamente, o dinheiro recebido é uma aplicação — registrado a débito na conta Caixa (ativo circulante). Portanto, a afirmativa está correta.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-94",
@@ -534,7 +570,8 @@
       "enunciado": "Em outubro de 2019, a empresa Beta assinou contrato para prestar determinado serviço a um cliente. Em novembro, o cliente efetuou um adiantamento em dinheiro pelo serviço contratado. Em dezembro, o serviço foi prestado. Conforme o que estabelece a teoria personalista, por ocasião do recebimento do adiantamento feito pelo cliente, a empresa Beta deve tratar a conta caixa como se ela representasse uma pessoa com quem mantém um relacionamento, de modo que a conta caixa passa a ser devedora da empresa, no momento em que o adiantamento for recebido.",
       "resposta": "certo",
       "comentario": "A teoria personalista personifica as contas como se fossem pessoas. A conta Caixa representa o agente consignatário que guarda o dinheiro da empresa. Quando o caixa recebe o adiantamento do cliente, ele passa a dever esse valor à empresa — torna-se devedor. Por isso a conta Caixa é debitada: quem recebe torna-se devedor.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-81",
@@ -546,7 +583,8 @@
       "enunciado": "A conta juros ativos a transcorrer tem seu saldo aumentado por lançamentos a débito e reduzido por lançamentos a crédito.",
       "resposta": "errado",
       "comentario": "Juros ativos a transcorrer é uma conta retificadora do ativo (deduzida dos créditos a receber). Como retificadora do ativo, tem natureza credora — seu saldo aumenta por lançamentos a crédito e é reduzido por lançamentos a débito. O contrário do que afirma a questão.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-113",
@@ -558,7 +596,8 @@
       "enunciado": "Do conjunto de contas: caixa e equivalentes (R$ 5.000), créditos a receber (R$ 250.000), juros ativos a transcorrer (R$ 10.000), provisão para perdas esperadas (R$ 1.500), imóveis de uso (R$ 650.000), depreciação acumulada (R$ 300.000), duplicatas descontadas (R$ 150.000), fornecedores (R$ 120.000), empréstimos bancários (R$ 50.000), juros passivos a transcorrer (R$ 15.000), capital social (R$ 200.000) e ações em tesouraria (R$ 10.000) — no rol de contas listado, encontram-se sete contas credoras.",
       "resposta": "certo",
       "comentario": "As sete contas credoras do rol são: juros ativos a transcorrer (retificadora do ativo), provisão para perdas esperadas (retificadora do ativo), depreciação acumulada (retificadora do ativo), duplicatas descontadas (passivo), fornecedores (passivo), empréstimos bancários (passivo) e capital social (PL). As cinco devedoras são: caixa e equivalentes (ativo), créditos a receber (ativo), imóveis de uso (ativo), juros passivos a transcorrer (retificadora do passivo) e ações em tesouraria (retificadora do PL).",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-82",
@@ -570,7 +609,8 @@
       "enunciado": "Do conjunto de contas: caixa e equivalentes (R$ 5.000), créditos a receber (R$ 250.000), juros ativos a transcorrer (R$ 10.000), provisão para perdas esperadas (R$ 1.500), imóveis de uso (R$ 650.000), depreciação acumulada (R$ 300.000), duplicatas descontadas (R$ 150.000), fornecedores (R$ 120.000), empréstimos bancários (R$ 50.000), juros passivos a transcorrer (R$ 15.000), capital social (R$ 200.000) e ações em tesouraria (R$ 10.000) — o saldo total do conjunto é devedor em menos de R$ 100 mil.",
       "resposta": "certo",
       "comentario": "Os saldos devedores somam: caixa R$ 5.000 + créditos a receber R$ 250.000 + imóveis de uso R$ 650.000 + juros passivos a transcorrer R$ 15.000 = R$ 920.000. Os saldos credores somam: juros ativos a transcorrer R$ 10.000 + provisão para perdas R$ 1.500 + depreciação acumulada R$ 300.000 + duplicatas descontadas R$ 150.000 + fornecedores R$ 120.000 + empréstimos bancários R$ 50.000 + capital social R$ 200.000 = R$ 831.500. O saldo total é devedor em R$ 920.000 - R$ 831.500 = R$ 88.500, que é de fato menos de R$ 100 mil.",
-      "dificuldade": 4
+      "dificuldade": 4,
+      "validado": true
     },
     {
       "id": "cg-01b-112",
@@ -589,7 +629,8 @@
       ],
       "resposta": "C",
       "comentario": "As contas são os instrumentos básicos de registro de todos os fatos que afetam o patrimônio. Cada operação que gera aumento ou diminuição no ativo, passivo ou PL é registrada em contas específicas. O Balancete, o Diário e o Razão são livros e demonstrativos que compilam esses registros, mas o ato de registrar ocorre nas contas.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-111",
@@ -608,7 +649,8 @@
       ],
       "resposta": "B",
       "comentario": "Os débitos aumentam o saldo apenas de contas devedoras. São devedoras as contas de ativo (bens e direitos) e as contas de despesa. Receitas, obrigações (passivo) e parte dos proprietários (PL) são credoras — um débito nelas reduz o saldo, não aumenta.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-89",
@@ -627,7 +669,8 @@
       ],
       "resposta": "A",
       "comentario": "As contas de natureza devedora são: contas do Ativo (bens e direitos), contas de Despesas (resultado), Retificadoras do Passivo Exigível (natureza contrária ao passivo que é credor) e Retificadoras do PL (natureza contrária ao PL que é credor). A alternativa a lista exatamente essas quatro categorias.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-107",
@@ -646,7 +689,8 @@
       ],
       "resposta": "E",
       "comentario": "No método das partidas dobradas, lançamentos a débito podem ser feitos em qualquer tipo de conta — tanto patrimoniais (ativo, passivo e PL) quanto de resultado (receitas e despesas). O débito numa conta devedora aumenta seu saldo; numa conta credora, reduz. Portanto, débitos se realizam em contas patrimoniais e de resultado, ou seja, em qualquer conta.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-110",
@@ -665,7 +709,8 @@
       ],
       "resposta": "A",
       "comentario": "As contas de resultado (receitas e despesas) são dinâmicas — surgem e se encerram em cada exercício. O confronto entre receitas e despesas apura o lucro ou prejuízo do período, que é transferido para o patrimônio líquido, especificamente para a conta Lucros ou Prejuízos Acumulados.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-88",
@@ -684,7 +729,8 @@
       ],
       "resposta": "B",
       "comentario": "As despesas são contas de resultado de natureza devedora. Ao serem incorridas, elas reduzem o resultado do exercício. Como o resultado é transferido para o patrimônio líquido ao final do exercício, as despesas provocam, em última instância, a diminuição do patrimônio líquido da empresa.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-109",
@@ -703,7 +749,8 @@
       ],
       "resposta": "D",
       "comentario": "As contas de resultado registram receitas e despesas ao longo do exercício social. São contas temporárias — seus saldos começam e terminam o exercício zerados. Confrontando receitas com despesas, apura-se o resultado: lucro (se receitas maiores) ou prejuízo (se despesas maiores), que é então transferido para o PL.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-108",
@@ -722,7 +769,8 @@
       ],
       "resposta": "B",
       "comentario": "Caixa é conta patrimonial (ativo circulante) e Receita é conta de resultado. Na alternativa A, fornecedor (passivo) e banco (ativo) são ambas patrimoniais. Na C, despesa e receita são ambas de resultado. Na D, capital social (PL) e veículo (ativo) são ambas patrimoniais. Na E, duplicatas a receber (ativo) e duplicatas a pagar (passivo) são ambas patrimoniais.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-90",
@@ -741,7 +789,8 @@
       ],
       "resposta": "C",
       "comentario": "A escola Patrimonialista, que é a utilizada pela contabilidade atual no Brasil, classifica as contas em dois grandes grupos: contas patrimoniais (ativo, passivo e PL) e contas de resultado (receitas e despesas). A classificação em integrais e diferenciais é da Teoria Materialista.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-26",
@@ -760,7 +809,8 @@
       ],
       "resposta": "A",
       "comentario": "Pela Teoria Materialista, as contas integrais (bens, direitos e obrigações) são: Caixa, Móveis, Mercadorias, Máquinas, ICMS a Recolher e Fornecedor — total de 6. As diferenciais (PL, receitas e despesas) são: Despesa de Energia, Salários, Receitas de Juros e Capital Social. Pela Teoria Personalista, os agentes correspondentes (direitos e obrigações) são: ICMS a Recolher e Fornecedor — total de 2.",
-      "dificuldade": 4
+      "dificuldade": 4,
+      "validado": true
     },
     {
       "id": "cg-01b-08",
@@ -779,7 +829,8 @@
       ],
       "resposta": "A",
       "comentario": "Apenas I está correta. A afirmativa II está errada porque ela descreve a Teoria Personalista, não a Materialista; a Teoria Materialista divide as contas em integrais e diferenciais, sem personificá-las. A afirmativa III está errada porque a Depreciação Acumulada, sendo retificadora do ativo, possui natureza credora (saldo credor), e não devedora.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-42",
@@ -797,7 +848,8 @@
       ],
       "resposta": "D",
       "comentario": "Contas devedoras: custo das mercadorias vendidas (despesa), despesas antecipadas (ativo), capital a integralizar (retificadora do PL), móveis e utensílios (ativo) e conta corrente (ativo) — total de 5. Contas credoras: venda de mercadorias (receita), depreciação acumulada (retificadora do ativo), empréstimos bancários (passivo), capital social (PL) e fornecedores (passivo) — total de 5.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-02",
@@ -816,7 +868,8 @@
       ],
       "resposta": "B",
       "comentario": "Banco Conta Movimento é uma conta do ativo (bem disponível), possuindo, portanto, natureza devedora — seu saldo aumenta a débito. As demais são credoras: Capital Social é patrimônio líquido; Fornecedores e Empréstimos são passivos; Depreciação Acumulada é retificadora do ativo.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-76",
@@ -835,7 +888,8 @@
       "resposta": "B",
       "comentario": "A alternativa B contém apenas contas credoras: Impostos a recolher (passivo), Depreciação acumulada (retificadora do ativo, credora) e Adiantamento de clientes (passivo — a empresa recebeu adiantamento e tem obrigação de prestar o serviço). As demais incluem contas devedoras: veículos, imposto a recuperar, equipamentos, adiantamento a fornecedores, adiantamento a empregados e depósito compulsório são ativos.",
       "dificuldade": 3,
-      "cargo": "Agente Técnico Legislativo Especializado"
+      "cargo": "Agente Técnico Legislativo Especializado",
+      "validado": true
     },
     {
       "id": "cg-01b-72",
@@ -854,7 +908,8 @@
       ],
       "resposta": "C",
       "comentario": "Ações em tesouraria são ações da própria empresa adquiridas e mantidas pela sociedade. Classificam-se como redutoras do Patrimônio Líquido, sendo uma conta retificadora desse grupo. Como o PL tem natureza credora, sua retificadora tem natureza devedora. Portanto, a conta é devedora e classificada no PL.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-105",
@@ -873,7 +928,8 @@
       ],
       "resposta": "C",
       "comentario": "As dez contas credoras da lista são: Amortização Acumulada (retificadora do ativo), Provisão para Créditos de Liquidação Duvidosa (retificadora do ativo), Impostos a Recolher (passivo), Reserva de Ágio na Emissão de Ações (PL), Capital Social (PL), Fornecedores (passivo), Reserva de Lucros a Realizar (PL), Salários a Pagar (passivo), Depreciação Acumulada (retificadora do ativo) e Empréstimos Recebidos de Longo Prazo (passivo). As nove restantes são devedoras: Ações em Tesouraria (retificadora do PL), Disponível, Participações Societárias Permanentes, Empréstimos a Coligadas e Controladas, Marcas e Patentes, Duplicatas a Receber, Estoques, Imobilizado e Despesas do Exercício Seguinte — todos ativos, exceto Ações em Tesouraria.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-77",
@@ -892,7 +948,8 @@
       ],
       "resposta": "A",
       "comentario": "A alternativa A está correta. As contas do ativo possuem natureza devedora, portanto aumentam quando são debitadas. As demais estão erradas: o PL diminui ao ser debitado (não creditado); o estorno não é a forma de aumento do passivo; contas de despesa (resultado) são debitadas, não creditadas; o efeito de débito e crédito nas patrimoniais varia conforme a natureza de cada uma.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-79",
@@ -911,7 +968,8 @@
       ],
       "resposta": "B",
       "comentario": "As contas do passivo exigível possuem natureza credora. Isso significa que seus saldos aumentam quando são creditadas e diminuem quando são debitadas. A alternativa b está correta: aumentam por crédito.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-80",
@@ -930,7 +988,8 @@
       ],
       "resposta": "D",
       "comentario": "Duplicatas a Receber e Estoques são contas do ativo, portanto de natureza devedora — seus saldos no balanço são devedores. As demais alternativas incluem contas credoras: Fornecedores e Honorários a pagar são passivos; Capital Social e ICMS a recolher são PL e passivo; Lucros Acumulados é PL; Empréstimos de Longo Prazo é passivo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-74",
@@ -949,7 +1008,8 @@
       ],
       "resposta": "C",
       "comentario": "A questão pede uma conta patrimonial que aumenta a crédito, ou seja, de natureza credora. Depreciação Acumulada é classificada no ativo (grupo imobilizado) como retificadora, tendo natureza credora — seu saldo aumenta quando é creditada. Duplicatas a Receber e Despesas Antecipadas são ativos devedores; Receitas Financeiras é conta de resultado; Ações em Tesouraria é devedora (retificadora do PL).",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-73",
@@ -968,7 +1028,8 @@
       ],
       "resposta": "B",
       "comentario": "A alternativa B está correta. As contas do Patrimônio Líquido, em regra, têm natureza credora e saldo credor. Porém, as retificadoras do PL (como ações em tesouraria e capital a integralizar) têm natureza devedora e saldo devedor. Logo, o PL pode ter contas com saldo devedor ou credor dependendo da sua natureza.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-78",
@@ -987,7 +1048,8 @@
       ],
       "resposta": "C",
       "comentario": "O ativo tem natureza devedora — diminui quando é creditado. O passivo tem natureza credora — diminui quando é debitado. O PL tem natureza credora — diminui quando é debitado. Portanto, os saldos diminuem quando as contas são, respectivamente: creditadas (ativo), debitadas (passivo) e debitadas (PL).",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-87",
@@ -1006,7 +1068,8 @@
       ],
       "resposta": "D",
       "comentario": "Duplicatas a Receber e Estoques são contas de ativo — ambas devedoras. Fornecedores, Honorários a pagar, Capital Social, ICMS a recolher, Lucros Acumulados e Empréstimos são credores (passivos ou PL). Dividendos a Receber é ativo devedor, mas está combinado com Lucros Acumulados (credor).",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-106",
@@ -1025,7 +1088,8 @@
       ],
       "resposta": "B",
       "comentario": "O patrimônio pode ser analisado sob dois aspectos: qualitativo — o que a conta representa — e quantitativo — o valor em moeda. O aspecto qualitativo é expresso pelo título da conta e pelo grupo patrimonial ao qual ela pertence (ativo, passivo, PL), indicando a natureza do elemento representado.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-75",
@@ -1044,7 +1108,8 @@
       ],
       "resposta": "A",
       "comentario": "O PL possui natureza credora — seu saldo aumenta pelo crédito. O Ativo possui natureza devedora — seu saldo aumenta pelo débito. O Passivo possui natureza credora — seu saldo aumenta pelo crédito. Portanto, para aumentar os saldos de PL, Ativo e Passivo, os lançamentos devem ser, respectivamente, Crédito, Débito e Crédito.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-37",
@@ -1063,7 +1128,8 @@
       ],
       "resposta": "C",
       "comentario": "A alternativa C contém apenas contas credoras: Empréstimos bancários (passivo), Juros ativos (receita de juros, conta credora) e Capital (PL). A alternativa A inclui Clientes, que é ativo (devedor). A B inclui Adiantamento a fornecedores (ativo, devedor). A D inclui Mercadorias e Estoques (ativo, devedores). A E inclui Imóveis para uso (ativo, devedor).",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-33",
@@ -1082,7 +1148,8 @@
       ],
       "resposta": "A",
       "comentario": "O equilíbrio do balanço decorre da equação patrimonial: Ativo = Passivo + PL. O lado esquerdo (ativo) representa as aplicações de recursos — onde o dinheiro foi empregado. O lado direito (passivo + PL) representa as origens de recursos — de onde vieram os recursos para financiar essas aplicações.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-27",
@@ -1100,7 +1167,8 @@
       "resposta": "A",
       "comentario": "Elementos de natureza devedora aumentam pelo débito e diminuem pelo crédito. Nessa categoria estão o Ativo (bens e direitos) e as Despesas. Receita, Passivo e Patrimônio Líquido são de natureza credora — aumentam pelo crédito e diminuem pelo débito.",
       "dificuldade": 1,
-      "cargo": "Exame de Suficiência"
+      "cargo": "Exame de Suficiência",
+      "validado": true
     },
     {
       "id": "cg-01b-28",
@@ -1117,7 +1185,8 @@
       ],
       "resposta": "C",
       "comentario": "Adiantamento a sócio é uma conta do ativo (direito a receber), portanto devedora. Ações em tesouraria é uma retificadora do patrimônio líquido, que possui natureza contrária ao seu grupo — como o PL é credor, a retificadora é devedora. Receitas antecipadas são contas do passivo (credoras), portanto não são devedoras.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-36",
@@ -1136,7 +1205,8 @@
       ],
       "resposta": "E",
       "comentario": "A Teoria Patrimonialista, cujo principal nome é Vincenzo Masi, é a teoria utilizada na contabilidade atual. Ela divide as contas em dois grandes grupos: contas patrimoniais (ativo, passivo e PL) e contas de resultado (receitas e despesas).",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-35",
@@ -1155,7 +1225,8 @@
       ],
       "resposta": "C",
       "comentario": "A corrente que personifica as contas é a Teoria Personalista, de Francesco Marchi e Giuseppe Cerboni. Nela, as contas são fictamente tratadas como pessoas divididas em três tipos: Proprietários (PL, receitas e despesas), Agentes Correspondentes (direitos e obrigações) e Agentes Consignatários (bens).",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-31",
@@ -1174,7 +1245,8 @@
       ],
       "resposta": "B",
       "comentario": "Estoque é uma conta do ativo (mercadorias sob controle da entidade) e possui natureza devedora. As demais são credoras: Fornecedores e Impostos a pagar e Financiamentos são passivos; Capital Social é patrimônio líquido.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-29",
@@ -1193,7 +1265,8 @@
       ],
       "resposta": "D",
       "comentario": "A venda do estoque com lucro gera aumento líquido no ativo (caixa entra, estoque sai com custo menor) e aumento no PL (lucro). A compra do veículo a prazo gera aumento no ativo (veículo) e surgimento de um passivo (obrigação de pagar). Combinando os dois eventos: houve aumento no ativo, aumento no passivo e aumento no PL.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-30",
@@ -1212,7 +1285,8 @@
       ],
       "resposta": "D",
       "comentario": "I está correta: o Custo das Mercadorias Vendidas é uma despesa; pela Teoria Personalista, despesas pertencem aos proprietários. II está correta: o Caixa representa um bem; pela Teoria Materialista, bens são contas integrais. III está errada: empréstimos são passivos; pela Teoria Patrimonialista, passivos são contas patrimoniais, não de resultado.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-34",
@@ -1231,7 +1305,8 @@
       ],
       "resposta": "D",
       "comentario": "Para que uma conta seja patrimonial, integral e agente consignatário ao mesmo tempo, ela precisa ser: (1) um ativo (patrimonial pela T. Patrimonialista); (2) um bem ou direito/obrigação (integral pela T. Materialista); (3) um bem específico guardado pela entidade (consignatário pela T. Personalista). Estoque, Banco conta movimento e Veículo são todos bens do ativo, atendendo às três classificações simultaneamente.",
-      "dificuldade": 4
+      "dificuldade": 4,
+      "validado": true
     },
     {
       "id": "cg-01b-32",
@@ -1250,7 +1325,8 @@
       ],
       "resposta": "B",
       "comentario": "Estoques são conta do ativo, de natureza devedora — seu saldo aumenta a débito. Capital social é PL (credora); Empréstimos e Impostos a pagar são passivos (credores); Receita de vendas é conta de resultado credora.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-39",
@@ -1269,7 +1345,8 @@
       ],
       "resposta": "A",
       "comentario": "A sequência correta é F, V, V. Contas patrimoniais são estáticas (representam a posição em dado momento), enquanto as contas de resultado são dinâmicas. As contas de resultado são de fato compostas pelas receitas e despesas. As contas patrimoniais abrangem o ativo, passivo e patrimônio líquido.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-05",
@@ -1288,7 +1365,8 @@
       ],
       "resposta": "D",
       "comentario": "Na Teoria Materialista, proposta por Fábio Besta, as contas dividem-se em dois grupos: contas integrais, que representam bens, direitos e obrigações (o ativo e o passivo exigível); e contas diferenciais, que geram diferença no patrimônio líquido, abrangendo receitas, despesas e o próprio PL.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-04",
@@ -1307,7 +1385,8 @@
       ],
       "resposta": "B",
       "comentario": "As contas do ativo, de despesas e as retificadoras do passivo possuem natureza devedora. Isso significa que seus saldos aumentam quando há lançamentos a débito e diminuem quando há lançamentos a crédito.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-03",
@@ -1326,7 +1405,8 @@
       ],
       "resposta": "D",
       "comentario": "As contas de ativo e despesas são de natureza devedora: seus aumentos são registrados a débito e suas diminuições a crédito. As contas de passivo e receitas são de natureza credora: seus aumentos são registrados a crédito e suas diminuições a débito. Portanto, as lacunas são preenchidas com: aumentos, débitos, aumentos, créditos.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-15",
@@ -1344,7 +1424,8 @@
       ],
       "resposta": "D",
       "comentario": "A Teoria Personalista divide as contas em Agentes Consignatários, Correspondentes e Proprietários. A Teoria Materialista divide as contas em Integrais e Diferenciais. A Teoria Patrimonialista divide as contas em Patrimoniais e de Resultado. Portanto a sequência é 3, 1, 2.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-19",
@@ -1363,7 +1444,8 @@
       ],
       "resposta": "E",
       "comentario": "A análise de cada item: (V) Receitas e despesas são contas de resultado. (V) Todas as contas de receitas são zeradas ao final do exercício. (F) Todas as contas de despesas também são zeradas ao final do exercício, pois são contas temporárias. (V) Contas de receita possuem natureza credora, portanto saldo credor. (F) Despesas são contas de resultado, não são registradas no passivo.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-23",
@@ -1382,7 +1464,8 @@
       ],
       "resposta": "C",
       "comentario": "Têm saldo aumentado pelo débito as contas de natureza devedora: ativo, despesas, retificadoras do passivo e retificadoras do PL. A alternativa C aponta retificadora do passivo e retificadora do PL — ambas de natureza devedora. As demais alternativas incluem contas credoras (receitas, passivo, ativo) que aumentam pelo crédito.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-24",
@@ -1401,7 +1484,8 @@
       ],
       "resposta": "A",
       "comentario": "As contas de resultado — receitas e despesas — são encerradas ao final do exercício social. Por isso são chamadas de temporárias ou transitórias. Ao serem encerradas, seus saldos são transferidos para a conta de Lucros e Perdas e, em seguida, para o Patrimônio Líquido. As contas patrimoniais, ao contrário, são permanentes: seu saldo é transferido de um exercício para o seguinte.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-40",
@@ -1420,7 +1504,8 @@
       ],
       "resposta": "A",
       "comentario": "A principal diferença é que as contas patrimoniais representam os elementos do balanço — ativos (bens e direitos), passivos (obrigações) e patrimônio líquido — e são permanentes, com saldo transferido de um exercício para o outro. Já as contas de resultado (receitas e despesas) são temporárias, pois são encerradas ao final de cada exercício para apuração do resultado.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-86",
@@ -1439,7 +1524,8 @@
       ],
       "resposta": "E",
       "comentario": "Encargos de depreciação é uma conta de resultado (despesa), pois registra o desgaste periódico dos ativos imobilizados. As demais são contas patrimoniais: Caixa é ativo; Salários a pagar é passivo; Fornecedor é passivo; Empréstimos é passivo.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-06",
@@ -1458,7 +1544,8 @@
       ],
       "resposta": "B",
       "comentario": "A sequência correta é IV, I, III, II. Contas de resultado representam a situação dinâmica e as variações patrimoniais. A Teoria Personalista personifica as contas como pessoas com quem a entidade se relaciona. A Teoria Materialista classifica as contas em integrais e diferenciais. A Teoria Patrimonialista, de Vincenzo Masi, tem o patrimônio como objeto de estudo e o divide em contas patrimoniais e de resultado.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-07",
@@ -1477,7 +1564,8 @@
       ],
       "resposta": "C",
       "comentario": "A alternativa incorreta é a C. Na Teoria Personalista há três tipos de pessoas, não dois: proprietários (responsáveis pelo PL, receitas e despesas), agentes correspondentes (representam direitos e obrigações, como clientes e fornecedores) e agentes consignatários (guardam bens, como caixa e veículos). A omissão dos agentes correspondentes torna a assertiva falsa.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-85",
@@ -1496,7 +1584,8 @@
       ],
       "resposta": "A",
       "comentario": "A sequência correta é 1, 2, 2. As contas patrimoniais são divididas em ativas (ativo) e passivas (passivo e PL). As contas de resultado são divididas em receitas e despesas. Os regimes contábeis (competência ou caixa) referem-se ao momento de reconhecimento de receitas e despesas, portanto aplicam-se às contas de resultado.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-18",
@@ -1515,7 +1604,8 @@
       ],
       "resposta": "C",
       "comentario": "As contas de resultado compreendem as receitas e as despesas do período. São chamadas de contas temporárias porque seus saldos são zerados ao final de cada exercício social para apuração do resultado. O saldo apurado — lucro ou prejuízo — é então transferido para o Patrimônio Líquido.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-10",
@@ -1534,7 +1624,8 @@
       ],
       "resposta": "B",
       "comentario": "A alternativa correta é B. Depreciação Acumulada é uma conta patrimonial retificadora do ativo; Fornecedores é uma conta patrimonial do passivo; Duplicatas a Receber é uma conta patrimonial do ativo. As demais alternativas misturam incorretamente contas de resultado com patrimoniais: Custo dos Produtos Vendidos é despesa (resultado); Receita Bruta de Vendas é receita (resultado); Despesas com Juros é despesa (resultado).",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-13",
@@ -1552,7 +1643,8 @@
       ],
       "resposta": "B",
       "comentario": "A Conta é o instrumento técnico utilizado pela Contabilidade para registrar os elementos patrimoniais e de resultado, captando tanto o aspecto qualitativo (o que a conta representa — um bem, uma obrigação, uma receita) quanto o quantitativo (o valor monetário correspondente). Todos os acontecimentos da empresa, como compra, venda, pagamento e recebimento, são registrados por meio de contas.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-41",
@@ -1570,7 +1662,8 @@
       ],
       "resposta": "A",
       "comentario": "O conceito descreve as contas de resultado. Essas contas abrangem receitas e despesas, surgem durante o exercício e são zeradas ao seu final para apurar o lucro ou prejuízo. Elas não aparecem no Balanço Patrimonial, mas na Demonstração do Resultado do Exercício.",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-22",
@@ -1589,7 +1682,8 @@
       "resposta": "D",
       "comentario": "A correspondência é: controle da riqueza corresponde ao Controlismo (4); direitos e obrigações dos donos corresponde ao Personalismo (5); empresa como objeto de estudo corresponde ao Aziendalismo (3); lucro como objetivo corresponde ao Reditualismo (2); dedicar-se às contas corresponde ao Contismo (6); patrimônio como objeto corresponde ao Patrimonialismo (1). Sequência: 4-5-3-2-6-1.",
       "dificuldade": 4,
-      "orgao": "Pref. Campo Grande"
+      "orgao": "Pref. Campo Grande",
+      "validado": true
     },
     {
       "id": "cg-01b-16",
@@ -1601,7 +1695,8 @@
       "enunciado": "Uma conta sintética recebe lançamentos que provocam repercussões em outros itens do patrimônio da entidade.",
       "resposta": "errado",
       "comentario": "Os lançamentos contábeis são sempre realizados nas contas analíticas, que são as contas detalhadas e desagregadas. Contas sintéticas são as que agregam saldos de outras rubricas e não recebem lançamentos diretos. Portanto, a afirmativa está errada ao atribuir à conta sintética a função de receber lançamentos.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-17",
@@ -1613,7 +1708,8 @@
       "enunciado": "Se determinada conta agrupa os valores de um conjunto de outras contas que recebem lançamentos contábeis, ela deve ser chamada de conta analítica.",
       "resposta": "errado",
       "comentario": "Uma conta que agrupa os valores de outras contas é chamada de conta sintética, não analítica. As contas analíticas são as que efetivamente recebem os lançamentos contábeis por serem as mais detalhadas. A questão troca os conceitos: analítica é a detalhada; sintética é a resumida e agregadora.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-12",
@@ -1625,7 +1721,8 @@
       "enunciado": "As contas diferenciais da teoria materialista representavam os bens, os direitos e as obrigações da entidade.",
       "resposta": "errado",
       "comentario": "Na Teoria Materialista, são as contas integrais (e não as diferenciais) que representam os bens, os direitos e as obrigações. As contas diferenciais são as que geram diferença no patrimônio líquido, englobando receitas, despesas e o próprio PL.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-09",
@@ -1644,7 +1741,8 @@
       ],
       "resposta": "E",
       "comentario": "Contas analíticas são detalhadas e recebem lançamentos contábeis. Contas sintéticas são agrupamentos mais resumidos que não recebem lançamentos. Na alternativa E, as três contas analíticas são Fornecedor ABC Ltda., Autônomo a pagar J. Silva e Cliente a receber Posto de combustível Dragão Ltda., todas identificadas individualmente. As duas contas sintéticas são Disponibilidade circulante e Patrimônio Líquido, que representam agrupamentos.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-25",
@@ -1663,7 +1761,8 @@
       ],
       "resposta": "D",
       "comentario": "Para aumentar o ativo, que tem natureza devedora, devemos debitar (1). Para aumentar o passivo (credora), devemos creditar (2). Para aumentar o PL (credora), devemos creditar (2). Para diminuir despesas (devedora), devemos creditar (2). Para diminuir receita (credora), devemos debitar (1). Sequência: 1-2-2-2-1.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-68",
@@ -1682,7 +1781,8 @@
       ],
       "resposta": "E",
       "comentario": "Recebíveis de vendas a prazo é uma conta do ativo (direito a receber), portanto de natureza devedora. Em uma escrituração regular, seu saldo só pode ser devedor ou nulo. As demais são credoras (saldo sempre credor): Depreciação Acumulada é retificadora do ativo; Receitas Diferidas e Fornecedores são passivos. Ajustes de Avaliação Patrimonial é uma conta instável — pode ter saldo devedor (negativo) ou credor (positivo), portanto não garante ser sempre devedor.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-102",
@@ -1701,7 +1801,8 @@
       ],
       "resposta": "E",
       "comentario": "O balanço patrimonial contém apenas contas patrimoniais — ativo, passivo e PL. Reversão de provisão é conta de resultado (receita) e não consta do balanço. As demais são patrimoniais: Ativos biológicos (ativo), Impostos diferidos (ativo ou passivo), Capital integralizado (PL) e Intangível (ativo).",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-67",
@@ -1720,7 +1821,8 @@
       ],
       "resposta": "B",
       "comentario": "Receita de Equivalência Patrimonial é uma conta de resultado (receita), utilizada para registrar o ganho obtido pela variação positiva do valor do investimento em coligadas e controladas pelo método da equivalência patrimonial. As demais são patrimoniais: Receitas Diferidas e Provisão para Garantias são passivos; Despesas Antecipadas é ativo; Depreciação Acumulada é retificadora do ativo.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-66",
@@ -1739,7 +1841,8 @@
       ],
       "resposta": "D",
       "comentario": "A conta Fornecedores representa o valor das dívidas da entidade com seus fornecedores de mercadorias ou serviços, portanto é uma conta do passivo. As demais estão erradas: PL não é conta de resultado; ganhos e perdas são contas de resultado; mercadorias para revenda é ativo; seguros antecipados são ativo (despesa paga antecipadamente).",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-65",
@@ -1758,7 +1861,8 @@
       ],
       "resposta": "C",
       "comentario": "A alternativa C está correta. Desconsideradas as retificadoras (como provisões), as contas do ativo são de natureza devedora (contas débito) e as do passivo são credoras (contas crédito). As demais alternativas invertem os conceitos: obrigações são passivos (credores, não devedores); receitas são credoras e despesas são devedoras; ativo aumenta a débito; passivo diminui a débito.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-100",
@@ -1777,7 +1881,8 @@
       ],
       "resposta": "D",
       "comentario": "As cinco contas de resultado da lista são: Receitas financeiras (receita), Despesas administrativas (despesa), Custo dos Produtos Vendidos (despesa), Resultado da Equivalência Patrimonial (receita ou despesa) e Reversão de Provisões (receita). As demais são patrimoniais: Caixa e Equivalente Caixa (ativo), Tributos Diferidos (ativo ou passivo), Provisões para Assistência Técnica (passivo), Juros sobre o Capital Próprio a Pagar (passivo) e Receitas a Apropriar (passivo).",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-62",
@@ -1796,7 +1901,8 @@
       ],
       "resposta": "E",
       "comentario": "Provisão para contingências é uma conta do passivo, portanto de natureza credora. As demais são devedoras: Estoques e Despesas antecipadas são ativos; Despesa de depreciação é conta de despesa; Capital a integralizar é retificadora do PL.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-63",
@@ -1815,7 +1921,8 @@
       ],
       "resposta": "A",
       "comentario": "Capital a integralizar é uma retificadora do patrimônio líquido. Como o PL tem natureza credora, sua retificadora tem natureza devedora. As demais são credoras: Receita a apropriar é passivo; Reserva de lucros é PL; Depreciação acumulada é retificadora do ativo (credora); Provisão para perdas com CLD também é retificadora do ativo (credora).",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-101",
@@ -1834,7 +1941,8 @@
       ],
       "resposta": "D",
       "comentario": "As seis contas credoras do rol são: Ajuste para Perdas Previstas em Recebíveis (retificadora do ativo), Reserva Legal (PL), Depreciação Acumulada (retificadora do ativo), Receitas a Apropriar (passivo), Juros sobre o Capital Próprio a Pagar (passivo) e Reserva de Ágio na Emissão de Ações (PL). As quatro devedoras são: Despesas Antecipadas (ativo), Recebíveis (ativo), Despesas de Depreciação (despesa) e Investimentos em Coligadas e Controladas (ativo).",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-61",
@@ -1853,7 +1961,8 @@
       ],
       "resposta": "B",
       "comentario": "Duplicatas descontadas é uma conta do passivo circulante, portanto patrimonial e de natureza credora. As demais: Perdas com créditos de liquidação duvidosa é uma despesa (conta de resultado devedora); Capital a integralizar é retificadora do PL (devedora); Ajuste de avaliação patrimonial negativo é devedora (contas de dupla natureza); Reserva de prejuízos acumulados é retificadora do PL (devedora).",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-104",
@@ -1872,7 +1981,8 @@
       ],
       "resposta": "C",
       "comentario": "A Teoria Personalista, associada a Marchi e Cerboni, classifica as contas em dois grandes grupos: contas do proprietário (PL, receitas e despesas) e contas de agentes (correspondentes, que representam direitos e obrigações — ativo e passivo — e agentes consignatários, que administram bens em nome da empresa). A alternativa D descreve a Teoria Patrimonialista; a alternativa A, a Teoria Materialista.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-70",
@@ -1891,7 +2001,8 @@
       ],
       "resposta": "C",
       "comentario": "Um lançamento a débito aumenta o saldo de contas devedoras (ativo e despesas) e diminui o saldo de contas credoras (passivo, PL e receitas). Portanto, debitar uma conta do ativo aumenta seu saldo; debitar uma conta do passivo diminui seu saldo; debitar uma conta do PL também diminui seu saldo.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-71",
@@ -1910,7 +2021,8 @@
       ],
       "resposta": "D",
       "comentario": "A Teoria Personalista, de Francesco Marchi e Giuseppe Cerboni, personifica as contas tratando-as como pessoas que se relacionam com a entidade: agentes consignatários (guardam bens do ativo), agentes correspondentes (representam direitos e obrigações) e proprietários (responsáveis pelo PL, receitas e despesas).",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "validado": true
     },
     {
       "id": "cg-01b-64",
@@ -1929,7 +2041,8 @@
       ],
       "resposta": "C",
       "comentario": "A alternativa correta é C. As contas patrimoniais no balanço patrimonial são ordenadas por critério econômico-financeiro: no ativo, pelo grau de liquidez (da maior para a menor facilidade de conversão em dinheiro); no passivo, pelo grau de exigibilidade (da mais próxima à mais distante data de vencimento). As demais alternativas apresentam erros conceituais.",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "validado": true
     },
     {
       "id": "cg-01b-103",
@@ -1948,7 +2061,8 @@
       ],
       "resposta": "E",
       "comentario": "As contas de passivo têm natureza credora. Variações positivas — isto é, aumento do saldo — ocorrem por lançamentos a crédito. Um crédito numa conta de passivo aumenta o seu saldo; um débito o reduz.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     },
     {
       "id": "cg-01b-69",
@@ -1967,7 +2081,8 @@
       ],
       "resposta": "E",
       "comentario": "A alternativa E está correta. As contas do PL, como regra, têm natureza credora e saldo credor quando positivas. A exceção são as retificadoras do PL (como ações em tesouraria), que têm saldo devedor. As demais estão erradas: contas de resultado incluem despesas (saldo devedor); passivo aumenta por crédito; ativo diminui por crédito; as contas patrimoniais são permanentes — são as de resultado que são encerradas.",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "validado": true
     }
   ]
 }
