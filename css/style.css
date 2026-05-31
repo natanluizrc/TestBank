@@ -272,11 +272,27 @@ button:disabled { cursor: default; }
 
 .questao-info {
   display: flex;
-  gap: 0.75rem;
+  flex-direction: column;
+  gap: 0.3rem;
   font-size: 0.8rem;
   color: #888;
   margin-bottom: 0.75rem;
-  flex-wrap: wrap;
+}
+
+.questao-info-linha {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.tag-validada {
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: #15803d;
+  background: #dcfce7;
+  border-radius: 4px;
+  padding: 0.1rem 0.45rem;
+  letter-spacing: 0.04em;
 }
 
 .questao-banca { font-size: 0.75rem; color: #888; margin-bottom: 0.6rem; }

@@ -563,10 +563,12 @@ function htmlQuestaoLista(q, i) {
   return `
     <div class="questao-card" data-qid="${q.id}">
       <div class="questao-info">
-        <span>Q${q._qNum ?? i + 1}</span>
-        <span title="Dificuldade">${dif}</span>
-        <span>${q.tipo === 'multipla_escolha' ? 'Múltipla escolha' : 'Certo/Errado'}</span>
-        <button class="btn-marcar ${revisaoIds.has(q.id) ? 'marcado' : ''}" data-qid="${q.id}">${revisaoIds.has(q.id) ? 'Fixada' : 'Fixar'}</button>
+        <div class="questao-info-linha">
+          <span>Q${q._qNum ?? i + 1}</span>
+          <span title="Dificuldade">${dif}</span>
+          <button class="btn-marcar ${revisaoIds.has(q.id) ? 'marcado' : ''}" data-qid="${q.id}">${revisaoIds.has(q.id) ? 'Fixada' : 'Fixar'}</button>
+        </div>
+        ${q.validado ? '<div class="questao-info-linha"><span class="tag-validada">VALIDADA</span></div>' : ''}
       </div>
       ${htmlEnunciado(q)}
       ${opcoes}
