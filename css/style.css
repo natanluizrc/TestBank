@@ -93,7 +93,7 @@ button:disabled { cursor: default; }
   min-width: 5rem;
   text-align: center;
   border-radius: 5px;
-  font-size: 1rem;
+  font-size: 0.75rem;
   color: #555;
   transition: background 0.12s, color 0.12s;
   white-space: nowrap;
@@ -116,7 +116,7 @@ button:disabled { cursor: default; }
   object-fit: cover;
 }
 
-#btn-logout { font-size: 1rem; color: #888; padding: 0.25rem 0.5rem; }
+#btn-logout { font-size: 0.75rem; color: #888; padding: 0.25rem 0.5rem; }
 #btn-logout:hover { color: #1a1a1a; }
 
 /* ---- Barra de matérias ---- */
@@ -146,7 +146,7 @@ button:disabled { cursor: default; }
   height: 2rem;
   min-width: 5rem;
   text-align: center;
-  font-size: 1rem;
+  font-size: 0.75rem;
   font-weight: 700;
   color: #555;
   border-bottom: 2px solid transparent;
@@ -184,7 +184,8 @@ button:disabled { cursor: default; }
   justify-content: center;
   min-width: 5rem;
   text-align: center;
-  font-size: 1rem;
+  font-size: 0.75rem;
+  font-weight: 600;
   color: #555;
   border-bottom: 2px solid transparent;
   transition: color 0.12s, border-color 0.12s;
@@ -218,7 +219,7 @@ button:disabled { cursor: default; }
   display: inline-flex;
   align-items: center;
   border-radius: 4px;
-  font-size: 0.75rem;
+  font-size: 0.5rem;
   font-variant-numeric: tabular-nums;
   letter-spacing: 0.03em;
 }
@@ -250,7 +251,7 @@ button:disabled { cursor: default; }
   display: inline-flex;
   align-items: center;
   border-radius: 4px;
-  font-size: 0.75rem;
+  font-size: 0.5rem;
   font-variant-numeric: tabular-nums;
   letter-spacing: 0.03em;
   color: #4b5563;
@@ -345,7 +346,7 @@ button:disabled { cursor: default; }
 
 /* ---- Botão revelar (modo lista) ---- */
 .btn-revelar {
-  font-size: 1rem;
+  font-size: 0.75rem;
   color: #ea580c;
   border: 1px solid #ea580c;
   border-radius: 5px;
@@ -446,7 +447,7 @@ button:disabled { cursor: default; }
   padding: 0 1.5rem;
   height: 2rem;
   border-radius: 6px;
-  font-size: 1rem;
+  font-size: 0.75rem;
   transition: background 0.15s;
 }
 
@@ -486,7 +487,7 @@ button:disabled { cursor: default; }
   align-items: center;
   justify-content: center;
   border-radius: 6px;
-  font-size: 1rem;
+  font-size: 0.75rem;
   margin-top: 0.5rem;
   transition: background 0.15s;
 }
@@ -523,7 +524,7 @@ button:disabled { cursor: default; }
 .historico-placar  { font-weight: 700; font-size: 1rem; }
 
 .btn-limpar-simulados {
-  font-size: 1rem;
+  font-size: 0.75rem;
   color: #c05050;
   border: 1px solid #c05050;
   border-radius: 5px;
@@ -546,7 +547,7 @@ button:disabled { cursor: default; }
 }
 .hist-tab {
   padding: 0.45rem 1.25rem;
-  font-size: 1rem;
+  font-size: 0.75rem;
   background: none;
   border: none;
   cursor: pointer;
@@ -610,7 +611,7 @@ button:disabled { cursor: default; }
 .qh-stat.amarelo  { background: #fef3c7; color: #b45309; }
 
 .btn-voltar {
-  font-size: 1rem;
+  font-size: 0.75rem;
   color: #555;
   margin-bottom: 1rem;
   padding: 0.25rem 0;
@@ -624,7 +625,7 @@ button:disabled { cursor: default; }
 /* ---- Marcador de revisão ---- */
 .btn-marcar {
   margin-left: auto;
-  font-size: 1rem;
+  font-size: 0.75rem;
   padding: 0 0.75rem;
   height: 2rem;
   display: inline-flex;
@@ -657,7 +658,7 @@ button:disabled { cursor: default; }
   .topbar-esquerda { display: none; }
   .topbar-abas { flex: 1; overflow-x: auto; scrollbar-width: none; justify-content: flex-start; }
   .topbar-abas::-webkit-scrollbar { display: none; }
-  .aba-global { padding: 0 0.55rem; font-size: 0.75rem; min-width: auto; flex-shrink: 0; }
+  .aba-global { padding: 0 0.55rem; font-size: 0.5rem; min-width: auto; flex-shrink: 0; }
   .topbar-usuario { gap: 0.5rem; }
   #avatar { width: 26px; height: 26px; }
   #btn-logout { display: none; }
