@@ -567,7 +567,7 @@ function htmlQuestaoLista(q, i) {
           <span>Q${String(q._qNum ?? i + 1).padStart(2, '0')}${q.validado ? ' <span class="validada-check">✓</span>' : ''}</span>
           <button class="btn-marcar ${revisaoIds.has(q.id) ? 'marcado' : ''}" data-qid="${q.id}">${revisaoIds.has(q.id) ? 'Fixada' : 'Fixar'}</button>
         </div>
-        <div class="questao-info-linha"><span>Dificuldade: ${dif}</span></div>
+        <div class="questao-info-linha"><span>${dif}</span></div>
       </div>
       ${htmlEnunciado(q)}
       ${opcoes}
