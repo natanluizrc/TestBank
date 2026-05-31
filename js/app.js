@@ -548,7 +548,7 @@ function htmlEnunciado(q) {
 
 function htmlQuestaoLista(q, i) {
   const d = Math.min(5, Math.max(0, q.dificuldade || 0));
-  const dif = '★'.repeat(d) + '☆'.repeat(5 - d);
+  const dif = ['', '❶', '❷', '❸', '❹', '❺'][d] || d;
 
   const opcoes = q.tipo === 'multipla_escolha'
     ? `<div class="opcoes">${q.opcoes.map((o, idx) => {
@@ -564,7 +564,7 @@ function htmlQuestaoLista(q, i) {
     <div class="questao-card" data-qid="${q.id}">
       <div class="questao-info">
         <div class="questao-info-linha">
-          <span>Q${String(q._qNum ?? i + 1).padStart(2, '0')}${q.validado ? ' <span class="validada-check">✓</span>' : ''}</span>
+          <span>Q${String(q._qNum ?? i + 1).padStart(2, '0')}${q.validado ? ' <span class="validada-check">✅</span>' : ''}</span>
           <button class="btn-marcar ${revisaoIds.has(q.id) ? 'marcado' : ''}" data-qid="${q.id}">${revisaoIds.has(q.id) ? 'Fixada' : 'Fixar'}</button>
         </div>
         <div class="questao-info-linha"><span>${dif}</span></div>
@@ -583,7 +583,7 @@ function htmlQuestaoLista(q, i) {
 
 function htmlQuestaoFoco(q, resp, isLast = false, num = null) {
   const d = Math.min(5, Math.max(0, q.dificuldade || 0));
-  const dif = '★'.repeat(d) + '☆'.repeat(5 - d);
+  const dif = ['', '❶', '❷', '❸', '❹', '❺'][d] || d;
 
   let interacaoHtml;
   if (q.tipo === 'multipla_escolha') {
