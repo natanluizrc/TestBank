@@ -2847,7 +2847,7 @@
       "id": "cg-02a-027",
       "banca": "MULTIBANCAS",
       "tipo": "multipla_escolha",
-      "enunciado": "pagou ao seu fornecedor uma duplicata que estava atrasada, logo o pagamento foi realizado com juros. Assinale a alternativa correta em relação a classificação do registro desse fato contábil.",
+      "enunciado": "Uma empresa pagou ao seu fornecedor uma duplicata que estava atrasada, logo o pagamento foi realizado com juros. Assinale a alternativa correta em relação a classificação do registro desse fato contábil.",
       "resposta": "D",
       "comentario": "Por exemplo, a dívida era de 2.000, mas houve pagamento adicional de 5%, ou seja, R$ 100 de juros. A contabilização que deve ser feira será: D Duplicatas a pagar (- Passivo) 2.000 D Juros Passivos (Despesa) 100 C Caixa (- Ativo) 2.100 Aqui temos um fato misto diminutivo, visto que ele envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Para facilitar a visualização, vamos dividi-lo em dois lançamentos: Fato permutativo: D Duplicatas a pagar (-Passivo) 2.000,00 C Caixa (-Ativo) 2.000,00 Fato modificativo diminutivo: D Juros Passivos (Despesa) 10,00 C Caixa (- Ativo) 10,00",
       "dificuldade": 2,
@@ -2859,7 +2859,7 @@
       ],
       "orgao": "Não identificado",
       "cargo": "Não identificado",
-      "validado": false
+      "validado": true
     },
     {
       "id": "cg-02a-008",
