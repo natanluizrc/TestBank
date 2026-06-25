@@ -249,6 +249,30 @@ async function renderQuestoes() {
 // =====================================================================
 // TEORIA
 // =====================================================================
+function melhorVoz(lang) {
+  const voices = speechSynthesis.getVoices();
+  const base = lang.split('-')[0];
+  const prefs = [
+    v => v.lang === lang && /Google|Microsoft/.test(v.name),
+    v => v.lang === lang,
+    v => v.lang.startsWith(base) && /Google|Microsoft/.test(v.name),
+    v => v.lang.startsWith(base),
+  ];
+  for (const p of prefs) {
+    const match = voices.find(p);
+    if (match) return match;
+  }
+  return null;
+}
+
+function carregarVozes() {
+  return new Promise(res => {
+    const v = speechSynthesis.getVoices();
+    if (v.length) { res(); return; }
+    speechSynthesis.onvoiceschanged = () => res();
+  });
+}
+
 function renderTeoria(dados) {
   const conteudo = document.getElementById('conteudo');
   const lang = dados.lang || 'pt-BR';
@@ -270,7 +294,7 @@ function renderTeoria(dados) {
 
   let activeBtn = null;
   conteudo.querySelectorAll('.teoria-play').forEach(btn => {
-    btn.addEventListener('click', () => {
+    btn.addEventListener('click', async () => {
       if (activeBtn === btn && speechSynthesis.speaking) {
         speechSynthesis.cancel();
         btn.classList.remove('playing');
@@ -279,8 +303,13 @@ function renderTeoria(dados) {
       }
       speechSynthesis.cancel();
       if (activeBtn) { activeBtn.classList.remove('playing'); }
+      await carregarVozes();
       const utt = new SpeechSynthesisUtterance(textos[+btn.dataset.idx]);
       utt.lang = lang;
+      utt.rate = 0.9;
+      utt.pitch = 1.0;
+      const voz = melhorVoz(lang);
+      if (voz) utt.voice = voz;
       const done = () => { btn.classList.remove('playing'); if (activeBtn === btn) activeBtn = null; };
       utt.onend = done;
       utt.onerror = done;
