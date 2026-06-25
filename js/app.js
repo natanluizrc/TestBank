@@ -251,9 +251,10 @@ async function renderQuestoes() {
 // =====================================================================
 function renderTeoria(dados) {
   const conteudo = document.getElementById('conteudo');
+  const md = t => t.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
   const html = dados.secoes.map(s => {
     const corpo = s.conteudo.split('\n\n')
-      .map(p => `<p>${p.replace(/\n/g, '<br>')}</p>`)
+      .map(p => `<p>${md(p.replace(/\n/g, '<br>'))}</p>`)
       .join('');
     return `<div class="teoria-secao"><h2 class="teoria-titulo">${s.titulo}</h2><div class="teoria-corpo">${corpo}</div></div>`;
   }).join('');
