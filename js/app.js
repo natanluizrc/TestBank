@@ -31,6 +31,14 @@ const MATERIAS = [
       { slug: 'aula-04',  titulo: 'Aula 04' },
       { slug: 'aula-05',  titulo: 'Aula 05' },
     ]
+  },
+  {
+    id: 'ingles',
+    nome: 'Inglês',
+    teoriaOnly: true,
+    aulas: [
+      { slug: 'aula-01', titulo: 'Aula 01' },
+    ]
   }
 ];
 
@@ -226,6 +234,7 @@ async function renderQuestoes() {
   conteudo.innerHTML = '<p class="msg-vazio">Carregando...</p>';
 
   const dados = await carregarAula(aulaAtiva.slug);
+  if (dados?.secoes?.length) { renderTeoria(dados); return; }
   if (!dados || !dados.questoes?.length) {
     conteudo.innerHTML = '<p class="msg-vazio">Nenhuma questão disponível.</p>';
     return;
@@ -235,6 +244,20 @@ async function renderQuestoes() {
 
   conteudo.innerHTML = `<div id="questoes-area"></div>`;
   renderListaQuestoes(dados.questoes);
+}
+
+// =====================================================================
+// TEORIA
+// =====================================================================
+function renderTeoria(dados) {
+  const conteudo = document.getElementById('conteudo');
+  const html = dados.secoes.map(s => {
+    const corpo = s.conteudo.split('\n\n')
+      .map(p => `<p>${p.replace(/\n/g, '<br>')}</p>`)
+      .join('');
+    return `<div class="teoria-secao"><h2 class="teoria-titulo">${s.titulo}</h2><div class="teoria-corpo">${corpo}</div></div>`;
+  }).join('');
+  conteudo.innerHTML = `<div class="teoria-container">${html}</div>`;
 }
 
 // ---- Modo lista ----
@@ -685,9 +708,10 @@ function renderSimuladoConfig() {
 
   const conteudo = document.getElementById('conteudo');
 
+  const materiasComQuestoes = MATERIAS.filter(m => !m.teoriaOnly);
   const opsFonte = [
-    ...MATERIAS.map(m => `<option value="materia:${m.id}">${m.nome}</option>`),
-    ...MATERIAS.flatMap(m => m.aulas.map(a =>
+    ...materiasComQuestoes.map(m => `<option value="materia:${m.id}">${m.nome}</option>`),
+    ...materiasComQuestoes.flatMap(m => m.aulas.map(a =>
       `<option value="aula:${m.id}:${a.slug}">${m.nome} — ${a.titulo}</option>`
     ))
   ].join('');

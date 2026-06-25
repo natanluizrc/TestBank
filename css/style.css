@@ -646,6 +646,23 @@ button:disabled { cursor: default; }
   font-size: 1rem;
 }
 
+/* ---- Teoria ---- */
+.teoria-secao {
+  margin-bottom: 2.5rem;
+}
+.teoria-titulo {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e5e5e5;
+}
+.teoria-corpo p {
+  margin-bottom: 0.85rem;
+  line-height: 1.75;
+}
+.teoria-corpo p:last-child { margin-bottom: 0; }
+
 /* ---- Responsivo ---- */
 @media (max-width: 600px) {
   #topbar { padding: 0 0.75rem; height: 48px; gap: 0.5rem; }
