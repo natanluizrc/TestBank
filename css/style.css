@@ -650,12 +650,38 @@ button:disabled { cursor: default; }
 .teoria-secao {
   margin-bottom: 2.5rem;
 }
-.teoria-titulo {
-  font-size: 1.05rem;
-  font-weight: 700;
+.teoria-secao-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   margin-bottom: 0.85rem;
   padding-bottom: 0.5rem;
   border-bottom: 2px solid #e5e5e5;
+}
+.teoria-titulo {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0;
+}
+.teoria-play {
+  flex-shrink: 0;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  border: 2px solid #1d4ed8;
+  background: white;
+  color: #1d4ed8;
+  font-size: 0.7rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s, color 0.15s;
+}
+.teoria-play:hover { background: #eff6ff; }
+.teoria-play.playing {
+  background: #1d4ed8;
+  color: white;
 }
 .teoria-corpo p {
   margin-bottom: 0.85rem;

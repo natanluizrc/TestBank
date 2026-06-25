@@ -251,14 +251,44 @@ async function renderQuestoes() {
 // =====================================================================
 function renderTeoria(dados) {
   const conteudo = document.getElementById('conteudo');
+  const lang = dados.lang || 'pt-BR';
   const md = t => t.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-  const html = dados.secoes.map(s => {
+  const textos = dados.secoes.map(s => s.conteudo.replace(/\*\*(.+?)\*\*/g, '$1'));
+  const html = dados.secoes.map((s, i) => {
     const corpo = s.conteudo.split('\n\n')
       .map(p => `<p>${md(p.replace(/\n/g, '<br>'))}</p>`)
       .join('');
-    return `<div class="teoria-secao"><h2 class="teoria-titulo">${s.titulo}</h2><div class="teoria-corpo">${corpo}</div></div>`;
+    return `<div class="teoria-secao">
+      <div class="teoria-secao-header">
+        <h2 class="teoria-titulo">${s.titulo}</h2>
+        <button class="teoria-play" data-idx="${i}" title="Ouvir esta seção">▶</button>
+      </div>
+      <div class="teoria-corpo">${corpo}</div>
+    </div>`;
   }).join('');
   conteudo.innerHTML = `<div class="teoria-container">${html}</div>`;
+
+  let activeBtn = null;
+  conteudo.querySelectorAll('.teoria-play').forEach(btn => {
+    btn.addEventListener('click', () => {
+      if (activeBtn === btn && speechSynthesis.speaking) {
+        speechSynthesis.cancel();
+        btn.classList.remove('playing');
+        activeBtn = null;
+        return;
+      }
+      speechSynthesis.cancel();
+      if (activeBtn) { activeBtn.classList.remove('playing'); }
+      const utt = new SpeechSynthesisUtterance(textos[+btn.dataset.idx]);
+      utt.lang = lang;
+      const done = () => { btn.classList.remove('playing'); if (activeBtn === btn) activeBtn = null; };
+      utt.onend = done;
+      utt.onerror = done;
+      speechSynthesis.speak(utt);
+      btn.classList.add('playing');
+      activeBtn = btn;
+    });
+  });
 }
 
 // ---- Modo lista ----
