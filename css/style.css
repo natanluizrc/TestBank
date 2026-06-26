@@ -802,7 +802,7 @@ button:disabled { cursor: default; }
   .topbar-esquerda { display: none; }
   .topbar-abas { flex: 1; overflow-x: auto; scrollbar-width: none; justify-content: flex-start; }
   .topbar-abas::-webkit-scrollbar { display: none; }
-  .aba-global { padding: 0 0.55rem; font-size: 0.5rem; min-width: auto; flex-shrink: 0; }
+  .aba-global { padding: 0 0.65rem; font-size: 0.78rem; min-width: auto; flex-shrink: 0; }
   .topbar-usuario { gap: 0.5rem; }
   #avatar { width: 26px; height: 26px; }
   #btn-logout { display: none; }
