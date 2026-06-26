@@ -686,6 +686,7 @@ button:disabled { cursor: default; }
 .teoria-corpo p {
   margin-bottom: 0.85rem;
   line-height: 1.75;
+  text-align: justify;
 }
 .teoria-corpo p:last-child { margin-bottom: 0; }
 
