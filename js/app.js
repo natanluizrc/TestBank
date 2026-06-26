@@ -343,98 +343,39 @@ async function extrairTextoPDF(file) {
 }
 
 async function gerarMaterial(texto, nomeArquivo) {
-  const apiKey = localStorage.getItem('testbank_api_key');
-  const prompt = `Crie um material de estudo completo a partir do conteúdo abaixo. Retorne SOMENTE um objeto JSON válido, sem markdown, sem texto extra:
-{
-  "titulo": "Título descritivo do material",
-  "secoes": [
-    { "titulo": "Título da seção", "conteudo": "Conteúdo em prosa conversacional, sem listas com marcadores. Use **negrito** para termos-chave e \\n\\n para separar parágrafos." }
-  ]
-}
-Escreva no mesmo idioma do material fonte. Mire em 5 a 8 seções. Seja didático e completo.
-
-Fonte (${nomeArquivo}):
-${texto.slice(0, 60000)}`;
-
-  const resp = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`,
-    {
-      method: 'POST',
-      headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0.7, maxOutputTokens: 8192 },
-        systemInstruction: { parts: [{ text: 'Você é um especialista em criação de material didático. Responda apenas com JSON válido, sem blocos de código markdown.' }] }
-      })
-    }
-  );
-  if (!resp.ok) {
-    const err = await resp.json().catch(() => ({}));
-    throw new Error(err.error?.message || `HTTP ${resp.status}`);
-  }
-  const data = await resp.json();
-  const raw = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
-  try { return JSON.parse(raw); } catch {
-    const m = raw.match(/\{[\s\S]*\}/);
-    if (m) return JSON.parse(m[0]);
-    throw new Error('Resposta inválida da API');
-  }
+  const fn = firebase.functions().httpsCallable('gerarMaterial');
+  const result = await fn({ texto: texto.slice(0, 60000), nomeArquivo });
+  return result.data;
 }
 
 function renderFerramenta() {
   const conteudo = document.getElementById('conteudo');
-  const apiKey = localStorage.getItem('testbank_api_key');
   const md = t => t.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
 
   conteudo.innerHTML = `
     <div class="ferramenta-container">
       <div class="ferramenta-header">
         <span class="ferramenta-titulo-pagina">Gerador de Material</span>
-        ${apiKey ? `<button class="ferramenta-apikey-edit" id="btn-editar-key">Alterar chave API</button>` : ''}
       </div>
-
-      ${!apiKey ? `
-        <div class="ferramenta-apikey-form">
-          <p>Insira sua <strong>Google Gemini API key</strong> para gerar materiais de estudo a partir de PDFs. É gratuita — obtenha em <strong>aistudio.google.com/apikey</strong>.</p>
-          <input type="password" id="input-apikey" placeholder="AIza..." class="ferramenta-input">
-          <button class="ferramenta-btn-primary" id="btn-salvar-key">Salvar chave</button>
+      <div id="ferramenta-upload" class="ferramenta-upload-area">
+        <input type="file" accept=".pdf" id="input-pdf" class="hidden">
+        <div class="ferramenta-dropzone" id="dropzone">
+          <div id="dropzone-label">Clique para selecionar um PDF</div>
         </div>
-      ` : `
-        <div id="ferramenta-upload" class="ferramenta-upload-area">
-          <input type="file" accept=".pdf" id="input-pdf" class="hidden">
-          <div class="ferramenta-dropzone" id="dropzone">
-            <div id="dropzone-label">Clique para selecionar um PDF</div>
-          </div>
-          <button class="ferramenta-btn-primary" id="btn-gerar" disabled>Gerar material</button>
+        <button class="ferramenta-btn-primary" id="btn-gerar" disabled>Gerar material</button>
+      </div>
+      <div id="ferramenta-loading" class="ferramenta-loading hidden">
+        <div class="ferramenta-spinner"></div>
+        <p>Gerando material de estudo…</p>
+      </div>
+      <div id="ferramenta-resultado" class="hidden">
+        <div class="ferramenta-resultado-acoes">
+          <button class="ferramenta-btn-outline" id="btn-novo">Novo material</button>
+          <button class="ferramenta-btn-primary" id="btn-baixar">Baixar PDF</button>
         </div>
-        <div id="ferramenta-loading" class="ferramenta-loading hidden">
-          <div class="ferramenta-spinner"></div>
-          <p>Gerando material de estudo…</p>
-        </div>
-        <div id="ferramenta-resultado" class="hidden">
-          <div class="ferramenta-resultado-acoes">
-            <button class="ferramenta-btn-outline" id="btn-novo">Novo material</button>
-            <button class="ferramenta-btn-primary" id="btn-baixar">Baixar PDF</button>
-          </div>
-          <div id="ferramenta-conteudo"></div>
-        </div>
-      `}
+        <div id="ferramenta-conteudo"></div>
+      </div>
     </div>`;
-
-  if (!apiKey) {
-    document.getElementById('btn-salvar-key').addEventListener('click', () => {
-      const key = (document.getElementById('input-apikey').value || '').trim();
-      if (key.length < 10) { alert('Chave inválida.'); return; }
-      localStorage.setItem('testbank_api_key', key);
-      renderFerramenta();
-    });
-    return;
-  }
-
-  document.getElementById('btn-editar-key')?.addEventListener('click', () => {
-    localStorage.removeItem('testbank_api_key');
-    renderFerramenta();
-  });
 
   const inputPdf = document.getElementById('input-pdf');
   const dropzone = document.getElementById('dropzone');
