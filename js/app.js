@@ -342,10 +342,49 @@ async function extrairTextoPDF(file) {
   return texto;
 }
 
-async function gerarMaterial(texto, nomeArquivo) {
-  const fn = firebase.functions().httpsCallable('gerarMaterial');
-  const result = await fn({ texto: texto.slice(0, 60000), nomeArquivo });
-  return result.data;
+let webLLMEngine = null;
+
+async function gerarMaterial(texto, nomeArquivo, onDownload, onGenerating) {
+  if (!navigator.gpu) {
+    throw new Error('WebGPU não disponível. Use Chrome 113+ ou Edge 113+ para utilizar esta ferramenta.');
+  }
+
+  if (!webLLMEngine) {
+    const { MLCEngine } = await import('https://esm.run/@mlc-ai/web-llm');
+    webLLMEngine = new MLCEngine();
+    webLLMEngine.setInitProgressCallback(r => onDownload(r.text, r.progress));
+    await webLLMEngine.reload('Phi-3.5-mini-instruct-q4f16_1-MLC');
+  }
+
+  onGenerating();
+
+  const prompt = `Crie um material de estudo completo a partir do conteúdo abaixo. Retorne SOMENTE um objeto JSON válido, sem markdown, sem texto extra:
+{
+  "titulo": "Título descritivo do material",
+  "secoes": [
+    { "titulo": "Título da seção", "conteudo": "Conteúdo em prosa conversacional, sem listas. Use **negrito** para termos-chave e \\n\\n para separar parágrafos." }
+  ]
+}
+Escreva no mesmo idioma do material fonte. Mire em 5 a 8 seções. Seja didático e completo.
+
+Fonte (${nomeArquivo}):
+${texto.slice(0, 12000)}`;
+
+  const resp = await webLLMEngine.chat.completions.create({
+    messages: [
+      { role: 'system', content: 'Você é um especialista em criação de material didático. Responda apenas com JSON válido, sem blocos de código markdown.' },
+      { role: 'user', content: prompt }
+    ],
+    temperature: 0.7,
+    max_tokens: 4096,
+  });
+
+  const raw = resp.choices[0].message.content || '';
+  try { return JSON.parse(raw); } catch {
+    const m = raw.match(/\{[\s\S]*\}/);
+    if (m) return JSON.parse(m[0]);
+    throw new Error('Resposta inválida do modelo local');
+  }
 }
 
 function renderFerramenta() {
@@ -363,6 +402,12 @@ function renderFerramenta() {
           <div id="dropzone-label">Clique para selecionar um PDF</div>
         </div>
         <button class="ferramenta-btn-primary" id="btn-gerar" disabled>Gerar material</button>
+      </div>
+      <div id="ferramenta-download" class="ferramenta-loading hidden">
+        <div class="ferramenta-spinner"></div>
+        <p id="download-msg">Baixando modelo…</p>
+        <div class="ferramenta-progress-bar"><div class="ferramenta-progress-fill" id="progress-fill"></div></div>
+        <small>Necessário apenas na primeira vez (~2,4 GB)</small>
       </div>
       <div id="ferramenta-loading" class="ferramenta-loading hidden">
         <div class="ferramenta-spinner"></div>
@@ -395,14 +440,28 @@ function renderFerramenta() {
     const file = inputPdf.files[0];
     if (!file) return;
     document.getElementById('ferramenta-upload').classList.add('hidden');
-    document.getElementById('ferramenta-loading').classList.remove('hidden');
+
+    const onDownload = (msg, progress) => {
+      const el = document.getElementById('ferramenta-download');
+      if (!el) return;
+      el.classList.remove('hidden');
+      const msgEl = document.getElementById('download-msg');
+      const fill = document.getElementById('progress-fill');
+      if (msgEl) msgEl.textContent = msg;
+      if (fill) fill.style.width = `${Math.round(progress * 100)}%`;
+    };
+
+    const onGenerating = () => {
+      document.getElementById('ferramenta-download')?.classList.add('hidden');
+      document.getElementById('ferramenta-loading')?.classList.remove('hidden');
+    };
+
     try {
       const texto = await extrairTextoPDF(file);
-      const material = await gerarMaterial(texto, file.name);
+      const material = await gerarMaterial(texto, file.name, onDownload, onGenerating);
 
-      const loadingEl = document.getElementById('ferramenta-loading');
-      if (!loadingEl) return;
-      loadingEl.classList.add('hidden');
+      if (!document.getElementById('ferramenta-loading')) return;
+      document.getElementById('ferramenta-loading').classList.add('hidden');
 
       const html = material.secoes.map(s => {
         const corpo = s.conteudo.split('\n\n')
@@ -417,11 +476,11 @@ function renderFerramenta() {
         `<h1 class="ferramenta-material-titulo">${material.titulo}</h1>${html}`;
       document.getElementById('ferramenta-resultado').classList.remove('hidden');
     } catch (e) {
-      const loadingEl = document.getElementById('ferramenta-loading');
-      if (!loadingEl) return;
-      loadingEl.classList.add('hidden');
+      if (!document.getElementById('ferramenta-loading')) return;
+      document.getElementById('ferramenta-download')?.classList.add('hidden');
+      document.getElementById('ferramenta-loading').classList.add('hidden');
       document.getElementById('ferramenta-upload').classList.remove('hidden');
-      alert('Erro ao gerar material: ' + e.message);
+      alert('Erro: ' + e.message);
     }
   });
 

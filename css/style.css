@@ -786,6 +786,22 @@ button:disabled { cursor: default; }
   margin: 0 auto 1rem;
 }
 @keyframes spin { to { transform: rotate(360deg); } }
+.ferramenta-progress-bar {
+  width: 100%;
+  max-width: 320px;
+  height: 6px;
+  background: #e5e7eb;
+  border-radius: 3px;
+  margin: 0.75rem auto 0.5rem;
+  overflow: hidden;
+}
+.ferramenta-progress-fill {
+  height: 100%;
+  background: #1d4ed8;
+  border-radius: 3px;
+  width: 0%;
+  transition: width 0.3s ease;
+}
 .ferramenta-resultado-acoes {
   display: flex;
   gap: 0.75rem;

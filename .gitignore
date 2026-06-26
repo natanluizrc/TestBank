@@ -18,6 +18,8 @@ desktop.ini
 # Node (ferramenta local de extração de PDF)
 package-lock.json
 node_modules/
+functions/node_modules/
+functions/package-lock.json
 
 # Claude Code
 .claude/
