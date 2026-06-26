@@ -32,14 +32,6 @@ const MATERIAS = [
       { slug: 'aula-05',  titulo: 'Aula 05' },
     ]
   },
-  {
-    id: 'ingles',
-    nome: 'Inglês',
-    teoriaOnly: true,
-    aulas: [
-      { slug: 'aula-01', titulo: 'Aula 01' },
-    ]
-  }
 ];
 
 const DIAGRAMA_RE = /[┌┐└┘│─┬┴┼├┤]/;
@@ -120,7 +112,7 @@ async function inicializarApp() {
 // =====================================================================
 function renderBarraMaterias() {
   const barra = document.getElementById('barra-materias');
-  if (tabGlobal === 'historico') { barra.style.display = 'none'; return; }
+  if (tabGlobal === 'historico' || tabGlobal === 'ferramenta') { barra.style.display = 'none'; return; }
   if (tabGlobal === 'simulado') {
     const s = simuladoState;
     if (!s || s.fase === 'config') { barra.style.display = 'none'; return; }
@@ -199,9 +191,10 @@ function renderConteudo() {
   renderBarraMaterias();
   renderBarraAulas();
 
-  if (tabGlobal === 'simulado') { renderSimuladoConfig(); return; }
-  if (tabGlobal === 'historico') { renderHistorico(); return; }
-  if (tabGlobal === 'revisao')  { renderRevisao();  return; }
+  if (tabGlobal === 'simulado')   { renderSimuladoConfig(); return; }
+  if (tabGlobal === 'historico')  { renderHistorico(); return; }
+  if (tabGlobal === 'revisao')    { renderRevisao();  return; }
+  if (tabGlobal === 'ferramenta') { renderFerramenta(); return; }
   renderQuestoes();
 }
 
@@ -318,6 +311,185 @@ function renderTeoria(dados) {
       activeBtn = btn;
     });
   });
+}
+
+// =====================================================================
+// FERRAMENTA — Gerador de Material
+// =====================================================================
+async function carregarPdfJs() {
+  if (typeof pdfjsLib !== 'undefined') return;
+  await new Promise((resolve, reject) => {
+    const s = document.createElement('script');
+    s.src = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js';
+    s.onload = resolve;
+    s.onerror = reject;
+    document.head.appendChild(s);
+  });
+  pdfjsLib.GlobalWorkerOptions.workerSrc =
+    'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+}
+
+async function extrairTextoPDF(file) {
+  await carregarPdfJs();
+  const buf = await file.arrayBuffer();
+  const pdf = await pdfjsLib.getDocument({ data: buf }).promise;
+  let texto = '';
+  for (let i = 1; i <= pdf.numPages; i++) {
+    const page = await pdf.getPage(i);
+    const content = await page.getTextContent();
+    texto += content.items.map(it => it.str).join(' ') + '\n';
+  }
+  return texto;
+}
+
+async function gerarMaterialClaude(texto, nomeArquivo) {
+  const apiKey = localStorage.getItem('testbank_api_key');
+  const resp = await fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: {
+      'x-api-key': apiKey,
+      'anthropic-version': '2023-06-01',
+      'content-type': 'application/json',
+      'anthropic-dangerous-direct-browser-access': 'true',
+    },
+    body: JSON.stringify({
+      model: 'claude-sonnet-4-6',
+      max_tokens: 8000,
+      system: 'You are an expert study material creator. Respond with a valid JSON object only — no markdown code fences, no preamble.',
+      messages: [{
+        role: 'user',
+        content: `Create a comprehensive study guide from the material below. Return JSON:
+{
+  "titulo": "Descriptive title",
+  "secoes": [
+    { "titulo": "Section title", "conteudo": "Content with **bold** for key terms and \\n\\n between paragraphs. Conversational prose, no bullet points." }
+  ]
+}
+Write in the same language as the source. Aim for 5–8 sections. Be thorough and educational.
+
+Source (${nomeArquivo}):
+${texto.slice(0, 60000)}`
+      }]
+    })
+  });
+  if (!resp.ok) {
+    const err = await resp.json().catch(() => ({}));
+    throw new Error(err.error?.message || `HTTP ${resp.status}`);
+  }
+  const data = await resp.json();
+  const raw = data.content[0].text;
+  try { return JSON.parse(raw); } catch {
+    const m = raw.match(/\{[\s\S]*\}/);
+    if (m) return JSON.parse(m[0]);
+    throw new Error('Resposta inválida da API');
+  }
+}
+
+function renderFerramenta() {
+  const conteudo = document.getElementById('conteudo');
+  const apiKey = localStorage.getItem('testbank_api_key');
+  const md = t => t.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+
+  conteudo.innerHTML = `
+    <div class="ferramenta-container">
+      <div class="ferramenta-header">
+        <span class="ferramenta-titulo-pagina">Gerador de Material</span>
+        ${apiKey ? `<button class="ferramenta-apikey-edit" id="btn-editar-key">Alterar chave API</button>` : ''}
+      </div>
+
+      ${!apiKey ? `
+        <div class="ferramenta-apikey-form">
+          <p>Insira sua <strong>Anthropic API key</strong> para gerar materiais de estudo a partir de PDFs.</p>
+          <input type="password" id="input-apikey" placeholder="sk-ant-..." class="ferramenta-input">
+          <button class="ferramenta-btn-primary" id="btn-salvar-key">Salvar chave</button>
+        </div>
+      ` : `
+        <div id="ferramenta-upload" class="ferramenta-upload-area">
+          <input type="file" accept=".pdf" id="input-pdf" class="hidden">
+          <div class="ferramenta-dropzone" id="dropzone">
+            <div id="dropzone-label">Clique para selecionar um PDF</div>
+          </div>
+          <button class="ferramenta-btn-primary" id="btn-gerar" disabled>Gerar material</button>
+        </div>
+        <div id="ferramenta-loading" class="ferramenta-loading hidden">
+          <div class="ferramenta-spinner"></div>
+          <p>Gerando material de estudo…</p>
+        </div>
+        <div id="ferramenta-resultado" class="hidden">
+          <div class="ferramenta-resultado-acoes">
+            <button class="ferramenta-btn-outline" id="btn-novo">Novo material</button>
+            <button class="ferramenta-btn-primary" id="btn-baixar">Baixar PDF</button>
+          </div>
+          <div id="ferramenta-conteudo"></div>
+        </div>
+      `}
+    </div>`;
+
+  if (!apiKey) {
+    document.getElementById('btn-salvar-key').addEventListener('click', () => {
+      const key = (document.getElementById('input-apikey').value || '').trim();
+      if (!key.startsWith('sk-ant-')) { alert('Chave inválida — deve começar com sk-ant-'); return; }
+      localStorage.setItem('testbank_api_key', key);
+      renderFerramenta();
+    });
+    return;
+  }
+
+  document.getElementById('btn-editar-key')?.addEventListener('click', () => {
+    localStorage.removeItem('testbank_api_key');
+    renderFerramenta();
+  });
+
+  const inputPdf = document.getElementById('input-pdf');
+  const dropzone = document.getElementById('dropzone');
+  const dropzoneLabel = document.getElementById('dropzone-label');
+  const btnGerar = document.getElementById('btn-gerar');
+
+  dropzone.addEventListener('click', () => inputPdf.click());
+  inputPdf.addEventListener('change', () => {
+    const f = inputPdf.files[0];
+    if (!f) return;
+    dropzoneLabel.textContent = f.name;
+    dropzone.classList.add('tem-arquivo');
+    btnGerar.disabled = false;
+  });
+
+  btnGerar.addEventListener('click', async () => {
+    const file = inputPdf.files[0];
+    if (!file) return;
+    document.getElementById('ferramenta-upload').classList.add('hidden');
+    document.getElementById('ferramenta-loading').classList.remove('hidden');
+    try {
+      const texto = await extrairTextoPDF(file);
+      const material = await gerarMaterialClaude(texto, file.name);
+
+      const loadingEl = document.getElementById('ferramenta-loading');
+      if (!loadingEl) return;
+      loadingEl.classList.add('hidden');
+
+      const html = material.secoes.map(s => {
+        const corpo = s.conteudo.split('\n\n')
+          .map(p => `<p>${md(p.replace(/\n/g, '<br>'))}</p>`).join('');
+        return `<div class="teoria-secao">
+          <div class="teoria-secao-header"><h2 class="teoria-titulo">${s.titulo}</h2></div>
+          <div class="teoria-corpo">${corpo}</div>
+        </div>`;
+      }).join('');
+
+      document.getElementById('ferramenta-conteudo').innerHTML =
+        `<h1 class="ferramenta-material-titulo">${material.titulo}</h1>${html}`;
+      document.getElementById('ferramenta-resultado').classList.remove('hidden');
+    } catch (e) {
+      const loadingEl = document.getElementById('ferramenta-loading');
+      if (!loadingEl) return;
+      loadingEl.classList.add('hidden');
+      document.getElementById('ferramenta-upload').classList.remove('hidden');
+      alert('Erro ao gerar material: ' + e.message);
+    }
+  });
+
+  document.getElementById('btn-novo')?.addEventListener('click', () => renderFerramenta());
+  document.getElementById('btn-baixar')?.addEventListener('click', () => window.print());
 }
 
 // ---- Modo lista ----
