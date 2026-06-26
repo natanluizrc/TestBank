@@ -356,30 +356,36 @@ async function gerarMaterial(texto, nomeArquivo, onDownload, onGenerating) {
     await webLLMEngine.reload('Phi-3.5-mini-instruct-q4f16_1-MLC');
   }
 
-  onGenerating();
+  onGenerating(0);
 
-  const prompt = `Crie um material de estudo completo a partir do conteúdo abaixo. Retorne SOMENTE um objeto JSON válido, sem markdown, sem texto extra:
+  const prompt = `Crie um material de estudo a partir do conteúdo abaixo. Retorne SOMENTE um objeto JSON válido, sem markdown, sem texto extra:
 {
   "titulo": "Título descritivo do material",
   "secoes": [
     { "titulo": "Título da seção", "conteudo": "Conteúdo em prosa conversacional, sem listas. Use **negrito** para termos-chave e \\n\\n para separar parágrafos." }
   ]
 }
-Escreva no mesmo idioma do material fonte. Mire em 5 a 8 seções. Seja didático e completo.
+Escreva no mesmo idioma do material fonte. Crie 4 a 5 seções. Seja didático e objetivo.
 
 Fonte (${nomeArquivo}):
-${texto.slice(0, 12000)}`;
+${texto.slice(0, 6000)}`;
 
-  const resp = await webLLMEngine.chat.completions.create({
+  const stream = await webLLMEngine.chat.completions.create({
     messages: [
-      { role: 'system', content: 'Você é um especialista em criação de material didático. Responda apenas com JSON válido, sem blocos de código markdown.' },
+      { role: 'system', content: 'Especialista em material didático. Responda apenas com JSON válido, sem blocos de código markdown.' },
       { role: 'user', content: prompt }
     ],
     temperature: 0.7,
-    max_tokens: 4096,
+    max_tokens: 2048,
+    stream: true,
   });
 
-  const raw = resp.choices[0].message.content || '';
+  let raw = '';
+  for await (const chunk of stream) {
+    raw += chunk.choices[0]?.delta?.content || '';
+    onGenerating(raw.length);
+  }
+
   try { return JSON.parse(raw); } catch {
     const m = raw.match(/\{[\s\S]*\}/);
     if (m) return JSON.parse(m[0]);
@@ -411,7 +417,7 @@ function renderFerramenta() {
       </div>
       <div id="ferramenta-loading" class="ferramenta-loading hidden">
         <div class="ferramenta-spinner"></div>
-        <p>Gerando material de estudo…</p>
+        <p>Gerando material de estudo… <span id="gen-chars" style="font-variant-numeric:tabular-nums;color:#1d4ed8"></span></p>
       </div>
       <div id="ferramenta-resultado" class="hidden">
         <div class="ferramenta-resultado-acoes">
@@ -451,9 +457,11 @@ function renderFerramenta() {
       if (fill) fill.style.width = `${Math.round(progress * 100)}%`;
     };
 
-    const onGenerating = () => {
+    const onGenerating = (chars) => {
       document.getElementById('ferramenta-download')?.classList.add('hidden');
       document.getElementById('ferramenta-loading')?.classList.remove('hidden');
+      const el = document.getElementById('gen-chars');
+      if (el && chars > 0) el.textContent = `(${chars} chars)`;
     };
 
     try {
