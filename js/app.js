@@ -112,7 +112,7 @@ async function inicializarApp() {
 // =====================================================================
 function renderBarraMaterias() {
   const barra = document.getElementById('barra-materias');
-  if (tabGlobal === 'historico' || tabGlobal === 'ferramenta') { barra.style.display = 'none'; return; }
+  if (tabGlobal === 'historico' || tabGlobal === 'materiais') { barra.style.display = 'none'; return; }
   if (tabGlobal === 'simulado') {
     const s = simuladoState;
     if (!s || s.fase === 'config') { barra.style.display = 'none'; return; }
@@ -194,7 +194,7 @@ function renderConteudo() {
   if (tabGlobal === 'simulado')   { renderSimuladoConfig(); return; }
   if (tabGlobal === 'historico')  { renderHistorico(); return; }
   if (tabGlobal === 'revisao')    { renderRevisao();  return; }
-  if (tabGlobal === 'ferramenta') { renderFerramenta(); return; }
+  if (tabGlobal === 'materiais')  { renderMateriais(); return; }
   renderQuestoes();
 }
 
@@ -314,186 +314,75 @@ function renderTeoria(dados) {
 }
 
 // =====================================================================
-// FERRAMENTA — Gerador de Material
+// MATERIAIS
 // =====================================================================
-async function carregarPdfJs() {
-  if (typeof pdfjsLib !== 'undefined') return;
-  await new Promise((resolve, reject) => {
-    const s = document.createElement('script');
-    s.src = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js';
-    s.onload = resolve;
-    s.onerror = reject;
-    document.head.appendChild(s);
-  });
-  pdfjsLib.GlobalWorkerOptions.workerSrc =
-    'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+const MATERIAIS_LISTA = [
+  // { slug: 'exemplo', titulo: 'Título', descricao: 'Descrição breve' }
+];
+
+let materialAtivo = null;
+
+async function carregarMaterial(slug) {
+  const key = `materiais/${slug}`;
+  if (aulaCache[key]) return aulaCache[key];
+  try {
+    const resp = await fetch(`data/materiais/${slug}.json`, { cache: 'no-cache' });
+    if (!resp.ok) throw new Error();
+    const dados = await resp.json();
+    aulaCache[key] = dados;
+    return dados;
+  } catch { return null; }
 }
 
-async function extrairTextoPDF(file) {
-  await carregarPdfJs();
-  const buf = await file.arrayBuffer();
-  const pdf = await pdfjsLib.getDocument({ data: buf }).promise;
-  let texto = '';
-  for (let i = 1; i <= pdf.numPages; i++) {
-    const page = await pdf.getPage(i);
-    const content = await page.getTextContent();
-    texto += content.items.map(it => it.str).join(' ') + '\n';
-  }
-  return texto;
-}
-
-let webLLMEngine = null;
-
-async function gerarMaterial(texto, nomeArquivo, onDownload, onGenerating) {
-  if (!navigator.gpu) {
-    throw new Error('WebGPU não disponível. Use Chrome 113+ ou Edge 113+ para utilizar esta ferramenta.');
-  }
-
-  if (!webLLMEngine) {
-    const { MLCEngine } = await import('https://esm.run/@mlc-ai/web-llm');
-    webLLMEngine = new MLCEngine();
-    webLLMEngine.setInitProgressCallback(r => onDownload(r.text, r.progress));
-    await webLLMEngine.reload('Phi-3.5-mini-instruct-q4f16_1-MLC');
-  }
-
-  onGenerating(0);
-
-  const prompt = `Crie um material de estudo a partir do conteúdo abaixo. Retorne SOMENTE um objeto JSON válido, sem markdown, sem texto extra:
-{
-  "titulo": "Título descritivo do material",
-  "secoes": [
-    { "titulo": "Título da seção", "conteudo": "Conteúdo em prosa conversacional, sem listas. Use **negrito** para termos-chave e \\n\\n para separar parágrafos." }
-  ]
-}
-Escreva no mesmo idioma do material fonte. Crie 4 a 5 seções. Seja didático e objetivo.
-
-Fonte (${nomeArquivo}):
-${texto.slice(0, 6000)}`;
-
-  const stream = await webLLMEngine.chat.completions.create({
-    messages: [
-      { role: 'system', content: 'Especialista em material didático. Responda apenas com JSON válido, sem blocos de código markdown.' },
-      { role: 'user', content: prompt }
-    ],
-    temperature: 0.7,
-    max_tokens: 2048,
-    stream: true,
-  });
-
-  let raw = '';
-  for await (const chunk of stream) {
-    raw += chunk.choices[0]?.delta?.content || '';
-    onGenerating(raw.length);
-  }
-
-  try { return JSON.parse(raw); } catch {
-    const m = raw.match(/\{[\s\S]*\}/);
-    if (m) return JSON.parse(m[0]);
-    throw new Error('Resposta inválida do modelo local');
-  }
-}
-
-function renderFerramenta() {
+async function renderMateriais() {
   const conteudo = document.getElementById('conteudo');
   const md = t => t.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
 
-  conteudo.innerHTML = `
-    <div class="ferramenta-container">
-      <div class="ferramenta-header">
-        <span class="ferramenta-titulo-pagina">Gerador de Material</span>
-      </div>
-      <div id="ferramenta-upload" class="ferramenta-upload-area">
-        <input type="file" accept=".pdf" id="input-pdf" class="hidden">
-        <div class="ferramenta-dropzone" id="dropzone">
-          <div id="dropzone-label">Clique para selecionar um PDF</div>
-        </div>
-        <button class="ferramenta-btn-primary" id="btn-gerar" disabled>Gerar material</button>
-      </div>
-      <div id="ferramenta-download" class="ferramenta-loading hidden">
-        <div class="ferramenta-spinner"></div>
-        <p id="download-msg">Baixando modelo…</p>
-        <div class="ferramenta-progress-bar"><div class="ferramenta-progress-fill" id="progress-fill"></div></div>
-        <small>Necessário apenas na primeira vez (~2,4 GB)</small>
-      </div>
-      <div id="ferramenta-loading" class="ferramenta-loading hidden">
-        <div class="ferramenta-spinner"></div>
-        <p>Gerando material de estudo… <span id="gen-chars" style="font-variant-numeric:tabular-nums;color:#1d4ed8"></span></p>
-      </div>
-      <div id="ferramenta-resultado" class="hidden">
-        <div class="ferramenta-resultado-acoes">
-          <button class="ferramenta-btn-outline" id="btn-novo">Novo material</button>
-          <button class="ferramenta-btn-primary" id="btn-baixar">Baixar PDF</button>
-        </div>
-        <div id="ferramenta-conteudo"></div>
-      </div>
-    </div>`;
-
-  const inputPdf = document.getElementById('input-pdf');
-  const dropzone = document.getElementById('dropzone');
-  const dropzoneLabel = document.getElementById('dropzone-label');
-  const btnGerar = document.getElementById('btn-gerar');
-
-  dropzone.addEventListener('click', () => inputPdf.click());
-  inputPdf.addEventListener('change', () => {
-    const f = inputPdf.files[0];
-    if (!f) return;
-    dropzoneLabel.textContent = f.name;
-    dropzone.classList.add('tem-arquivo');
-    btnGerar.disabled = false;
-  });
-
-  btnGerar.addEventListener('click', async () => {
-    const file = inputPdf.files[0];
-    if (!file) return;
-    document.getElementById('ferramenta-upload').classList.add('hidden');
-
-    const onDownload = (msg, progress) => {
-      const el = document.getElementById('ferramenta-download');
-      if (!el) return;
-      el.classList.remove('hidden');
-      const msgEl = document.getElementById('download-msg');
-      const fill = document.getElementById('progress-fill');
-      if (msgEl) msgEl.textContent = msg;
-      if (fill) fill.style.width = `${Math.round(progress * 100)}%`;
-    };
-
-    const onGenerating = (chars) => {
-      document.getElementById('ferramenta-download')?.classList.add('hidden');
-      document.getElementById('ferramenta-loading')?.classList.remove('hidden');
-      const el = document.getElementById('gen-chars');
-      if (el && chars > 0) el.textContent = `(${chars} chars)`;
-    };
-
-    try {
-      const texto = await extrairTextoPDF(file);
-      const material = await gerarMaterial(texto, file.name, onDownload, onGenerating);
-
-      if (!document.getElementById('ferramenta-loading')) return;
-      document.getElementById('ferramenta-loading').classList.add('hidden');
-
-      const html = material.secoes.map(s => {
-        const corpo = s.conteudo.split('\n\n')
-          .map(p => `<p>${md(p.replace(/\n/g, '<br>'))}</p>`).join('');
-        return `<div class="teoria-secao">
-          <div class="teoria-secao-header"><h2 class="teoria-titulo">${s.titulo}</h2></div>
-          <div class="teoria-corpo">${corpo}</div>
-        </div>`;
-      }).join('');
-
-      document.getElementById('ferramenta-conteudo').innerHTML =
-        `<h1 class="ferramenta-material-titulo">${material.titulo}</h1>${html}`;
-      document.getElementById('ferramenta-resultado').classList.remove('hidden');
-    } catch (e) {
-      if (!document.getElementById('ferramenta-loading')) return;
-      document.getElementById('ferramenta-download')?.classList.add('hidden');
-      document.getElementById('ferramenta-loading').classList.add('hidden');
-      document.getElementById('ferramenta-upload').classList.remove('hidden');
-      alert('Erro: ' + e.message);
+  if (materialAtivo) {
+    conteudo.innerHTML = '<p class="msg-vazio">Carregando…</p>';
+    const dados = await carregarMaterial(materialAtivo);
+    if (!dados) {
+      conteudo.innerHTML = '<p class="msg-vazio">Material não encontrado.</p>';
+      return;
     }
-  });
+    const html = dados.secoes.map(s => {
+      const corpo = s.conteudo.split('\n\n')
+        .map(p => `<p>${md(p.replace(/\n/g, '<br>'))}</p>`).join('');
+      return `<div class="teoria-secao">
+        <div class="teoria-secao-header"><h2 class="teoria-titulo">${s.titulo}</h2></div>
+        <div class="teoria-corpo">${corpo}</div>
+      </div>`;
+    }).join('');
+    conteudo.innerHTML = `
+      <div class="material-detalhe">
+        <button class="material-voltar" id="btn-voltar">← Materiais</button>
+        <h1 class="material-detalhe-titulo">${dados.titulo}</h1>
+        <div class="teoria-container">${html}</div>
+      </div>`;
+    document.getElementById('btn-voltar').addEventListener('click', () => {
+      materialAtivo = null;
+      renderMateriais();
+    });
+    return;
+  }
 
-  document.getElementById('btn-novo')?.addEventListener('click', () => renderFerramenta());
-  document.getElementById('btn-baixar')?.addEventListener('click', () => window.print());
+  if (!MATERIAIS_LISTA.length) {
+    conteudo.innerHTML = `<div class="materiais-container"><p class="msg-vazio">Nenhum material disponível ainda — envie uma fonte aqui no chat para gerar o primeiro.</p></div>`;
+    return;
+  }
+
+  const cards = MATERIAIS_LISTA.map(m => `
+    <div class="material-card" data-slug="${m.slug}">
+      <h3 class="material-card-titulo">${m.titulo}</h3>
+      ${m.descricao ? `<p class="material-card-desc">${m.descricao}</p>` : ''}
+    </div>`).join('');
+  conteudo.innerHTML = `<div class="materiais-container"><div class="materiais-grid">${cards}</div></div>`;
+  conteudo.querySelectorAll('.material-card').forEach(card => {
+    card.addEventListener('click', () => {
+      materialAtivo = card.dataset.slug;
+      renderMateriais();
+    });
+  });
 }
 
 // ---- Modo lista ----
@@ -1513,6 +1402,7 @@ document.querySelectorAll('.aba-global').forEach(btn => {
       salvosFiltroSlug = materiaAtiva.aulas[0].slug;
     } else {
       salvosFiltroSlug = null;
+      materialAtivo = null;
     }
     tabGlobal = newTab;
     document.querySelectorAll('.aba-global').forEach(b => b.classList.remove('ativa'));
