@@ -317,7 +317,7 @@ function renderTeoria(dados) {
 // MATERIAIS
 // =====================================================================
 const MATERIAIS_LISTA = [
-  // { slug: 'exemplo', titulo: 'Título', descricao: 'Descrição breve' }
+  { slug: 'ingles-unit-01', titulo: 'Inglês — Unit 1: Describing Character and Behavior', descricao: 'Personality adjectives, opposite pairs, grammar of "being + adjective", and false friends for Portuguese speakers.' },
 ];
 
 let materialAtivo = null;
