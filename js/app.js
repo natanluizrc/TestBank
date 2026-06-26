@@ -317,8 +317,10 @@ function renderTeoria(dados) {
 // MATERIAIS
 // =====================================================================
 const MATERIAIS_LISTA = [
-  { slug: 'ingles-unit-01', titulo: 'Inglês — Describing Character and Behavior', descricao: 'Personality adjectives, opposite pairs, grammar of "being + adjective", and false friends for Portuguese speakers.' },
-  { slug: 'ingles-unit-02', titulo: 'Inglês — Describing Appearance', descricao: 'Hair types and colors, body and skin vocabulary, modifiers (quite, fairly, rather...), and grooming phrases.' },
+  { slug: 'ingles-personalidade', titulo: 'Inglês — Describing Character and Behavior', descricao: 'Personality adjectives, opposite pairs, grammar of "being + adjective", and false friends for Portuguese speakers.' },
+  { slug: 'ingles-aparencia', titulo: 'Inglês — Describing Appearance', descricao: 'Hair types and colors, body and skin vocabulary, modifiers (quite, fairly, rather...), and grooming phrases.' },
+  { slug: 'ingles-corpo', titulo: 'Inglês — Parts of the Body', descricao: 'Body parts from head to toe, action verbs, exercise vocabulary, and tricky plurals.' },
+  { slug: 'ingles-familia', titulo: 'Inglês — In the Family', descricao: 'Family member vocabulary, prefixes (step-, half-, great-, in-law), types of families, and relationship words.' },
 ];
 
 let materialAtivo = null;
