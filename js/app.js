@@ -356,22 +356,18 @@ Escreva no mesmo idioma do material fonte. Mire em 5 a 8 seções. Seja didátic
 Fonte (${nomeArquivo}):
 ${texto.slice(0, 60000)}`;
 
-  const isOAuth = !apiKey.startsWith('AIza');
-  const url = isOAuth
-    ? 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent'
-    : `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
-  const headers = { 'content-type': 'application/json' };
-  if (isOAuth) headers['Authorization'] = `Bearer ${apiKey}`;
-
-  const resp = await fetch(url, {
-    method: 'POST',
-    headers,
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.7, maxOutputTokens: 8192 },
-      systemInstruction: { parts: [{ text: 'Você é um especialista em criação de material didático. Responda apenas com JSON válido, sem blocos de código markdown.' }] }
-    })
-  });
+  const resp = await fetch(
+    `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${apiKey}`,
+    {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: { temperature: 0.7, maxOutputTokens: 8192 },
+        systemInstruction: { parts: [{ text: 'Você é um especialista em criação de material didático. Responda apenas com JSON válido, sem blocos de código markdown.' }] }
+      })
+    }
+  );
   if (!resp.ok) {
     const err = await resp.json().catch(() => ({}));
     throw new Error(err.error?.message || `HTTP ${resp.status}`);
