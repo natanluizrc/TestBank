@@ -353,7 +353,12 @@ async function renderMateriais() {
       dados.glossario.forEach(g => gmap.set(g.palavra.toLowerCase(), g));
     }
     const mdGloss = t => t.replace(/\*\*(.+?)\*\*/g, (_, word) => {
-      const entry = gmap.get(word.toLowerCase());
+      const lower = word.toLowerCase();
+      const entry = gmap.get(lower)
+        || gmap.get(lower.replace(/ies$/, 'y'))
+        || gmap.get(lower.replace(/ves$/, 'f'))
+        || gmap.get(lower.replace(/s$/, ''))
+        || gmap.get(lower.replace(/es$/, ''));
       if (entry) {
         const fala = (entry.fala || word).replace(/"/g, '&quot;');
         const sig  = entry.significado.replace(/"/g, '&quot;');
