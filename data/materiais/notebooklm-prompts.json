@@ -1,12 +1,12 @@
 {
   "slug": "notebooklm-prompts",
   "titulo": "Prompts — NotebookLM",
-  "descricao": "Prompts prontos para gerar podcast, vídeo, slides, quiz, flashcards, infográfico, mapa mental e diálogo a partir de qualquer material.",
+  "descricao": "Ready-to-use prompts for generating audio, video, reports, quizzes, flashcards, data tables, slide decks, mind maps, and infographics from any material.",
   "lang": "pt-BR",
   "secoes": [
     {
-      "titulo": "Como usar",
-      "conteudo": "Cole qualquer um dos materiais de inglês como fonte no NotebookLM. Depois, volte aqui, copie o prompt do formato que quiser e cole no NotebookLM.\n\nCada prompt garante três coisas: cobertura total do conteúdo, inglês em nível A2–B1 e linguagem envolvente — não uma lista chata de palavras.\n\nFluxo sugerido: comece pelo **Podcast** — cole o prompt no campo Customize do Audio Overview antes de gerar. Para todos os outros formatos, use o chat do NotebookLM: cole o prompt, aguarde a resposta e leve o resultado para a ferramenta final (Canva, Anki, Gamma, Miro...)."
+      "titulo": "How to Use",
+      "conteudo": "Add any English material as a source in NotebookLM. Then come back here, copy the prompt for the format you want, and paste it into NotebookLM.\n\nSuggested flow: start with **Audio Overview** — paste the prompt into the Customize field before generating. For all other formats, use the NotebookLM chat: paste the prompt, wait for the response, and take the result to the final tool (Canva, Anki, Gamma, Miro...)."
     },
     {
       "titulo": "Audio Overview",
