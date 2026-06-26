@@ -317,7 +317,8 @@ function renderTeoria(dados) {
 // MATERIAIS
 // =====================================================================
 const MATERIAIS_LISTA = [
-  { slug: 'ingles-unit-01', titulo: 'Inglês — Unit 1: Describing Character and Behavior', descricao: 'Personality adjectives, opposite pairs, grammar of "being + adjective", and false friends for Portuguese speakers.' },
+  { slug: 'ingles-unit-01', titulo: 'Inglês — Describing Character and Behavior', descricao: 'Personality adjectives, opposite pairs, grammar of "being + adjective", and false friends for Portuguese speakers.' },
+  { slug: 'ingles-unit-02', titulo: 'Inglês — Describing Appearance', descricao: 'Hair types and colors, body and skin vocabulary, modifiers (quite, fairly, rather...), and grooming phrases.' },
 ];
 
 let materialAtivo = null;
