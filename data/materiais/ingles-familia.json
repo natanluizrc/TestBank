@@ -24,5 +24,33 @@
       "titulo": "False Friends and Useful Differences",
       "conteudo": "A few things in this topic are worth looking at carefully — either because they are false friends, or because they work differently from what you might expect.\n\nThe most important one: **relatives**. In Portuguese, 'relativos' usually means 'relative' in a philosophical sense — 'that's relative,' meaning it depends on the context. In English, **relatives** almost always means family members. 'I have a lot of relatives' = I have a big family. If you want to say something is 'relative' in the sense of 'it depends,' you say **relatively** (the adverb) or you use a phrase like 'it depends.' But as a noun, **relatives** = family members, almost every time.\n\nAnother one: **engaged**. In a relationship context, **engaged** means formally agreed to marry — as we saw. But **engaged** has other meanings in English that can be confusing. You can be 'engaged in' an activity — actively involved in it ('She is engaged in a project'). In British English, if you call someone and their line is busy, it is 'engaged' ('Sorry, the line is engaged'). And a person can be described as 'engaging,' meaning interesting and easy to like — very different from 'soon to be married.' Context always tells you which meaning is being used.\n\nAnd one more: **mum** versus **mom**. Both mean mother — but **mum** is British English and **mom** is American English. You will see and hear both. Neither is wrong — it just shows where the speaker is from. The same goes for some other family words: British English often says 'mum' and 'dad,' while American English tends to say 'mom' and 'dad.' The actual family relationships are exactly the same.\n\nFinally, a pattern worth noticing: the **-in-law** suffix always follows the family member title. It is always **mother-in-law**, never 'in-law mother.' The order is fixed. And the plural is **mothers-in-law**, not 'mother-in-laws' — though in informal speech, you will hear both, and nobody will judge you for it."
     }
+  ],
+  "glossario": [
+    { "palavra": "parents", "significado": "your father and mother together" },
+    { "palavra": "sibling", "significado": "a gender-neutral word for brother or sister" },
+    { "palavra": "grandparents", "significado": "your parents' parents (grandfather + grandmother)" },
+    { "palavra": "uncle", "significado": "your parent's brother" },
+    { "palavra": "aunt", "significado": "your parent's sister" },
+    { "palavra": "cousin", "significado": "the child of your uncle or aunt (same word for male and female)" },
+    { "palavra": "nephew", "significado": "the son of your brother or sister" },
+    { "palavra": "niece", "significado": "the daughter of your brother or sister" },
+    { "palavra": "in-laws", "significado": "the family of your husband or wife (father-in-law, mother-in-law, etc.)" },
+    { "palavra": "stepfather", "significado": "a man who married your mother but is not your birth father" },
+    { "palavra": "stepmother", "significado": "a woman who married your father but is not your birth mother" },
+    { "palavra": "half-sister", "significado": "a sister who shares only one birth parent with you" },
+    { "palavra": "half-brother", "significado": "a brother who shares only one birth parent with you" },
+    { "palavra": "great-grandparents", "significado": "your grandparents' parents; one more generation back" },
+    { "palavra": "immediate family", "fala": "immediate family", "significado": "the close circle: usually just parents and children" },
+    { "palavra": "nuclear family", "fala": "nuclear family", "significado": "two parents and their children living together" },
+    { "palavra": "extended family", "fala": "extended family", "significado": "the full family: grandparents, aunts, uncles, cousins, everyone" },
+    { "palavra": "blended family", "fala": "blended family", "significado": "formed when partners bring children from previous relationships" },
+    { "palavra": "engaged", "significado": "having formally agreed to marry; in an engagement" },
+    { "palavra": "married", "significado": "legally joined with a partner in a wedding" },
+    { "palavra": "divorced", "significado": "legally no longer married" },
+    { "palavra": "partner", "significado": "anyone in a committed relationship with you — gender-neutral" },
+    { "palavra": "single parent", "fala": "single parent", "significado": "someone raising children without a partner at home" },
+    { "palavra": "relatives", "significado": "family members — careful: not the same as 'relativos' in Portuguese!" },
+    { "palavra": "twin", "significado": "one of two children born to the same mother at the same time" },
+    { "palavra": "raised", "significado": "brought up as a child (past tense of 'raise')" }
   ]
 }

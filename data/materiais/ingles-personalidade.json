@@ -28,5 +28,25 @@
       "titulo": "Trap Words: These Look Familiar But They Are NOT",
       "conteudo": "False friends are words that look similar to a word in your language but have a very different meaning. They feel safe — you see the word and think 'I know this one!' — and then you say something completely different from what you wanted. Let's look at the most important ones from this material.\n\nThe first trap: **sensible** and **sensitive**. These two words look very similar, but they mean different things. **Sensible** means practical and reasonable — someone who makes good decisions and thinks before they act. 'Be sensible!' means: use your head, do the smart thing. Now, in Portuguese, 'sensível' translates to **sensitive** in English — meaning someone who feels emotions deeply, who is easy to hurt, who cries at sad films. A **sensitive** person feels a lot. A **sensible** person thinks clearly. They are almost opposites! If you say 'I'm very sensible' in English, people will think you are calm and rational — not emotional.\n\nThe second trap: **sympathetic**. In Portuguese, 'simpático' means friendly and easy to like. In English, **sympathetic** means something different. It means you understand someone's pain or difficulty and you share that feeling with them. It is about compassion — caring about someone who is going through a hard time. So 'She is very sympathetic' means she is kind and empathetic when people are struggling, not that she is fun and easy to be around. For that idea, use **friendly**, **nice**, or **warm**.\n\nThe third trap: **polite** and **educated**. In Portuguese, 'educado' can describe someone with good manners. In English, **educated** only means someone who has studied a lot — it is about academic level. Saying 'She is very educated' makes people think of a professor, not a person with great manners. For good manners, always use **polite** or **well-mannered**.\n\nOne bonus trap: **miserable** and 'miserável.' In English, **miserable** simply means very unhappy. 'I'm miserable today' just means I am in a very bad mood. In Portuguese, 'miserável' is a much stronger word — it suggests poverty or even moral problems. The English word is much lighter and just describes emotions.\n\nFalse friends are not your enemies, though. Once you know them, they become easy to remember — because the surprise sticks. So let's make it stick: sensible is not sensível, sympathetic is not simpático, polite is not educado, and miserable is not miserável. Say it once to yourself. Done — you will not forget."
     }
+  ],
+  "glossario": [
+    { "palavra": "friendly", "significado": "warm, approachable, and easy to talk to" },
+    { "palavra": "cheerful", "significado": "happy and positive in a way that lifts the mood of others" },
+    { "palavra": "generous", "significado": "gives freely — time, money, attention — without expecting anything back" },
+    { "palavra": "smart", "significado": "intelligent; learns quickly and thinks clearly (informal)" },
+    { "palavra": "funny", "significado": "makes people laugh naturally and effortlessly" },
+    { "palavra": "honest", "significado": "tells the truth even when it is uncomfortable" },
+    { "palavra": "confident", "significado": "trusts their own abilities in a calm, stable way" },
+    { "palavra": "modest", "significado": "does not boast about achievements, even when they could" },
+    { "palavra": "polite", "significado": "has good manners; says please and thank you; respects others" },
+    { "palavra": "arrogant", "significado": "believes they are better than everyone else; dismisses others" },
+    { "palavra": "rude", "significado": "lacks basic manners or respect; may hurt or embarrass others" },
+    { "palavra": "boring", "significado": "fails to hold your attention; always the same, never exciting" },
+    { "palavra": "shy", "significado": "feels nervous or uncomfortable in social situations, especially with strangers" },
+    { "palavra": "miserable", "significado": "seems deeply and persistently unhappy; sees the negative side of everything" },
+    { "palavra": "mean", "significado": "(adjective) unkind and stingy; not generous. Also a verb: 'to signify'" },
+    { "palavra": "sensible", "significado": "practical and reasonable; makes good decisions. (≠ sensível in Portuguese!)" },
+    { "palavra": "sensitive", "significado": "easily affected by emotions; feels things deeply; easily hurt" },
+    { "palavra": "sympathetic", "significado": "understands and shares someone's feelings during a hard time (≠ simpático!)" }
   ]
 }

@@ -356,15 +356,42 @@ async function renderMateriais() {
         <div class="teoria-corpo">${corpo}</div>
       </div>`;
     }).join('');
+    let glossarioHtml = '';
+    if (dados.glossario && dados.glossario.length) {
+      const cards = dados.glossario.map(g => `
+        <div class="glossario-card">
+          <div class="glossario-card-header">
+            <span class="glossario-palavra">${g.palavra}</span>
+            <button class="glossario-play" data-fala="${g.fala || g.palavra}" title="Ouvir">▶</button>
+          </div>
+          <p class="glossario-significado">${g.significado}</p>
+        </div>`).join('');
+      glossarioHtml = `<div class="glossario">
+        <h2 class="glossario-titulo">Glossário</h2>
+        <div class="glossario-grid">${cards}</div>
+      </div>`;
+    }
     conteudo.innerHTML = `
       <div class="material-detalhe">
         <button class="material-voltar" id="btn-voltar">← Materiais</button>
         <h1 class="material-detalhe-titulo">${dados.titulo}</h1>
         <div class="teoria-container">${html}</div>
+        ${glossarioHtml}
       </div>`;
     document.getElementById('btn-voltar').addEventListener('click', () => {
       materialAtivo = null;
       renderMateriais();
+    });
+    conteudo.querySelectorAll('.glossario-play').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        await carregarVozes();
+        const utter = new SpeechSynthesisUtterance(btn.dataset.fala);
+        const voz = melhorVoz(dados.lang || 'en-US');
+        if (voz) utter.voice = voz;
+        utter.rate = 0.85;
+        speechSynthesis.cancel();
+        speechSynthesis.speak(utter);
+      });
     });
     return;
   }

@@ -28,5 +28,29 @@
       "titulo": "Words That Trip You Up",
       "conteudo": "Let's finish with a few words that are worth thinking about carefully — either because they have a similar word in Portuguese with a different meaning, or because they work differently from what you might expect.\n\nFirst: **slim** and **thin**. In Portuguese, both of these translate to 'magro.' But in English, they are not the same. **Slim** = positive, healthy, attractive. **Thin** = neutral, sometimes a little negative. If you want to compliment someone, use **slim**. If you are describing that someone looks underweight or frail, **thin** is more appropriate. Choosing the right one shows a real understanding of English.\n\nSecond: **fair**. This word has many meanings in English, and appearance is just one of them. In appearance: fair skin = pale skin, fair hair = light-colored hair. But fair also means just or equal, as in 'It's not fair!' It can also mean good enough — 'The film was fair, not great.' And in weather: 'a fair day' means clear and pleasant. You will see this word in many different contexts. Do not be confused — just look at the situation.\n\nThird: **dark**. When we describe appearance, **dark** is the natural, polite, and common word for hair or skin in darker shades. 'She has dark hair.' 'He has dark skin.' It is simply a color description — neutral, clear, and widely used. Portuguese speakers sometimes look for a more specific word, but in English, **dark** covers a wide range and is always appropriate.\n\nAnd finally: **tanned**. In Portuguese, you might say someone is 'bronzeado.' In English, **tanned** describes exactly that — skin that has become darker because of the sun. It implies the person spends time outdoors or on a beach. 'He looks very tanned' often sounds like a compliment in English — it suggests an active, outdoor lifestyle."
     }
+  ],
+  "glossario": [
+    { "palavra": "straight", "significado": "(hair) falls flat and smooth with no waves or curls" },
+    { "palavra": "wavy", "significado": "(hair) has soft, gentle S-shaped curves" },
+    { "palavra": "curly", "significado": "(hair) has tight, round spirals" },
+    { "palavra": "dark", "significado": "(hair or skin) brown or black in color; a wide, neutral range" },
+    { "palavra": "blonde", "significado": "light yellow or golden hair color" },
+    { "palavra": "fair", "significado": "light-colored — used for both hair and skin" },
+    { "palavra": "grey", "significado": "the natural hair color that comes with age; also spelled 'gray'" },
+    { "palavra": "ponytail", "significado": "a hairstyle where hair is tied together at the back of the head" },
+    { "palavra": "slim", "significado": "pleasantly thin and in good shape — almost always a positive word" },
+    { "palavra": "thin", "significado": "not heavy; more neutral than slim, sometimes implies concern" },
+    { "palavra": "muscular", "significado": "has strong, visible muscles from regular exercise" },
+    { "palavra": "overweight", "significado": "heavier than average — the polite, neutral term" },
+    { "palavra": "pale", "significado": "very light skin that doesn't get much sun" },
+    { "palavra": "tanned", "significado": "light skin made darker by sun exposure" },
+    { "palavra": "spotty", "significado": "(British) skin with spots or pimples" },
+    { "palavra": "quite", "significado": "moderately; softens an adjective (quite tall = tall, but measured)" },
+    { "palavra": "fairly", "significado": "somewhat; a careful, neutral softener (fairly short)" },
+    { "palavra": "pretty", "fala": "pretty short", "significado": "(modifier) rather a lot — has nothing to do with 'beautiful' here!" },
+    { "palavra": "rather", "significado": "(modifier) more than expected, often with mild surprise (rather thin)" },
+    { "palavra": "get a haircut", "fala": "get a haircut", "significado": "to go to a hairdresser and have your hair cut" },
+    { "palavra": "shave", "significado": "to remove hair with a razor" },
+    { "palavra": "put on makeup", "fala": "put on makeup", "significado": "to apply cosmetics such as foundation or lipstick" }
   ]
 }

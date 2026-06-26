@@ -729,6 +729,68 @@ button:disabled { cursor: default; }
 }
 .material-voltar:hover { background: #f9fafb; }
 
+/* ---- Glossário ---- */
+.glossario {
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 2px solid #e5e7eb;
+  max-width: 860px;
+}
+.glossario-titulo {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 1.25rem;
+  color: #1a1a1a;
+}
+.glossario-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 0.65rem;
+}
+.glossario-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 0.7rem 0.9rem;
+  background: #fafafa;
+}
+.glossario-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin-bottom: 0.3rem;
+}
+.glossario-palavra {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: #1a1a1a;
+}
+.glossario-play {
+  background: none;
+  border: 1.5px solid #1d4ed8;
+  color: #1d4ed8;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  font-size: 0.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  padding: 0;
+  line-height: 1;
+}
+.glossario-play:hover { background: #dbeafe; }
+.glossario-significado {
+  font-size: 0.82rem;
+  color: #4b5563;
+  line-height: 1.45;
+  margin: 0;
+}
+@media (max-width: 600px) {
+  .glossario-grid { grid-template-columns: 1fr; }
+}
+
 @media print {
   #topbar, #barra-materias, #barra-aulas, .material-voltar, .teoria-play { display: none !important; }
   .material-detalhe { padding: 0; max-width: none; }

@@ -24,5 +24,38 @@
       "titulo": "Irregular Plurals and Things That Confuse Portuguese Speakers",
       "conteudo": "Let's finish with a few things that often confuse Portuguese speakers specifically.\n\nThe two most important irregular plurals in body vocabulary: one **foot**, two **feet**. One **tooth**, many **teeth**. These do not follow the normal -s rule, and they come up constantly. Say them a few times out loud: foot, feet. Tooth, teeth. They should feel automatic.\n\nA word on **muscle**. In Portuguese, 'músculo' is pronounced roughly as it is written. In English, **muscle** is pronounced 'MUS-ul' — the 'c' is completely silent, and the 'le' at the end is just an 'ul' sound. If you say 'MUS-cle' with the c, English speakers will understand you, but it will sound a little off. The silent c in **muscle** is one of those small things that makes a difference.\n\nNow, **wrist** versus **ankle**. Both of these are joints — one on your arm, one on your leg. Portuguese speakers sometimes mix them up because both connect a limb to an extremity. Simple rule: **wrist** is on your arm (between hand and arm), **ankle** is on your leg (between foot and leg). Wrist = arm. Ankle = leg.\n\nAnd one last word worth knowing: **elbow**. In Portuguese, 'cotovelo' is clear enough. In English, **elbow** sounds nothing like any Portuguese word, so it just needs to be memorized. You have two elbows — the joints in the middle of your arms where they bend. Next time you rest your chin on your hand while reading, notice your **elbow** on the table. Now you will always remember it."
     }
+  ],
+  "glossario": [
+    { "palavra": "forehead", "significado": "the area of your face above your eyes" },
+    { "palavra": "cheek", "significado": "the soft sides of your face" },
+    { "palavra": "chin", "significado": "the bottom part of your face, below your mouth" },
+    { "palavra": "neck", "significado": "connects your head to the rest of your body" },
+    { "palavra": "shoulder", "significado": "the joint where your arm meets your upper body" },
+    { "palavra": "chest", "significado": "the front of your upper body" },
+    { "palavra": "stomach", "significado": "the area below your chest in the front; also called 'belly' informally" },
+    { "palavra": "thigh", "significado": "the upper part of your leg, between hip and knee" },
+    { "palavra": "knee", "significado": "the joint in the middle of your leg" },
+    { "palavra": "ankle", "significado": "the joint that connects your foot to your leg" },
+    { "palavra": "shin", "significado": "the front of your lower leg, between knee and ankle" },
+    { "palavra": "elbow", "significado": "the joint in the middle of your arm where it bends" },
+    { "palavra": "wrist", "significado": "the joint that connects your hand to your arm" },
+    { "palavra": "thumb", "significado": "the short, thick finger on the side of your hand" },
+    { "palavra": "fingernail", "significado": "the hard covering at the tip of each finger" },
+    { "palavra": "eyelash", "significado": "the thin hairs along the edge of your eye" },
+    { "palavra": "tooth", "significado": "one of the hard structures inside your mouth used to chew" },
+    { "palavra": "teeth", "fala": "teeth", "significado": "plural of tooth — irregular! (not 'tooths')" },
+    { "palavra": "foot", "significado": "the bottom part of your leg that you walk on" },
+    { "palavra": "feet", "fala": "feet", "significado": "plural of foot — irregular! (not 'foots')" },
+    { "palavra": "muscle", "fala": "muscle", "significado": "soft tissue that moves your bones — the 'c' is silent: say MUS-ul" },
+    { "palavra": "bone", "significado": "the hard structure that forms your skeleton" },
+    { "palavra": "heart", "significado": "the organ that pumps blood through your body" },
+    { "palavra": "lung", "significado": "one of two organs that bring in oxygen when you breathe" },
+    { "palavra": "blink", "significado": "to close and open your eyes very quickly (automatic action)" },
+    { "palavra": "clap", "significado": "to hit both hands together to show appreciation" },
+    { "palavra": "wave", "significado": "to move your hand to greet or say goodbye from a distance" },
+    { "palavra": "stretch", "significado": "to extend a muscle as far as it will comfortably go" },
+    { "palavra": "bend", "significado": "to curve a part of your body (bend your knees, bend your arm)" },
+    { "palavra": "raise", "significado": "to lift something upward (raise your hand, raise your arm)" },
+    { "palavra": "breathe", "significado": "to take air in and let it out — essential in exercise!" }
   ]
 }
