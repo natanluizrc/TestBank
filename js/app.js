@@ -424,7 +424,7 @@ function renderFerramenta() {
   if (!apiKey) {
     document.getElementById('btn-salvar-key').addEventListener('click', () => {
       const key = (document.getElementById('input-apikey').value || '').trim();
-      if (!key.startsWith('AIza')) { alert('Chave inválida — deve começar com AIza'); return; }
+      if (key.length < 10) { alert('Chave inválida.'); return; }
       localStorage.setItem('testbank_api_key', key);
       renderFerramenta();
     });
