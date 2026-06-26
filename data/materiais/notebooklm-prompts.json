@@ -1,0 +1,44 @@
+{
+  "slug": "notebooklm-prompts",
+  "titulo": "Prompts — NotebookLM",
+  "descricao": "Prompts prontos para gerar podcast, vídeo, slides, quiz, flashcards, infográfico, mapa mental e diálogo a partir de qualquer material.",
+  "lang": "pt-BR",
+  "secoes": [
+    {
+      "titulo": "Como usar",
+      "conteudo": "Cole qualquer um dos materiais de inglês como fonte no NotebookLM. Depois, volte aqui, copie o prompt do formato que quiser e cole no NotebookLM.\n\nCada prompt garante três coisas: cobertura total do conteúdo, inglês em nível A2–B1 e linguagem envolvente — não uma lista chata de palavras.\n\nFluxo sugerido: comece pelo **Podcast** — cole o prompt no campo Customize do Audio Overview antes de gerar. Para todos os outros formatos, use o chat do NotebookLM: cole o prompt, aguarde a resposta e leve o resultado para a ferramenta final (Canva, Anki, Gamma, Miro...)."
+    },
+    {
+      "titulo": "Podcast — Audio Overview",
+      "conteudo": "No NotebookLM: clique em **Audio Overview** → **Customize** → cole o prompt abaixo → clique em Generate.\n\n```\nCreate a podcast between two hosts who are genuinely enthusiastic about learning English. Both hosts speak at an intermediate level (A2–B1): clear, natural sentences, real-world examples.\n\nRules:\n- Cover EVERY vocabulary item and concept in the material — no skipping\n- Never just define a word — use it in a vivid, relatable example sentence\n- When two words are similar or often confused, make it a small debate or \"aha moment\"\n- For false friends and grammar traps, react with genuine surprise or humor\n- Include at least one memorable story, analogy, or real-life situation per section\n- End with the 3–4 things a listener must remember after this episode\n- Tone: two curious friends, never two textbook narrators\n- Keep sentences short. Keep energy high. No filler phrases.\n```"
+    },
+    {
+      "titulo": "Roteiro de Vídeo",
+      "conteudo": "No NotebookLM: abra o **chat** → cole o prompt abaixo → copie o roteiro gerado para usar com CapCut, HeyGen ou gravar direto na câmera.\n\n```\nWrite a video script based on this material for an 8–10 minute educational video. The presenter speaks directly to the viewer.\n\nRequirements:\n- Open with a relatable situation or question that hooks the viewer in the first 15 seconds — no \"Hello everyone, today we will learn...\"\n- English at A2–B1 level: natural, conversational, never robotic\n- Cover every single vocabulary item and concept from the material\n- For each key word or concept: one clear definition + one vivid example sentence\n- Add [PAUSE] where the viewer should think or repeat the word out loud\n- Add [SHOW: word / example] where text should appear on screen\n- For contrasting words (e.g. slim vs thin), structure it as a mini-challenge: \"Which one would you use here?\"\n- Close with an encouraging line that makes the viewer want to practice right now\n- Tone: knowledgeable friend, not classroom lecture\n```"
+    },
+    {
+      "titulo": "Slides — Canva / Gamma",
+      "conteudo": "No NotebookLM: abra o **chat** → cole o prompt abaixo → use o resultado como base no Canva, Gamma ou Google Slides.\n\n```\nGenerate a slide-by-slide outline for a 10–12 slide presentation based on this material.\n\nFor each slide, provide:\n- Title: short and punchy (max 6 words)\n- Content: 3–5 bullet points in English at A2–B1 level, max 10 words each\n- Example: one natural example sentence or usage note\n\nStructure:\n- Slide 1: hook — a relatable question or situation (no \"Today we will learn\")\n- One slide per section of the material\n- Slides for vocabulary contrasts as mini visual comparisons\n- Final slide: \"5 Things to Remember\" — only the most important takeaways\n\nTone: conversational and visual. No bullet should read like a dictionary entry.\n```"
+    },
+    {
+      "titulo": "Quiz Interativo",
+      "conteudo": "No NotebookLM: abra o **chat** → cole o prompt abaixo → use as perguntas para estudar ou monte um formulário no Google Forms.\n\n```\nCreate a 15-question quiz based on this material for an A2–B1 English learner.\n\nMix these question types:\n- 5 fill-in-the-blank sentences using vocabulary from the material\n- 4 \"which word fits better?\" questions with two similar words\n- 3 true/false questions about meaning or usage\n- 3 translation challenges: Portuguese to English, using the vocabulary covered\n\nAfter each question, add the correct answer and a one-sentence explanation of why.\nTone: encouraging. If the answer requires nuance, explain it briefly and clearly.\n```"
+    },
+    {
+      "titulo": "Flashcards — Anki / Quizlet",
+      "conteudo": "No NotebookLM: abra o **chat** → cole o prompt abaixo → importe o resultado no Anki ou Quizlet.\n\n```\nGenerate 20 flashcards based on this material in the format below. Every key vocabulary item must appear.\n\nFormat for each card:\nFRONT: [word or phrase in English] — [one-sentence context clue, not a definition]\nBACK: [meaning in Portuguese] + [one example sentence in English at A2–B1 level]\n\nRules:\n- Context clue on the front should hint at the meaning without giving it away\n- Example sentence on the back must feel natural, not textbook\n- For false friends, add a ⚠️ note on the back explaining the trap\n- For words with a confusable pair, create one card per word and cross-reference them\n- No card should repeat an example from another card\n```"
+    },
+    {
+      "titulo": "Infográfico — Canva",
+      "conteudo": "No NotebookLM: abra o **chat** → cole o prompt abaixo → monte o infográfico no Canva usando a estrutura gerada.\n\n```\nDesign a text layout for an infographic about this material, ready to be built in Canva or similar.\n\nStructure:\n- Title: one short, catchy headline (max 5 words)\n- 4–6 sections, each with: a section title + 3–5 items (word + ultra-short definition, max 6 words each)\n- One \"Watch Out!\" box highlighting the most important false friend or common mistake\n- One \"Quick Rule\" box with the key grammar or usage tip from the material\n- One \"Remember This Pair\" box comparing two easily confused words\n- Footer: one motivating sentence for the learner\n\nVisual tone: clean, modern, friendly. No full sentences in the main sections — keywords and short labels only. Think poster, not essay.\n```"
+    },
+    {
+      "titulo": "Mapa Mental — Miro / Notion",
+      "conteudo": "No NotebookLM: abra o **chat** → cole o prompt abaixo → importe o resultado como lista indentada no Miro, Notion ou XMind.\n\n```\nCreate a mind map outline for this material.\n\nCentral node: the topic title (short, max 4 words)\n\nBranch structure:\n- One main branch per section of the material\n- Each branch has 3–6 leaf nodes: key vocabulary or concepts only, max 3 words each\n- Where two words contrast, connect them with a double arrow and label it \"opposite\"\n- Where a word is a false friend, mark it with ⚠️\n- Where a grammar rule applies, add it as a standalone leaf with a 📌 marker\n\nOutput as indented text (can be imported into Miro, Notion, or XMind). No full sentences — nodes only.\n```"
+    },
+    {
+      "titulo": "Diálogo de Prática",
+      "conteudo": "No NotebookLM: abra o **chat** → cole o prompt abaixo → use o diálogo para leitura em voz alta, roleplay ou análise de vocabulário em contexto.\n\n```\nWrite a natural conversation between two people (Alex and Sam) that uses every key vocabulary item from this material at least once.\n\nRules:\n- Setting: a realistic, everyday situation — pick the most natural fit for the topic\n- English at A2–B1 level: short turns, natural rhythm, contractions\n- Each vocabulary word should appear in a realistic context, never forced\n- After the dialogue, add a \"Spot the vocabulary\" section: list every key word that appeared and the exact line where it was used\n- Length: 20–25 exchanges\n- Tone: warm and natural, like something you'd actually hear between two people\n```"
+    }
+  ]
+}

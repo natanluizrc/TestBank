@@ -729,6 +729,37 @@ button:disabled { cursor: default; }
 }
 .material-voltar:hover { background: #f9fafb; }
 
+/* ---- Blocos de prompt ---- */
+.prompt-block-wrap { margin: 0.5rem 0 1.5rem; }
+.prompt-block {
+  display: block;
+  background: #f1f5f9;
+  border: 1px solid #cbd5e1;
+  border-left: 4px solid #1d4ed8;
+  border-radius: 0 6px 6px 0;
+  padding: 1rem 1.1rem;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.82rem;
+  line-height: 1.65;
+  white-space: pre-wrap;
+  word-break: break-word;
+  width: 100%;
+  box-sizing: border-box;
+}
+.prompt-copy {
+  display: inline-block;
+  margin-top: 0.4rem;
+  background: none;
+  border: 1.5px solid #cbd5e1;
+  border-radius: 5px;
+  padding: 0.22rem 0.7rem;
+  font-size: 0.78rem;
+  color: #64748b;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.prompt-copy:hover { background: #e2e8f0; color: #1d4ed8; border-color: #93c5fd; }
+
 /* ---- Glossário inline ---- */
 .glossario-inline {
   cursor: pointer;

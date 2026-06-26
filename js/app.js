@@ -317,6 +317,7 @@ function renderTeoria(dados) {
 // MATERIAIS
 // =====================================================================
 const MATERIAIS_LISTA = [
+  { slug: 'notebooklm-prompts', titulo: 'Prompts — NotebookLM', descricao: 'Prompts prontos para gerar podcast, vídeo, slides, quiz, flashcards, infográfico, mapa mental e diálogo a partir de qualquer material.' },
   { slug: 'ingles-personalidade', titulo: 'Inglês — Describing Character and Behavior', descricao: 'Personality adjectives, opposite pairs, grammar of "being + adjective", and false friends for Portuguese speakers.' },
   { slug: 'ingles-aparencia', titulo: 'Inglês — Describing Appearance', descricao: 'Hair types and colors, body and skin vocabulary, modifiers (quite, fairly, rather...), and grooming phrases.' },
   { slug: 'ingles-corpo', titulo: 'Inglês — Parts of the Body', descricao: 'Body parts from head to toe, action verbs, exercise vocabulary, and tricky plurals.' },
@@ -366,12 +367,21 @@ async function renderMateriais() {
       }
       return `<strong>${word}</strong>`;
     });
+    const renderCorpo = (text) => {
+      const parts = text.split('```');
+      return parts.map((part, i) => {
+        if (i % 2 === 1) {
+          const code = part.replace(/^\n/, '').replace(/\n$/, '');
+          return `<div class="prompt-block-wrap"><pre class="prompt-block">${code}</pre><button class="prompt-copy">Copiar</button></div>`;
+        }
+        return part.split('\n\n').filter(p => p.trim())
+          .map(p => `<p>${mdGloss(p.replace(/\n/g, '<br>'))}</p>`).join('');
+      }).join('');
+    };
     const html = dados.secoes.map(s => {
-      const corpo = s.conteudo.split('\n\n')
-        .map(p => `<p>${mdGloss(p.replace(/\n/g, '<br>'))}</p>`).join('');
       return `<div class="teoria-secao">
         <div class="teoria-secao-header"><h2 class="teoria-titulo">${s.titulo}</h2></div>
-        <div class="teoria-corpo">${corpo}</div>
+        <div class="teoria-corpo">${renderCorpo(s.conteudo)}</div>
       </div>`;
     }).join('');
     conteudo.innerHTML = `
@@ -391,6 +401,15 @@ async function renderMateriais() {
     document.getElementById('btn-voltar').addEventListener('click', () => {
       materialAtivo = null;
       renderMateriais();
+    });
+    conteudo.querySelectorAll('.prompt-copy').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const pre = btn.previousElementSibling;
+        navigator.clipboard.writeText(pre.textContent).then(() => {
+          btn.textContent = 'Copiado!';
+          setTimeout(() => { btn.textContent = 'Copiar'; }, 2000);
+        }).catch(() => {});
+      });
     });
     const popup   = document.getElementById('glossario-popup');
     const overlay = document.getElementById('glossario-overlay');
