@@ -348,50 +348,88 @@ async function renderMateriais() {
       conteudo.innerHTML = '<p class="msg-vazio">Material não encontrado.</p>';
       return;
     }
+    const gmap = new Map();
+    if (dados.glossario) {
+      dados.glossario.forEach(g => gmap.set(g.palavra.toLowerCase(), g));
+    }
+    const mdGloss = t => t.replace(/\*\*(.+?)\*\*/g, (_, word) => {
+      const entry = gmap.get(word.toLowerCase());
+      if (entry) {
+        const fala = (entry.fala || word).replace(/"/g, '&quot;');
+        const sig  = entry.significado.replace(/"/g, '&quot;');
+        return `<strong class="glossario-inline" data-fala="${fala}" data-significado="${sig}" data-palavra="${word}">${word}</strong>`;
+      }
+      return `<strong>${word}</strong>`;
+    });
     const html = dados.secoes.map(s => {
       const corpo = s.conteudo.split('\n\n')
-        .map(p => `<p>${md(p.replace(/\n/g, '<br>'))}</p>`).join('');
+        .map(p => `<p>${mdGloss(p.replace(/\n/g, '<br>'))}</p>`).join('');
       return `<div class="teoria-secao">
         <div class="teoria-secao-header"><h2 class="teoria-titulo">${s.titulo}</h2></div>
         <div class="teoria-corpo">${corpo}</div>
       </div>`;
     }).join('');
-    let glossarioHtml = '';
-    if (dados.glossario && dados.glossario.length) {
-      const cards = dados.glossario.map(g => `
-        <div class="glossario-card">
-          <div class="glossario-card-header">
-            <span class="glossario-palavra">${g.palavra}</span>
-            <button class="glossario-play" data-fala="${g.fala || g.palavra}" title="Ouvir">▶</button>
-          </div>
-          <p class="glossario-significado">${g.significado}</p>
-        </div>`).join('');
-      glossarioHtml = `<div class="glossario">
-        <h2 class="glossario-titulo">Glossário</h2>
-        <div class="glossario-grid">${cards}</div>
-      </div>`;
-    }
     conteudo.innerHTML = `
       <div class="material-detalhe">
         <button class="material-voltar" id="btn-voltar">← Materiais</button>
         <h1 class="material-detalhe-titulo">${dados.titulo}</h1>
         <div class="teoria-container">${html}</div>
-        ${glossarioHtml}
+      </div>
+      <div id="glossario-overlay" class="glossario-overlay hidden"></div>
+      <div id="glossario-popup" class="glossario-popup hidden">
+        <div class="glossario-popup-header">
+          <span class="glossario-popup-palavra"></span>
+          <button class="glossario-popup-play" title="Ouvir">▶ Ouvir</button>
+        </div>
+        <p class="glossario-popup-sig"></p>
       </div>`;
     document.getElementById('btn-voltar').addEventListener('click', () => {
       materialAtivo = null;
       renderMateriais();
     });
-    conteudo.querySelectorAll('.glossario-play').forEach(btn => {
-      btn.addEventListener('click', async () => {
-        await carregarVozes();
-        const utter = new SpeechSynthesisUtterance(btn.dataset.fala);
-        const voz = melhorVoz(dados.lang || 'en-US');
-        if (voz) utter.voice = voz;
-        utter.rate = 0.85;
-        speechSynthesis.cancel();
-        speechSynthesis.speak(utter);
-      });
+    const popup   = document.getElementById('glossario-popup');
+    const overlay = document.getElementById('glossario-overlay');
+    const ppPalavra = popup.querySelector('.glossario-popup-palavra');
+    const ppSig     = popup.querySelector('.glossario-popup-sig');
+    const ppPlay    = popup.querySelector('.glossario-popup-play');
+    let currentFala = '';
+
+    function fecharPopup() {
+      popup.classList.add('hidden');
+      overlay.classList.add('hidden');
+    }
+    function abrirPopup(el) {
+      currentFala = el.dataset.fala;
+      ppPalavra.textContent = el.dataset.palavra;
+      ppSig.textContent     = el.dataset.significado;
+      overlay.classList.remove('hidden');
+      popup.classList.remove('hidden');
+      const rect = el.getBoundingClientRect();
+      const pw = 290, margin = 10;
+      let left = rect.left;
+      let top  = rect.bottom + 6;
+      if (left + pw > window.innerWidth - margin) left = window.innerWidth - pw - margin;
+      if (left < margin) left = margin;
+      if (top + 140 > window.innerHeight) top = rect.top - 146;
+      if (top < margin) top = margin;
+      popup.style.left = left + 'px';
+      popup.style.top  = top  + 'px';
+    }
+
+    conteudo.addEventListener('click', e => {
+      const el = e.target.closest('.glossario-inline');
+      if (el) abrirPopup(el);
+    });
+    overlay.addEventListener('click', fecharPopup);
+    ppPlay.addEventListener('click', async e => {
+      e.stopPropagation();
+      await carregarVozes();
+      const utter = new SpeechSynthesisUtterance(currentFala);
+      const voz = melhorVoz(dados.lang || 'en-US');
+      if (voz) utter.voice = voz;
+      utter.rate = 0.85;
+      speechSynthesis.cancel();
+      speechSynthesis.speak(utter);
     });
     return;
   }
