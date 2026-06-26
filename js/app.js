@@ -342,42 +342,38 @@ async function extrairTextoPDF(file) {
   return texto;
 }
 
-async function gerarMaterialClaude(texto, nomeArquivo) {
+async function gerarMaterial(texto, nomeArquivo) {
   const apiKey = localStorage.getItem('testbank_api_key');
-  const resp = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'x-api-key': apiKey,
-      'anthropic-version': '2023-06-01',
-      'content-type': 'application/json',
-      'anthropic-dangerous-direct-browser-access': 'true',
-    },
-    body: JSON.stringify({
-      model: 'claude-sonnet-4-6',
-      max_tokens: 8000,
-      system: 'You are an expert study material creator. Respond with a valid JSON object only — no markdown code fences, no preamble.',
-      messages: [{
-        role: 'user',
-        content: `Create a comprehensive study guide from the material below. Return JSON:
+  const prompt = `Crie um material de estudo completo a partir do conteúdo abaixo. Retorne SOMENTE um objeto JSON válido, sem markdown, sem texto extra:
 {
-  "titulo": "Descriptive title",
+  "titulo": "Título descritivo do material",
   "secoes": [
-    { "titulo": "Section title", "conteudo": "Content with **bold** for key terms and \\n\\n between paragraphs. Conversational prose, no bullet points." }
+    { "titulo": "Título da seção", "conteudo": "Conteúdo em prosa conversacional, sem listas com marcadores. Use **negrito** para termos-chave e \\n\\n para separar parágrafos." }
   ]
 }
-Write in the same language as the source. Aim for 5–8 sections. Be thorough and educational.
+Escreva no mesmo idioma do material fonte. Mire em 5 a 8 seções. Seja didático e completo.
 
-Source (${nomeArquivo}):
-${texto.slice(0, 60000)}`
-      }]
-    })
-  });
+Fonte (${nomeArquivo}):
+${texto.slice(0, 60000)}`;
+
+  const resp = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`,
+    {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: { temperature: 0.7, maxOutputTokens: 8192 },
+        systemInstruction: { parts: [{ text: 'Você é um especialista em criação de material didático. Responda apenas com JSON válido, sem blocos de código markdown.' }] }
+      })
+    }
+  );
   if (!resp.ok) {
     const err = await resp.json().catch(() => ({}));
     throw new Error(err.error?.message || `HTTP ${resp.status}`);
   }
   const data = await resp.json();
-  const raw = data.content[0].text;
+  const raw = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
   try { return JSON.parse(raw); } catch {
     const m = raw.match(/\{[\s\S]*\}/);
     if (m) return JSON.parse(m[0]);
@@ -399,8 +395,8 @@ function renderFerramenta() {
 
       ${!apiKey ? `
         <div class="ferramenta-apikey-form">
-          <p>Insira sua <strong>Anthropic API key</strong> para gerar materiais de estudo a partir de PDFs.</p>
-          <input type="password" id="input-apikey" placeholder="sk-ant-..." class="ferramenta-input">
+          <p>Insira sua <strong>Google Gemini API key</strong> para gerar materiais de estudo a partir de PDFs. É gratuita — obtenha em <strong>aistudio.google.com/apikey</strong>.</p>
+          <input type="password" id="input-apikey" placeholder="AIza..." class="ferramenta-input">
           <button class="ferramenta-btn-primary" id="btn-salvar-key">Salvar chave</button>
         </div>
       ` : `
@@ -428,7 +424,7 @@ function renderFerramenta() {
   if (!apiKey) {
     document.getElementById('btn-salvar-key').addEventListener('click', () => {
       const key = (document.getElementById('input-apikey').value || '').trim();
-      if (!key.startsWith('sk-ant-')) { alert('Chave inválida — deve começar com sk-ant-'); return; }
+      if (!key.startsWith('AIza')) { alert('Chave inválida — deve começar com AIza'); return; }
       localStorage.setItem('testbank_api_key', key);
       renderFerramenta();
     });
@@ -461,7 +457,7 @@ function renderFerramenta() {
     document.getElementById('ferramenta-loading').classList.remove('hidden');
     try {
       const texto = await extrairTextoPDF(file);
-      const material = await gerarMaterialClaude(texto, file.name);
+      const material = await gerarMaterial(texto, file.name);
 
       const loadingEl = document.getElementById('ferramenta-loading');
       if (!loadingEl) return;
