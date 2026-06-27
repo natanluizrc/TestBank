@@ -323,6 +323,7 @@ const MATERIAIS_LISTA = [
   { slug: 'ingles-corpo', titulo: 'Lingua House A2+: Parts of the Body', descricao: 'Body parts from head to toe, action verbs, exercise vocabulary, and tricky plurals.' },
   { slug: 'ingles-familia', titulo: 'Lingua House A2+: In the Family', descricao: 'Family member vocabulary, prefixes (step-, half-, great-, in-law), types of families, and relationship words.' },
   { slug: 'ingles-crime', titulo: 'Class Material: Crime and Justice', descricao: 'Types of crime, people in the justice system, the passive voice in news reporting, legal process vocabulary, and useful expressions.' },
+  { slug: 'ingles-false-friends', titulo: 'Random Material: False Friends', descricao: 'The 50 most common English words that Portuguese speakers consistently misinterpret — with explanations, context, and traps to avoid.' },
 ];
 
 let materialAtivo = null;
