@@ -1,6 +1,6 @@
 {
   "slug": "ingles-corpo",
-  "titulo": "Inglês — Parts of the Body",
+  "titulo": "Lingua House A2+ — Parts of the Body",
   "descricao": "Body parts from head to toe, action verbs, exercise vocabulary, and tricky plurals.",
   "lang": "en-US",
   "secoes": [
@@ -26,71 +26,275 @@
     }
   ],
   "glossario": [
-    { "palavra": "forehead", "significado": "the area of your face above your eyes" },
-    { "palavra": "cheek", "significado": "the soft sides of your face" },
-    { "palavra": "chin", "significado": "the bottom part of your face, below your mouth" },
-    { "palavra": "neck", "significado": "connects your head to the rest of your body" },
-    { "palavra": "shoulder", "significado": "the joint where your arm meets your upper body" },
-    { "palavra": "chest", "significado": "the front of your upper body" },
-    { "palavra": "stomach", "significado": "the area below your chest in the front; also called 'belly' informally" },
-    { "palavra": "thigh", "significado": "the upper part of your leg, between hip and knee" },
-    { "palavra": "knee", "significado": "the joint in the middle of your leg" },
-    { "palavra": "ankle", "significado": "the joint that connects your foot to your leg" },
-    { "palavra": "shin", "significado": "the front of your lower leg, between knee and ankle" },
-    { "palavra": "elbow", "significado": "the joint in the middle of your arm where it bends" },
-    { "palavra": "wrist", "significado": "the joint that connects your hand to your arm" },
-    { "palavra": "thumb", "significado": "the short, thick finger on the side of your hand" },
-    { "palavra": "fingernail", "significado": "the hard covering at the tip of each finger" },
-    { "palavra": "eyelash", "significado": "the thin hairs along the edge of your eye" },
-    { "palavra": "tooth", "significado": "one of the hard structures inside your mouth used to chew" },
-    { "palavra": "teeth", "fala": "teeth", "significado": "plural of tooth — irregular! (not 'tooths')" },
-    { "palavra": "foot", "significado": "the bottom part of your leg that you walk on" },
-    { "palavra": "feet", "fala": "feet", "significado": "plural of foot — irregular! (not 'foots')" },
-    { "palavra": "muscle", "fala": "muscle", "significado": "soft tissue that moves your bones — the 'c' is silent: say MUS-ul" },
-    { "palavra": "bone", "significado": "the hard structure that forms your skeleton" },
-    { "palavra": "heart", "significado": "the organ that pumps blood through your body" },
-    { "palavra": "lung", "significado": "one of two organs that bring in oxygen when you breathe" },
-    { "palavra": "blink", "significado": "to close and open your eyes very quickly (automatic action)" },
-    { "palavra": "clap", "significado": "to hit both hands together to show appreciation" },
-    { "palavra": "wave", "significado": "to move your hand to greet or say goodbye from a distance" },
-    { "palavra": "stretch", "significado": "to extend a muscle as far as it will comfortably go" },
-    { "palavra": "bend", "significado": "to curve a part of your body (bend your knees, bend your arm)" },
-    { "palavra": "raise", "significado": "to lift something upward (raise your hand, raise your arm)" },
-    { "palavra": "breathe", "significado": "to take air in and let it out — essential in exercise!" },
-    { "palavra": "head", "significado": "the top part of your body — contains your brain, face, ears, and hair" },
-    { "palavra": "face", "significado": "the front of your head — forehead, eyes, nose, mouth, and cheeks" },
-    { "palavra": "arm", "significado": "the limb connecting your shoulder to your hand" },
-    { "palavra": "back", "significado": "the rear side of your upper body, opposite your chest" },
-    { "palavra": "belly", "significado": "informal word for stomach — the soft area below your chest" },
-    { "palavra": "hip", "significado": "the wide area on each side of your body, below your stomach and above your legs" },
-    { "palavra": "leg", "significado": "the limb connecting your hip to your foot — what you walk and run with" },
-    { "palavra": "calf", "significado": "the muscle at the back of your lower leg, between knee and ankle" },
-    { "palavra": "hand", "significado": "the part at the end of your arm — has four fingers and one thumb" },
-    { "palavra": "finger", "significado": "one of the four long digits on each hand (the thumb is counted separately)" },
-    { "palavra": "index finger", "fala": "index finger", "significado": "the finger right next to your thumb — the one you use for pointing" },
-    { "palavra": "eye", "significado": "one of the two organs on your face used for seeing" },
-    { "palavra": "ear", "significado": "one of the two organs on the sides of your head used for hearing" },
-    { "palavra": "nose", "significado": "the organ in the center of your face used for breathing and smelling" },
-    { "palavra": "mouth", "significado": "the opening in your face used for eating and speaking — contains teeth and tongue" },
-    { "palavra": "lip", "significado": "one of the two soft edges of your mouth (top lip and bottom lip)" },
-    { "palavra": "smile", "significado": "to turn the corners of your mouth upward to show happiness" },
-    { "palavra": "chew", "significado": "to crush food with your teeth before swallowing it" },
-    { "palavra": "smell", "significado": "to perceive a scent with your nose — also a noun: 'a nice smell'" },
-    { "palavra": "see", "significado": "to perceive with your eyes without effort — automatic ('I saw a bird'); different from 'look'" },
-    { "palavra": "look", "significado": "to direct your eyes at something on purpose ('Look at this!'); intentional; different from 'see'" },
-    { "palavra": "watch", "significado": "to look at something that moves or changes over time ('watch a film, watch a game')" },
-    { "palavra": "walk", "significado": "to move on foot at a normal, relaxed pace" },
-    { "palavra": "run", "significado": "to move on foot at a fast pace" },
-    { "palavra": "jump", "significado": "to push yourself off the ground and up into the air" },
-    { "palavra": "kick", "significado": "to hit something with your foot" },
-    { "palavra": "point", "significado": "to extend a finger to show where something or someone is" },
-    { "palavra": "write", "significado": "to form letters or words using a pen, pencil, or keyboard" },
-    { "palavra": "stand", "significado": "to be in an upright position on your feet" },
-    { "palavra": "touch", "significado": "to put your hand or finger on something to feel it" },
-    { "palavra": "shake", "significado": "to move something quickly from side to side or up and down" },
-    { "palavra": "straighten", "significado": "to make something straight again — the opposite of bend" },
-    { "palavra": "turn", "significado": "to rotate your body or head to face a different direction" },
-    { "palavra": "aerobic exercise", "fala": "aerobic exercise", "significado": "exercise that speeds up your heart and breathing — running, cycling, swimming" },
-    { "palavra": "flexibility exercise", "fala": "flexibility exercise", "significado": "exercise that improves your range of motion — yoga, stretching, martial arts" }
+    {
+      "palavra": "forehead",
+      "significado": "the area of your face above your eyes"
+    },
+    {
+      "palavra": "cheek",
+      "significado": "the soft sides of your face"
+    },
+    {
+      "palavra": "chin",
+      "significado": "the bottom part of your face, below your mouth"
+    },
+    {
+      "palavra": "neck",
+      "significado": "connects your head to the rest of your body"
+    },
+    {
+      "palavra": "shoulder",
+      "significado": "the joint where your arm meets your upper body"
+    },
+    {
+      "palavra": "chest",
+      "significado": "the front of your upper body"
+    },
+    {
+      "palavra": "stomach",
+      "significado": "the area below your chest in the front; also called 'belly' informally"
+    },
+    {
+      "palavra": "thigh",
+      "significado": "the upper part of your leg, between hip and knee"
+    },
+    {
+      "palavra": "knee",
+      "significado": "the joint in the middle of your leg"
+    },
+    {
+      "palavra": "ankle",
+      "significado": "the joint that connects your foot to your leg"
+    },
+    {
+      "palavra": "shin",
+      "significado": "the front of your lower leg, between knee and ankle"
+    },
+    {
+      "palavra": "elbow",
+      "significado": "the joint in the middle of your arm where it bends"
+    },
+    {
+      "palavra": "wrist",
+      "significado": "the joint that connects your hand to your arm"
+    },
+    {
+      "palavra": "thumb",
+      "significado": "the short, thick finger on the side of your hand"
+    },
+    {
+      "palavra": "fingernail",
+      "significado": "the hard covering at the tip of each finger"
+    },
+    {
+      "palavra": "eyelash",
+      "significado": "the thin hairs along the edge of your eye"
+    },
+    {
+      "palavra": "tooth",
+      "significado": "one of the hard structures inside your mouth used to chew"
+    },
+    {
+      "palavra": "teeth",
+      "fala": "teeth",
+      "significado": "plural of tooth — irregular! (not 'tooths')"
+    },
+    {
+      "palavra": "foot",
+      "significado": "the bottom part of your leg that you walk on"
+    },
+    {
+      "palavra": "feet",
+      "fala": "feet",
+      "significado": "plural of foot — irregular! (not 'foots')"
+    },
+    {
+      "palavra": "muscle",
+      "fala": "muscle",
+      "significado": "soft tissue that moves your bones — the 'c' is silent: say MUS-ul"
+    },
+    {
+      "palavra": "bone",
+      "significado": "the hard structure that forms your skeleton"
+    },
+    {
+      "palavra": "heart",
+      "significado": "the organ that pumps blood through your body"
+    },
+    {
+      "palavra": "lung",
+      "significado": "one of two organs that bring in oxygen when you breathe"
+    },
+    {
+      "palavra": "blink",
+      "significado": "to close and open your eyes very quickly (automatic action)"
+    },
+    {
+      "palavra": "clap",
+      "significado": "to hit both hands together to show appreciation"
+    },
+    {
+      "palavra": "wave",
+      "significado": "to move your hand to greet or say goodbye from a distance"
+    },
+    {
+      "palavra": "stretch",
+      "significado": "to extend a muscle as far as it will comfortably go"
+    },
+    {
+      "palavra": "bend",
+      "significado": "to curve a part of your body (bend your knees, bend your arm)"
+    },
+    {
+      "palavra": "raise",
+      "significado": "to lift something upward (raise your hand, raise your arm)"
+    },
+    {
+      "palavra": "breathe",
+      "significado": "to take air in and let it out — essential in exercise!"
+    },
+    {
+      "palavra": "head",
+      "significado": "the top part of your body — contains your brain, face, ears, and hair"
+    },
+    {
+      "palavra": "face",
+      "significado": "the front of your head — forehead, eyes, nose, mouth, and cheeks"
+    },
+    {
+      "palavra": "arm",
+      "significado": "the limb connecting your shoulder to your hand"
+    },
+    {
+      "palavra": "back",
+      "significado": "the rear side of your upper body, opposite your chest"
+    },
+    {
+      "palavra": "belly",
+      "significado": "informal word for stomach — the soft area below your chest"
+    },
+    {
+      "palavra": "hip",
+      "significado": "the wide area on each side of your body, below your stomach and above your legs"
+    },
+    {
+      "palavra": "leg",
+      "significado": "the limb connecting your hip to your foot — what you walk and run with"
+    },
+    {
+      "palavra": "calf",
+      "significado": "the muscle at the back of your lower leg, between knee and ankle"
+    },
+    {
+      "palavra": "hand",
+      "significado": "the part at the end of your arm — has four fingers and one thumb"
+    },
+    {
+      "palavra": "finger",
+      "significado": "one of the four long digits on each hand (the thumb is counted separately)"
+    },
+    {
+      "palavra": "index finger",
+      "fala": "index finger",
+      "significado": "the finger right next to your thumb — the one you use for pointing"
+    },
+    {
+      "palavra": "eye",
+      "significado": "one of the two organs on your face used for seeing"
+    },
+    {
+      "palavra": "ear",
+      "significado": "one of the two organs on the sides of your head used for hearing"
+    },
+    {
+      "palavra": "nose",
+      "significado": "the organ in the center of your face used for breathing and smelling"
+    },
+    {
+      "palavra": "mouth",
+      "significado": "the opening in your face used for eating and speaking — contains teeth and tongue"
+    },
+    {
+      "palavra": "lip",
+      "significado": "one of the two soft edges of your mouth (top lip and bottom lip)"
+    },
+    {
+      "palavra": "smile",
+      "significado": "to turn the corners of your mouth upward to show happiness"
+    },
+    {
+      "palavra": "chew",
+      "significado": "to crush food with your teeth before swallowing it"
+    },
+    {
+      "palavra": "smell",
+      "significado": "to perceive a scent with your nose — also a noun: 'a nice smell'"
+    },
+    {
+      "palavra": "see",
+      "significado": "to perceive with your eyes without effort — automatic ('I saw a bird'); different from 'look'"
+    },
+    {
+      "palavra": "look",
+      "significado": "to direct your eyes at something on purpose ('Look at this!'); intentional; different from 'see'"
+    },
+    {
+      "palavra": "watch",
+      "significado": "to look at something that moves or changes over time ('watch a film, watch a game')"
+    },
+    {
+      "palavra": "walk",
+      "significado": "to move on foot at a normal, relaxed pace"
+    },
+    {
+      "palavra": "run",
+      "significado": "to move on foot at a fast pace"
+    },
+    {
+      "palavra": "jump",
+      "significado": "to push yourself off the ground and up into the air"
+    },
+    {
+      "palavra": "kick",
+      "significado": "to hit something with your foot"
+    },
+    {
+      "palavra": "point",
+      "significado": "to extend a finger to show where something or someone is"
+    },
+    {
+      "palavra": "write",
+      "significado": "to form letters or words using a pen, pencil, or keyboard"
+    },
+    {
+      "palavra": "stand",
+      "significado": "to be in an upright position on your feet"
+    },
+    {
+      "palavra": "touch",
+      "significado": "to put your hand or finger on something to feel it"
+    },
+    {
+      "palavra": "shake",
+      "significado": "to move something quickly from side to side or up and down"
+    },
+    {
+      "palavra": "straighten",
+      "significado": "to make something straight again — the opposite of bend"
+    },
+    {
+      "palavra": "turn",
+      "significado": "to rotate your body or head to face a different direction"
+    },
+    {
+      "palavra": "aerobic exercise",
+      "fala": "aerobic exercise",
+      "significado": "exercise that speeds up your heart and breathing — running, cycling, swimming"
+    },
+    {
+      "palavra": "flexibility exercise",
+      "fala": "flexibility exercise",
+      "significado": "exercise that improves your range of motion — yoga, stretching, martial arts"
+    }
   ]
 }

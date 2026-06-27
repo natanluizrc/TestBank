@@ -318,13 +318,66 @@ function renderTeoria(dados) {
 // =====================================================================
 const MATERIAIS_LISTA = [
   { slug: 'notebooklm-prompts', titulo: 'Prompts — NotebookLM', descricao: 'Prompts prontos para gerar podcast, vídeo, slides, quiz, flashcards, infográfico, mapa mental e diálogo a partir de qualquer material.' },
-  { slug: 'ingles-personalidade', titulo: 'Inglês — Describing Character and Behavior', descricao: 'Personality adjectives, opposite pairs, grammar of "being + adjective", and false friends for Portuguese speakers.' },
-  { slug: 'ingles-aparencia', titulo: 'Inglês — Describing Appearance', descricao: 'Hair types and colors, body and skin vocabulary, modifiers (quite, fairly, rather...), and grooming phrases.' },
-  { slug: 'ingles-corpo', titulo: 'Inglês — Parts of the Body', descricao: 'Body parts from head to toe, action verbs, exercise vocabulary, and tricky plurals.' },
-  { slug: 'ingles-familia', titulo: 'Inglês — In the Family', descricao: 'Family member vocabulary, prefixes (step-, half-, great-, in-law), types of families, and relationship words.' },
+  { slug: 'ingles-personalidade', titulo: 'Lingua House A2+ — Describing Character and Behavior', descricao: 'Personality adjectives, opposite pairs, grammar of "being + adjective", and false friends for Portuguese speakers.' },
+  { slug: 'ingles-aparencia', titulo: 'Lingua House A2+ — Describing Appearance', descricao: 'Hair types and colors, body and skin vocabulary, modifiers (quite, fairly, rather...), and grooming phrases.' },
+  { slug: 'ingles-corpo', titulo: 'Lingua House A2+ — Parts of the Body', descricao: 'Body parts from head to toe, action verbs, exercise vocabulary, and tricky plurals.' },
+  { slug: 'ingles-familia', titulo: 'Lingua House A2+ — In the Family', descricao: 'Family member vocabulary, prefixes (step-, half-, great-, in-law), types of families, and relationship words.' },
 ];
 
 let materialAtivo = null;
+
+function aplicarGlossarioAuto(container, gmap) {
+  if (!gmap.size) return;
+  // Build pattern: glossary keys + common plural variants for simple words
+  const allKeys = new Set(gmap.keys());
+  for (const key of gmap.keys()) {
+    if (!/[\s\/\+]/.test(key)) {
+      allKeys.add(key + 's');
+      allKeys.add(key + 'es');
+      if (/[^aeiou]y$/i.test(key)) allKeys.add(key.slice(0, -1) + 'ies');
+    }
+  }
+  const sorted = [...allKeys].sort((a, b) => b.length - a.length);
+  const pattern = sorted.map(k => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+  const re = new RegExp(`(?<![\\w-])(${pattern})(?![\\w-])`, 'gi');
+  const findEntry = w => {
+    const l = w.toLowerCase();
+    return gmap.get(l) || gmap.get(l.replace(/ies$/, 'y')) || gmap.get(l.replace(/ves$/, 'f'))
+      || gmap.get(l.replace(/s$/, '')) || gmap.get(l.replace(/es$/, ''));
+  };
+  const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT);
+  const nodes = [];
+  let n;
+  while ((n = walker.nextNode())) {
+    if (!n.parentElement.closest('strong')) nodes.push(n);
+  }
+  for (const textNode of nodes) {
+    const text = textNode.textContent;
+    re.lastIndex = 0;
+    if (!re.test(text)) continue;
+    re.lastIndex = 0;
+    const frag = document.createDocumentFragment();
+    let last = 0, m;
+    while ((m = re.exec(text)) !== null) {
+      const entry = findEntry(m[0]);
+      if (!entry) continue;
+      if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
+      const strong = document.createElement('strong');
+      strong.className = 'glossario-inline';
+      strong.dataset.fala = entry.fala || m[0];
+      strong.dataset.significado = entry.significado;
+      strong.dataset.palavra = m[0];
+      strong.textContent = m[0];
+      frag.appendChild(strong);
+      last = m.index + m[0].length;
+    }
+    re.lastIndex = 0;
+    if (last > 0) {
+      if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
+      textNode.parentNode.replaceChild(frag, textNode);
+    }
+  }
+}
 
 async function carregarMaterial(slug) {
   const key = `materiais/${slug}`;
@@ -402,6 +455,7 @@ async function renderMateriais() {
       materialAtivo = null;
       renderMateriais();
     });
+    conteudo.querySelectorAll('.teoria-corpo').forEach(el => aplicarGlossarioAuto(el, gmap));
     conteudo.querySelectorAll('.prompt-copy').forEach(btn => {
       btn.addEventListener('click', () => {
         const pre = btn.previousElementSibling;

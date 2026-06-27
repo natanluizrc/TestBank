@@ -1,6 +1,6 @@
 {
   "slug": "ingles-aparencia",
-  "titulo": "Inglês — Describing Appearance",
+  "titulo": "Lingua House A2+ — Describing Appearance",
   "descricao": "Hair types, colors and styles; body and skin vocabulary; modifiers (quite, fairly, rather...); grooming phrases.",
   "lang": "en-US",
   "secoes": [
@@ -30,42 +30,163 @@
     }
   ],
   "glossario": [
-    { "palavra": "straight", "significado": "(hair) falls flat and smooth with no waves or curls" },
-    { "palavra": "wavy", "significado": "(hair) has soft, gentle S-shaped curves" },
-    { "palavra": "curly", "significado": "(hair) has tight, round spirals" },
-    { "palavra": "dark", "significado": "(hair or skin) brown or black in color; a wide, neutral range" },
-    { "palavra": "blonde", "significado": "light yellow or golden hair color" },
-    { "palavra": "fair", "significado": "light-colored — used for both hair and skin" },
-    { "palavra": "grey", "significado": "the natural hair color that comes with age; also spelled 'gray'" },
-    { "palavra": "ponytail", "significado": "a hairstyle where hair is tied together at the back of the head" },
-    { "palavra": "slim", "significado": "pleasantly thin and in good shape — almost always a positive word" },
-    { "palavra": "thin", "significado": "not heavy; more neutral than slim, sometimes implies concern" },
-    { "palavra": "muscular", "significado": "has strong, visible muscles from regular exercise" },
-    { "palavra": "overweight", "significado": "heavier than average — the polite, neutral term" },
-    { "palavra": "pale", "significado": "very light skin that doesn't get much sun" },
-    { "palavra": "tanned", "significado": "light skin made darker by sun exposure" },
-    { "palavra": "spotty", "significado": "(British) skin with spots or pimples" },
-    { "palavra": "quite", "significado": "moderately; softens an adjective (quite tall = tall, but measured)" },
-    { "palavra": "fairly", "significado": "somewhat; a careful, neutral softener (fairly short)" },
-    { "palavra": "pretty", "fala": "pretty short", "significado": "(modifier) rather a lot — has nothing to do with 'beautiful' here!" },
-    { "palavra": "rather", "significado": "(modifier) more than expected, often with mild surprise (rather thin)" },
-    { "palavra": "get a haircut", "fala": "get a haircut", "significado": "to go to a hairdresser and have your hair cut" },
-    { "palavra": "shave", "significado": "to remove hair with a razor" },
-    { "palavra": "put on makeup", "fala": "put on makeup", "significado": "to apply cosmetics such as foundation or lipstick" },
-    { "palavra": "long", "significado": "extended in length — opposite of short; used for hair, arms, legs, and more" },
-    { "palavra": "short", "significado": "not long or tall — used for both height and hair length" },
-    { "palavra": "tall", "significado": "above average in height; the opposite of short" },
-    { "palavra": "very", "significado": "a strong modifier: makes an adjective more intense (very slim, very dark)" },
-    { "palavra": "really", "significado": "a strong modifier, very natural in conversation (really curly, really short)" },
-    { "palavra": "so", "significado": "a modifier with emotion and emphasis — slightly stronger feeling than 'very' (so curly!)" },
-    { "palavra": "silver", "significado": "a more elegant word for grey hair — implies distinguished rather than simply old" },
-    { "palavra": "modifiers", "significado": "small words (quite, fairly, pretty, rather) that soften or strengthen adjectives" },
-    { "palavra": "hair type", "fala": "hair type", "significado": "the shape of someone's hair — straight, wavy, or curly" },
-    { "palavra": "hair length", "fala": "hair length", "significado": "how long someone's hair is — short, medium, or long" },
-    { "palavra": "hair color", "fala": "hair color", "significado": "the color of someone's hair — dark, blonde, fair, grey, and so on" },
-    { "palavra": "fair skin", "fala": "fair skin", "significado": "'fair' here means light-colored — the same word as fair hair, just applied to skin" },
-    { "palavra": "brush your hair", "fala": "brush your hair", "significado": "to use a brush to smooth or neaten your hair" },
-    { "palavra": "comb your hair", "fala": "comb your hair", "significado": "to use a comb — a flat tool with teeth — to style or detangle hair" },
-    { "palavra": "get dressed", "fala": "get dressed", "significado": "to put your clothes on — one of the most common morning phrases in English" }
+    {
+      "palavra": "straight",
+      "significado": "(hair) falls flat and smooth with no waves or curls"
+    },
+    {
+      "palavra": "wavy",
+      "significado": "(hair) has soft, gentle S-shaped curves"
+    },
+    {
+      "palavra": "curly",
+      "significado": "(hair) has tight, round spirals"
+    },
+    {
+      "palavra": "dark",
+      "significado": "(hair or skin) brown or black in color; a wide, neutral range"
+    },
+    {
+      "palavra": "blonde",
+      "significado": "light yellow or golden hair color"
+    },
+    {
+      "palavra": "fair",
+      "significado": "light-colored — used for both hair and skin"
+    },
+    {
+      "palavra": "grey",
+      "significado": "the natural hair color that comes with age; also spelled 'gray'"
+    },
+    {
+      "palavra": "ponytail",
+      "significado": "a hairstyle where hair is tied together at the back of the head"
+    },
+    {
+      "palavra": "slim",
+      "significado": "pleasantly thin and in good shape — almost always a positive word"
+    },
+    {
+      "palavra": "thin",
+      "significado": "not heavy; more neutral than slim, sometimes implies concern"
+    },
+    {
+      "palavra": "muscular",
+      "significado": "has strong, visible muscles from regular exercise"
+    },
+    {
+      "palavra": "overweight",
+      "significado": "heavier than average — the polite, neutral term"
+    },
+    {
+      "palavra": "pale",
+      "significado": "very light skin that doesn't get much sun"
+    },
+    {
+      "palavra": "tanned",
+      "significado": "light skin made darker by sun exposure"
+    },
+    {
+      "palavra": "spotty",
+      "significado": "(British) skin with spots or pimples"
+    },
+    {
+      "palavra": "quite",
+      "significado": "moderately; softens an adjective (quite tall = tall, but measured)"
+    },
+    {
+      "palavra": "fairly",
+      "significado": "somewhat; a careful, neutral softener (fairly short)"
+    },
+    {
+      "palavra": "pretty",
+      "fala": "pretty short",
+      "significado": "(modifier) rather a lot — has nothing to do with 'beautiful' here!"
+    },
+    {
+      "palavra": "rather",
+      "significado": "(modifier) more than expected, often with mild surprise (rather thin)"
+    },
+    {
+      "palavra": "get a haircut",
+      "fala": "get a haircut",
+      "significado": "to go to a hairdresser and have your hair cut"
+    },
+    {
+      "palavra": "shave",
+      "significado": "to remove hair with a razor"
+    },
+    {
+      "palavra": "put on makeup",
+      "fala": "put on makeup",
+      "significado": "to apply cosmetics such as foundation or lipstick"
+    },
+    {
+      "palavra": "long",
+      "significado": "extended in length — opposite of short; used for hair, arms, legs, and more"
+    },
+    {
+      "palavra": "short",
+      "significado": "not long or tall — used for both height and hair length"
+    },
+    {
+      "palavra": "tall",
+      "significado": "above average in height; the opposite of short"
+    },
+    {
+      "palavra": "very",
+      "significado": "a strong modifier: makes an adjective more intense (very slim, very dark)"
+    },
+    {
+      "palavra": "really",
+      "significado": "a strong modifier, very natural in conversation (really curly, really short)"
+    },
+    {
+      "palavra": "so",
+      "significado": "a modifier with emotion and emphasis — slightly stronger feeling than 'very' (so curly!)"
+    },
+    {
+      "palavra": "silver",
+      "significado": "a more elegant word for grey hair — implies distinguished rather than simply old"
+    },
+    {
+      "palavra": "modifiers",
+      "significado": "small words (quite, fairly, pretty, rather) that soften or strengthen adjectives"
+    },
+    {
+      "palavra": "hair type",
+      "fala": "hair type",
+      "significado": "the shape of someone's hair — straight, wavy, or curly"
+    },
+    {
+      "palavra": "hair length",
+      "fala": "hair length",
+      "significado": "how long someone's hair is — short, medium, or long"
+    },
+    {
+      "palavra": "hair color",
+      "fala": "hair color",
+      "significado": "the color of someone's hair — dark, blonde, fair, grey, and so on"
+    },
+    {
+      "palavra": "fair skin",
+      "fala": "fair skin",
+      "significado": "'fair' here means light-colored — the same word as fair hair, just applied to skin"
+    },
+    {
+      "palavra": "brush your hair",
+      "fala": "brush your hair",
+      "significado": "to use a brush to smooth or neaten your hair"
+    },
+    {
+      "palavra": "comb your hair",
+      "fala": "comb your hair",
+      "significado": "to use a comb — a flat tool with teeth — to style or detangle hair"
+    },
+    {
+      "palavra": "get dressed",
+      "fala": "get dressed",
+      "significado": "to put your clothes on — one of the most common morning phrases in English"
+    }
   ]
 }

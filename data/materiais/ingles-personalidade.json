@@ -1,6 +1,6 @@
 {
   "slug": "ingles-personalidade",
-  "titulo": "Inglês — Describing Character and Behavior",
+  "titulo": "Lingua House A2+ — Describing Character and Behavior",
   "descricao": "Personality adjectives, opposite pairs, the grammar of 'being + adjective', and false friends for Portuguese speakers.",
   "lang": "en-US",
   "secoes": [
@@ -30,37 +30,134 @@
     }
   ],
   "glossario": [
-    { "palavra": "friendly", "significado": "warm, approachable, and easy to talk to" },
-    { "palavra": "cheerful", "significado": "happy and positive in a way that lifts the mood of others" },
-    { "palavra": "generous", "significado": "gives freely — time, money, attention — without expecting anything back" },
-    { "palavra": "smart", "significado": "intelligent; learns quickly and thinks clearly (informal)" },
-    { "palavra": "funny", "significado": "makes people laugh naturally and effortlessly" },
-    { "palavra": "honest", "significado": "tells the truth even when it is uncomfortable" },
-    { "palavra": "confident", "significado": "trusts their own abilities in a calm, stable way" },
-    { "palavra": "modest", "significado": "does not boast about achievements, even when they could" },
-    { "palavra": "polite", "significado": "has good manners; says please and thank you; respects others" },
-    { "palavra": "arrogant", "significado": "believes they are better than everyone else; dismisses others" },
-    { "palavra": "rude", "significado": "lacks basic manners or respect; may hurt or embarrass others" },
-    { "palavra": "boring", "significado": "fails to hold your attention; always the same, never exciting" },
-    { "palavra": "shy", "significado": "feels nervous or uncomfortable in social situations, especially with strangers" },
-    { "palavra": "miserable", "significado": "seems deeply and persistently unhappy; sees the negative side of everything" },
-    { "palavra": "mean", "significado": "(adjective) unkind and stingy; not generous. Also a verb: 'to signify'" },
-    { "palavra": "sensible", "significado": "practical and reasonable; makes good decisions. (≠ sensível in Portuguese!)" },
-    { "palavra": "sensitive", "significado": "easily affected by emotions; feels things deeply; easily hurt" },
-    { "palavra": "sympathetic", "significado": "understands and shares someone's feelings during a hard time (≠ simpático!)" },
-    { "palavra": "personality", "significado": "who someone is on the inside — their traits and way of being in the world" },
-    { "palavra": "character", "significado": "someone's fundamental nature — stable, consistent traits that define who they are" },
-    { "palavra": "behavior", "significado": "how someone is acting right now, in this specific moment (may differ from their character)" },
-    { "palavra": "trust", "significado": "the belief that someone is honest and reliable — the foundation of any good relationship" },
-    { "palavra": "interesting", "significado": "holds your attention and sparks curiosity — the opposite of boring" },
-    { "palavra": "dishonest", "significado": "not telling the truth; the opposite of honest" },
-    { "palavra": "unfriendly", "significado": "cold, distant, and difficult to approach; the opposite of friendly" },
-    { "palavra": "serious", "significado": "not playful or jokey; focused and earnest — in personality, the opposite of funny" },
-    { "palavra": "nice", "significado": "pleasant, kind, and easy to like — a common, warm alternative to friendly" },
-    { "palavra": "warm", "significado": "friendly and caring in a way that makes people feel welcome and comfortable" },
-    { "palavra": "educated", "significado": "has studied a lot; refers to academic level — NOT the same as 'bem educado'!" },
-    { "palavra": "well-mannered", "significado": "has good manners and treats people with respect — the correct translation for 'bem educado'" },
-    { "palavra": "being", "significado": "in 'is being + adjective,' it signals temporary behavior, not permanent character" },
-    { "palavra": "am / is / are + being + adjective", "fala": "is being", "significado": "grammar structure for temporary behavior: 'She is being rude' = acting rude right now, not always like this" }
+    {
+      "palavra": "friendly",
+      "significado": "warm, approachable, and easy to talk to"
+    },
+    {
+      "palavra": "cheerful",
+      "significado": "happy and positive in a way that lifts the mood of others"
+    },
+    {
+      "palavra": "generous",
+      "significado": "gives freely — time, money, attention — without expecting anything back"
+    },
+    {
+      "palavra": "smart",
+      "significado": "intelligent; learns quickly and thinks clearly (informal)"
+    },
+    {
+      "palavra": "funny",
+      "significado": "makes people laugh naturally and effortlessly"
+    },
+    {
+      "palavra": "honest",
+      "significado": "tells the truth even when it is uncomfortable"
+    },
+    {
+      "palavra": "confident",
+      "significado": "trusts their own abilities in a calm, stable way"
+    },
+    {
+      "palavra": "modest",
+      "significado": "does not boast about achievements, even when they could"
+    },
+    {
+      "palavra": "polite",
+      "significado": "has good manners; says please and thank you; respects others"
+    },
+    {
+      "palavra": "arrogant",
+      "significado": "believes they are better than everyone else; dismisses others"
+    },
+    {
+      "palavra": "rude",
+      "significado": "lacks basic manners or respect; may hurt or embarrass others"
+    },
+    {
+      "palavra": "boring",
+      "significado": "fails to hold your attention; always the same, never exciting"
+    },
+    {
+      "palavra": "shy",
+      "significado": "feels nervous or uncomfortable in social situations, especially with strangers"
+    },
+    {
+      "palavra": "miserable",
+      "significado": "seems deeply and persistently unhappy; sees the negative side of everything"
+    },
+    {
+      "palavra": "mean",
+      "significado": "(adjective) unkind and stingy; not generous. Also a verb: 'to signify'"
+    },
+    {
+      "palavra": "sensible",
+      "significado": "practical and reasonable; makes good decisions. (≠ sensível in Portuguese!)"
+    },
+    {
+      "palavra": "sensitive",
+      "significado": "easily affected by emotions; feels things deeply; easily hurt"
+    },
+    {
+      "palavra": "sympathetic",
+      "significado": "understands and shares someone's feelings during a hard time (≠ simpático!)"
+    },
+    {
+      "palavra": "personality",
+      "significado": "who someone is on the inside — their traits and way of being in the world"
+    },
+    {
+      "palavra": "character",
+      "significado": "someone's fundamental nature — stable, consistent traits that define who they are"
+    },
+    {
+      "palavra": "behavior",
+      "significado": "how someone is acting right now, in this specific moment (may differ from their character)"
+    },
+    {
+      "palavra": "trust",
+      "significado": "the belief that someone is honest and reliable — the foundation of any good relationship"
+    },
+    {
+      "palavra": "interesting",
+      "significado": "holds your attention and sparks curiosity — the opposite of boring"
+    },
+    {
+      "palavra": "dishonest",
+      "significado": "not telling the truth; the opposite of honest"
+    },
+    {
+      "palavra": "unfriendly",
+      "significado": "cold, distant, and difficult to approach; the opposite of friendly"
+    },
+    {
+      "palavra": "serious",
+      "significado": "not playful or jokey; focused and earnest — in personality, the opposite of funny"
+    },
+    {
+      "palavra": "nice",
+      "significado": "pleasant, kind, and easy to like — a common, warm alternative to friendly"
+    },
+    {
+      "palavra": "warm",
+      "significado": "friendly and caring in a way that makes people feel welcome and comfortable"
+    },
+    {
+      "palavra": "educated",
+      "significado": "has studied a lot; refers to academic level — NOT the same as 'bem educado'!"
+    },
+    {
+      "palavra": "well-mannered",
+      "significado": "has good manners and treats people with respect — the correct translation for 'bem educado'"
+    },
+    {
+      "palavra": "being",
+      "significado": "in 'is being + adjective,' it signals temporary behavior, not permanent character"
+    },
+    {
+      "palavra": "am / is / are + being + adjective",
+      "fala": "is being",
+      "significado": "grammar structure for temporary behavior: 'She is being rude' = acting rude right now, not always like this"
+    }
   ]
 }
