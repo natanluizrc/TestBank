@@ -691,7 +691,7 @@ button:disabled { cursor: default; }
 .teoria-corpo p:last-child { margin-bottom: 0; }
 
 /* ---- Materiais ---- */
-.materiais-container { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
+.materiais-container { padding: 2rem 0; }
 .materiais-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
@@ -707,7 +707,7 @@ button:disabled { cursor: default; }
 .material-card:hover { border-color: #1d4ed8; box-shadow: 0 2px 8px rgba(0,0,0,0.07); }
 .material-card-titulo { font-size: 0.95rem; font-weight: 700; margin-bottom: 0.4rem; }
 .material-card-desc { font-size: 0.85rem; color: #6b7280; line-height: 1.5; }
-.material-detalhe { max-width: 800px; margin: 0 auto; padding: 2rem 1rem; }
+.material-detalhe { padding: 2rem 0; }
 .material-detalhe-titulo {
   font-size: 1.35rem;
   font-weight: 700;
