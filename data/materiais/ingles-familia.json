@@ -1,279 +1,87 @@
 {
   "slug": "ingles-familia",
-  "titulo": "Lingua House A2+: In the Family",
-  "descricao": "Family member vocabulary, prefixes (step-, half-, great-, in-law), types of families, and relationship words.",
+  "titulo": "In the Family",
+  "descricao": "Family vocabulary organized by generation and relationship — nuclear family, extended family, the four prefixes that build complex relationships, and the words that trap Portuguese speakers.",
   "lang": "en-US",
   "secoes": [
     {
-      "titulo": "The People You Know Best",
-      "conteudo": "Family vocabulary is some of the first English anyone learns. Mother, father, brother, sister — these are A1 words. But real conversations go much further. How do you say 'sobrinha'? What about 'cunhado'? Or 'enteado'? English has all of these, and they follow patterns that make them easy to learn once you see the logic.\n\nLet's start with the core words. Your **parents** are your mother and father together. Your **siblings** are your brothers and sisters — **sibling** is the gender-neutral word that covers both, and it is very useful. 'Do you have any siblings?' is one of the most common conversation questions in English.\n\nYour parents' parents are your **grandparents** — your **grandfather** and **grandmother**, often shortened to **grandpa** and **grandma** in informal English. Your **uncle** is your parent's brother, and your **aunt** is your parent's sister. Their children are your **cousins** — and in English, unlike in Portuguese, there is no different word for male or female cousins. Everyone is just a **cousin**. Simple.\n\nYour own children are your **son** (male) and **daughter** (female). And here is an important pair to memorize together: your brother's or sister's children are your **nephews** (male) and **nieces** (female). **Nephew and niece** — they go together. If you remember one, remember the other."
+      "titulo": "The People Who Shape You",
+      "conteudo": "Family vocabulary is often some of the first English anyone learns. Mother. Father. Brother. Sister. These are A1 words. But real conversations go much further. How do you say 'sobrinha'? What about 'cunhado'? Or 'padrasto'? English has all of these — and they follow patterns that make them easy to learn once you see the logic.\n\nIn this material, you will learn family vocabulary in two ways. First, by generation: the people at each level of a family tree, always in pairs — parents and children, grandparents and grandchildren. Then, by prefix: four short additions to existing words that create dozens of new relationships without requiring dozens of new words. By the end, you will be able to describe any family structure — traditional, modern, or complex — in natural English."
     },
     {
-      "titulo": "Building New Words: Great-, In-Law, Step-, Half-",
-      "conteudo": "Here is where English family vocabulary gets really elegant. Instead of inventing completely new words for every relationship, English uses four simple prefixes that you can combine with words you already know. Once you learn the prefixes, you understand dozens of new words instantly.\n\nThe first prefix: **great-**. This means one generation further back than expected. Your **grandparents** are one generation above your parents. Add **great-** and you go one step further: your **great-grandparents** are your grandparents' parents. Their siblings are your **great-uncles** and **great-aunts**. Simple rule: every time you add **great-**, you go back one more generation.\n\nThe second prefix: **in-law**. This means family through marriage — not through blood, but through your husband or wife. Your partner's parents become your **in-laws** — specifically your **father-in-law** and **mother-in-law**. Their siblings become your **brother-in-law** and **sister-in-law**. When someone says 'my in-laws are visiting this weekend,' they almost always mean their partner's parents.\n\nThe third prefix: **step-**. This describes family through a parent's new marriage, not through blood. If your mother marries a new man, he becomes your **stepfather**. If your father remarries, his new wife is your **stepmother**. Their children from before the marriage become your **stepbrothers** and **stepsisters**. The step- relationship is legal and family — but not biological.\n\nThe fourth prefix: **half-**. This means sharing only one birth parent. A **half-sister** is the daughter of only one of your birth parents. For example, your father had a daughter with another woman before meeting your mother — she is your half-sister. You share a father but have different mothers. The **half-** relationship is biological but partial."
+      "titulo": "The Nuclear Family: Parents / Children, Husband / Wife",
+      "conteudo": "At the center of most family trees: the **nuclear family** — the small, immediate unit of parents and children living together.\n\nYour **parents** are your mother and father — specifically and only them. This matters enormously, as we will see in the trap words section. A **mother** and a **father** — often shortened in everyday speech to **mum** (British English) or **mom** (American English), and **dad** in both. These informal words are far more common in real conversation than 'mother' and 'father,' which sound more formal or emotional.\n\nYour **son** is your male child; your **daughter** is your female child. Together, they are your **children** — one **child**, many **children**, an essential irregular plural. And between children: **brothers** and **sisters**. English has one more word that covers both without specifying gender: **sibling**. 'Do you have any siblings?' is one of the most common early conversation questions in English. 'I have three siblings' tells you how many, without saying how many of each. A genuinely useful word.\n\nFor the married pair: **husband** and **wife**. The formal, gender-neutral word for either one is **spouse** — used on official forms and in writing when gender is not specified. In everyday conversation, people use **husband** or **wife**, or increasingly, **partner** — a flexible word that works for any committed relationship, married or not."
     },
     {
-      "titulo": "Types of Families",
-      "conteudo": "English has specific terms for different family structures. These words come up in conversation, in news articles, in films — and knowing them helps you understand discussions about modern life.\n\nAn **immediate family** is the small, close circle around you — usually just parents and children, sometimes including siblings. When someone says 'only immediate family is invited,' they mean a very small group. An **extended family** is the bigger picture — grandparents, aunts, uncles, cousins, everyone. When the whole **extended family** gets together for a holiday, it is usually a big, noisy gathering.\n\nA **nuclear family** is a specific structure: two parents living together with their children, the traditional household. The image that comes to mind is mom, dad, and two or three kids under one roof. In modern societies, this is one of many possible structures — not the only one.\n\nA **blended family** is increasingly common. It forms when two people come together in a new relationship and bring children from previous relationships. So you might have your children, your new partner's children, and then perhaps children you have together — all living as one family. The word **blended** is a good one: it suggests mixing things together into something new.\n\nOne more term worth knowing: **single parent**. A **single parent** is someone who has children but no partner living with them. They are raising their children alone — or perhaps with the help of extended family. It is a neutral, respectful term that describes a very common reality."
+      "titulo": "The Extended Family: Grandparents / Grandchildren, Uncle / Nephew, Aunt / Niece",
+      "conteudo": "Moving outward from the nuclear family, the next layer follows a pattern of doubled and mirrored titles.\n\nYour parents' parents are your **grandparents** — your **grandfather** and **grandmother**. In informal, everyday speech, these become **grandpa** and **grandma**, or **grandad** and **nan** in some British families. Your own children's children, one day, will be your **grandchildren** — your **grandson** and **granddaughter**. **Grandparents** and **grandchildren** are the natural pair: one generation up, one generation down, each with the same prefix and structure.\n\nYour parents' siblings form the next pair. Your parent's brother is your **uncle**. Your parent's sister is your **aunt**. Their children are your **cousins** — and here English is simpler than Portuguese: there is no different word for male or female cousins. Everyone is simply a **cousin**. If you need to specify gender, you say 'my male cousin' or 'my female cousin,' but in practice this is rare.\n\nAnd then the mirror image: your own siblings' children. Your sibling's son is your **nephew**. Your sibling's daughter is your **niece**. **Nephew** and **niece** are always learned as a pair — if you know one, you immediately understand why the other exists. Say them together a few times: nephew and niece. They go together always."
     },
     {
-      "titulo": "Relationship Vocabulary: Life Events",
-      "conteudo": "Beyond the names for family members, English has a rich vocabulary for the events and states that define family life. These words come up constantly in conversation.\n\nLet's go in order of a typical relationship timeline. Two people start dating, then they decide to get **engaged** — they make a formal promise to marry. An **engagement** is the period between this promise and the wedding. You say 'they are engaged' or 'she got engaged last month.' Then they get **married** — they become legal partners in a wedding ceremony. After the wedding, they are a **married couple**.\n\nNot all marriages last forever. When a marriage ends legally, the couple gets **divorced**. You say 'they are divorced' or 'my parents got divorced when I was ten.' **Divorce** is the legal process; **divorced** is the resulting state.\n\nNow, some important vocabulary for modern relationships. A **partner** is anyone you are in a committed relationship with — husband, wife, boyfriend, or girlfriend. It is a useful word because it does not reveal the gender of the person, and it works for any kind of couple. 'My partner works in finance' tells you someone is in a relationship — nothing more.\n\n**Relatives** are your family members — anyone connected to you by blood or marriage. **In-laws**, as we saw, are the family of your husband or wife specifically.\n\nTwo more useful words. **Raised** is the past tense of **raise**, meaning brought up as a child. 'She was raised by her grandmother' means her grandmother was the one who took care of her as she grew up. And **twin** — one of two children born to the same mother at the same time. **Identical twins** look exactly the same. **Fraternal twins** are born together but look different."
+      "titulo": "Prefixes That Build New Relationships: Step- / Half-, Great- / In-Law",
+      "conteudo": "Here is where English family vocabulary becomes genuinely elegant. Instead of inventing new words for every complex relationship, English uses four simple prefixes. Once you know them, dozens of new words become immediately readable.\n\n**Great-** means one generation further back than expected. Your grandparents are one generation above your parents. Add **great-** and you go back one more: your **great-grandparents** are your grandparents' parents. Their siblings are your **great-uncles** and **great-aunts**. Each additional **great-** takes you back one more generation: **great-great-grandparents**, and so on, as far back as anyone needs to go.\n\n**In-law** signals family through marriage — not through blood, but through your husband or wife. Your partner's parents become your **in-laws** — specifically your **father-in-law** and **mother-in-law**. Their siblings are your **brother-in-law** and **sister-in-law**. The order is fixed: the family title always comes first, **-in-law** always at the end. The plural works on the person, not the suffix: **mothers-in-law**, not 'mother-in-laws' — though in informal speech, you will hear both.\n\n**Step-** describes family through a parent's new marriage — a relationship that is legal and social, but not biological. If your mother marries a new man, he becomes your **stepfather**. His children from a previous relationship become your **stepbrothers** and **stepsisters**.\n\n**Half-** means sharing only one birth parent. A **half-sister** shares your father but has a different mother, or shares your mother but has a different father. The connection is biological — but through only one parent. The distinction between **step-** and **half-** is important: **step-** is through marriage; **half-** is through shared blood from one parent."
     },
     {
-      "titulo": "False Friends and Useful Differences",
-      "conteudo": "A few things in this topic are worth looking at carefully — either because they are false friends, or because they work differently from what you might expect.\n\nThe most important one: **relatives**. In Portuguese, 'relativos' usually means 'relative' in a philosophical sense — 'that's relative,' meaning it depends on the context. In English, **relatives** almost always means family members. 'I have a lot of relatives' = I have a big family. If you want to say something is 'relative' in the sense of 'it depends,' you say **relatively** (the adverb) or you use a phrase like 'it depends.' But as a noun, **relatives** = family members, almost every time.\n\nAnother one: **engaged**. In a relationship context, **engaged** means formally agreed to marry — as we saw. But **engaged** has other meanings in English that can be confusing. You can be 'engaged in' an activity — actively involved in it ('She is engaged in a project'). In British English, if you call someone and their line is busy, it is 'engaged' ('Sorry, the line is engaged'). And a person can be described as 'engaging,' meaning interesting and easy to like — very different from 'soon to be married.' Context always tells you which meaning is being used.\n\nAnd one more: **mum** versus **mom**. Both mean mother — but **mum** is British English and **mom** is American English. You will see and hear both. Neither is wrong — it just shows where the speaker is from. The same goes for some other family words: British English often says 'mum' and 'dad,' while American English tends to say 'mom' and 'dad.' The actual family relationships are exactly the same.\n\nFinally, a pattern worth noticing: the **-in-law** suffix always follows the family member title. It is always **mother-in-law**, never 'in-law mother.' The order is fixed. And the plural is **mothers-in-law**, not 'mother-in-laws' — though in informal speech, you will hear both, and nobody will judge you for it."
+      "titulo": "Types of Family and Key Life Events",
+      "conteudo": "English has specific words for different family structures, and for the moments that build and change them.\n\nAn **immediate family** is the small, close circle — usually just parents and children. An **extended family** is the full picture: grandparents, aunts, uncles, cousins, everyone connected by blood or marriage. A **nuclear family** is the traditional structure: two parents and their children under one roof. A **blended family** forms when two people come together and bring children from previous relationships — a mix of **stepsiblings**, possibly new children together, all living as one household. A **single parent** raises children without a live-in partner.\n\nFor the events that build and change families: two people may **get engaged** — they formally agree to marry. The **engagement** is the period between that promise and the wedding. When they **get married**, they become a **married couple**. If the marriage ends legally, they **get divorced**. You say 'they got divorced' for the event, and 'they are divorced' for the current state.\n\nOne more word that comes up often in personal stories: **raised**. To **raise** a child means to care for them as they grow up. 'She was raised by her grandparents' means her grandparents were the ones who took care of her throughout her childhood — they were her primary family, regardless of who her birth parents were. **Raised** is the word that captures this most naturally in English."
+    },
+    {
+      "titulo": "Grammar: Possessives for Family Chains",
+      "conteudo": "Here is a grammar point that is simple but genuinely useful: how to describe a family relationship when you do not know or cannot remember the specific word.\n\nEnglish uses possessive -'s chains to explain any relationship. 'My father's sister' = my aunt. 'My mother's brother' = my uncle. 'My brother's daughter' = my niece. 'My sister's son' = my nephew. 'My father's father' = my grandfather.\n\nThis matters for two reasons. First, if you forget a specific word — say, 'niece' — you can describe your way around it and still be perfectly understood: 'my sister's daughter.' Second, thinking this way trains you to understand relationships structurally, which makes the specific vocabulary easier to remember.\n\nThe apostrophe-s in English signals possession: 'my father's sister' means 'the sister who belongs to my father's side.' This structure is very flexible — you can chain as many steps as needed. 'My mother's brother's son' = my cousin. Long chains are unusual in conversation, but for explaining a complex relationship in the moment, they always work.\n\nOne more note: in English, you can also explain relationships using 'on my mother's side' or 'on my father's side.' 'My uncle on my mother's side' means your mother's brother. This phrase appears often when you want to clarify which branch of the family someone comes from."
+    },
+    {
+      "titulo": "Words That Trip You Up",
+      "conteudo": "Two traps in family vocabulary cause consistent misunderstanding, and they are both about the same fundamental confusion.\n\n**Parents** and **parentes**. This is one of the most important false friends in English for Portuguese speakers. **Parents** in English means exclusively your mother and father — those two people, nobody else. It does not mean relatives or family members in general. For that, English uses **relatives** or **family**. 'My parents are coming to visit' = meus pais vêm visitar. 'My relatives are coming to visit' = minha família / meus parentes virão visitar. Confusing these two produces a very specific misunderstanding: the listener will picture your mother and father, when you may be referring to your cousins, your aunt, your entire extended family.\n\n**Sibling**. In Portuguese, there is no single gender-neutral word for irmão or irmã — you always specify. English has **sibling**, which covers both without indicating gender. 'Do you have any siblings?' is asking whether you have brothers, sisters, or both. 'I have two siblings' tells you the number without the gender. This word feels strange to Portuguese speakers at first, because the concept of a gender-neutral word for brothers and sisters simply does not exist in their language. But it is widely used in English and will make you sound natural.\n\n**Cousin**. In Portuguese, 'primo' and 'prima' are different words. In English, a cousin is always a **cousin** — no distinction. When speakers need to specify gender, they say 'my male cousin' or 'my female cousin,' but this is rare. In everyday conversation, 'my cousin' is always enough."
     }
   ],
   "glossario": [
-    {
-      "palavra": "parents",
-      "significado": "your father and mother together"
-    },
-    {
-      "palavra": "sibling",
-      "significado": "a gender-neutral word for brother or sister"
-    },
-    {
-      "palavra": "grandparents",
-      "significado": "your parents' parents (grandfather + grandmother)"
-    },
-    {
-      "palavra": "uncle",
-      "significado": "your parent's brother"
-    },
-    {
-      "palavra": "aunt",
-      "significado": "your parent's sister"
-    },
-    {
-      "palavra": "cousin",
-      "significado": "the child of your uncle or aunt (same word for male and female)"
-    },
-    {
-      "palavra": "nephew",
-      "significado": "the son of your brother or sister"
-    },
-    {
-      "palavra": "niece",
-      "significado": "the daughter of your brother or sister"
-    },
-    {
-      "palavra": "in-laws",
-      "significado": "the family of your husband or wife (father-in-law, mother-in-law, etc.)"
-    },
-    {
-      "palavra": "stepfather",
-      "significado": "a man who married your mother but is not your birth father"
-    },
-    {
-      "palavra": "stepmother",
-      "significado": "a woman who married your father but is not your birth mother"
-    },
-    {
-      "palavra": "half-sister",
-      "significado": "a sister who shares only one birth parent with you"
-    },
-    {
-      "palavra": "half-brother",
-      "significado": "a brother who shares only one birth parent with you"
-    },
-    {
-      "palavra": "great-grandparents",
-      "significado": "your grandparents' parents; one more generation back"
-    },
-    {
-      "palavra": "immediate family",
-      "fala": "immediate family",
-      "significado": "the close circle: usually just parents and children"
-    },
-    {
-      "palavra": "nuclear family",
-      "fala": "nuclear family",
-      "significado": "two parents and their children living together"
-    },
-    {
-      "palavra": "extended family",
-      "fala": "extended family",
-      "significado": "the full family: grandparents, aunts, uncles, cousins, everyone"
-    },
-    {
-      "palavra": "blended family",
-      "fala": "blended family",
-      "significado": "formed when partners bring children from previous relationships"
-    },
-    {
-      "palavra": "engaged",
-      "significado": "having formally agreed to marry; in an engagement"
-    },
-    {
-      "palavra": "married",
-      "significado": "legally joined with a partner in a wedding"
-    },
-    {
-      "palavra": "divorced",
-      "significado": "legally no longer married"
-    },
-    {
-      "palavra": "partner",
-      "significado": "anyone in a committed relationship with you — gender-neutral"
-    },
-    {
-      "palavra": "single parent",
-      "fala": "single parent",
-      "significado": "someone raising children without a partner at home"
-    },
-    {
-      "palavra": "relatives",
-      "significado": "family members — careful: not the same as 'relativos' in Portuguese!"
-    },
-    {
-      "palavra": "twin",
-      "significado": "one of two children born to the same mother at the same time"
-    },
-    {
-      "palavra": "raised",
-      "significado": "brought up as a child (past tense of 'raise')"
-    },
-    {
-      "palavra": "son",
-      "significado": "a male child in relation to his parents"
-    },
-    {
-      "palavra": "daughter",
-      "significado": "a female child in relation to her parents"
-    },
-    {
-      "palavra": "grandfather",
-      "significado": "your parent's father (informal: 'grandpa')"
-    },
-    {
-      "palavra": "grandmother",
-      "significado": "your parent's mother (informal: 'grandma')"
-    },
-    {
-      "palavra": "grandpa",
-      "significado": "informal word for grandfather — very common in everyday speech"
-    },
-    {
-      "palavra": "grandma",
-      "significado": "informal word for grandmother — very common in everyday speech"
-    },
-    {
-      "palavra": "great-uncle",
-      "fala": "great-uncle",
-      "significado": "your grandparent's brother — one generation further back than uncle"
-    },
-    {
-      "palavra": "great-aunt",
-      "fala": "great-aunt",
-      "significado": "your grandparent's sister — one generation further back than aunt"
-    },
-    {
-      "palavra": "stepbrother",
-      "significado": "the son of your stepfather or stepmother from a previous relationship"
-    },
-    {
-      "palavra": "stepsister",
-      "significado": "the daughter of your stepfather or stepmother from a previous relationship"
-    },
-    {
-      "palavra": "mother-in-law",
-      "fala": "mother-in-law",
-      "significado": "your husband's or wife's mother"
-    },
-    {
-      "palavra": "father-in-law",
-      "fala": "father-in-law",
-      "significado": "your husband's or wife's father"
-    },
-    {
-      "palavra": "brother-in-law",
-      "fala": "brother-in-law",
-      "significado": "your husband's or wife's brother, or your sibling's husband"
-    },
-    {
-      "palavra": "sister-in-law",
-      "fala": "sister-in-law",
-      "significado": "your husband's or wife's sister, or your sibling's wife"
-    },
-    {
-      "palavra": "in-law",
-      "fala": "in-law",
-      "significado": "family by marriage — the suffix that creates mother-in-law, father-in-law, etc."
-    },
-    {
-      "palavra": "-in-law",
-      "fala": "in-law",
-      "significado": "the suffix that turns a title into a marriage relationship: mother → mother-in-law"
-    },
-    {
-      "palavra": "mothers-in-law",
-      "fala": "mothers-in-law",
-      "significado": "irregular plural of mother-in-law — the 's' goes on 'mother,' not at the end"
-    },
-    {
-      "palavra": "great-",
-      "fala": "great",
-      "significado": "prefix meaning one generation further back: great-grandparents = your grandparents' parents"
-    },
-    {
-      "palavra": "step-",
-      "fala": "step",
-      "significado": "prefix for family through a parent's new marriage (not biological): stepfather, stepbrother"
-    },
-    {
-      "palavra": "half-",
-      "fala": "half",
-      "significado": "prefix for sharing only one birth parent: half-sister shares your father or mother, not both"
-    },
-    {
-      "palavra": "nephew and niece",
-      "fala": "nephew and niece",
-      "significado": "your sibling's children — nephew (male) and niece (female). Learn them as a pair!"
-    },
-    {
-      "palavra": "blended",
-      "significado": "mixed together from different parts — in 'blended family,' children from previous relationships come together"
-    },
-    {
-      "palavra": "engagement",
-      "significado": "the period between agreeing to marry and the actual wedding"
-    },
-    {
-      "palavra": "divorce",
-      "significado": "the legal process of ending a marriage ('divorced' is the resulting state)"
-    },
-    {
-      "palavra": "married couple",
-      "fala": "married couple",
-      "significado": "two people who are legally married to each other"
-    },
-    {
-      "palavra": "raise",
-      "significado": "to bring up and care for a child as they grow (past tense: raised)"
-    },
-    {
-      "palavra": "identical twins",
-      "fala": "identical twins",
-      "significado": "twins who look exactly the same — they grew from the same fertilized egg"
-    },
-    {
-      "palavra": "fraternal twins",
-      "fala": "fraternal twins",
-      "significado": "twins born together who look different — they grew from separate eggs"
-    },
-    {
-      "palavra": "relatively",
-      "significado": "to a certain degree, in comparison — careful: NOT a word for family! (that's 'relatives')"
-    },
-    {
-      "palavra": "mum",
-      "significado": "British English word for 'mother' — Americans say 'mom'"
-    },
-    {
-      "palavra": "mom",
-      "significado": "American English word for 'mother' — British English says 'mum'"
-    }
+    { "palavra": "nuclear family", "fala": "nuclear family", "significado": "two parents and their children living together — the traditional household structure" },
+    { "palavra": "extended family", "fala": "extended family", "significado": "the full family: grandparents, aunts, uncles, cousins, everyone ↔ immediate family" },
+    { "palavra": "immediate family", "fala": "immediate family", "significado": "the close circle — usually just parents and children ↔ extended family" },
+    { "palavra": "parents", "significado": "your father and mother — ONLY them. Not relatives in general! ↔ children" },
+    { "palavra": "children", "significado": "your sons and daughters — irregular plural of 'child' ↔ parents" },
+    { "palavra": "mother", "significado": "your female parent — informal: mum (British) or mom (American)" },
+    { "palavra": "father", "significado": "your male parent — informal: dad (both British and American)" },
+    { "palavra": "mum", "significado": "British English word for mother ↔ mom (American English)" },
+    { "palavra": "mom", "significado": "American English word for mother ↔ mum (British English)" },
+    { "palavra": "son", "significado": "a male child in relation to his parents ↔ daughter" },
+    { "palavra": "daughter", "significado": "a female child in relation to her parents ↔ son" },
+    { "palavra": "sibling", "significado": "gender-neutral word for a brother or sister — very useful in English" },
+    { "palavra": "husband", "significado": "a married man in relation to his wife ↔ wife" },
+    { "palavra": "wife", "significado": "a married woman in relation to her husband ↔ husband" },
+    { "palavra": "spouse", "significado": "formal, gender-neutral word for husband or wife — common on official forms" },
+    { "palavra": "partner", "significado": "flexible, gender-neutral word for anyone in a committed relationship — married or not" },
+    { "palavra": "grandparents", "significado": "your parents' parents ↔ grandchildren" },
+    { "palavra": "grandfather", "significado": "your parent's father — informal: grandpa" },
+    { "palavra": "grandmother", "significado": "your parent's mother — informal: grandma" },
+    { "palavra": "grandchildren", "significado": "your children's children ↔ grandparents" },
+    { "palavra": "grandson", "significado": "your child's son ↔ granddaughter" },
+    { "palavra": "granddaughter", "significado": "your child's daughter ↔ grandson" },
+    { "palavra": "uncle", "significado": "your parent's brother ↔ aunt" },
+    { "palavra": "aunt", "significado": "your parent's sister ↔ uncle" },
+    { "palavra": "cousin", "significado": "the child of your uncle or aunt — same word for male and female in English" },
+    { "palavra": "nephew", "significado": "your sibling's son ↔ niece" },
+    { "palavra": "niece", "significado": "your sibling's daughter ↔ nephew" },
+    { "palavra": "nephew and niece", "fala": "nephew and niece", "significado": "always learn these together — your sibling's son and daughter" },
+    { "palavra": "great-", "fala": "great", "significado": "prefix meaning one generation further back — great-grandparents = your grandparents' parents" },
+    { "palavra": "great-grandparents", "fala": "great-grandparents", "significado": "your grandparents' parents — one generation before grandparents" },
+    { "palavra": "in-law", "fala": "in-law", "significado": "suffix for family through marriage — father-in-law, mother-in-law, brother-in-law, sister-in-law" },
+    { "palavra": "mother-in-law", "fala": "mother-in-law", "significado": "your husband's or wife's mother — plural: mothers-in-law" },
+    { "palavra": "father-in-law", "fala": "father-in-law", "significado": "your husband's or wife's father" },
+    { "palavra": "brother-in-law", "fala": "brother-in-law", "significado": "your husband's or wife's brother — or your sibling's husband" },
+    { "palavra": "sister-in-law", "fala": "sister-in-law", "significado": "your husband's or wife's sister — or your sibling's wife" },
+    { "palavra": "step-", "fala": "step", "significado": "prefix for family through a parent's new marriage — not biological: stepfather, stepmother, stepbrother" },
+    { "palavra": "stepfather", "significado": "a man who married your mother but is not your birth father" },
+    { "palavra": "stepmother", "significado": "a woman who married your father but is not your birth mother" },
+    { "palavra": "half-", "fala": "half", "significado": "prefix for sharing only one birth parent — half-sister or half-brother" },
+    { "palavra": "half-sister", "significado": "a sister who shares only one birth parent with you ↔ half-brother" },
+    { "palavra": "half-brother", "significado": "a brother who shares only one birth parent with you ↔ half-sister" },
+    { "palavra": "blended family", "fala": "blended family", "significado": "formed when partners bring children from previous relationships into a new household" },
+    { "palavra": "single parent", "fala": "single parent", "significado": "someone raising children without a live-in partner — a neutral, respectful term" },
+    { "palavra": "engaged", "significado": "having formally agreed to marry — 'they got engaged last month'" },
+    { "palavra": "engagement", "significado": "the period between agreeing to marry and the wedding" },
+    { "palavra": "married", "significado": "legally joined with a partner in a wedding ceremony ↔ divorced" },
+    { "palavra": "divorced", "significado": "legally no longer married ↔ married" },
+    { "palavra": "raised", "significado": "brought up and cared for as a child — 'she was raised by her grandparents'" },
+    { "palavra": "relatives", "significado": "family members — NOT the same as 'relativos' in Portuguese (which means 'relative/comparative')" }
   ]
 }

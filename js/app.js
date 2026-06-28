@@ -318,12 +318,13 @@ function renderTeoria(dados) {
 // =====================================================================
 const MATERIAIS_LISTA = [
   { slug: 'notebooklm-prompts', titulo: 'Prompts: NotebookLM', descricao: 'Prompts prontos para gerar podcast, vídeo, slides, quiz, flashcards, infográfico, mapa mental e diálogo a partir de qualquer material.' },
-  { slug: 'ingles-personalidade', titulo: 'Lingua House A2+: Describing Character and Behavior', descricao: 'Personality adjectives, opposite pairs, grammar of "being + adjective", and false friends for Portuguese speakers.' },
-  { slug: 'ingles-aparencia', titulo: 'Lingua House A2+: Describing Appearance', descricao: 'Hair types and colors, body and skin vocabulary, modifiers (quite, fairly, rather...), and grooming phrases.' },
-  { slug: 'ingles-corpo', titulo: 'Lingua House A2+: Parts of the Body', descricao: 'Body parts from head to toe, action verbs, exercise vocabulary, and tricky plurals.' },
-  { slug: 'ingles-familia', titulo: 'Lingua House A2+: In the Family', descricao: 'Family member vocabulary, prefixes (step-, half-, great-, in-law), types of families, and relationship words.' },
-  { slug: 'ingles-crime', titulo: 'Class Material: Crime and Justice', descricao: 'Types of crime, people in the justice system, the passive voice in news reporting, legal process vocabulary, and useful expressions.' },
-  { slug: 'ingles-false-friends', titulo: 'Random Material: False Friends', descricao: 'The 50 most common English words that Portuguese speakers consistently misinterpret — with explanations, context, and traps to avoid.' },
+  { slug: 'ingles-personalidade', titulo: 'Describing Character and Behavior', descricao: 'Personality adjectives, opposite pairs, grammar of "being + adjective", and false friends for Portuguese speakers.' },
+  { slug: 'ingles-aparencia', titulo: 'Describing Appearance', descricao: 'Hair types and colors, body and skin vocabulary, modifiers (quite, fairly, rather...), and grooming phrases.' },
+  { slug: 'ingles-corpo', titulo: 'Parts of the Body', descricao: 'Body parts from head to toe, action verbs, exercise vocabulary, and tricky plurals.' },
+  { slug: 'ingles-familia', titulo: 'In the Family', descricao: 'Family member vocabulary, prefixes (step-, half-, great-, in-law), types of families, and relationship words.' },
+  { slug: 'ingles-trabalho', titulo: 'Describing a Job', descricao: 'How to describe any job in English — conditions, environment, feelings, and duties — in opposite pairs, plus the grammar and vocabulary that make professional descriptions sound natural.' },
+  { slug: 'ingles-crime', titulo: 'Crime and Justice', descricao: 'Types of crime, people in the justice system, the passive voice in news reporting, legal process vocabulary, and useful expressions.' },
+  { slug: 'ingles-false-friends', titulo: 'False Friends', descricao: 'The 50 most common English words that Portuguese speakers consistently misinterpret — with explanations, context, and traps to avoid.' },
 ];
 
 let materialAtivo = null;

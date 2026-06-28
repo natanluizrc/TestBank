@@ -1,300 +1,93 @@
 {
   "slug": "ingles-corpo",
-  "titulo": "Lingua House A2+: Parts of the Body",
-  "descricao": "Body parts from head to toe, action verbs, exercise vocabulary, and tricky plurals.",
+  "titulo": "Parts of the Body",
+  "descricao": "Body parts organized as natural pairs — head and face, upper body, arms and legs — plus action verbs, the grammar of body-part sentences, and words that behave unexpectedly.",
   "lang": "en-US",
   "secoes": [
     {
-      "titulo": "From Head to Toe: The Big Picture",
-      "conteudo": "Let's start with a quick question. If a doctor asks you 'Where does it hurt?' and you do not know the word in English, what do you do? Point and hope? That works sometimes — but not always. Knowing the names of your body parts is one of the most practical things you can learn in any language.\n\nLet's do a tour from top to bottom. At the very top: your **head**. On your head, you have your **face** — and on your face, your **forehead** (the area above your eyes), your **cheeks** (the soft sides of your face), and your **chin** (the bottom part). Your **neck** connects your head to the rest of your body.\n\nMoving down: you have two **shoulders** at the top of your body, connecting your **arms**. In the front, you have your **chest**. Behind, your **back**. Below your chest: your **stomach** (or **belly**, in informal English — same thing). Lower still: your **hips**, and then your two **legs**. At the bottom of each leg: your **foot**. Now here is one of the most important irregular plurals in English: one **foot**, two **feet**. Not 'foots' — **feet**. You will use this every day, so lock it in now.\n\nConnecting your foot to your leg is your **ankle**. The front of your lower leg is your **shin**, and the back is your **calf**. In the middle of each leg: your **knee**. And the upper part of your leg — the big area between your hip and your knee — is your **thigh**. A very useful word when you are describing pain or injury."
+      "titulo": "Where Does It Hurt?",
+      "conteudo": "Here is a situation that happens to everyone. You are with a doctor, a physiotherapist, or a pharmacist — and they ask: 'Where exactly does it hurt?' You know exactly which part of your body is the problem. But you cannot find the word in English. So you point and hope. That works sometimes — but not always.\n\nKnowing the names of body parts is one of the most practical things you can learn in any language. And in English, most of them follow a logic that makes them easier to learn as pairs. The body is full of matching structures: two sides, joints that mirror each other, parts that connect in sequence. In this material, you will learn the vocabulary by following those natural pairs — head / face, upper / lower body, arm / leg — so that each word brings another word with it."
     },
     {
-      "titulo": "The Small Details That Matter",
-      "conteudo": "Now let's go deeper. These are the smaller body parts that come up all the time — especially when something hurts, or when you are describing someone precisely.\n\nLet's start with the **arm**. At the very end of your arm: your **hand**. Each hand has five **fingers**. The short, thick one on the side is specifically called your **thumb** — not a finger, specifically a **thumb**. At the tip of each finger: a **fingernail**. At the bottom of your arm, where it connects to your hand: your **wrist**. And in the middle of your arm, where it bends: your **elbow**. A lot of people forget **wrist** and **elbow** — they are the two arm joints. Remember them.\n\nOn your face: your two **eyes**, each framed by **eyelashes** — the thin hairs along the edges. On the sides of your head: your two **ears**. In the center of your face: your **nose**. And your **mouth**, which has **lips** on the outside and **teeth** on the inside. Now, tooth → **teeth** is the other essential irregular plural. One tooth, many **teeth**. Not 'tooths' — **teeth**. Tooth and teeth. Foot and feet. These two are the most important irregular plurals in the body vocabulary.\n\nYour **shoulder** — the joint at the top of each arm — was mentioned already, but it deserves a second look. In Portuguese, the shoulder is 'ombro,' a single clear word. In English, **shoulder** works the same way: it is the round joint where your arm meets your upper body. If someone asks you to give them a massage, this is the area they probably want."
+      "titulo": "Head and Face: Forehead / Chin, Eye / Ear, Cheek / Temple",
+      "conteudo": "Let's start at the top. The **head** is the entire upper structure. On the front of your head: your **face**. The **forehead** is the smooth area above your eyes — the wide, flat surface that shows expression most clearly. At the opposite end of the face, below your mouth: your **chin**. These two — **forehead** and **chin** — mark the full vertical span of the face, one at the top, one at the bottom.\n\nIn between: your **cheeks** — the soft, rounded areas on either side of your nose and mouth. And on the sides, where your face meets your hairline: your **temples** — the flat, slightly sunken areas right beside your eyes. Cheek and temple are both on the side of the face, but at different depths: the **cheek** is forward-facing, the **temple** is to the side.\n\nYour **eyes** and **ears** are a natural pair — one for seeing, one for hearing. Each **eye** is framed by **eyelashes** along the edge and **eyebrows** — the arched lines of hair just above. Your **ears** sit on both sides of the head. Between your eyes: your **nose**. Below your nose: your **mouth**, with two **lips** — top and bottom — and **teeth** inside. One **tooth**, many **teeth** — one of the two most important irregular plurals in body vocabulary. Say it out loud until it is automatic: tooth, teeth.\n\nYour **neck** connects your head to your body. The front and inner part of your neck — the passage for food and air — is your **throat**. When it is sore and painful, usually from a cold or infection, you have a **sore throat**. That phrase is one of the most commonly used descriptions of illness in everyday English."
     },
     {
-      "titulo": "What Your Body Does: Action Verbs",
-      "conteudo": "Your body is not just a collection of parts — it does things. And many of those actions have specific verbs in English that are very useful to know.\n\nSome verbs are tied to specific body parts. Your eyes **blink** automatically — you do not even think about it, your eyes just close and open very quickly every few seconds. You **smile** when you are happy, using your mouth and face. You **chew** food with your teeth before you swallow. You **smell** things with your nose. And you **see** with your eyes — but there is an important difference between **see** and **look** and **watch**. You **see** something without trying ('I saw a bird outside'). You **look** at something on purpose ('Look at this photo!'). You **watch** something that moves or changes over time ('I watched a film last night'). Three different verbs, all related to your eyes.\n\nWith your hands and arms: you **clap** when you are happy — you hit your two hands together repeatedly. You **wave** to say hello or goodbye from a distance. You **point** to show someone where something is, usually with your **index finger** (the one next to your thumb). You **touch** things to feel their texture. And you **write** — something so common we forget it is a physical action.\n\nWith your legs and feet: you **walk**, **run**, **jump**, and **kick**. These four verbs describe the most basic movements people make. **Walk** is the slow everyday movement. **Run** is faster. **Jump** is up into the air. **Kick** is using your foot to hit something — like a football."
+      "titulo": "Upper Body: Chest / Back, Shoulder / Hip, Waist / Neck",
+      "conteudo": "Below the neck, the torso has a front and a back, and anchor points where the limbs attach.\n\nThe front of your upper body is your **chest**. The rear surface — what faces behind you — is your **back**. These two are among the most used body words in everyday English: 'my chest hurts,' 'I have a bad back,' 'she carried it on her back.' Simple, clear, and essential.\n\nAt the top of the torso: your **shoulders** — the rounded joints where your arms connect to your body. At the bottom: your **hips** — the wide, bony structures on each side of your lower body, where your legs begin. **Shoulder** and **hip** mirror each other perfectly: both are attachment points for limbs, one at the top, one at the bottom.\n\nBetween chest and hips: your **stomach** — the soft area in the front. In casual speech, this area is also called your **belly**, and the two words are interchangeable in everyday conversation. Your **waist** is the narrower section in the middle of the torso — the area where a belt sits. 'She has a small waist,' 'he tightened the belt around his waist' — this word comes up often in descriptions and clothing."
     },
     {
-      "titulo": "Get Moving: Exercise Vocabulary",
-      "conteudo": "If you follow fitness content, yoga videos, or go to the gym — or if you just want to understand what a personal trainer is telling you — this vocabulary is essential.\n\nFirst, a useful distinction. **Aerobic exercise** is movement that gets your **heart** beating faster and makes you **breathe** harder. Running, cycling, swimming, and basketball are all aerobic. The word comes from Greek and means 'with air' — these exercises demand a lot of oxygen. Your **lungs** work harder to bring in more air, and your heart pumps that oxygen-rich blood to your whole body.\n\n**Flexibility exercise** is different. Instead of speeding up your heart, it makes your body easier to move. Yoga, martial arts, and dance are examples. These exercises strengthen your **muscles** (the soft tissue that moves your bones) and your **bones** themselves, making it easier to move freely as you get older.\n\nNow the action verbs for exercise. **Stretch** means to extend a muscle as far as it will comfortably go — you feel a pull, but not pain. **Bend** means to curve a part of your body — you bend your knees, you bend your arm. **Straighten** is the opposite — you make something straight again after bending. **Raise** means to lift something up — you raise your arm, you raise your leg. **Turn** means to rotate — you turn your head, you turn your body to the left.\n\nA few more: **stand** means to be in a vertical position on your feet. **Breathe** means to take air in and let it out — simple, but in exercise, breathing technique makes a big difference. **Shake** means to move something quickly from side to side — you shake your arms to relax them. And **touch** in exercise often means bringing one body part to another: 'touch your toes' means bend forward until your fingers reach your feet."
+      "titulo": "Arms and Legs: Elbow / Knee, Wrist / Ankle, Finger / Toe",
+      "conteudo": "The arms and legs are the body's most perfectly matched structures: each limb has the same sequence of joints from shoulder or hip to fingertip or toe.\n\nYour **arms** and **legs** are the four main limbs. Each **arm** runs from the shoulder to the **hand**. Each **leg** runs from the hip down to the **foot** — and here is the second essential irregular plural: one **foot**, two **feet**. Never 'foots.' Say it until it is automatic: foot, feet.\n\nIn the middle of each arm: the **elbow** — the joint where the arm bends. In the middle of each leg: the **knee** — the joint where the leg bends. **Elbow** and **knee** form a perfect pair: both are bending joints, both sit in the middle of their limb. If you learn one, you understand why the other exists.\n\nAt the end of each arm, just before the hand: the **wrist** — the joint connecting arm to hand. At the end of each leg, just before the foot: the **ankle** — the joint connecting leg to foot. **Wrist** and **ankle** mirror each other exactly. The simplest rule: **wrist** is on the arm, **ankle** is on the leg.\n\nYour **hand** has four **fingers** and one **thumb** — the short, thick digit on the side. The **thumb** is not called a finger in English; it has its own name. Your **foot** has five **toes** — the equivalent of fingers for the foot. **Finger** and **toe** are the natural pair: digits, one set at each extremity. The **palm** is the flat inner surface of your hand. The **sole** is the flat underside of your foot. **Palm** and **sole** mirror each other exactly — one on the hand, one on the foot."
     },
     {
-      "titulo": "Irregular Plurals and Things That Confuse Portuguese Speakers",
-      "conteudo": "Let's finish with a few things that often confuse Portuguese speakers specifically.\n\nThe two most important irregular plurals in body vocabulary: one **foot**, two **feet**. One **tooth**, many **teeth**. These do not follow the normal -s rule, and they come up constantly. Say them a few times out loud: foot, feet. Tooth, teeth. They should feel automatic.\n\nA word on **muscle**. In Portuguese, 'músculo' is pronounced roughly as it is written. In English, **muscle** is pronounced 'MUS-ul' — the 'c' is completely silent, and the 'le' at the end is just an 'ul' sound. If you say 'MUS-cle' with the c, English speakers will understand you, but it will sound a little off. The silent c in **muscle** is one of those small things that makes a difference.\n\nNow, **wrist** versus **ankle**. Both of these are joints — one on your arm, one on your leg. Portuguese speakers sometimes mix them up because both connect a limb to an extremity. Simple rule: **wrist** is on your arm (between hand and arm), **ankle** is on your leg (between foot and leg). Wrist = arm. Ankle = leg.\n\nAnd one last word worth knowing: **elbow**. In Portuguese, 'cotovelo' is clear enough. In English, **elbow** sounds nothing like any Portuguese word, so it just needs to be memorized. You have two elbows — the joints in the middle of your arms where they bend. Next time you rest your chin on your hand while reading, notice your **elbow** on the table. Now you will always remember it."
+      "titulo": "What the Body Does: Verbs of Action and Gesture",
+      "conteudo": "The body is not just a collection of parts — it does things. And many of those actions have specific verbs that are essential at B1 level.\n\nWith the hands: you **clap** when you bring both palms together repeatedly — to show appreciation or keep rhythm. You **wave** to greet or say goodbye from a distance, moving your hand from side to side. You **point** to show where something is, using your index finger — the finger right next to the **thumb**. You **grab** something when you take hold of it quickly and firmly. You **snap** your fingers to emphasize a moment or get someone's attention.\n\nWith the face: your **eyes** **blink** automatically — they close and open very quickly every few seconds without you thinking about it. You **smile** when you are happy, using your **mouth** and **face** together. You **nod** — move your **head** down and then up — to show agreement or say yes. You **shake** your head — move it from side to side — to say no. These two gestures, nodding and shaking the head, are worth knowing by name.\n\nWith the full body: you **stretch** to extend a muscle as far as it will comfortably go — the feeling of waking up in the morning. You **bend** when you curve a part of your body — you bend your **knees**, bend your **arm**, bend forward to pick something up. **Straighten** is the opposite: you make a bent part straight again. You **raise** something to lift it upward — raise your **hand**, raise your **arm**, raise your **eyebrows**.\n\nFor seeing: you **see** something without trying — your **eyes** simply register it. You **look** at something on purpose — you direct your **eyes** intentionally. You **watch** something that moves or unfolds over time — a film, a match, a person. Three verbs, all connected to your **eyes**, all with different meanings."
+    },
+    {
+      "titulo": "Grammar: Body Parts and 'My', Not 'The'",
+      "conteudo": "Here is a small but important difference between English and Portuguese that most learners do not notice until someone points it out.\n\nIn English, when you talk about pain or injury to a body part, you use a possessive pronoun — my, his, her, our — not the definite article 'the.'\n\n'My back hurts.' Not 'The back hurts.'\n'She hurt her knee.' Not 'She hurt the knee.'\n'He broke his arm.' Not 'He broke the arm.'\n\nIn Portuguese, the definite article is natural in these sentences: 'Ela machucou o joelho.' In English, the possessive is required. The body belongs to someone, and English insists you say whose.\n\nThis matters because the mistake is nearly invisible — if you say 'I hurt the shoulder,' English speakers understand you. But the moment you switch to 'I hurt my shoulder,' you sound completely fluent. It is one of those small changes that makes a large difference.\n\nThe same pattern applies to symptoms and complaints. In English, you say 'I have a headache' — not 'my head hurts,' though that is also valid. 'She has a sore throat.' 'He has a stomachache.' These fixed phrases — 'have a' plus a body-related complaint — are the standard way to describe pain and illness in everyday English. Learn them as complete phrases, not as constructions you need to build each time."
+    },
+    {
+      "titulo": "Words That Trip You Up",
+      "conteudo": "A few body vocabulary words behave unexpectedly — either because they sound like something else, or because one English word covers what Portuguese splits into two.\n\n**Calf** is the muscle at the back of your lower leg — the large, rounded muscle you feel when you stand on your toes. It is also the English word for a young cow. Context resolves this instantly: 'I pulled my calf in training' is clearly about a leg muscle. But knowing the double meaning prevents surprise when you see it in a different context.\n\n**Chest** is the front of your upper body. It is also a large box for storage — a treasure chest, a wooden chest full of old things. Again, context tells you immediately which one: 'my chest hurts' versus 'the chest is full of photographs.' Two completely different things, one word.\n\n**Ear** covers the full hearing organ in English. In Portuguese, there is a distinction: 'orelha' for the external, visible ear and 'ouvido' for the inner ear or the sense of hearing. English collapses both into **ear**. 'My ear hurts' covers everything from the outer structure to deep internal pain. If you need to specify, you say 'outer ear' or 'inner ear' — but in everyday speech, just **ear** is enough.\n\n**Tooth** and **teeth**. **Foot** and **feet**. Say these out loud until they feel automatic: one tooth, many teeth. One foot, two feet. Not 'tooths,' not 'foots.' These are the two irregular plurals that come up most in body vocabulary, and getting them right is one of the clearest signs of a careful learner."
     }
   ],
   "glossario": [
-    {
-      "palavra": "forehead",
-      "significado": "the area of your face above your eyes"
-    },
-    {
-      "palavra": "cheek",
-      "significado": "the soft sides of your face"
-    },
-    {
-      "palavra": "chin",
-      "significado": "the bottom part of your face, below your mouth"
-    },
-    {
-      "palavra": "neck",
-      "significado": "connects your head to the rest of your body"
-    },
-    {
-      "palavra": "shoulder",
-      "significado": "the joint where your arm meets your upper body"
-    },
-    {
-      "palavra": "chest",
-      "significado": "the front of your upper body"
-    },
-    {
-      "palavra": "stomach",
-      "significado": "the area below your chest in the front; also called 'belly' informally"
-    },
-    {
-      "palavra": "thigh",
-      "significado": "the upper part of your leg, between hip and knee"
-    },
-    {
-      "palavra": "knee",
-      "significado": "the joint in the middle of your leg"
-    },
-    {
-      "palavra": "ankle",
-      "significado": "the joint that connects your foot to your leg"
-    },
-    {
-      "palavra": "shin",
-      "significado": "the front of your lower leg, between knee and ankle"
-    },
-    {
-      "palavra": "elbow",
-      "significado": "the joint in the middle of your arm where it bends"
-    },
-    {
-      "palavra": "wrist",
-      "significado": "the joint that connects your hand to your arm"
-    },
-    {
-      "palavra": "thumb",
-      "significado": "the short, thick finger on the side of your hand"
-    },
-    {
-      "palavra": "fingernail",
-      "significado": "the hard covering at the tip of each finger"
-    },
-    {
-      "palavra": "eyelash",
-      "significado": "the thin hairs along the edge of your eye"
-    },
-    {
-      "palavra": "tooth",
-      "significado": "one of the hard structures inside your mouth used to chew"
-    },
-    {
-      "palavra": "teeth",
-      "fala": "teeth",
-      "significado": "plural of tooth — irregular! (not 'tooths')"
-    },
-    {
-      "palavra": "foot",
-      "significado": "the bottom part of your leg that you walk on"
-    },
-    {
-      "palavra": "feet",
-      "fala": "feet",
-      "significado": "plural of foot — irregular! (not 'foots')"
-    },
-    {
-      "palavra": "muscle",
-      "fala": "muscle",
-      "significado": "soft tissue that moves your bones — the 'c' is silent: say MUS-ul"
-    },
-    {
-      "palavra": "bone",
-      "significado": "the hard structure that forms your skeleton"
-    },
-    {
-      "palavra": "heart",
-      "significado": "the organ that pumps blood through your body"
-    },
-    {
-      "palavra": "lung",
-      "significado": "one of two organs that bring in oxygen when you breathe"
-    },
-    {
-      "palavra": "blink",
-      "significado": "to close and open your eyes very quickly (automatic action)"
-    },
-    {
-      "palavra": "clap",
-      "significado": "to hit both hands together to show appreciation"
-    },
-    {
-      "palavra": "wave",
-      "significado": "to move your hand to greet or say goodbye from a distance"
-    },
-    {
-      "palavra": "stretch",
-      "significado": "to extend a muscle as far as it will comfortably go"
-    },
-    {
-      "palavra": "bend",
-      "significado": "to curve a part of your body (bend your knees, bend your arm)"
-    },
-    {
-      "palavra": "raise",
-      "significado": "to lift something upward (raise your hand, raise your arm)"
-    },
-    {
-      "palavra": "breathe",
-      "significado": "to take air in and let it out — essential in exercise!"
-    },
-    {
-      "palavra": "head",
-      "significado": "the top part of your body — contains your brain, face, ears, and hair"
-    },
-    {
-      "palavra": "face",
-      "significado": "the front of your head — forehead, eyes, nose, mouth, and cheeks"
-    },
-    {
-      "palavra": "arm",
-      "significado": "the limb connecting your shoulder to your hand"
-    },
-    {
-      "palavra": "back",
-      "significado": "the rear side of your upper body, opposite your chest"
-    },
-    {
-      "palavra": "belly",
-      "significado": "informal word for stomach — the soft area below your chest"
-    },
-    {
-      "palavra": "hip",
-      "significado": "the wide area on each side of your body, below your stomach and above your legs"
-    },
-    {
-      "palavra": "leg",
-      "significado": "the limb connecting your hip to your foot — what you walk and run with"
-    },
-    {
-      "palavra": "calf",
-      "significado": "the muscle at the back of your lower leg, between knee and ankle"
-    },
-    {
-      "palavra": "hand",
-      "significado": "the part at the end of your arm — has four fingers and one thumb"
-    },
-    {
-      "palavra": "finger",
-      "significado": "one of the four long digits on each hand (the thumb is counted separately)"
-    },
-    {
-      "palavra": "index finger",
-      "fala": "index finger",
-      "significado": "the finger right next to your thumb — the one you use for pointing"
-    },
-    {
-      "palavra": "eye",
-      "significado": "one of the two organs on your face used for seeing"
-    },
-    {
-      "palavra": "ear",
-      "significado": "one of the two organs on the sides of your head used for hearing"
-    },
-    {
-      "palavra": "nose",
-      "significado": "the organ in the center of your face used for breathing and smelling"
-    },
-    {
-      "palavra": "mouth",
-      "significado": "the opening in your face used for eating and speaking — contains teeth and tongue"
-    },
-    {
-      "palavra": "lip",
-      "significado": "one of the two soft edges of your mouth (top lip and bottom lip)"
-    },
-    {
-      "palavra": "smile",
-      "significado": "to turn the corners of your mouth upward to show happiness"
-    },
-    {
-      "palavra": "chew",
-      "significado": "to crush food with your teeth before swallowing it"
-    },
-    {
-      "palavra": "smell",
-      "significado": "to perceive a scent with your nose — also a noun: 'a nice smell'"
-    },
-    {
-      "palavra": "see",
-      "significado": "to perceive with your eyes without effort — automatic ('I saw a bird'); different from 'look'"
-    },
-    {
-      "palavra": "look",
-      "significado": "to direct your eyes at something on purpose ('Look at this!'); intentional; different from 'see'"
-    },
-    {
-      "palavra": "watch",
-      "significado": "to look at something that moves or changes over time ('watch a film, watch a game')"
-    },
-    {
-      "palavra": "walk",
-      "significado": "to move on foot at a normal, relaxed pace"
-    },
-    {
-      "palavra": "run",
-      "significado": "to move on foot at a fast pace"
-    },
-    {
-      "palavra": "jump",
-      "significado": "to push yourself off the ground and up into the air"
-    },
-    {
-      "palavra": "kick",
-      "significado": "to hit something with your foot"
-    },
-    {
-      "palavra": "point",
-      "significado": "to extend a finger to show where something or someone is"
-    },
-    {
-      "palavra": "write",
-      "significado": "to form letters or words using a pen, pencil, or keyboard"
-    },
-    {
-      "palavra": "stand",
-      "significado": "to be in an upright position on your feet"
-    },
-    {
-      "palavra": "touch",
-      "significado": "to put your hand or finger on something to feel it"
-    },
-    {
-      "palavra": "shake",
-      "significado": "to move something quickly from side to side or up and down"
-    },
-    {
-      "palavra": "straighten",
-      "significado": "to make something straight again — the opposite of bend"
-    },
-    {
-      "palavra": "turn",
-      "significado": "to rotate your body or head to face a different direction"
-    },
-    {
-      "palavra": "aerobic exercise",
-      "fala": "aerobic exercise",
-      "significado": "exercise that speeds up your heart and breathing — running, cycling, swimming"
-    },
-    {
-      "palavra": "flexibility exercise",
-      "fala": "flexibility exercise",
-      "significado": "exercise that improves your range of motion — yoga, stretching, martial arts"
-    }
+    { "palavra": "head", "significado": "the entire upper structure — contains the face, brain, eyes, ears, and hair" },
+    { "palavra": "face", "significado": "the front of your head — forehead, eyes, nose, mouth, cheeks, and chin" },
+    { "palavra": "forehead", "significado": "the smooth area above your eyes ↔ chin (top and bottom of the face)" },
+    { "palavra": "chin", "significado": "the bottom part of your face, below your mouth ↔ forehead" },
+    { "palavra": "cheek", "significado": "the soft, rounded area on each side of your face" },
+    { "palavra": "temple", "significado": "the flat area on the side of your head, just beside your eyes" },
+    { "palavra": "eye", "significado": "one of the two organs on your face used for seeing ↔ ear" },
+    { "palavra": "ear", "significado": "one of the two organs on the sides of your head used for hearing ↔ eye. Covers both outer and inner ear" },
+    { "palavra": "eyebrow", "significado": "the arched line of hair above each eye" },
+    { "palavra": "eyelash", "significado": "the thin hairs along the edge of each eye" },
+    { "palavra": "nose", "significado": "the organ in the center of your face used for breathing and smelling" },
+    { "palavra": "mouth", "significado": "the opening in your face used for eating and speaking — contains teeth, lips, and tongue" },
+    { "palavra": "lip", "significado": "one of the two soft edges of your mouth (top lip and bottom lip)" },
+    { "palavra": "tooth", "significado": "one of the hard structures inside your mouth used to chew food" },
+    { "palavra": "teeth", "fala": "teeth", "significado": "plural of tooth — irregular! One tooth, many teeth (NOT 'tooths')" },
+    { "palavra": "neck", "significado": "connects your head to the rest of your body" },
+    { "palavra": "throat", "significado": "the inner front part of your neck — the passage for food and air. 'Sore throat' = a painful throat from illness" },
+    { "palavra": "sore throat", "fala": "sore throat", "significado": "a painful, inflamed throat — one of the most common descriptions of illness in English" },
+    { "palavra": "chest", "significado": "the front of your upper body ↔ back. Also: a large storage box" },
+    { "palavra": "back", "significado": "the rear surface of your upper body ↔ chest" },
+    { "palavra": "shoulder", "significado": "the rounded joint where your arm meets your upper body ↔ hip" },
+    { "palavra": "hip", "significado": "the wide joint on each side of your lower body where your leg connects ↔ shoulder" },
+    { "palavra": "stomach", "significado": "the soft area in the front of your body, below your chest — also called 'belly' informally" },
+    { "palavra": "belly", "significado": "informal word for stomach — interchangeable in casual speech" },
+    { "palavra": "waist", "significado": "the narrower section in the middle of your torso — where a belt sits" },
+    { "palavra": "arm", "significado": "the limb connecting your shoulder to your hand ↔ leg" },
+    { "palavra": "leg", "significado": "the limb connecting your hip to your foot ↔ arm" },
+    { "palavra": "elbow", "significado": "the joint in the middle of your arm where it bends ↔ knee" },
+    { "palavra": "knee", "significado": "the joint in the middle of your leg where it bends ↔ elbow" },
+    { "palavra": "wrist", "significado": "the joint connecting your arm to your hand ↔ ankle" },
+    { "palavra": "ankle", "significado": "the joint connecting your leg to your foot ↔ wrist" },
+    { "palavra": "hand", "significado": "the part at the end of your arm — has four fingers and one thumb" },
+    { "palavra": "foot", "significado": "the part at the end of your leg that you walk on — plural: feet" },
+    { "palavra": "feet", "fala": "feet", "significado": "plural of foot — irregular! One foot, two feet (NOT 'foots')" },
+    { "palavra": "finger", "significado": "one of the four long digits on each hand ↔ toe" },
+    { "palavra": "thumb", "significado": "the short, thick digit on the side of your hand — NOT called a finger" },
+    { "palavra": "toe", "significado": "one of the five digits on each foot ↔ finger" },
+    { "palavra": "palm", "significado": "the flat inner surface of your hand ↔ sole" },
+    { "palavra": "sole", "significado": "the flat underside of your foot ↔ palm" },
+    { "palavra": "index finger", "fala": "index finger", "significado": "the finger right next to your thumb — the one you use to point" },
+    { "palavra": "calf", "significado": "the muscle at the back of your lower leg, between knee and ankle. Also: a young cow" },
+    { "palavra": "clap", "significado": "to hit both palms together repeatedly — to show appreciation or keep rhythm" },
+    { "palavra": "wave", "significado": "to move your hand to greet or say goodbye from a distance" },
+    { "palavra": "point", "significado": "to extend a finger to show where something or someone is" },
+    { "palavra": "blink", "significado": "to close and open your eyes very quickly — an automatic action" },
+    { "palavra": "smile", "significado": "to turn the corners of your mouth upward to show happiness" },
+    { "palavra": "nod", "significado": "to move your head down and up — signals agreement or yes" },
+    { "palavra": "shake your head", "fala": "shake your head", "significado": "to move your head from side to side — signals disagreement or no" },
+    { "palavra": "stretch", "significado": "to extend a muscle as far as it will comfortably go" },
+    { "palavra": "bend", "significado": "to curve a part of your body (bend your knees, bend your arm) ↔ straighten" },
+    { "palavra": "straighten", "significado": "to make a bent part straight again ↔ bend" },
+    { "palavra": "raise", "significado": "to lift something upward (raise your hand, raise your eyebrows)" },
+    { "palavra": "see", "significado": "to perceive with your eyes without effort — automatic ('I saw a bird')" },
+    { "palavra": "look", "significado": "to direct your eyes at something on purpose ('Look at this!') — intentional" },
+    { "palavra": "watch", "significado": "to look at something that moves or unfolds over time ('watch a film, watch a match')" }
   ]
 }
