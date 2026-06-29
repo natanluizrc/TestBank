@@ -98,6 +98,11 @@
     { "palavra": "divorced", "significado": "legally no longer married ↔ married" },
     { "palavra": "raise", "fala": "raise a child", "significado": "to care for a child as they grow up — 'she was raised by her grandparents'" },
     { "palavra": "raised", "significado": "brought up and cared for as a child — 'she was raised by her grandparents'" },
-    { "palavra": "relatives", "significado": "family members — NOT the same as 'relativos' in Portuguese (which means 'relative/comparative')" }
+    { "palavra": "relatives", "significado": "family members — NOT the same as 'relativos' in Portuguese (which means 'relative/comparative')" },
+    { "palavra": "brother", "significado": "a male sibling — a boy or man who has the same parents as you ↔ sister" },
+    { "palavra": "sister", "significado": "a female sibling — a girl or woman who has the same parents as you ↔ brother" },
+    { "palavra": "family", "significado": "your relatives as a group — correct English for 'parentes': 'My family came to visit'" },
+    { "palavra": "great-great-grandparents", "fala": "great-great-grandparents", "significado": "your grandparents' grandparents — two 'great-' prefixes, each taking you one generation further back" },
+    { "palavra": "mothers-in-law", "fala": "mothers-in-law", "significado": "plural of mother-in-law — the plural goes on 'mother', not on 'law': mothers-in-law, not 'mother-in-laws'" }
   ]
 }

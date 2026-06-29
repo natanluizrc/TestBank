@@ -6,7 +6,7 @@
   "secoes": [
     {
       "titulo": "One Word, Many Jobs",
-      "conteudo": "In English, most words belong to a family. The noun **danger** has an adjective: **dangerous**. The verb **improve** has a noun: **improvement**. The adjective **happy** has a noun: **happiness**, an adverb: **happily**, and a negative form: **unhappy**. When you learn the full family of a word rather than just one form of it, your vocabulary expands much faster — because each new root gives you not one word but four or five.\n\nThis material teaches the most productive English suffixes: the ones that build thousands of common words and follow patterns clear enough to be learned as a system. You will see how nouns become adjectives (**-ous**), how verbs become adjectives (**-able/-ible**), how verbs and adjectives become nouns (**-tion, -ment, -ness**), and how verbs and fields become person-words (**-er, -or, -ist**).\n\nBy the end, you will be able to look at an unknown English word and use its suffix to make a reliable first guess at both its meaning and its grammatical role — without opening a dictionary. That skill is called morphological awareness, and it is one of the clearest markers of a confident B1-B2 reader."
+      "conteudo": "In English, most words belong to a family. The noun **danger** has an adjective: **dangerous**. The verb **improve** has a noun: **improvement**. The adjective **happy** has a noun: **happiness**, an adverb: **happily**, and a negative form: **unhappy**. When you learn the full family of a word rather than just one form of it, your vocabulary expands much faster — because each new root gives you not one word but four or five.\n\nThis material teaches the most productive English suffixes: the ones that build thousands of common words and follow patterns clear enough to be learned as a system. You will see how nouns become adjectives (**-ous**), how verbs become adjectives (**-able**/**-ible**), how verbs and adjectives become nouns (**-tion**, **-ment**, **-ness**), and how verbs and fields become person-words (**-er**, **-or**, **-ist**).\n\nBy the end, you will be able to look at an unknown English word and use its suffix to make a reliable first guess at both its meaning and its grammatical role — without opening a dictionary. That skill is called morphological awareness, and it is one of the clearest markers of a confident B1-B2 reader."
     },
     {
       "titulo": "-ous: From Noun to Adjective",
@@ -119,6 +119,24 @@
     { "palavra": "sustainability", "significado": "the ability to continue without using everything up — sustain + -able + -ity. The quality of being sustainable" },
     { "palavra": "terrific", "fala": "that is terrific", "significado": "TRAP: does NOT mean terrible. Means wonderful, excellent, impressive. 'That's terrific!' = great. The word drifted away from its terror root centuries ago" },
     { "palavra": "terrifying", "significado": "causing terror or extreme fear — from terrify + -ing. Keeps the original terror meaning, unlike 'terrific'" },
-    { "palavra": "morphological awareness", "fala": "morphological awareness", "significado": "the ability to use knowledge of word parts (roots, prefixes, suffixes) to decode the meaning of unknown words" }
+    { "palavra": "morphological awareness", "fala": "morphological awareness", "significado": "the ability to use knowledge of word parts (roots, prefixes, suffixes) to decode the meaning of unknown words" },
+    { "palavra": "danger", "significado": "a situation or thing that may cause harm — the noun behind 'dangerous'" },
+    { "palavra": "improve", "significado": "to make something better — the verb behind 'improvement'" },
+    { "palavra": "happy", "significado": "feeling pleasure or contentment — noun: happiness; adverb: happily; negative: unhappy" },
+    { "palavra": "happily", "significado": "in a happy way — adverb formed from happy + ly (y → i)" },
+    { "palavra": "unhappy", "significado": "not happy, feeling dissatisfaction or sadness ↔ happy" },
+    { "palavra": "creation", "fala": "creation", "significado": "the act or result of creating — from create + tion. Cognate: criação" },
+    { "palavra": "production", "fala": "production", "significado": "the act of producing — from produce + tion. Cognate: produção" },
+    { "palavra": "discussion", "fala": "discussion", "significado": "a conversation in which people talk through a topic — from discuss + ion. Cognate: discussão" },
+    { "palavra": "connection", "fala": "connection", "significado": "a link between things or people — from connect + ion. Cognate: conexão" },
+    { "palavra": "permission", "fala": "permission", "significado": "official agreement that something is allowed — from permit + sion. Cognate: permissão" },
+    { "palavra": "agreement", "fala": "agreement", "significado": "a mutual decision between people — from agree + ment" },
+    { "palavra": "management", "fala": "management", "significado": "the act of organizing and directing people or resources — from manage + ment" },
+    { "palavra": "retirement", "fala": "retirement", "significado": "the period after permanently leaving work — from retire + ment" },
+    { "palavra": "encouragement", "fala": "encouragement", "significado": "support that makes someone feel more confident — from encourage + ment" },
+    { "palavra": "darkness", "fala": "darkness", "significado": "the state of being dark, without light — from dark + ness" },
+    { "palavra": "sadness", "fala": "sadness", "significado": "the state of feeling sad — from sad + ness" },
+    { "palavra": "weakness", "fala": "weakness", "significado": "the state of being weak — from weak + ness" },
+    { "palavra": "illness", "fala": "illness", "significado": "a disease or period of being sick — from ill + ness" }
   ]
 }
