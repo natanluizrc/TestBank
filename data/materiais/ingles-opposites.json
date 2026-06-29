@@ -49,6 +49,7 @@
     { "palavra": "meaningful", "significado": "carrying genuine significance or value ↔ meaningless" },
     { "palavra": "meaningless", "significado": "empty — without purpose, significance, or content ↔ meaningful" },
     { "palavra": "grateful", "significado": "feeling thankful — very common -ful word. Opposite: UNGRATEFUL (not 'grateless'!)" },
+    { "palavra": "ungrateful", "significado": "not feeling or expressing gratitude ↔ grateful. Note: 'grateless' does not exist in English" },
     { "palavra": "un-", "fala": "unhappy", "significado": "the most common negative prefix — attaches to adjectives and past participles: happy → unhappy, fair → unfair. Also reverses verbs: pack → unpack" },
     { "palavra": "unhappy", "significado": "not happy, feeling dissatisfaction or sadness ↔ happy" },
     { "palavra": "unfair", "significado": "not just or equal ↔ fair" },
@@ -87,10 +88,12 @@
     { "palavra": "dislike", "significado": "to feel the opposite of liking ↔ like" },
     { "palavra": "disconnect", "significado": "to break a connection ↔ connect" },
     { "palavra": "distrust", "significado": "to actively doubt or feel suspicious of someone ↔ trust" },
+    { "palavra": "encourage", "significado": "to support someone's confidence and motivation — the opposite of discourage. en- + courage" },
     { "palavra": "discourage", "significado": "to reduce someone's confidence or motivation ↔ encourage" },
     { "palavra": "disloyal", "significado": "not faithful to someone or something ↔ loyal" },
     { "palavra": "dissatisfied", "significado": "not satisfied, feeling that something was not good enough ↔ satisfied" },
     { "palavra": "invaluable", "fala": "invaluable help", "significado": "TRAP: does NOT mean 'not valuable.' Means so valuable it cannot be measured — priceless, extraordinarily important. An entirely positive word" },
+    { "palavra": "flammable", "fala": "flammable material", "significado": "catches fire easily — the same meaning as inflammable. Preferred on modern safety labels to remove any ambiguity with the in- prefix" },
     { "palavra": "inflammable", "fala": "inflammable material", "significado": "DANGER TRAP: does NOT mean 'not flammable.' Means exactly the same as flammable — catches fire easily. The in- here is Latin for 'into' (as in inflame), not the negative prefix" },
     { "palavra": "regardless", "fala": "regardless of the cost", "significado": "without being affected by something — always use this. 'Irregardless' is non-standard and redundant (regardless already contains -less)" }
   ]
