@@ -324,6 +324,7 @@ const MATERIAIS_LISTA = [
   { slug: 'ingles-familia', titulo: 'In the Family', descricao: 'Family member vocabulary, prefixes (step-, half-, great-, in-law), types of families, and relationship words.' },
   { slug: 'ingles-trabalho', titulo: 'Describing a Job', descricao: 'How to describe any job in English — conditions, environment, feelings, and duties — in opposite pairs, plus the grammar and vocabulary that make professional descriptions sound natural.' },
   { slug: 'ingles-crime', titulo: 'Crime and Justice', descricao: 'Types of crime, people in the justice system, the passive voice in news reporting, legal process vocabulary, and useful expressions.' },
+  { slug: 'ingles-ful-less', titulo: '-ful and -less: Adjective Pairs', descricao: 'Two suffixes, one system — -ful means full of and -less means without. Learn the most useful adjective pairs built from the same root, where the system breaks, and the traps.' },
   { slug: 'ingles-false-friends', titulo: 'False Friends', descricao: 'The 50 most common English words that Portuguese speakers consistently misinterpret — with explanations, context, and traps to avoid.' },
 ];
 
