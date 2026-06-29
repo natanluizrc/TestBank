@@ -1,0 +1,698 @@
+Luciano Rosa, Júlio Cardozo Aula 05
+
+QUESTÕES COMENTADAS ESTOQUES CEBRASPE
+
+1. (FGV/TCE RR/Auditor de Controle Externo/2025) Em 01/12/2024, uma loja adquiriu estoque para revenda por R$ 30.000, com pagamento previsto para quatorze meses. Caso a compra tivesse sido feita à vista, a loja teria pago R$ 28.000. A alíquota do ICMS incidente sobre a compra é de 18%. Qualquer montante relacionado ao ICMS será compensado no curto prazo.
+Assinale a opção que indica o valor contabilizado como estoque no momento da compra. A R$ 22.600. B R$ 22.960. C R$ 24.600. D R$ 28.000. E R$ 30.000.
+Comentários:
+Faremos algumas observações:
+- De acordo com o CPC 16 - Estoques, o custo do estoque compreende.
+
+Custo do estoque inclui:
+Preço de compra Impostos de importação e outros tributos (exceto recuperáveis) Custo de transportes Seguro Manuseio Custos diretamente atribuíveis
+
+Não inclui
+Tributos recuperáveis (MP: IPI, ICMS, PIS, COFINS não cumulativos. Revenda: ICMS, PIS, COFINS não cumulativos) Descontos comerciais Abatimentos
+
+- Nessa compra temos juros embutidos de R$ 2,000 (R$ 30.000 R$ 28.000). Com base nos pronunciamentos contábeis, o estoque deve ser reconhecido pelo valor à vista e os encargos devem ser reconhecidos como despesa ao longo do tempo, de acordo com o regime de competência!
+
+- Segundo a Lei Kandir, seguros, juros e demais importâncias pagas, recebidas ou debitadas, bem como descontos concedidos sob condição integram a base de cálculo do ICMS. Por sua vez, os descontos incondicionais devem ser excluídos, assim:
+
+Valor dos produtos (+) Juros = Base de Cálculo do ICMS (x) Alíquota = ICMS a recuperar
+
+R$ 28.000 R$ 2.000 R$ 30.000
+18% R$ 5.400
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+Neste quesito, o custo dos estoques é de:
+
+Preço (-) Juros (-) ICMS a recuperar Total
+
+R$ 30.000 R$ 2.000 R$ 5.400 R$ 22.600
+
+Gabarito: A
+
+A respeito da contabilização de operações contábeis diversas, julgue o item a seguir.
+2. (CEBRASPE/TRF 6ª Região/Técnico/2025) Considere que uma indústria, contribuinte do imposto sobre produtos industrializados (IPI) e do imposto sobre circulação de mercadorias e serviços (ICMS), tenha adquirido a prazo R$ 73 mil em matérias-primas para industrialização, incorrendo em R$ 10 mil de IPI e R$ 17 mil de ICMS, com frete por conta do fornecedor. Nessa situação, para espelhar a referida transação na sua contabilidade, a entidade deve contabilizar conforme apresentado a seguir. Diversos Estoque de matérias-primas R$ 73 mil IPI a recuperar R$ 10 mil ICMS a recuperar R$ 17 mil A fornecedores R$ 100 mil
+Comentários:
+Os estoques, de modo geral, compreendem tanto as mercadorias que a empresa possui para revenda quanto a matéria-prima.
+O estoque de Matérias Primas é registrado pelo valor original, e deve incluir todos os custos de aquisição, bem como outros custos incorridos para trazer os estoques à sua condição e localização atuais. Assim, o custo dos estoques de matéria-prima compreende o preço de compra, os impostos de importação e outros tributos, bem como os custos de transporte, seguro, manuseio e outros diretamente relacionados com a aquisição dos materiais.
+Nesse caso, por se tratar de matéria-prima, portanto, destinada à produção, o IPI e o ICMS são recuperáveis. Isso significa que eles não entram no valor dos estoques de MP. A pegadinha da questão é que a banca detalhou o valor pago, isto é, já trouxe o valor dos estoques líquido de tributos (incorrendo em R$ 10 mil de IPI e R$ 17 mil de ICMS).
+MP = 73.000 IPI = 10.000 ICMS = 17.000 Fornecedores = MP 73.000 + IPI 10.000 + ICMS 17.000 = 100.000
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+A contabilização é a seguinte:
+D - Estoque de MP R$ 73.000,00 D - IPI a recuperar R$ 10.000,00 D - ICMS a recuperar R$ 17.000,00 C - Fornecedores R$ 100.000
+Outra forma de lançamento, também conhecida como partida de Diário ou Lançamento Manual. A conta a palavra diversos, saiba
+que há mais de uma conta creditada ou debitada.
+Diversos Estoque de matérias-primas R$ 73 mil IPI a recuperar R$ 10 mil ICMS a recuperar R$ 17 mil a fornecedores R$ 100 mil
+Gabarito: Certo.
+
+Em relação aos aspectos contábeis das sociedades anônimas, julgue o item a seguir, com base nas normas aplicáveis no Brasil.
+3. (CEBRASPE/TRF 6ª Região/Analista/2025) Considere que, em uma economia inflacionária, uma entidade tenha realizado vendas de uma quantidade determinada de estoques de mercadorias em um período. Nesse caso, considerando que todas as demais características sejam constantes, a venda de estoques com custos avaliados pelo método do primeiro a entrar, primeiro a sair (PEPS) geraria maior lucro do exercício do que a mesma venda de estoques com custos avaliados pela média ponderada móvel.
+
+Comentários:
+
+Geralmente, temos economias inflacionárias, ou seja, onde os preços aumentam devido a inflação. Ao adotarmos o método PEPS, daremos baixar ao estoque mais antigo primeiro e esse estoque mais antigo foi mais barato. Consequentemente, o lucro obtido será maior e o montante de tributos sobre o lucro também.
+
+Método UEPS PEPS
+Média ponderada
+
+CMV Maior Menor Fica no Meio
+
+Estoque Final Menor Maior
+Fica no Meio
+
+Lucro Menor Maior Fica no Meio
+
+Permitido Não Sim Sim
+
+Mais um bizú:
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+Estoque Final (EF) CMV
+Lucro Bruto (LB)
+
+Ambiente Inflacionário EF (PEPS) > EF (Custo Médio) > EF (UEPS) CMV (PEPS) < CMV (Custo Médio) < CMV (UEPS) LB (PEPS) > LB (Custo Médio) > LB (UEPS)
+
+Gabarito: Certo
+
+4. (FGV/TRF 1ª Região/Técnico Judiciário Contabilidade/2024) Considerando-se os preceitos do CPC 16 Estoques, em um período de aumento de preços, os métodos de controle de estoque que tendem a
+resultar em um maior lucro bruto e em um maior estoque final são, respectivamente: A PEPS e PEPS; B PEPS e média ponderada; C PEPS e UEPS; D UEPS e PEPS; E UEPS e média móvel.
+
+Comentários:
+
+Em um período de aumento de preços (economia inflacionária), temos o seguinte:
+
+Estoque Final (EF) CMV
+Lucro Bruto (LB)
+
+Ambiente Inflacionário EF (PEPS) > EF (Custo Médio) > EF (UEPS) CMV (PEPS) < CMV (Custo Médio) < CMV (UEPS) LB (PEPS) > LB (Custo Médio) > LB (UEPS)
+
+Ao adotarmos o método PEPS, daremos baixar ao estoque mais antigo primeiro e esse estoque mais antigo foi mais barato. Consequentemente, o lucro obtido será maior. Já o estoque final será composto pelo estoque mais novo e esse estoque é mais caro, em razão disso o estoque final será maior no PEPS.
+Gabarito: A
+
+5. (FGV/Pref. Abreu e Lima/Técnico em Controle Interno/2024) Em 01/07/2024, uma loja de brinquedos tinha, em estoque, 7 bonecas, que haviam sido compradas por R$50,00. O preço das bonecas era de R$100,00.
+Em 10/07, a loja adquiriu 5 bonecas pelo custo unitário de R$60,00. Em 20/07, a loja realizou uma venda de 10 bonecas, por R$1.100. Assinale a opção que indica o custo das mercadorias vendidas, considerando que a loja utiliza o método PEPS para avaliar o seu estoque. A R$500. B R$530. C R$542.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+D R$550. E R$600. Comentários: Podemos resolver sem a ficha de controle de estoque. Vejam: Método = PEPS Estoque Inicial = 7 unidades a R$ 50 = R$ 350 Entradas: Compra 1 = 5 unidades a R$ 60 = R$ 300 Saídas (Vamos baixar as mercadorias mais antigas): Estoque Inicial = 7 unidades a R$ 50 = R$ 350 Compra 1 = 3 unidades a R$ 60 = R$ 180 Estoque final: Compra 1 = 2 unidades a R$ 60 = R$ 120 Assim, o custo das mercadorias vendidas será: CMV = R$ 350 + R$ 180 = R$ 530 Gabarito: B
+6. (FGV/Pref. Macaé/Auditor Municipal de Controle Interno/2024) Em 30/01/2024, uma loja de roupas de festa tinha dez vestidos em estoque. O custo do vestido era de R$800. Já o preço de venda era de R$880, sendo que, para concretizar a venda, eram gastos R$100 em um tratamento especial do vestido. Ainda, o valor justo na data era de R$790.
+Assinale a opção que indica o valor do estoque em 31/01/2024, apresentado em seu balanço patrimonial. A R$6.700. B R$7.800. C R$7.900. D R$8.000. E R$8.800. Comentários:
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor.
+Recordamos que o Valor realizável líquido é o preço de venda estimado no curso normal dos negócios deduzido dos custos estimados para sua conclusão e dos gastos estimados necessários para se concretizar a venda. Já o valor justo, é o é o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração. Esse CPC explica que o valor realizável líquido é um valor específico para a entidade e o valor justo não é.
+Realizando o teste, temos que:
+Valor de custo = R$ 800
+Valor realizável líquido = R$880 - R$100 = R$780
+Assim, vamos usar o menor desses valores, isto é, R$ 780.
+Dado que a entidade tinha dez vestidos, então o valor do estoque em 31/01/2024, apresentado em seu balanço patrimonial será de R$ 7.800.
+Gabarito: B
+7. (FGV/Pref. Cuiabá/Auditor Fiscal/2024) Uma loja vendia esteiras. Cada esteira tinha custo de R$ 2.000 e era vendida por R$ 2.500. Além disso, a loja pagava a seus vendedores uma comissão de 10% sobre o preço da venda.
+A oferecia frete grátis para os seus consumidores, de modo que era responsável por pagar pela entrega da esteira vendida. Em junho de 2024 o valor pago pela entrega de cada esteira era de R$ 200. Já em julho, devido a aumento no preço do combustível, esse valor passou para R$ 300. Assinale a opção que indica o valor unitário da esteira mensurado como estoque no balanço patrimonial da loja em 30/06/2024 e em 31/07/2024: A R$ 2.000 e R$ 1.950 B R$ 2.000 e R$ 2.000 C R$ 2.050 e R$ 1.950 D R$ 2.250 e R$ 2.250 E R$ 2.300 e R$ 2.200
+Comentários:
+No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor.
+Realizando o teste, temos que:
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Junho
+Valor de custo = R$ 2.000
+Valor realizável líquido = R$2.500 - (10% de R$2.500) - R$ 200 = R$2.500 - R$250 - R$ 200 = R$2.050
+Assim, vamos usar o menor desses valores, isto é, R$ 2.000 (Menor). Aqui já podemos eliminar as alternativas C, D e E.
+Julho (Houve aumento no preço do combustível)
+Valor de custo = R$ 2.000
+Valor realizável líquido = R$2.500 - (10% de R$2.500) - R$ 300 = R$2.500 - R$250 - R$ 300 = R$1.950
+Agora, o estoque deve ser avaliado por R$1.950 (Menor). O FIPECAFI afirma que essa prática de reduzir o custo dos estoques (writeisto é, não se deve ter registrado valores acima do que se espera realizar quando da ocorrência da venda ou do uso. Assim, vamos reconhecer a perda com impairment no resultado da empresa
+Gabarito: A
+8. (FGV/TCE-PA/Auditor de Controle Externo/2024) Em 31/12/2023, uma loja de roupas apresentava os seguintes saldos em seu balanço patrimonial: Disponibilidades: R$30.000; Capital Social: R$30.000.
+Em 05/01/2024, a loja comprou R$10.000 em estoque para revenda, à vista. A alíquota de ICMS destacada na nota fiscal era de 18%. Em 31/01/2024, a loja vendeu 80% do estoque por R$21.000, para recebimento em 3 meses. Sobre a operação, a alíquota do ICMS foi de 18%. Em 31/01/2024, considerando que não houve pagamento de ICMS, o passivo da loja era A zero. B R$540. C R$1.980. D R$2.340. E R$3.780.
+Comentários:
+O ICMS é um imposto de competência estadual, incidente sobre a circulação de mercadorias e sobre a prestação de serviços de transportes interestadual e intermunicipal, comunicações e fornecimento de energia elétrica.
+empresa adquire uma mercadoria por R$ 10.000,00 e o ICMS tem alíquota de 18%, o total da nota fiscal de compra será de R$ 10.000,00 e não R$ 11.800,00, como no caso do IPI.
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Em 05/01/2024, a loja comprou R$10.000 em estoque para revenda, à vista. A alíquota de ICMS destacada na nota fiscal era de 18%. ICMS = R$ 10.000 x 18% = R$ 1.800 Em 31/01/2024, a loja vendeu 80% do estoque por R$21.000, para recebimento em 3 meses. Sobre a operação, a alíquota do ICMS foi de 18%. ICMS = R$ 21.000 x 18% = R$ 3.780 Como a entidade possui o direito de R$ 1.800 perante o fisco, então ela não precisará pagar os R$ 3.780, mas sim a diferença:
+ICMS a recolher = R$ 3.780 R$ 1.800 = R$ 1.980 Gabarito: C
+9. (FGV/TJ SC/Analista/2024) Dora é responsável pelo controle do estoque do escritório em que trabalha. No estoque do escritório constavam, em 1 de junho, 50 unidades de determinado insumo ao preço unitário de R$20,00. No dia 12 de junho, Dora registrou que entraram no estoque mais 100 unidades do insumo, ao preço de R$25,00 por unidade. Em 25 de junho, foi registrada a saída de 60 unidades do insumo, não havendo mais entradas ou saídas do insumo do estoque no mês.
+Na situação descrita, em 30 de junho, o valor do saldo do estoque do insumo, com base no método PEPS (primeiro a entrar, primeiro a sair), era de: A R$2.050,00; B R$2.200,00; C R$2.250,00; D R$2.300,00; E R$2.500,00. Comentários: Podemos resolver sem a ficha de controle de estoque. Vejam: Método = PEPS Estoque Inicial = 50 unidades a R$ 20 = R$ 1.000 Entradas: Compra 1 = 100 unidades a R$ 25 = R$ 2.500 Saídas (Vamos baixar as mercadorias mais antigas):
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Estoque Inicial = 50 unidades a R$ 20 = R$ 1.000
+Compra 1 = 10 unidades a R$ 25 = R$ 250
+CMV = R$ 1.000 + R$ 250 = R$ 1.250
+Estoque final:
+Compra 1 = 90 unidades a R$ 25 = R$ 2.250
+Portanto, o valor do saldo do estoque do insumo, com base no método PEPS (primeiro a entrar, primeiro a sair), era de R$2.250,00
+Gabarito: C
+10. (FGV/STN/Auditor Federal de Finanças e Controle/2024) Uma livraria vende livros de contabilidade. Em janeiro de 2024, não havia livros em estoque.
+Em cada pedido realizado, a livraria incorre em frete fixo de R$100, pagos à transportadora. Além disso, o seguro corresponde a 20% do valor pago ao fornecedor. Em janeiro de 2024, a livraria realizou dois pedidos do livro Contabilidade Avançada. No primeiro, foram adquiridos 10 desses livros, por R$100 cada, e no segundo foram adquiridos 20 desses livros, por R$110 cada. Em 31/01/2024, foram vendidos 15 desses livros, por R$200. Assinale a opção que indica o lucro bruto, em 31/01/2024, considerando que a livraria controla o seu estoque de acordo com o custo médio ponderado móvel. A R$980. B R$1.015. C R$1.080. D R$1.300. E R$1.400.
+Comentários:
+Para calcular o custo médio, podemos usar a média ponderada fixa ou a média ponderada móvel:
+média ponderada fixa: calculamos a média de todas as entradas do mês e usamos esse valor para todas as saídas do mês. média ponderada móvel: Nesse caso, calculamos o custo médio vigente na data de cada venda.
+Como a entidade só realizou a venda após essas compras, então ambos dariam o mesmo valor.
+Método = MPM
+Estoque inicial: não havia
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+Compra 1: 10 unidades a R$ 100 = R$ 1.000 + frete fixo........................R$100 + seguro (20% de R$1.000) ...R$200 Total.................................... R$ 1.300 Compra 2: 20 unidades a R$ 110 = R$ 2.200 + frete fixo........................R$100 + seguro (20% de R$2.200) ...R$440 Total.................................... R$ 2.740 O custo médio será o seguinte:
+Custo Total = R$ 1.300 + R$ 2.740 = R$ 4.040 Número de Unidades = 10 + 20 = 30
+Custo Médio = R$ 4.040/30 = R$ 134,67 Houve a venda de 15 unidades, assim o lucro bruto será: Antes, recordamos que o Lucro Bruto é a diferença entre a Receita Líquida de Vendas e o Custo das Mercadorias Vendidas (CMV). Receita = 15 unidades x R$ 200 = R$ 3.000 CMV = 15 unidades x R$ 134,67 = R$ 2.020 Lucro Bruto = R$ 3.000 - R$ 2.020 = R$ 980 Gabarito: A
+
+11. (FGV/CVM/Inspetor Contabilidade e Auditoria/2024) Durante 2024, uma empresa S.A decidiu alterar o critério de valoração de seus estoques, de PEPS para custo médio ponderado. As vendas do ano foram de R$ 20 milhões e as compras totais da empresa foram de R$ 10 milhões. Os valores de estoques segundo cada critério são descritos abaixo.
+
+PEPS Custo Médio Ponderado
+
+31 de dezembro de 2023 R$ 3.000.000
+
+R$ 3.000.000
+
+31 de dezembro de 2024 R$ 4.000.000
+
+R$ 2.000.000
+
+Segundo a administração da empresa S.A., a mudança foi feita porque o método do custo médio ponderado proporciona uma melhor correspondência entre custos e receitas. Além disso, com a mudança, o método de
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+precificação de estoques da empresa será consistente com o método predominante no setor. Considerando as informações apresentadas, o lucro bruto ajustado conforme o novo critério, em 31 de dezembro de 2024, é de: A R$ 2.000,000.00; B R$ 4.000.000,00; C R$ 9.000.000,00; D R$ 11.000.000,00; E R$ 14.000.000,00. Comentários: Traduzindo: a entidade usava o PEPS e mudou para Custo médio ponderado. Assim, gostaria de saber o lucro bruto após essa mudança. O Lucro Bruto é a diferença entre a Receita Líquida de Vendas e o Custo das Mercadorias Vendidas (CMV). Receita = R$ 20.000.000 CMVMPM = Ei + Compras EF = R$ 3.000.000 + R$ 10.000.000 - R$ 2.000.000 = R$ 11.000.000 Lucro bruto MPM = R$ 20.000.000 - R$ 11.000.000 = R$ 9.000.000 Para os curiosos, vamos calcular o Lucro Bruto no método PEPS: Receita = R$ 20.000.000 CMVPEPS = Ei + Compras EF = R$ 3.000.000 + R$ 10.000.000 - R$ 4.000.000 = R$9.000.000 Lucro bruto PEPS = R$ 20.000.000 - R$9.000.000 = R$ 11.000.000 Gabarito: C
+12. (CEBRASPE/SEFAZ AC/Contador/2024) Assinale a opção em que é indicada a informação relacionada ao próprio estoque a qual deve ser levada em conta por uma companhia quando da mensuração contábil do referido item patrimonial. A valor realizável líquido B custo calculado pelo método do custeio variável C valor justo D depreciação E custo corrente Comentários:
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor.
+Recordamos que o Valor realizável líquido é o preço de venda estimado no curso normal dos negócios deduzido dos custos estimados para sua conclusão e dos gastos estimados necessários para se concretizar a venda. Já o valor justo, é o é o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração.
+Esse CPC explica que o valor realizável líquido é um valor específico para a entidade e o valor justo não é.
+Ressaltamos que a referida norma não trouxe definições para os demais termos.
+Gabarito: A
+Relativamente ao tratamento contábil de estoques, julgue o item que se segue. 13. (CEBRASPE/SEPLAG CE/Analista/2024) Com base nos custos específicos, a valoração de estoques destinados à venda que possam ser identificados individualmente, distinguindo-se uns dos outros, é recomendada nos casos em que há muitas unidades do produto nesses estoques.
+Comentários:
+Os critérios de avaliação de Estoques utilizados no Inventário Permanente são os seguintes: PEPS, UEPS, Média Ponderada (Fixa e Móvel), Custo Específico e Método do Varejo.
+O custo específico deve ser usado para itens identificados, ou para itens separados para um projeto específico. Podemos exemplificar da seguinte forma:
+Suponha que uma agência de automóveis possua 10 unidades de um determinado modelo em estoque. Três foram comprados há 6 meses, por R$ 20.000,00. Seis foram comprados na última semana, por R$ 22.000,00. O último é um carro usado, que foi aceito como parte de pagamento de um veículo novo, pelo custo de R$ 12.000,00.
+A empresa realiza a venda de quatro veículos: um que foi comprado há 6 meses, dois comprados na última semana e o veículo usado. Nesse caso, a empresa pode atribuir o custo específico de cada carro vendido.
+Ressaltamos que ele NÃO é recomendável quando há grandes quantidades de itens de estoque que sejam geralmente intercambiáveis, a identificação específica de custos não é apropriada.
+Adendo! Itens intercambiáveis são itens que podem ser trocados por outro plenamente e não haverá problema. Por exemplo, no estoque de fruta podemos trocar laranja por laranja, açaí por açaí, morango por morango, sem problemas. Já os itens não intercambiáveis são itens específicos. Imagine um avião de modelo específico, por exemplo, não podemos trocar um BOEING 737 por um 747.
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Gabarito: Errado
+14. (CEBRASPE/SEFAZ AC/Contador/2024) O ICMS incidente sobre a aquisição de mercadoria para revenda implica o reconhecimento contábil, no ato da compra, de A um passivo. B um item classificado em outros resultados abrangentes. C uma despesa. D um ativo representativo de um estoque. E um ativo representativo de um direito. Comentários: De acordo com o CPC 16 - Estoques, tributos recuperáveis junto ao Fisco não devem ser incluídos no custo dos estoques. A questão fala que uma entidade adquiriu mercadorias para revenda com a incidência de ICMS e, nesse caso, o tributo é recuperável. Em razão disso, no ato da compra, ocorre o reconhecimento contábil de um ativo representativo de um direito. Gabarito: E
+No que diz respeito ao conceito e ao tratamento de itens patrimoniais ativos e passivos, julgue o item que segue. 15. (CEBRASPE/STJ/Analista/2024) O montante dos estoques registrados no balanço não pode exceder o valor de realização desses ativos, devendo ser adotado o menor desses dois valores caso o valor do custo seja superior ao valor de mercado. Comentários: Parte 1 - O montante dos estoques registrados no balanço não pode exceder o valor de realização desses ativos O FIPECAFI afirma que essa prática de reduzir o custo dos estoques (write-off) ao valor realizável líquido é
+espera realizar quando da ocorrência da venda ou do uso. Parte 1 está certa. Parte 2 - devendo ser adotado o menor desses dois valores caso o valor do custo seja superior ao valor de mercado. No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor. Então, professores, posso considerar que Valor de Mercado e Valor Realizável Líquido são sinônimos?
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+A resposta é NÃO!!! O valor realizável líquido, meus queridos, é específico, peculiar de cada entidade, não é padronizado, definido para um grupo de entidades, mesmo que sejam entidades semelhantes, de um mesmo segmento.
+Imagine que duas empresas adquiram o mesmo modelo de máquina XYZ para utilização na produção e decidam vendê-la, após determinado período.
+É provável que cada empresa tenha gastos específicos para efetivar a venda, custos de desmontagem, de divulgação da venda, e assim sendo, podemos entender que cada uma terá um valor líquido de venda. Percebe que esse valor é ESPECÍFICO da entidade, pois será fruto de variáveis específicas que cada entidade possui?
+De outro modo, o Valor Justo não é específico para casa entidade, pois é um valor externo, ou seja, valor de mercado.
+Esquematizemos:
+
+Valor Realizável Líquido
+CPC 16
+Valor de Venda - Gastos Necessários Específico para a entidade (considera
+suas características)
+
+Valor de Mercado
+Lei 6404/76
+Valor Externo É um valor de mercado
+
+Parte 2 está errada, pois a banca trocou valor realizável líquido por valor de mercado . Gabarito: Errado
+
+Relativamente ao tratamento contábil de estoques, julgue o item que se segue. 16. (CEBRASPE/SEPLAG CE/Analista/2024) A equação que sintetiza a lógica do inventário permanente estabelece que o custo da mercadoria vendida é igual ao montante do estoque inicial adicionado às compras e subtraído do montante do estoque final.
+Comentários:
+O controle de estoques pode ser feito através do inventário permanente ou do inventário periódico.
+Inventário permanente: empresa controla o estoque de forma contínua, dando baixa em cada operação de venda. Ele utiliza os seguintes critérios: PEPS, UEPS, Média Ponderada (Fixa e Móvel), Custo Específico e Método do Varejo.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Inventário periódico: os estoques são avaliados na data do balanço, através do inventário físico. Vejam. Não há lançamento operação por operação. Apenas na data de encerramento é que apuramos o estoque para ver o saldo. Para calcular o valor do Custo das Mercadorias Vendidas, usamos a fórmula:
+CMV = Estoque inicial + Compras Estoque final.
+Observa-se que o quesito descreveu o inventário periódico, mas atribuiu ao permanente. Corrigindo, fica assim: a equação que sintetiza a lógica do inventário PERÍODICO estabelece que o custo da mercadoria vendida é igual ao montante do estoque inicial adicionado às compras e subtraído do montante do estoque final.
+Gabarito: Errado
+Em referência à mensuração e à avaliação de itens patrimoniais ativos, julgue o item subsequente. 17. (CEBRASPE/PGM Mossoró/Analista/2024) O melhor critério para avaliação de estoques em empresas que comercializem produtos homogêneos é o custo específico.
+Comentários:
+Quando há grandes quantidades de itens de estoque que sejam homogêneos (intercambiáveis), a identificação específica de custos não é apropriada. Em tais circunstâncias, podemos utilizar o critério Primeiro a Entrar, Primeiro a Sair (PEPS) ou pelo critério do custo médio ponderado.
+Ressaltamos que a entidade deve usar o mesmo critério de custeio para todos os estoques que tenham natureza e uso semelhantes para a entidade. Já os tenham outra natureza ou uso, podem justificar-se diferentes critérios de valoração.
+Gabarito: Errado
+No que se refere ao ativo imobilizado e ao ativo intangível, julgue o próximo item. 18. (CEBRASPE/TSE/Analista/2024) Considere que uma indústria tenha adquirido um lote significativo de determinado componente para seu principal produto e que, decorridos alguns meses, um novo componente, com tecnologia mais avançada, tenha chegado ao mercado, tornando mais difícil a venda de produtos fabricados com o componente anterior. Considere, ainda, que, em função disso, a indústria tenha estimado a necessidade de aplicar um desconto para facilitar a venda do produto final com o componente anterior. Nessa situação, o critério do custo ou do valor de mercado, dos dois o menor, deverá ser aplicado, podendo implicar o reconhecimento de uma perda de valor do estoque de produto final.
+Comentários:
+No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor.
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+O FIPECAFI afirma que essa prática de reduzir o custo dos estoques (write-off) ao valor realizável líquido é
+espera realizar quando da ocorrência da venda ou do uso.
+Assim, vamos reconhecer a perda com impairment no resultado da empresa.
+O quesito tornou-se errado ao trocar valor realizável líquido por valor de mercado .
+Gabarito: Errado
+19. (CEBRASPE/SEFAZ AC/Auditor/2024) Assinale a opção que corresponde aos ativos que, de acordo com os pronunciamentos técnicos do Comitê de Pronunciamentos Contábeis (CPC), devem ser mensurados escolhendo-se o menor valor entre o seu custo de aquisição e o seu valor realizável líquido. A instrumentos financeiros B propriedades para investimento C itens do ativo imobilizado D itens do ativo intangível E mercadorias para revenda
+Comentários:
+O CPC 16 afirma que os estoques devem ser avaliados pelo custo ou pelo valor realizável líquido, dos dois o MENOR, vejam:
+Mensuração de estoque
+9. Os estoques objeto deste Pronunciamento devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor.
+Ressaltamos que os demais temas fogem do escopo da aula.
+Gabarito: E
+20. (CEBRASPE/SEFAZ AC/Contador/2024) No início do mês de março de 2023, uma empresa comercial típica possuía em estoque 10 calças contabilizadas pelo valor total de R$ 1.600,00. Durante o referido mês, a empresa adquiriu um lote com mais 10 unidades. O valor total da nota fiscal foi de R$ 2.090,00, e nela foi informada a aplicação da alíquota de IPI de 10% sobre o preço das mercadorias. O ICMS da operação foi calculado pela alíquota de 18%. Após realização do inventário no final do mês, constatou-se a existência de 8 calças em estoque. Foi utilizada a média ponderada para fins de cálculo do custo da mercadoria vendida. Na situação hipotética em apreço, o valor do estoque, em 31 de março de 2023, e o custo da mercadoria vendida, em março de 2023, foram, respectivamente, A R$ 1.263,20 e R$ 1.894,80.
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+B R$ 1.324,00 e R$ 1.986,00. C R$ 1.339,20 e R$ 2.008,80. D R$ 1.400,00 e R$ 2.100,00. E R$ 1.460,00 e R$ 2.191,20.
+
+Comentários:
+
+Faremos algumas observações:
+
+- A mercadoria foi adquirida pelo preço, mas, por determinação do CPC 16 Estoques, temos que retirar o ICMS do custo dos estoques, pois trata-se de um tributo recuperável.
+
+- O quesito informou que foi adotado o método da média ponderada. Para calcularmos o custo médio temos que somar o valor total dos estoques e dividir pelo número de unidades. Vamos lá:
+
+Parte 1 - No início do mês de março de 2023, uma empresa comercial típica possuía em estoque 10 calças contabilizadas pelo valor total de R$ 1.600,00.
+
+EI = 10 X R$ 160 = R$ 1.600
+
+Parte 2 - Durante o referido mês, a empresa adquiriu um lote com mais 10 unidades. O valor total da nota fiscal foi de R$ 2.090,00, e nela foi informada a aplicação da alíquota de IPI de 10% sobre o preço das mercadorias. O ICMS da operação foi calculado pela alíquota de 18%.
+
+O quesito informou o seguinte: uma empresa comercial, destinada à revenda de calças, adquire do fabricante. Neste caso, o IPI não é recuperável. Vejam. Estamos comprando mercadoria de uma indústria para revender. Como se trata de mercadoria destinada à comercialização, o IPI não entra na base de cálculo do ICMS.
+
+Outro detalhe, o quesito informou o valor da nota fiscal. Tal valor já inclui o IPI e o ICMS.
+
+Dica: para retirarmos o
+
+do valor total da nota fiscal basta pegarmos o valor da nota
+
+fiscal e dividirmos por (1 + alíquota), vejam:
+
+ICMS recuperável = Base Cálculo x Alíquota = R$ 1.900 x 18% = R$ 342 O valor do estoque é: Nota Fiscal - ICMS a recuperar = R$ 2.090 - R$ 342 = R$ 1.748 Compras 1 = 10 unidades x R$ 174,80 = 1.748 Até agora temos o estoque inicial e uma compra. O custo médio será o seguinte:
+Custo Total = R$ 1.600 + R$ 1.748 = R$ 3.348
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Número de Unidades = 10 + 10 = 20 Custo Médio = R$ 3.348/20 = R$ 167,40 Parte 3 - Após realização do inventário no final do mês, constatou-se a existência de 8 calças em estoque. EF = 8 unidades x 167,40 = 1.339,20 CMV = (20 unidades 8 unidades) x Custo médio = 12 unidades x R$ 167,40 = R$ 2.008,80 Gabarito: C
+21. (FGV/ALE TO/Analista Legislativo Ciências Contábeis/2024) Em 01/02/2024, uma loja de celulares tinha em seu estoque 2 unidades do modelo X. O estoque estava contabilizado por R$2.000.
+Em fevereiro, a loja adquiriu mais unidades do modelo X, do seguinte modo: 10/02:.................Compra à vista de 4 unidades, por R$1.100 cada. 15/02:............... Compra a prazo de 3 unidades, por R$1.200 cada. 22/02:.................Compra à vista de 6 unidades, por R$1.300 cada. Em fevereiro, não houve vendas do modelo X. Em março, foram vendidas 10 unidades do celular por R$2.000 cada. Assinale a opção que indica o lucro bruto da loja, considerando que ela utiliza o método PEPS para controle de estoque. A R$8.100. B R$8.400. C R$8.700. D R$9.100. E R$10.000. Comentários: O Lucro Bruto é a diferença entre a Receita Líquida de Vendas e o Custo das Mercadorias Vendidas (CMV).
+Receita = 10 unidades a R$ 2.000 = R$ 20.000
+CMV Podemos resolver sem a ficha de controle de estoque. Vejam: Método = PEPS Estoque Inicial = 2 unidades a R$ 1.000 = R$ 2.000
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Entradas: Compra 1 = 4 unidades a R$ 1.100 = R$ 4.400 Compra 2 = 3 unidades a R$ 1.200 = R$ 3.600 Compra 3 = 6 unidades a R$ 1.300 = R$ 7.800 Saídas (Vamos baixar as mercadorias mais antigas): Estoque Inicial = 2 unidades a R$ 1.000 = R$ 2.000 Compra 1 = 4 unidades a R$ 1.100 = R$ 4.400 Compra 2 = 3 unidades a R$ 1.200 = R$ 3.600 Compra 3 = 1 unidades a R$ 1.300 = R$ 1.300 Assim, o custo das mercadorias vendidas será R$ 11.300. Estoque final: Compra 3 = 5 unidades a R$ 1.300 = R$ 6.500 Portanto, o lucro bruto da loja, considerando que ela utiliza o método PEPS para controle de estoque é: Lucro bruto PEPS = R$ 20.000 - R$ 11.300 = R$ 8.700 Gabarito: C
+22. (FGV/Câmera dos Deputados/Analista Legislativo/2024) Uma loja começou suas operações de vendas de lustres em 01/01/2023.
+Na data, ela adquiriu 40 lustres por R$4.000 à vista. O preço unitário de venda do lustre era de R$150,00. 30 lustres ficaram guardados no interior da loja, enquanto o restante foi exposto na loja. Enquanto não eram vendidos, estes 10 lustres eram utilizados para iluminação, já que não havia outra fonte de luz na loja. Assinale a opção que indica a apresentação dos lustres no balanço patrimonial da loja. A Ativo circulante: R$4.000. B Ativo circulante: R$6.000. C Ativo circulante: R$3.000; Ativo imobilizado: R$1.000. D Ativo circulante: R$4.500; Ativo imobilizado: R$1.500. E Ativo circulante: R$3.000; ativo realizável a longo prazo: R$1.000.
+Comentários: Trata-se de lustres mantidos para venda no curso normal dos negócios, isto é, são estoques. O fato dele está em uso não descaracteriza sua essência. Dificilmente, eles ficariam sendo utilizados por mais de um período
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+(requisito do imobilizado) ou realizaria após o término do exercício seguinte (requisito do ANC - Realizável a longo prazo). Com base nisso, já podemos eliminar as alternativas C, D e E. Como a banca é a FGV, por precaução, vamos realizar o teste: Valor de custo = R$ 4.000/40 unidades = R$ 100 Valor realizável líquido = R$ 150 Assim, vamos usar o menor desses valores, isto é, R$ 100 (Menor). Observa-se que continuam totalizando R$ 4.000. Enfim, apresentação dos lustres no balanço patrimonial da loja é a seguinte: Ativo circulante: R$4.000. Gabarito: A
+23. (FGV/ALEP/Contador/2024) Uma loja de material de construção controla o seu estoque exclusivamente através de contagem física, realizada trimestralmente, antes da elaboração das demonstrações contábeis trimestrais.
+Pode-se afirmar que a loja controla o seu estoque por meio do inventário A padrão. B periódico. C ponderado. D permanente. E de observação. Comentários: O controle de estoques pode ser feito através do inventário permanente ou do inventário periódico. Inventário permanente: empresa controla o estoque de forma contínua, dando baixa em cada operação de venda. Ele utiliza os seguintes critérios: PEPS, UEPS, Média Ponderada (Fixa e Móvel), Custo Específico e Método do Varejo. Inventário periódico: os estoques são avaliados na data do balanço, através do inventário físico. Vejam. Não há lançamento operação por operação. Apenas na data de encerramento é que apuramos o estoque para ver o saldo. Para calcular o valor do Custo das Mercadorias Vendidas, usamos a fórmula:
+CMV = Estoque inicial + Compras Estoque final. Observa-se que o quesito descreveu o inventário periódico. Gabarito: B
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+24. (FGV/ALEP/Contador/2024) Em 01/09/2023 uma loja de material escolar adquiriu 100 cadernos para revenda por R$12 cada. No mês, cada caderno era vendido por R$16. Em outubro, o caderno passou a ser vendido por R$10. Já em novembro, o preço do caderno passou para R$18. Neste mês, todos os cadernos foram vendidos.
+Em relação ao reconhecimento da despesa com a redução do estoque para o valor realizável líquido na Demonstração do Resultado do Exercício da loja, assinale a opção correta. A É reconhecida em setembro, que representa o mês em que os cadernos foram comprados. B É reconhecida em outubro, que representa o mês seguinte à compra dos cadernos. C É reconhecida em outubro, que representa o mês em que a redução do valor ocorreu. D É reconhecida em novembro, que representa o mês em que a reversão é observada. E É reconhecida em novembro, que representa o mês em que a receita com a venda é contabilizada. Comentários: No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor. Realizando o teste, temos que: Setembro Valor de custo = R$ 12 Valor realizável líquido = 16 Assim, vamos usar o menor desses valores, isto é, 12(Menor). Aqui já podemos eliminar a alternativa A. Outubro (Houve diminuição do preço do caderno) Valor de custo = R$ 12 Valor realizável líquido = R$10 Agora, o estoque deve ser avaliado por R$10 (Menor). Percebam que houve redução do valor de venda dos estoques, portanto, devemos reconhecer esse ajuste, chamado nos CPCs de (write-down). Já podemos marcar a letra C como gabarito. Outubro (Houve aumento do preço do caderno) Valor contábil = R$ 10 Valor de custo = R$ 12 Valor realizável líquido = R$18
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Agora, o estoque deve ser avaliado por R$12 (Menor). Aqui temos outro detalhe importante, pessoal. Houve aumento do preço de venda, portanto, temos que reverter a perda por ajuste ao valor realizável de períodos anteriores. Contudo, o valor dos estoques agora não será R$ 10, mas R$ 12, pois esse é o valor que os estoques seriam caso nenhuma perda tivesse sido reconhecida.
+Diante do exposto, julguemos as alternativas:
+A É reconhecida em setembro, que representa o mês em que os cadernos foram comprados.
+Errado, pois devemos reconhecer a perda no próprio mês que ocorreu. No caso, foi outubro.
+B É reconhecida em outubro, que representa o mês seguinte à compra dos cadernos.
+Realmente, foi em outubro. Todavia a justificativa está errada conforme explicação da letra A.
+C É reconhecida em outubro, que representa o mês em que a redução do valor ocorreu.
+Esse é o nosso gabarito.
+D É reconhecida em novembro, que representa o mês em que a reversão é observada.
+Errado, pois em novembro vamos reconhecer a reversão (receita) e não a despesa.
+E É reconhecida em novembro, que representa o mês em que a receita com a venda é contabilizada.
+Errado, pois devemos reconhecer a perda no próprio mês que ocorreu. No caso, foi outubro.
+Gabarito: C
+25. (FGV/CM Fortaleza/Contador/2024) Em dezembro de 2023, uma loja de esportes adquiriu raquetes para revender. O preço unitário da raquete era R$500, no entanto, como a loja comprou em grande quantidade, obteve um desconto de 10%. A raquete foi colocada à venda por R$600.
+Em janeiro de 2024, observou-se um aumento de popularidade no esporte e a loja averiguou que o seu fornecedor estava vendendo cada raquete por R$580, caso precisasse repor o estoque. Deste modo, a loja aumentou o preço para R$700. Em 31/01/2024, havia 10 raquetes em estoque. Nesta data, o estoque de raquetes estava contabilizado no balanço patrimonial por A R$4.500. B R$5.000. C R$5.800. D R$6.000. E R$7.000.
+Comentários:
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+De acordo com o CPC 16 - Estoques, o custo do estoque compreende.
+
+Custo do estoque inclui:
+Preço de compra Impostos de importação e outros tributos (exceto recuperáveis) Custo de transportes Seguro Manuseio Custos diretamente atribuíveis
+
+Não inclui
+Tributos recuperáveis (MP: IPI, ICMS, PIS, COFINS não cumulativos. Revenda: ICMS, PIS, COFINS não cumulativos) Descontos comerciais Abatimentos
+
+Preço (-) Desconto Total
+
+R$ 500 R$ 50 R$ 450
+
+No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor.
+
+Valor Custo = R$ 450
+
+Valor realizável líquido dezembro/23 = R$600
+
+Valor realizável líquido janeiro/23 = R$700
+
+Observa-se que o valor realizável líquido se manteve maior, assim não há ajuste a valor realizável.
+
+Como não houve novas compras e havia 10 raquetes em estoque em 31/01/2024, então o estoque de estava contabilizado no balanço patrimonial por R$4.500 (R$450 x 10 unidades)
+
+Gabarito: A
+
+Julgue o item a seguir, relativo a operações contábeis diversas. 26. (CEBRASPE/CODEVASF/Analista Contabilidade/2024) Considere que uma entidade comercial adquira uma mercadoria para revenda tributada pelo ICMS e pelo IPI e que o valor do ICMS recuperável seja de R$ 9.000; considere, também, que, dias depois, essa mercadoria seja vendida a um cliente, com ICMS de R$ 12.600, sendo apurado o ICMS a recolher. Nessa hipótese, essas transações geram um débito e um crédito na conta de ICMS a recuperar, no valor de R$ 9.000, e um crédito de R$ 12.600 na conta de ICMS a recolher.
+Comentários:
+Vejamos a contabilização completa:
+No momento da compra:
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+D Estoques D ICMS a recuperar 9.000 C Fornecedores
+
+No momento da venda:
+
+- Reconhecimento da receita
+
+D Clientes C - Receita de Vendas
+
+- Baixa no estoque
+
+D CMV C Estoques
+
+- Tributação
+
+D ICMS s/ vendas 12.600 C ICMS a recolher 12.600
+
+Apuração do ICMS: devemos confrontar o saldo das duas contas de ICMS (a recuperar x a recolher).
+
+ICMS a recuperar = R$ 9.000,00 < ICMS a recolher = R$ 12.600,00
+
+Então, vamos transferir o saldo do passivo (ICMS a recolher) para o ativo (ICMS a recuperar):
+
+D ICMS a recolher (passivo) C ICMS a recuperar (Ativo)
+
+9.000,00 9.000,00
+
+Como a entidade possui o direito de R$ 9.000 perante o fisco, então ela não precisará pagar os R$ 12.600, mas sim a diferença:
+
+ICMS a recolher = R$ 12.600 R$ 9.000 = R$ 3.600
+
+Pelo recolhimento:
+
+D ICMS a Recolher C Caixa/bancos
+
+3.600 3.600
+
+Enfim, o quesito afirmou que essas transações provocaram um débito e um crédito de R$ 9.000 na conta de ICMS a recuperar. Realmente, houve um débito no momento da aquisição do estoque e um crédito quando da apuração. Também afirmou que essas transações provocaram um crédito de R$ 12.600 na conta ICMS a recolher, isto de fato ocorreu no momento da venda da mercadoria.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Ressaltamos que ocorreram também débito de R$9.000 na conta ICMS a recolher e posteriormente, no momento do recolhimento, um débito de R$ 3.600. Todavia, para questões certo/errado do Cebraspe, um item incompleto não é errado.
+Gabarito: Certo
+27. (CEBRASPE/Especialista em Regulação/ANTT/2024) Se uma empresa adiantou cinquenta mil reais, via transferência bancária, a um de seus fornecedores para acelerar a produção de determinada mercadoria, então, nessas condições, a empresa deverá registrar o valor adiantado como um direito, em conta de adiantamento a fornecedores, ou similar, contra a respectiva conta bancária utilizada.
+Comentários:
+Item correto, a concessão de um adiantamento a fornecedores de mercadorias, gera um direito, contabilizado no ativo. Contabilização desse evento?
+D - Adiantamentos a Fornecedores (ativo circulante) C - Bancos
+Gabarito: Certo
+À luz da legislação societária e dos pronunciamentos do CPC, julgue o item seguinte. 28. (CEBRASPE/CAU BR/Técnico/2024) Estoques de mercadorias para revenda devem ser evidenciados no
+balanço patrimonial pelo seu valor justo.
+Comentários:
+Errado, de acordo com o CPC 16, os estoques devem ser avaliados pelo valor de custo ou valor realizável líquido, dos dois o menor. Portanto, é errada a afirmação que diz esses itens serão avaliados pelo valor justo.
+Gabarito: Errado
+29. (CEBRASPE/ITAIPU/Contador/2024) Na apuração do valor realizável líquido de um estoque em elaboração, é levado em conta o preço de venda estimado no curso normal dos negócios deduzido dos gastos necessários para a realização da venda. Além dessas informações, devem ser considerados, para a referida apuração, os custos
+a) estimados de reinvestimento. b) de oportunidade. c) de gestão da entidade. d) estimados de conclusão. e) de reposição de estoques.
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Comentários:
+O CPC 16 - Estoques afirma que valor realizável líquido é o preço de venda estimado no curso normal dos negócios deduzido dos custos estimados para sua conclusão e dos gastos estimados necessários para se concretizar a venda.
+Gabarito: D
+30. (FGV/Auditor Fiscal de Tributos Municipais/SJC/2024) Em 01/01/2023, uma loja adquiriu 100 unidades de mochilas para revenda, por R$8.500.
+No primeiro semestre de 2023, 30 mochilas foram vendidas, por R$110, cada. Em 01/07/2023, o preço de venda da mochila era R$90, sendo que, para concretizar a venda, eram estimados gastos necessários de 10% do preço. Assinale a opção que indica o valor do estoque apresentado no balanço patrimonial da loja em 31/12/2023, considerando que não houve vendas no segundo semestre. a) R$5.355. b) R$5.670. c) R$5.950. d) R$6.300. e) R$6.930.
+Comentários:
+Para resolvermos essa questão, precisamos lembrar que os estoques, de acordo com o CPC 16, são avaliados pelo valor de custo ou valor realizável líquido, dos dois o menor.
+A questão fala que, em 01/01/2023, uma loja adquiriu 100 unidades de mochilas para revenda, por R$8.500, ou seja, custo unitário de 8.500/100 = R$ 85.
+No primeiro semestre de 2023, 30 mochilas foram vendidas, por R$110, cada, então, temos ainda no estoque 70 unidades avaliadas a 85, ou seja, 70 x 85 = R$ 5.950.
+Em 01/07/2023, o preço de venda da mochila era R$90, sendo que, para concretizar a venda, eram estimados gastos necessários de 10% do preço. Isso significa que o valor realizável líquido das mochilas era de 90 90*10% = R$ 81.
+Portanto, o custo dos estoques era de R$ 85, mas o valor realizável líquido era inferior, R$ 81.
+Assim sendo, o valor contábil dos estoques ao final do exercício será de 81 x 70 = R$ 5.670. Portanto, nosso gabarito é B.
+Observações: não seria necessário para resolver a questão, mas, para fins de aprimoramento, vamos -
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+O valor de custo dos estoques era de R$ 85, mas o valor realizável era de R$ 81, portanto, temos que reconhecer uma perda de R$ 4/unidade. Como tínhamos 70 unidades em estoque, a perda será de R$ 280.
+
+A contabilização aplicável será:
+
+D Despesa com Ajuste ao Valor Realizável dos estoques (resultado) C - Ajuste ao Valor Realizável dos estoques (retificadora do ativo)
+
+R$ 280 R$ 280
+
+No balanço patrimonial, esse grupo patrimonial será apresentado da seguinte maneira:
+
+Ativo Estoques (-) Ajuste ao Valor Realizável dos estoques (retificadora do ativo) Valor Líquido
+
+R$ 5.950 R$ 280 R$ 5.670
+
+Gabarito: B
+
+31. (FGV/Receita Federal/Analista-Tributário/2023) Na contabilização do estoque de uma entidade do setor industrial, os gastos com armazenamento foram incluídos no valor dos estoques, reconhecidos no ativo. Em relação a esses gastos, pode-se afirmar que (A) foram pagos à vista. (B) seu montante é considerado material, frente ao custo das mercadorias. (C) foram incorridos para trazer os estoques à sua condição e localização atuais. (D) foram necessários ao processo produtivo entre uma e outra fase de produção. (E) deverão ser amortizados mensalmente, com base na vida útil estimada do estoque.
+Comentários:
+Com relação à armazenagem, ocorre a seguinte distinção: quando a empresa compra matéria prima, pode ser necessário armazená-la por algum tempo, antes de utilizá-la na produção. Tais gastos com armazenagem são incluídos no custo da produção.
+Mas, quando uma empresa adquire mercadoria, os gastos com armazenagem são considerados despesas. Pois a mercadoria já está pronta, já foi produzida.
+Lembra-se da regra geral?
+
+Todos os gastos incorridos para a colocação do ativo em condições de uso (equipamentos, matérias-primas, ferramentas, etc) ou em condições de venda (mercadoria, etc) incorporam o valor desse mesmo ativo. (Eliseu Martins, op.cit.)
+
+As mercadorias adquiridas já estão em condição de venda, quando chegam à empresa. O tempo de estocagem não ocorre para colocá-las em condições de venda. Portanto, tais gastos vão para a despesa.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+Esquematizemos:
+
+ARMAZENAGEM
+
+Matéria - Prima
+Mercadoria ou Produto Acabado
+
+CUSTOS DESPESA
+
+Destacamos que o quesito foi na literalidade do CPC 16:
+15. Outros custos que não de aquisição nem de transformação devem ser incluídos nos custos dos estoques somente na medida em que sejam incorridos para colocar os estoques no seu local e na sua condição atuais. Por exemplo, pode ser apropriado incluir no custo dos estoques gastos gerais que não sejam de produção ou os custos de desenho de produtos para clientes específicos.
+16. Exemplos de itens não-incluídos no custo dos estoques e reconhecidos como despesa do período em que são incorridos:
+(a) valor anormal de desperdício de materiais, mão-de-obra ou outros insumos de produção;
+(b) gastos com armazenamento, a menos que sejam necessários ao processo produtivo entre uma e outra fase de produção;
+(c) despesas administrativas que não contribuem para trazer o estoque ao seu local e condição atuais; e
+(d) despesas de comercialização, incluindo a venda e a entrega dos bens e serviços aos clientes.
+Diante do exposto, quanto aos gastos com armazenagem de produto, normalmente não entra, a não ser que seja gasto com armazenagem em fase de processo, aguardando próxima etapa.
+Gabarito: D
+32. (FGV/Receita Federal/Analista-Tributário/2023) O custo dos estoques de bens ou serviços produzidos e segregados para projetos específicos deve ser atribuído pelo uso (A) do custo médio ponderado fixo. (B) do custo médio ponderado móvel. (C) do último que entra, primeiro que sai. (D) do primeiro que entra, primeiro que sai. (E) da identificação específica dos custos individuais.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Comentários:
+O custo específico deve ser usado para itens identificados, ou para itens separados para um projeto específico. Podemos exemplificar da seguinte forma:
+Suponha que uma agência de automóveis possua 10 unidades de um determinado modelo em estoque. Três foram comprados há 6 meses, por R$ 20.000,00. Seis foram comprados na última semana, por R$ 22.000,00. O último é um carro usado, que foi aceito como parte de pagamento de um veículo novo, pelo custo de R$ 12.000,00.
+A empresa realiza a venda de quatro veículos: um que foi comprado há 6 meses, dois comprados na última semana e o veículo usado. Nesse caso, a empresa pode atribuir o custo específico de cada carro vendido.
+Isso é previsto no CPC 16:
+Critérios de valoração de estoque
+23. O custo dos estoques de itens que não são normalmente intercambiáveis e de bens ou serviços produzidos e segregados para projetos específicos deve ser atribuído pelo uso da identificação específica dos seus custos individuais.
+24. A identificação específica do custo significa que são atribuídos custos específicos a itens identificados do estoque. Este é o tratamento apropriado para itens que sejam segregados para um projeto específico, independentemente de eles terem sido comprados ou produzidos. Porém, quando há grandes quantidades de itens de estoque que sejam geralmente intercambiáveis, a identificação específica de custos não é apropriada. Em tais circunstâncias, um critério de valoração dos itens que permanecem nos estoques deve ser usado.
+Adendo! Itens intercambiáveis são itens que podem ser trocados por outro plenamente e não haverá problema. Por exemplo, no estoque de fruta podemos trocar laranja por laranja, açaí por açaí, morango por morango, sem problemas. Já os itens não intercambiáveis são itens específicos. Imagine um avião de modelo específico, por exemplo, não podemos trocar um BOEING 737 por um 747.
+Gabarito: E
+33. (FGV/Receita Federal/Auditor Fiscal/2023) Uma entidade vende canetas personalizadas. Em 01/01/X0, não havia estoque. Em 02/01/X0, ela adquiriu 500 unidades de canetas para personalização e venda por R$6.000, para pagamento em 3 meses. Se as canetas tivessem sido adquiridas à vista, o custo unitário seria de R$10,00. Na data da aquisição, a entidade incorreu em gastos com frete e seguro, respectivamente, de R$800 e R$700. Para a personalização das 500 canetas são gastos R$1.000 em material. Além disso, é utilizada uma máquina que foi adquirida por R$10.000 e tem capacidade estimada em 5.000 canetas. A máquina é depreciada de acordo com o método dos benefícios gerados e a entidade não considera valor residual. Ainda, os gastos com o armazenamento das 500 canetas prontas eram de R$1.500. Após prontas, 50 canetas foram descartadas, por estarem com qualidade inferior ao esperado.
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+Em 31/01/X0, as canetas foram colocadas à venda por R$20,00. A entidade destina aos vendedores uma comissão de 10% sobre o preço de venda. Assinale a opção que indica o valor contabilizado como estoque em 31/01/X0. (A) R$5.850. (B) R$6.750. (C) R$7.650. (D) R$8.100. (E) R$9.000.
+Comentários:
+Sobre custo dos estoques, o CPC 16 - Estoques nos apresenta o seguinte:
+11. O custo de aquisição dos estoques compreende o preço de compra, os impostos de importação e outros tributos (exceto os recuperáveis junto ao fisco), bem como os custos de transporte, seguro, manuseio e outros diretamente atribuíveis à aquisição de produtos acabados, materiais e serviços. Descontos comerciais, abatimentos e outros itens semelhantes devem ser deduzidos na determinação do custo de aquisição. (NR) (Nova Redação dada pela Revisão CPC nº. 1, de 8/01/2010)
+Vamos rever o nosso esquema:
+
+Custo do estoque inclui:
+Preço de compra Impostos de importação e outros tributos (exceto recuperáveis) Custo de transportes Seguro Manuseio Custos diretamente atribuíveis
+
+Não inclui
+Tributos recuperáveis (MP: IPI, ICMS, PIS, COFINS não cumulativos. Revenda: ICMS, PIS, COFINS não cumulativos) Descontos comerciais Abatimentos
+
+Agora, o mesmo CPC nos apresenta alguns gastos que não são incluídos no custo dos estoques:
+16. Exemplos de itens não incluídos no custo dos estoques e reconhecidos como despesa do período em que são incorridos:
+(a) valor anormal de desperdício de materiais, mão-de-obra ou outros insumos de produção;
+(b) gastos com armazenamento, a menos que sejam necessários ao processo produtivo entre uma e outra fase de produção;
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+(c) despesas administrativas que não contribuem para trazer o estoque ao seu local e condição atuais; e
+(d) despesas de comercialização, incluindo a venda e a entrega dos bens e serviços aos clientes
+
+Agora, analisemos as informações:
+
+Uma entidade vende canetas personalizadas. Em 01/01/X0, não havia estoque.
+
+Estoque inicial = 0
+
+Em 02/01/X0, ela adquiriu 500 unidades de canetas para personalização e venda por R$6.000, para pagamento em 3 meses. Se as canetas tivessem sido adquiridas à vista, o custo unitário seria de R$10,00.
+
+O CPC 16 Estoque afirma que a entidade geralmente compra estoques com condição para pagamento a prazo. A negociação pode efetivamente conter um elemento de financiamento, como, por exemplo, uma diferença entre o preço de aquisição em condição normal de pagamento e o valor pago; essa diferença deve ser reconhecida como despesa de juros durante o período do financiamento.
+
+Em síntese, a mercadoria tem que ser registrada pelo preço à vista. Os juros são registrados como encargos a transcorrer.
+
+500 unidades x 10 reais = 5.000 reais
+
+Contabilização:
+
+D Estoques D Despesas Financeiras a apropriar C Fornecedores
+
+R$ 5.000,00 (500 unidades x R$ 10) R$ 1.000,00 (R$ 6.000 - R$ 5.000) R$ 6.000,00
+
+Na data da aquisição, a entidade incorreu em gastos com frete e seguro, respectivamente, de R$800 e R$700.
+
+Tanto o frete sobre a compra quanto o seguro sobre compra são agregados ao custo do estoque.
+
+Contabilização:
+
+D Estoques C Disponibilidades
+
+R$ 1.500,00 (800 +700) R$ 1.500,00
+
++ Para a personalização das 500 canetas são gastos R$1.000 em material.
+
+O custo do estoque compreende, além do preço pago, todos os gastos incorridos necessários para que eles fiquem nas condições determinadas pela administração, como por exemplo, personalização.
+
+Contabilização:
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+D Estoques C Disponibilidades
+
+R$ 1.000,00 R$ 1.000,00
+
+Além disso, é utilizada uma máquina que foi adquirida por R$10.000 e tem capacidade estimada em 5.000 canetas. A máquina é depreciada de acordo com o método dos benefícios gerados e a entidade não considera valor residual.
+
+A depreciação de uma máquina utilizada na produção de canetas, por exemplo, não deve ser considerada uma despesa do período, mas incluída no valor contábil da caneta produzida.
+
+Conforme previsão do CPC 27:
+
+48. A despesa de depreciação de cada período deve ser reconhecida no resultado a menos que seja incluída no valor contábil de outro ativo.
+49. A depreciação do período deve ser normalmente reconhecida no resultado. No entanto, por vezes os benefícios econômicos futuros incorporados no ativo são absorvidos para a produção de outros ativos. Nesses casos, a depreciação faz parte do custo de outro ativo, devendo ser incluída no seu valor contábil. Por exemplo, a depreciação de máquinas e equipamentos de produção é incluída nos custos de produção de estoque (ver o Pronunciamento Técnico CPC 16 Estoques). De forma semelhante, a depreciação de ativos imobilizados usados para atividades de desenvolvimento pode ser incluída no custo de um ativo intangível reconhecido de acordo com o Pronunciamento Técnico CPC 04 Ativo Intangível.
+
+Por este método, estima-se a quantidade total de unidades que será produzida. A depreciação é feita dividindo-se o total efetivamente produzido pela capacidade total de produção.
+
+Nesse quesito, uma máquina custou 10.000 e com capacidade de produção total, ao longo de toda a sua vida útil, de 5.000 de unidades. No ano de X0, foram produzidas 500 unidades.
+
+Portanto, a depreciação em X1 será:
+
+(500 / 5.000) = 0,10 ou 10%. Valor da depreciação em X0: R$10.000 x 10% = R$ 1.000,00.
+
+Contabilização:
+
+D Estoques C Depreciação Acumulada
+
+R$ 1.000,00 R$ 1.000,00
+
+Até aqui temos os seguintes custos:
+
+Custo total = R$ 5.000 + R$ 800 + R$ 700 + R$ 1.000 + R$ 1000 = R$ 8.500
+
+Custo unitário = R$ 8.500/500 unidades = R$ 17
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+
+Ainda, os gastos com o armazenamento das 500 canetas prontas eram de R$1.500.
+Com relação à armazenagem, ocorre a seguinte distinção: quando a empresa compra matéria prima, pode ser necessário armazená-la por algum tempo, antes de utilizá-la na produção. Tais gastos com armazenagem são incluídos no custo da produção. Mas, quando uma empresa adquire mercadoria, os gastos com armazenagem são considerados despesas. Pois a mercadoria já está pronta, já foi produzida.
+Esquematizemos:
+
+ARMAZENAGEM
+
+Matéria - Prima
+Mercadoria ou Produto Acabado
+
+CUSTOS DESPESA
+
+Contabilização:
+
+D Despesa C Disponibilidades
+
+R$ 1.000,00 R$ 1.000,00
+
+Após prontas, 50 canetas foram descartadas, por estarem com qualidade inferior ao esperado.
+
+Muito bem. As perdas que ocorrem na produção seguem esta regra: as perdas normais fazem parte do custo da produção e as perdas anormais (excepcionais) devem ir diretamente para o resultado do exercício.
+
+N as perdas de produto acabado vão diretamente para o resultado do exercício. Não devem impactar o custo do produto.
+
+D Despesa C Estoques
+
+R$ 850,00 (50 unidades x R$ 17) R$ 850,00
+
+Após tal fato, temos o estoque de:
+
+Custo total = R$ 5.000 + R$ 800 + R$ 700 + R$ 1.000 + R$ 1000 = R$ 8.500 - R$ 850 = R$ 7.650
+
+Custo unitário = R$ 7.650/450 unidades = R$ 17
+
+Em 31/01/X0, as canetas foram colocadas à venda por R$20,00. A entidade destina aos vendedores uma comissão de 10% sobre o preço de venda. despesa
+
+Agora, um detalhe importante! O CPC 16 afirma que os estoques devem ser avaliados pelo custo ou pelo valor realizável líquido, dos dois o MENOR.
+
+Vamos aplicar o teste de recuperabilidade nesses estoques para verificarmos alguma perda?
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+Custo unitário = R$ 7.650/450 unidades = R$ 17
+Valor Realizável Líquido = R$ 20 - 10% x R$ 20 = R$ 20 - R$ 2 = R$ 18
+Percebam que não há perda, pois no caso apresentado os estoques ficam avaliados pelo valor de custo:
+Custo total = R$ 5.000 + R$ 800 + R$ 700 + R$ 1.000 + R$ 1000 = R$ 8.500 - R$ 850 = R$ 7.650
+Custo unitário = R$ 7.650/450 unidades = R$ 17
+Gabarito: C
+34. (FGV/SEFAZ-MG/Auditor Fiscal/2023) Uma loja vendia calculadoras. Em 31/12/X0, não havia calculadoras no estoque. Em 02/01/X1, a loja adquiriu 100 calculadoras. O preço unitário cobrado pelo fabricante foi de R$ 100,00, mas a loja recebeu um desconto de 10% sobre o preço. Além disso, a loja pagou o frete de R$ 200,00. Ainda, a loja estimou que o custo de estocagem das calculadoras era de R$ 400,00. No primeiro trimestre de X1, 30 calculadoras foram vendidas por R$ 110,00 cada. Em 01/04, o preço baixou para R$ 95,00 e foram vendidas 10 calculadoras no segundo trimestre. Já em 01/07, o preço baixou para R$ 85,00. No trimestre foram vendidas 40 calculadoras. Em 01/10 o preço foi ajustado para R$ 100,00. Nesse trimestre, 8 calculadoras foram vendidas. Assinale a opção que indica o lucro bruto da loja, no ano de X1. (A) R$ 178,00. (B) R$ 250,00. (C) R$ 354,00. (D) R$ 538,00. (E) R$ 634,00.
+Comentários:
+O Lucro Bruto será obtido pela diferença entre a receita líquida de vendas da empresa e o custo das mercadorias vendidas, o qual será apurado de acordo com o CPC 16 - Estoques.
+No caso de receita de vendas temos:
+30 calculadoras vendidas por R$ 110,00 = 30 x 110 = R$ 3300 10 calculadoras vendidas por R$ 95,00 = 10 x 95 = R$ 950 40 calculadoras vendidas por R$ 85,00 = 40 x 85 = R$ 3400 8 calculadoras vendidas por R$ 100,00 = 8 x 100 = R$ 800 Total = R$ 8450
+Agora, vamos apurar o custo das vendas.
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+Luciano Rosa, Júlio Cardozo Aula 05
+" Em 02/01/X1, a loja adquiriu 100 calculadoras. O preço unitário cobrado pelo fabricante foi de R$ 100,00, mas a loja recebeu um desconto de 10% sobre o preço. Além disso, a loja pagou o frete de R$ 200,00. Ainda, a loja estimou que o custo de estocagem das calculadoras era de R$ 400,00" Portanto, de acordo com o CPC 16 - Estoques, o custo das calculadoras adquiridas será: Preço R$ 100 (-) Desconto Comercial (R$ 10) (+) Frete Unitário R$ 2 = R$ 92 O custo com estocagem será tratado como uma despesa e não entra no custo. Muito cuidado. Agora, vamos analisar as vendas: No primeiro trimestre de X1, 30 calculadoras foram vendidas por R$ 110,00 cada CMV = 30 x 92 = R$ 2760 Em 01/04, o preço baixou para R$ 95,00 e foram vendidas 10 calculadoras no segundo trimestre. Portanto, o CMV nessa situação será de 92 x 10 = R$ 920. Já em 01/07, o preço baixou para R$ 85,00. No trimestre foram vendidas 40 calculadoras Agora, um detalhe importante! O CPC 16 afirma que os estoques devem ser avaliados pelo custo ou pelo valor realizável líquido, dos dois o MENOR. Percebam que houve redução do valor de venda dos estoques, portanto, devemos reconhecer esse ajuste, chamado nos CPCs de (write-down). Assim, o CMV dessa operação será: 40 x 85 = R$ 3.400 Em 01/10 o preço foi ajustado para R$ 100,00. Nesse trimestre, 8 calculadoras foram vendidas. Aqui temos outro detalhe importante, pessoal. Houve aumento do preço de venda, portanto, temos que reverter a perda por ajuste ao valor realizável de períodos anteriores. Contudo, o valor dos estoques agora não será R$ 100, mas R$ 92, pois esse é o valor que os estoques seriam caso nenhuma perda tivesse sido reconhecida. Portanto, o CMV dessa operação será: 8 x 92 = R$ 736 Agora, vamos apurar o lucro bruto desse período: R$ 8450 R$ 2760 R$ 920 R$ 3.400 R$ 736 = R$ 634,00. Gabarito: E
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+

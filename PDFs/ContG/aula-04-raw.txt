@@ -1,0 +1,809 @@
+Luciano Rosa, Júlio Cardozo Aula 04
+QUESTÕES COMENTADAS BP, AC E ANC
+1. (FGV/TCE RR/Auditor/2025) Das contas a seguir, a que pode ser classificada como ativo circulante ou realizável a longo prazo, dependendo do prazo de realização é
+A disponibilidades. B ativo contingente. C estoques. D receita antecipada. E adiantamento a diretores.
+Comentários:
+A disponibilidades.
+As disponibilidades, com base na lei 6.404*76, compõem o ativo circulante. Alternativa errada.
+B ativo contingente.
+O ativo contingente não é reconhecido nas demonstrações contábeis. Alternativa errada.
+C estoques.
+No caso de omissão do prazo, consideramos como circulante: estoque, contas a receber e mercadorias. Todavia, se o quesito informar o prazo, devemos levá-lo em consideração. Por exemplo:
+Estoque -> ativo circulante Contas a receber -> ativo circulante Estoques previstos para serem vendidos em 720 dias -> ativo não circulante. Contas a receber com vencimento em 700 dias -> ativo não circulante.
+Esse é o nosso gabarito.
+D receita antecipada.
+Trata-se de uma conta do passivo. Alternativa errada.
+E adiantamento a diretores.
+As transações não usuais com pessoas ligadas (Coligadas, Controladas, Diretores, administradores, sócios, Acionistas ou participantes do lucro) são contabilizadas no ativo não circulante - Realizável a longo prazo. Aqui não importa o prazo de recebimento. Alternativa errada.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+46
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+Gabarito: C
+
+Em relação a plano de contas e escrituração contábil, julgue o item a seguir.
+2. (CEBRASPE/PC DF/Contador/2025) A entidade deve elaborar o conjunto de suas demonstrações contábeis por meio da utilização do regime de competência, sendo vedada a utilização de outro regime contábil.
+Comentários:
+É muito importante que você saiba que as demonstrações contábeis devem ser elaboradas de acordo com o regime de competência! Então, as demonstrações se referirão à data de encerramento do exercício social, e as receitas e despesas consideradas ali são as que incorreram no exercício, independente de pagamento ou recebimento. A exceção fica por conta da demonstração dos fluxos de caixa. Esta é elaborada de acordo com o regime de caixa!
+Gabarito: Errado.
+
+A seguir, apresenta-se o balancete de verificação de uma sociedade anônima aberta do setor de varejo, que deseja participar de processos licitatórios. Atualmente, essas são todas as contas patrimoniais da empresa, que estão apresentadas em ordem alfabética, com os respectivos saldos em módulo e em reais.
+
+contas ações em tesouraria caixa capital social clientes contas a pagar em 3 anos contas a receber em 1.000 dias depreciação acumulada estoques fornecedores impostos a recolher máquinas provisões cíveis reserva legal terrenos
+
+saldos 500 100 3.000 600 1.500 2.500 200 500 200 100 700 100 600 800
+
+Com base nessas informações e no balancete hipotético precedente, julgue os itens seguintes.
+
+3. (CEBRASPE/ TRF 6/Analista/2025) O total do ativo da referida empresa é de R$ 5.500.
+
+Comentários:
+
+Inicialmente, classifiquemos conforme o grupo patrimonial:
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+47
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+ações em tesouraria caixa capital social clientes contas a pagar em 3 anos contas a receber em 1.000 dias depreciação acumulada estoques fornecedores impostos a recolher máquinas provisões cíveis reserva legal terrenos
+
+Selecionando as contas do ativo, fica assim:
+
+contas caixa clientes contas a receber em 1.000 dias (-) depreciação acumulada estoques máquinas terrenos Total do ativo
+
+saldos 100 600 2.500 (200) 500 700 800 5.000
+
+Portanto, o total do ativo da referida empresa é de R$ 5.000.
+
+Gabarito: Errado
+
+4. (CEBRASPE/ TRF 6/Analista/2025) As disponibilidades da empresa em questão totalizam R$ 100.
+Comentários:
+As disponibilidades são elementos que representam dinheiro ou que nele possam ser convertidos de forma imediata, como a conta caixa, bancos conta movimento. Exemplos de disponibilidades:
+- Caixa. - Contas bancárias de livre movimentação; - Contas especiais para pagamentos específicos, como dividendos, folha de pagamento, filiais;
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+48
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+- Contas especiais de cobrança; - Numerários em trânsito, como por exemplo, remessas para filiais, depósitos, ordem de pagamento; - Aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor. - Título do governo ou do tesouro (pode entender como sinônimos):
+
+Um título do tesouro comprado três meses antes do vencimento normalmente é considerado equivalente de caixa. Mas, se for comprado, digamos, 2 anos antes do vencimento, não entra como equivalente de caixa. Passa o tempo, o título fica próximo do vencimento (90 dias), mas não é reclassificado para equivalente, pois não houve movimentação efetiva de caixa. Continua sendo considerado com "não equivalente de caixa", ainda que esteja próximo ao vencimento. Compra agora um título do governo ou do tesouro (pode entender como sinônimos) que vence em 90 dias, entra como equivalente de caixa.
+
+Revisão feita! Filtremos as contas de disponibilidades apresentadas no balancete de verificação:
+
+contas
+
+saldos
+
+caixa
+
+100
+
+Total das disponibilidades 100
+
+Gabarito: Certo
+
+5. (CEBRASPE/ TRF 6/TÉCNICO/2025) Na contratação de um seguro anual por uma entidade, a contabilização correta, pelo montante total da despesa, é a apresentada a seguir.
+Débito despesas de seguros Crédito caixa, bancos ou seguros a pagar
+
+Comentários:
+
+Na contabilidade utilizamos o regime de competência, no qual as despesas são reconhecidas quando ocorridas e independente do pagamento. Assim, caso a entidade pague antecipado, ela não poderá reconhecer uma despesa, dado que o fato gerador dessa obrigação não ocorreu (Mês segurado). Enquanto não ocorre, a entidade contabilizará um ativo.
+
+Contabilização inicial (contratação de um seguro anual):
+
+D Seguros Antecipados ( Ativo Circulante) C Caixa/Bancos ( Ativo Circulante)
+
+A cada mês, apropriaremos 1/12 como despesa de seguro:
+
+D Despesas de seguros C Seguros Antecipados
+
+( Resultado = Despesa) ( Ativo)
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+49
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+Gabarito: Errado
+6. (CEBRASPE/ PC DF/Contador/2025) Devem ser classificados no ativo circulante os ativos financeiros que estejam sendo mantidos essencialmente com o propósito de serem negociados, bem como a parcela a realizar no prazo de até doze meses após a data do balanço de ativos financeiros não circulantes.
+Comentários:
+Para facilitar a visualização, vamos analisar em duas partes:
+Parte 1 - Devem ser classificados no ativo circulante os ativos financeiros que estejam sendo mantidos essencialmente com o propósito de serem negociados
+Certo, pois é um critério previsto no Pronunciamento Técnico CPC 26 (R1) Apresentação das Demonstrações Contábeis:
+Ativo circulante
+66. O ativo deve ser classificado como circulante quando satisfizer qualquer dos seguintes critérios:
+(a) espera-se que seja realizado, ou pretende-se que seja vendido ou consumido no decurso normal do ciclo operacional da entidade;
+(b) está mantido essencialmente com o propósito de ser negociado;
+(c) espera-se que seja realizado até doze meses após a data do balanço; ou
+(d) é caixa ou equivalente de caixa (conforme definido no Pronunciamento Técnico CPC 03 Demonstração dos Fluxos de Caixa), a menos que sua troca ou uso para liquidação de
+passivo se encontre vedada durante pelo menos doze meses após a data do balanço.
+Todos os demais ativos devem ser classificados como não circulantes.
+
+intangíveis e ativos financeiros de natureza de longo prazo. Não se proíbe o uso de descrições alternativas desde que seu sentido seja claro.
+Parte 2- bem como a parcela a realizar no prazo de até doze meses após a data do balanço de ativos financeiros não circulantes.
+Também é um critério previsto na referida norma, especificadamente na alínea c. A ideia é a seguinte: quando ao ativo for de longo prazo deve ser segregada em ativo circulante e não circulante realizável em longo prazo, pois o prazo de vigência é de superior a 12 meses. Em síntese:
+Ativo Circulante: a parte realizável até doze meses após a data do balanço Ativo Não Circulante: a parte realizável após esse prazo.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+50
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+Gabarito: Certo
+7. (FGV/EXAME CFC/Rio Grande do Sul/2024.1) Em relação aos ativos, no Balanço Patrimonial de uma entidade, assinale a afirmativa correta, de acordo com a Lei nº 6.404/76 e alterações.
+A No intangível estão as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante. B No imobilizado estão os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia ou exercidos com essa finalidade. C Em investimentos estão os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da entidade ou exercidos com essa finalidade. D No circulante estão as disponibilidades, os direitos realizáveis no curso do exercício social subsequente e as aplicações de recursos em despesas do exercício seguinte.
+Comentários:
+A No intangível estão as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante.
+Essa é a definição de investimentos e não de intangível. Alternativa errada.
+B No imobilizado estão os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia ou exercidos com essa finalidade.
+Dessa vez a FGV usou a definição de intangível para imobilizado. Alternativa errada.
+C Em investimentos estão os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da entidade ou exercidos com essa finalidade.
+Mais uma troca de definições, agora trouxe a definição de imobilizado como fosse de investimentos. Alternativa errada.
+D No circulante estão as disponibilidades, os direitos realizáveis no curso do exercício social subsequente e as aplicações de recursos em despesas do exercício seguinte.
+Certo, pois essa é a composição prevista na lei 6.404/76. Vejam:
+Art. 179. As contas serão classificadas do seguinte modo:
+I - no ativo circulante: as disponibilidades, os direitos realizáveis no curso do exercício social subsequente e as aplicações de recursos em despesas do exercício seguinte;
+Gabarito: D
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+51
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+8. (FGV/TCE-PA/Auditor/2024) No Balanço Patrimonial de uma sociedade empresária, os direitos derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas, diretores acionistas ou participantes no lucro da companhia não são classificados como ativo realizável a longo prazo quando
+A envolvem valores considerados sem verificabilidade. B constituem negócios usuais na exploração do objeto da companhia. C apresentam prazo de realização de até um ano a partir da data final do balanço. D apresentam prazo de realização no exercício social corrente ao da data final do balanço. E têm por objeto bens corpóreos destinados à manutenção das atividades ou exercidos com essa finalidade.
+Comentários:
+A envolvem valores considerados sem verificabilidade.
+Destacamos que atendido os requisitos (a espécie do direito, a operação ser não usual e pessoa ligada), não importa o prazo de realização nem os valores. Alternativa errada.
+B constituem negócios usuais na exploração do objeto da companhia.
+Certo, pois um dos requisitos para classificar no realizável a longo prazo é que seja NÃO USUAL. Assim, o fato de ser usual, é suficiente para adotarmos a regra geral.
+C apresentam prazo de realização de até um ano a partir da data final do balanço.
+As transações não usuais com pessoas ligadas (Coligadas, Controladas, Diretores, administradores, sócios, Acionistas ou participantes do lucro) são contabilizadas no ativo não circulante - Realizável a longo prazo. Aqui não importa o prazo de recebimento. Alternativa errada.
+D apresentam prazo de realização no exercício social corrente ao da data final do balanço.
+Reforçamos que atendido os requisitos (a espécie do direito, a operação ser não usual e pessoa ligada), não importa o prazo de realização. Alternativa errada.
+E têm por objeto bens corpóreos destinados à manutenção das atividades ou exercidos com essa finalidade.
+Aqui a banca trouxe a definição do ativo não circulante Imobilizado. Isso não é uma justificativa. Alternativa errada.
+Gabarito: B
+9. (FGV/ALE TO/Analista/2024) De acordo com a Lei nº 6.404/1976 e modificações, ao fim de cada exercício social, as seguintes demonstrações deverão ser elaboradas pelas companhias, à exceção de uma. Assinale-a.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+52
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+A Balanço patrimonial. B Demonstração dos fluxos de caixa. C Demonstração do resultado do exercício. D Demonstração dos lucros ou prejuízos acumulados. E Demonstração das origens e aplicações de recursos.
+
+Comentários:
+
+As sociedades por ações podem ser do tipo aberta (quando comercializam títulos e valores mobiliários no mercado de valores mobiliários) e fechadas (quando não o fazem).
+
+As demonstrações contábeis são diferentes conforme estejamos frente a um ou outro tipo societário.
+
+Por meio do nosso esquema, vamos analisar as alternativas:
+
+DEMONSTRAÇÃO CONTÁBIL Balanço Patrimonial Demonstração do Resultado do Exercício Demonstração de Lucros ou Prejuízos Acumulados Demonstração dos Fluxos de Caixa Demonstração do Valor Adicionado
+
+COMPANHIA
+
+ABERTA FECHADA
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X PL > 2 MI
+
+X
+
+A Balanço patrimonial.
+
+O balanço patrimonial é obrigatório para as companhias abertas e fechadas. Alternativa errada.
+
+B Demonstração dos fluxos de caixa.
+
+Pela literalidade da lei da SA, a demonstração do fluxo de caixa é obrigatória para as companhias abertas e fechadas. A exceção é para a companhia FECHADA com patrimônio líquido, na data do balanço, INFERIOR A R$ 2.000.000,00. Alternativa errada.
+
+C Demonstração do resultado do exercício.
+
+A DRE é obrigatória para as companhias abertas e fechadas. Alternativa errada.
+
+D Demonstração dos lucros ou prejuízos acumulados.
+
+A DPLA é obrigatória para companhias abertas e fechadas. Ressaltamos que, com base na Lei 6.404/76, nas companhias abertas, a demonstração de lucros ou prejuízos acumulados pode estar contida dentro da DMPL. Alternativa errada.
+
+E Demonstração das origens e aplicações de recursos.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+53
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+A Demonstração de origens e aplicações de recursos, a DOAR, deixou de ser obrigatória (mas não foi extinta) com as modificações contábeis introduzidas pelas Leis 11.638 e 11.941. Alternativa certa. Gabarito: E
+10. (FGV/EPE/Analista/2024) Uma loja apresentava os seguintes dados em seu ativo, em 01/12/2023.
+
+previsão de recebimento em 18 meses: R$50.000;
+Em dezembro de 2023, a loja constatou que a inadimplência era estimada em 4% e que os estoques tinham perdas estimadas de 10%. Considerando apenas esses fatos, assinale a opção que indica o ativo circulante da loja, em 31/12/2023. A R$40.000. B R$46.000. C R$50.000. D R$44.000. E R$94.000.
+Comentários:
+Em 01/12/2023, a composição do Balanço Patrimonial (BP) era a seguinte:
+Ativo Circulante = R$50.000
+Disponibilidades: R$10.000 Estoques com previsão de venda em até 6 meses: R$40.000
+Ativo Não Circulante = R$109.500
+Realizável a Longo Prazo: Clientes com previsão de recebimento em 18 meses: R$50.000; (-) Perdas estimadas com crédito de liquidação duvidosa (1%) R$500 Investimentos: Terrenos destinados à valorização: R$60.000
+Posteriormente, a loja constatou que a inadimplência era estimada em 4% e que os estoques tinham perdas estimadas de 10%. Após tais fatos, o BP fica assim:
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+54
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+Ativo Circulante = R$46.000
+Disponibilidades: R$10.000 Estoques com previsão de venda em até 6 meses: R$40.000 (-) Perdas estimadas com estoques (10%) R$4.000
+Ativo Não Circulante = R$108.000
+Realizável a Longo Prazo: Clientes com previsão de recebimento em 18 meses: R$50.000; (-) Perdas estimadas com crédito de liquidação duvidosa (4%): R$2.000 Investimentos: Terrenos destinados à valorização: R$60.000
+Considerando apenas esses fatos, o ativo circulante da loja, em 31/12/2023, é R$46.000.
+Gabarito: B
+11. (FGV/ALEP/Contador/2024) Em 01/08/2023, um restaurante pagou antecipadamente R$36.000, referente ao seguro de três anos das motos que faziam as entregas. A vigência do seguro teve início em 01/09/2023.
+Em 31/12/2023, a parcela do seguro apresentada no ativo realizável a longo prazo era de AR$16.000. BR$18.000. CR$19.000. DR$20.000. ER$24.000.
+Comentários:
+Na contabilidade utilizamos o regime de competência, no qual as despesas são reconhecidas quando ocorridas e independente do pagamento. Assim, caso a entidade pague antecipado, ela não poderá reconhecer uma despesa, dado que o fato gerador dessa obrigação não ocorreu (Mês segurado). Enquanto não ocorre, a entidade contabilizará um ativo.
+Contabilização inicial (1º de agosto de 2023):
+Adendo! Como a empresa pagou R$ 36.000 por um seguro, temos uma despesa antecipada, que deve ser segregada em ativo circulante e não circulante pois o prazo de vigência do seguro é de 3 anos (36 meses). Basicamente, até 12 meses no final do exercício subsequente ficará no Ativo Circulante. O restante entrará no Ativo Não Circulante.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+55
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+D Seguros pagos antecipadamente ( Ativo Circulante) R$ 12.000 D Seguros pagos antecipadamente ( Ativo Não Circulante) R$ 24.000 C Caixa ( Ativo Circulante) R$ 36.000
+
+Dado que o contrato terá vigência de 36 meses, apropriaremos, mês a mês, R$ 1.000 (36.000/36) como despesa de seguro:
+
+D Despesas de seguros C Seguros pagos antecipadamente
+
+R$ 1.000,00 ( Resultado = Despesa) R$ 1.000,00 ( Ativo)
+
+Cuidado! O quesito informou que o início da vigência do seguro foi setembro e não agosto.
+
+Nota-se que entre 01/09/2023 e 31/12/2023 decorreram 4 meses, assim a empresa apresentou R$ 4.000 (R$ 1.000 x 4 meses) de despesas com seguros na DRE em 31/12/2023.
+Consequentemente, em 31.12/2023, sobraram 32 meses se vigência do seguro, sendo que 12 parcelas ficaram no Ativo Circulante e 20 parcelas no Ativo Não Circulante:
+Seguros pagos antecipadamente (Ativo Circulante) R$ 12.000 (12 meses x R$ 1.000) Seguros pagos antecipadamente (ANC - ativo realizável a longo prazo) R$ 20.000 (20 meses x R$ 1.000)
+Gabarito: D
+
+No que se refere à elaboração das demonstrações contábeis, julgue o item a seguir. 12. (CEBRASPE/SEPLAG CE/Analista/2024) O ativo não circulante é composto por ativo realizável a longo
+prazo, investimentos, imobilizado e intangível.
+Comentários:
+O ativo não circulante deve ser subdividido em realizável a longo prazo, investimentos, imobilizado e intangível. Vejamos suas respectivas definições previstas na lei 6.404/76:
+ativo realizável a longo prazo:
+Art. 179. II - No ativo realizável a longo prazo: os direitos realizáveis após o término do exercício seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas (artigo 243), diretores, acionistas ou participantes no lucro da companhia, que não constituírem negócios usuais na exploração do objeto da companhia;
+investimentos
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+56
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+Art. 179. III - em investimentos: as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa;
+imobilizado
+Art. 179. IV no ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à companhia os benefícios, riscos e controle desses bens; (Redação dada pela Lei nº 11.638,de 2007)
+intangível
+Art. 179. VI no intangível: os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia ou exercidos com essa finalidade, inclusive o fundo de comércio adquirido. (Incluído pela Lei nº 11.638, de 2007)
+Gabarito: Certo
+13. (CEBRASPE/Pref. Camaçari/Técnico Fazendário/2024) De acordo com as disposições da Lei n.º 6.404/1976 em vigor, assinale a opção correta.
+A O ativo não circulante é composto por ativo realizável a longo prazo, investimentos, imobilizado e permanente. B No ativo, as contas deverão ser dispostas em ordem crescente do grau de liquidez. C As participações permanentes em outras sociedades que não se destinem à manutenção da atividade da companhia ou da empresa devem ser contabilizadas no ativo intangível. D Os bens corpóreos destinados à manutenção das atividades da companhia deverão ser contabilizados no ativo imobilizado. E Quando o ciclo operacional da empresa tiver duração menor que doze meses, a classificação no circulante ou no longo prazo terá por base o prazo desse ciclo.
+Comentários:
+A O ativo não circulante é composto por ativo realizável a longo prazo, investimentos, imobilizado e permanente.
+Na verdade, esta é a composição do ativo não circulante: realizável a longo prazo, investimentos, imobilizado e intangível. Alternativa errada.
+B No ativo, as contas deverão ser dispostas em ordem crescente do grau de liquidez.
+Verdade seja dita: ordem DECRESCENTE do grau de liquidez. Alternativa errada.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+57
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+C As participações permanentes em outras sociedades que não se destinem à manutenção da atividade da companhia ou da empresa devem ser contabilizadas no ativo intangível.
+Na realidade, elas devem ser contabilizadas no subgrupo investimentos, vejam:
+Art. 179. III - em investimentos: as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa;
+Alternativa errada.
+D Os bens corpóreos destinados à manutenção das atividades da companhia deverão ser contabilizados no ativo imobilizado.
+Certo, isso é previsto na lei 6.404/76:
+Art. 179. IV no ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à companhia os benefícios, riscos e controle desses bens; (Redação dada pela Lei nº 11.638,de 2007)
+E Quando o ciclo operacional da empresa tiver duração menor que doze meses, a classificação no circulante ou no longo prazo terá por base o prazo desse ciclo.
+Destaquemos o texto da referida lei:
+Art. 179. Parágrafo único. Na companhia em que o ciclo operacional da empresa tiver duração maior que o exercício social, a classificação no circulante ou longo prazo terá por base o prazo desse ciclo.
+Observa-se que essa classificação terá por base o exercício social quando a duração do ciclo operacional for menor que doze meses. Alternativa errada.
+Gabarito: D
+14. (CEBRASPE/CAGEPA/Contador/2024) Conforme a mais recente estrutura conceitual da contabilidade, o balanço patrimonial
+A é um retrato estático das informações de eventos passados da entidade. B representa de forma exata a realidade da entidade. C é produzido sem qualquer tipo de estimativa. D representa os fluxos de caixa passados da entidade. E é uma projeção dinâmica das informações futuras da entidade.
+Comentários:
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+58
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+A é um retrato estático das informações de eventos passados da entidade.
+O Balanço Patrimonial mostra a posição patrimonial e financeira da entidade. Ela evidencia uma situação estática da entidade, como fosse uma foto da entidade naquele dado momento. Alternativa certa.
+B representa de forma exata a realidade da entidade.
+Em grande medida, relatórios financeiros baseiam-se em estimativas, julgamentos e modelos e, não, em representações exatas. Alternativa errada.
+C é produzido sem qualquer tipo de estimativa.
+O uso de estimativas razoáveis é parte essencial da elaboração de informações financeiras e não prejudica a utilidade das informações se as estimativas são descritas e explicadas de forma clara e precisa. Alternativa errada.
+D representa os fluxos de caixa passados da entidade.
+Por meio das demonstrações de fluxo de caixa, podemos obter essas informações. Alternativa errada.
+E é uma projeção dinâmica das informações futuras da entidade.
+O Balaço Patrimonial é uma demonstração estática. Alternativa errada.
+Gabarito: A
+15. (FGV/ALEP/Contador/2024) Em 10/01/2023, uma sociedade empresária emprestou R$25.000 a seu sócio, para pagamento em 6 meses. Em 10/06/2023, o sócio comunicou à sociedade empresária que pagaria o empréstimo em novembro de 2024.
+Assinale a opção que indica a classificação do empréstimo no balanço patrimonial da sociedade empresária antes e depois do anúncio de atraso no pagamento. A Ativo Circulante e Ativo Circulante. B Passivo Circulante e Passivo Circulante. C Passivo não Circulante e Passivo não Circulante. D Ativo Circulante e Ativo Realizável a Longo Prazo. E Ativo Realizável a Longo Prazo e Ativo Realizável a Longo Prazo.
+Comentários:
+As transações não usuais com pessoas ligadas (Coligadas, Controladas, Diretores, administradores, SÓCIOS, Acionistas ou participantes do lucro) são contabilizadas no ativo não circulante - Realizável a longo prazo. Aqui não importa o prazo de recebimento. Isso é previsto na Lei 6.404:
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+59
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+Art. 179. II - No ativo realizável a longo prazo: os direitos realizáveis após o término do exercício seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas (artigo 243), diretores, acionistas ou participantes no lucro da companhia, que não constituírem negócios usuais na exploração do objeto da companhia;
+Gabarito: E
+16. (FGV/SES MT/Contador/2024) Os seguintes saldos são apresentados no balanço patrimonial de uma sociedade empresária, que presta serviços de arquitetura, em 31/12/2023: adiantamentos concedidos a acionistas (90 dias): R$30.000; disponibilidades: R$50.000; empréstimos à sociedade coligada (120 dia): R$70.000; clientes (60 dias): R$80.000; terreno utilizado na atividade fim: R$90.000.
+Assinale a opção que indica o saldo do ativo realizável a longo prazo da sociedade empresária, em 31/12/2023. A Zero. B R$30.000. C R$50.000. D R$100.000.
+Comentários:
+Em 31/12/2023, o Balanço Patrimonial apresenta esta composição:
+Ativo Circulante = R$130.000;
+disponibilidades: R$50.000; clientes (60 dias): R$80.000;
+Ativo Não Circulante = R$190.000
+Realizável a Longo Prazo: R$100.000 adiantamentos concedidos a acionistas (90 dias): R$30.000; empréstimos à sociedade coligada (120 dia): R$70.000; Investimentos: R$90.000 terreno utilizado na atividade fim: R$90.000.
+Fique Atento! As transações não usuais com pessoas ligadas (Coligadas, Controladas, Diretores, administradores, sócios, Acionistas ou participantes do lucro) são contabilizadas no ativo não circulante - Realizável a longo prazo, independentemente do prazo de vencimento.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+60
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+Assim, o saldo do ativo realizável a longo prazo da sociedade empresária, em 31/12/2023, é de R$100.000.
+Gabarito: D
+17. (FGV/ALEP/Contador/2024) Um supermercado apresentava os seguintes saldos em 31/12/2023: Caixa: .................................................................................. R$40.000; Estoque de produtos perecíveis: ....................................... R$80.000; Estoque de produtos não perecíveis: ................................ R$100.000; Contas a receber em até 60 dias: ....................................... R$120.000; Conta corrente no banco: .................................................. R$150.000; Investimentos no banco para resgate em um ano: .......... R$170.000. Assinale a opção que indica o saldo de Caixa e equivalentes de Caixa, apresentado na Demonstração dos Fluxos de Caixa em 31/12/2023. A R$190.000. B R$270.000. C R$310.000. D R$390.000. E R$560.000.
+Comentários:
+As disponibilidades são elementos que representam dinheiro ou que nele possam ser convertidos de forma imediata, como a conta caixa, bancos conta movimento. Exemplos de disponibilidades:
+- Caixa. - Contas bancárias de livre movimentação; - Contas especiais para pagamentos específicos, como dividendos, folha de pagamento, filiais; - Contas especiais de cobrança; - Numerários em trânsito, como por exemplo, remessas para filiais, depósitos, ordem de pagamento; - Aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor. - Título do governo ou do tesouro (pode entender como sinônimos):
+Um título do tesouro comprado três meses antes do vencimento normalmente é considerado equivalente de caixa. Mas, se for comprado, digamos, 2 anos antes do vencimento, não entra como equivalente de caixa. Passa o tempo, o título fica próximo do vencimento (90 dias), mas não é reclassificado para equivalente, pois não houve movimentação efetiva de caixa. Continua sendo considerado com "não equivalente de caixa", ainda que esteja próximo ao vencimento. Compra agora um título do governo ou do tesouro (pode entender como sinônimos) que vence em 90 dias, entra como equivalente de caixa.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+61
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+Revisão feita! Filtremos as contas de disponibilidades:
+Caixa: .................................................................................. R$40.000; Conta corrente no banco: .................................................. R$150.000. Total das disponibilidades: .................................................. R$190.000.
+Gabarito: A
+18. (FGV/EXAME CFC/Rio Grande do Sul/2024.1) Em 31/12/2023, a Cia Lua apresentava os seguintes saldos em seu ativo: Aplicações financeiras com vencimento em 720 dias: ........................ R$70.000; Clientes com previsão de recebimento em 380 dias: .......................... R$60.000; Disponibilidades: ................................................................................. R$50.000; Estoques com previsão de venda em até 180 dias: ............................. R$40.000; Perdas estimadas com crédito de liquidação duvidosa: ........................ R$6.000; Perdas estimadas com desvalorização de estoque: ............................... R$8.000.
+Assinale a opção que indica o saldo do ativo circulante em 31/12/2023. A R$76.000. B R$82.000. C R$90.000. D R$136.000.
+Comentários:
+Em 31/12/2023, a composição do Balanço Patrimonial (BP) é a seguinte:
+Ativo Circulante = R$82.000
+Disponibilidades: .................................................................................R$50.000; Estoques com previsão de venda em até 180 dias: .............................R$40.000; (-) Perdas estimadas com desvalorização de estoque: ...............................R$8.000.
+Ativo Não Circulante = R$124.000
+Aplicações financeiras com vencimento em 720 dias: ........................R$70.000; Clientes com previsão de recebimento em 380 dias: ..........................R$60.000; (-) Perdas estimadas com crédito de liquidação duvidosa: ........................R$6.000;
+Portanto, o saldo do ativo circulante em 31/12/2023 é de R$90.000.
+Gabarito: B
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+62
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+19. (FGV/ALEP/Contador/2024) Em janeiro de 2024, uma sociedade empresária estimou que as suas perdas com crédito de liquidação duvidosa no período seriam de R$200.000.
+Assinale a opção que indica o impacto do reconhecimento no balanço patrimonial da sociedade empresária neste mês. A não há impacto. B diminuição no saldo da conta Caixa. C diminuição no saldo da conta Clientes. D diminuição no saldo da conta Estoques. E aumento no saldo da conta Estoques.
+Comentários:
+A conta perdas estimadas com créditos de liquidação duvidosa é retificadora da conta clientes/duplicatas a receber.
+Quando a perdas estimadas com créditos de liquidação duvidosa é constituída, nós lançamos:
+D Despesa com PCLD R$ 200.000 C PCLD (redutora ativo) R$ 200.000
+Revisão feita! Julguemos as alternativas:
+A não há impacto.
+Errado, pois houve diminuição da situação líquida e diminuição do ativo.
+B diminuição no saldo da conta Caixa.
+A conta caixa não foi afetada. Alternativa errada.
+C diminuição no saldo da conta Clientes.
+Por ser sua retificadora, a constituição da PCLD diminui o saldo da conta clientes. Alternativa certa.
+D diminuição no saldo da conta Estoques e E aumento no saldo da conta Estoques.
+A conta estoque não foi afetada. Não confunda PCLD com Perdas estimadas com desvalorização de estoque. Alternativas erradas.
+Gabarito: C
+20. (FGV/CGM Niterói/Auditor/2024) Em 30/09/2024, uma loja de roupas apresentava em seu Balanço Patrimonial um saldo de R$12.000, em conta corrente bancária e R$10.000, em estoque.
+Em outubro de 2024 a loja vendeu todo o estoque por R$60.000. O valor foi recebido do seguinte modo:
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+63
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+de vencimento era 30/11/2024.
+seguintes, a partir de novembro. Considerando apenas esses fatos, assinale a opção que indica o saldo em Disponibilidades, no Ativo Circulante, em 31/10/2024. A R$22.000,00. B R$31.000,00. C R$36.000,00. D R$39.000,00. E R$45.000,00.
+Comentários:
+As disponibilidades são elementos que representam dinheiro ou que nele possam ser convertidos de forma imediata, como a conta caixa, bancos conta movimento. Exemplos de disponibilidades:
+- Caixa. - Contas bancárias de livre movimentação; - Contas especiais para pagamentos específicos, como dividendos, folha de pagamento, filiais; - Contas especiais de cobrança; - Numerários em trânsito, como por exemplo, remessas para filiais, depósitos, ordem de pagamento; - Aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor. - Título do governo ou do tesouro (pode entender como sinônimos):
+Um título do tesouro comprado três meses antes do vencimento normalmente é considerado equivalente de caixa. Mas, se for comprado, digamos, 2 anos antes do vencimento, não entra como equivalente de caixa. Passa o tempo, o título fica próximo do vencimento (90 dias), mas não é reclassificado para equivalente, pois não houve movimentação efetiva de caixa. Continua sendo considerado com "não equivalente de caixa", ainda que esteja próximo ao vencimento. Compra agora um título do governo ou do tesouro (pode entender como sinônimos) que vence em 90 dias, entra como equivalente de caixa.
+Revisão feita! Montemos o razonete das contas de disponibilidades:
+Disponibilidades saldo de R$12.000, em conta corrente bancária Recebimento: R$10.000 em dinheiro R$ 22.000
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+64
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+Gabarito: A
+
+Acerca das demonstrações contábeis, julgue o item a seguir.
+21. (CEBRASPE/CAU BR/Técnico-Financeiro/2024) A despesa antecipada é um direito que pode ser classificado no balanço patrimonial como ativo circulante ou como ativo realizável a longo prazo, conforme o prazo para a conversão desse direito em bens ou serviços.
+Comentários:
+As aplicações de recursos em despesas do exercício seguinte (também chamadas despesas antecipadas) são despesas que foram pagas pela empresa com antecedência ou serão pagas no curto prazo e ainda não foram para o resultado pelo regime de competência. Podemos ter despesas antecipadas classificadas no ativo circulante ou no ativo não circulante - realizável a longo prazo, de acordo com o prazo de conversão desse direito em bens ou serviços.
+Gabarito: Certo
+
+Julgue o item subsequente, relacionado à escrituração contábil e à função e ao funcionamento de contas patrimoniais e de resultado.
+22. (CEBRASPE/CAU BR/Técnico-Financeiro/2024) As perdas esperadas em créditos de liquidação duvidosa são estimativas contábeis que devem ser registradas em contas retificadoras de ativo.
+
+Comentários:
+
+Item correto, pessoal. A conta perdas estimadas com créditos de liquidação duvidosa é retificadora da conta clientes/duplicatas a receber. Expliquemos! Uma empresa vendeu R$ 100.000,00 a prazo, e constitui perdas estimadas com créditos de liquidação duvidosa de 3%.
+
+Na venda dos R$ 100.000,00:
+
+D Clientes (ativo)
+
+100.000,00
+
+C Receita de vendas (resultado) 100.000,00
+
+A constituição da provisão para devedores duvidosos:
+
+D Despesa com perdas estimadas com créditos de liquidação duvidosa (despesa) C Perdas estimadas com créditos de liquidação duvidosa (retificadora do ativo)
+
+3.000,00 3.000,00
+
+Gabarito: Certo
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+65
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+23. (FGV/CM Fortaleza/Contador/2024) Uma sociedade empresária realizou as seguintes vendas a prazo no ano de 2023:
+
+Data 10/jan 11/mar 15/mai 18/jul 12/set 14/nov
+
+Valor da venda 50.000 80.000 70.000 90.000 40.000 100.000
+
+Data de recebimento 10/12/2023 10/02/2024 12/05/2024 30/07/2024 05/12/2024 08/01/2025
+
+A sociedade empresária estima inadimplência de 4%.
+
+sociedade empresária, em seu balanço patrimonial, em 31/12/2023, término do exercício social. A R$144.000. B R$230.400. C R$268.800. D R$280.000. E R$318.800.
+
+Comentários:
+
+Fique Atento! O quesito solicitou apenas as contas a receber de clientes classificadas no Ativo Circulante. Outro detalhe, as contas a receber de clientes com vencimento de 10/12/2013 já terá sido recebida em 31/12/2023.
+
+A lei 6.404/76 adota como marco temporal a data do encerramento do exercício social. Contudo, se não estivermos falando dessa data, devemos considerar o período de 12 meses.
+
+Circulante -> até o final do exercício subsequente (31/12/2024)
+
+Data 11/mar 15/mai 18/jul 12/set Total
+
+Valor da venda Data de recebimento
+
+80.000
+
+10/02/2024
+
+70.000
+
+12/05/2024
+
+90.000
+
+30/07/2024
+
+40.000
+
+05/12/2024
+
+300.000
+
+Não Circulante -> Após o Final do exercício subsequente em diante (1/1/2025 em diante)
+
+Data Valor da venda Data de recebimento
+
+14/nov
+
+100.000
+
+08/01/2025
+
+Total
+
+100.000
+
+Em 31/12/2023, a composição do Balanço Patrimonial (BP) é a seguinte:
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+66
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+Ativo Circulante = R$268.800
+Contas a receber de clientes ........................ R$ 280.000 (-) Perdas estimadas com crédito de liquidação duvidosa (4%) ........................R$ 12.000
+Ativo Não Circulante = R$96.000
+Contas a receber de clientes ........................ R$ 100.000 (-) Perdas estimadas com crédito de liquidação duvidosa (4%) ........................R$ 4.000
+Portanto, o empresária, em seu balanço patrimonial, em 31/12/2023, término do exercício social é de R$268.800.
+Gabarito: C
+24. (FGV/ALE TO/Analista/2024) Uma loja realiza vendas à vista ou a prazo. Em 31/12/2022, a loja contabilizou receita de vendas de R$500.000, para recebimento em 2024. Na data, estimava inadimplência de 4%. Em 31/12/2023, a loja auferiu receita de vendas de R$400.000, para recebimento em 2025. Na data, sua estimativa em relação ao risco de inadimplência foi reduzida para 3%. Assinale a opção que indica o saldo em perdas estimadas com crédito de liquidação duvidosa em 31/12/2022 e em 31/12/2023, respectivamente. A R$15.000 e R$12.000. B R$15.000 e R$27.000. C R$20.000 e R$12.000. D R$20.000 e R$27.000. E R$20.000 e R$32.000.
+Comentários:
+Em 31/12/2022, a loja contabilizou receita de vendas de R$500.000, para recebimento em 2024. Na data, estimava inadimplência de 4%. Assim sendo, a empresa reconheceu uma despesa com perdas estimadas com clientes de R$ 20.000:
+D Despesa com perdas estimadas com créditos de liquidação duvidosa (despesa) 20.000 C Perdas estimadas com créditos de liquidação duvidosa (retificadora do ativo) 20.000
+Razonetes:
+
+Neste momento, podemos eliminar as alternativas A e B.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+67
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+Em 31/12/2023, a loja auferiu receita de vendas de R$400.000, para recebimento em 2025. Agora, temos um total de R$ 900.000 em contas a receber e uma estimativa de perda de 3%, ou melhor, R$ 27.000. Como já temos R$ 20.000,00 na conta PECLD, constituiremos somente R$ 7.000,00:
+D Despesa com perdas estimadas com créditos de liquidação duvidosa (despesa) 7.000 C Perdas estimadas com créditos de liquidação duvidosa (retificadora do ativo) 7.000
+Razonetes:
+
+Gabarito: D
+25. (FGV/SES MT/Contador/2024) Uma sociedade empresária oferece palestras motivacionais por R$1.000. Em janeiro de 2024, ela realizou dez palestras, sendo que todos os clientes receberam prazo de 90 dias para o pagamento. A sociedade empresária estima inadimplência total de 2%.
+Assinale a opção que indica a variação dos saldos no balanço patrimonial da sociedade empresária, em janeiro. A Aumento de R$10.000 no ativo e no passivo. B Aumento de R$9.800 no ativo e no passivo. C Aumento de R$9.800 no ativo e no patrimônio líquido. D Aumento de R$10.000 no ativo, de R$9.800 no patrimônio líquido e de R$200 no passivo.
+Comentários:
+Em janeiro de 2024, a sociedade empresária contabilizou receita de vendas de R$10.000 (10 palestras x R$ 1.000), para recebimento em 90 dias.
+D Clientes (aumento no ativo) R$10.000 C Receita de Vendas (aumento no resultado, consequentemente aumenta PL) R$10.000
+Na data, estimava inadimplência de 2%. Assim sendo, a empresa reconheceu uma despesa com perdas estimadas com clientes de R$ 200:
+D Despesa com PCLD (diminuição no resultado, consequentemente diminui PL)) 200 C Perdas estimadas com créditos de liquidação duvidosa (retificadora do ativo, logo diminui o ativo) 200
+Efeitos no balanço patrimonial:
+Ativo: + 10.000 200 = 9.800 Passivo: sem variação
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+68
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+PL: + 10.000 200 = 9.800
+Gabarito: C
+26. (FGV/Prefeitura de Caraguatatuba/Contador/2024) Uma entidade possui uma conta bancária especial destinada ao pagamento de sua folha salarial. A conta é mantida como medida interna de controle, para facilitar a operação e pode ser movimentada pela entidade por meio de transferências bancárias. Assinale a opção que indica a classificação dessa conta no balanço patrimonial da entidade.
+(A) Contas a pagar, no passivo circulante. (B) Disponibilidades, no ativo circulante. (C) Despesas a pagar, no passivo circulante. (D) Despesas antecipadas, no ativo circulante. (E) Aplicações financeiras, no ativo circulante. Comentários:
+As disponibilidades são elementos que representam dinheiro ou que nele possam ser convertidos de forma imediata, como a conta caixa, bancos conta movimento. Quais são as contas que compõem as disponibilidades? Bem, basicamente a conta caixa e equivalentes de caixa. Exemplos de disponibilidades:
+- Caixa. - Contas bancárias (inclusive aquelas com destinação específica, como folhas de pagamento, dividendos, filiais). - Numerários em trânsito, como por exemplo, remessas para filiais, depósitos, ordem de pagamento; - Aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor
+Na nossa questão, a empresa possui saldo bancário com destinação específica, com uma conta especial para o pagamento de funcionários. Trata-se, assim, de uma disponibilidade, no ativo circulante.
+Gabarito: B
+27. (FGV/Prefeitura de SJC/Analista em Gestão Municipal/2024) A Cia Contábil presta serviços de consultoria. Ela tem participação permanente na Cia Decoração, classificando-a como coligada.
+Em 30/12/2022, a Cia Contábil emprestou à Cia Decoração R$50.000 para recebimento em 31/10/2023. Assinale a opção que indica, respectivamente, a contabilização da participação na Cia Decoração e do empréstimo realizado a ela, no balanço patrimonial da Cia Contábil, em 31/12/2022. a) Investimentos, Investimentos. b) Investimentos, Ativo Circulante. c) Ativo Imobilizado, Ativo Circulante. d) Investimentos, Ativo Realizável a Longo Prazo.
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+69
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+e) Ativo Realizável a Longo Prazo, Ativo Realizável a Longo Prazo.
+Comentários:
+Questão que trata da classificação de itens no ativo não circulante, o qual é dividido em: realizável em longo prazo, investimentos, imobilizado e intangível.
+A questão nos fala que a Cia Contábil presta serviços de consultoria. Ela tem participação permanente na Cia Decoração, classificando-a como coligada. vejam o que prevê a Lei 6404/76:
+Art. 179. As contas serão classificadas do seguinte modo:
+III - em investimentos: as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis =2e6f5== no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa;
+Portanto, neste subgrupo classificam-se as participações permanentes em outras sociedades, isto é, aqueles investimentos em sociedades cujo caráter não seja o especulativo. Portanto, trata-se de um Ativo Não Circulante Investimentos.
+Por sua vez, em 30/12/2022, a Cia Contábil emprestou à Cia Decoração R$50.000 para recebimento em 31/10/2023. Trata-se de um empréstimo concedido a uma empresa coligada para recebimento no curto prazo.
+Trata-se de um Ativo Não Circulante Realizável em Longo Prazo, ainda que o tempo de restituição seja de apenas 10 meses. Vejam a lei das Sociedades por Ações (6.404/76), o ativo não circulante realizável a longo prazo é composto por:
+Art. 179. II - No ativo realizável a longo prazo: os direitos realizáveis após o término do exercício seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas (artigo 243), diretores, acionistas ou participantes no lucro da companhia, que não constituírem negócios usuais na exploração do objeto da companhia;
+Gabarito: D
+28. (FGV/Prefeitura de Caraguatatuba/Contador/2024) Em 31/12/2022, uma sociedade empresária apresentava as seguintes contas em seus ativos.
+Contas a receber de clientes: R$50.000 Contas a receber de partes relacionadas, decorrentes de transações operacionais: R$45.000. Contas a receber de partes relacionadas, não decorrentes de transações operacionais: R$30.000. Os três recebimentos estavam previstos para março de 2023.No Balanço Patrimonial da sociedade empresária, os saldos do ativo circulante e do ativo realizável a longo prazo, em 31/12/2022, eram, respectivamente, de
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+70
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+
+(A) Zero e R$125.000. (B) R$50.000 e R$75.000. (C) R$80.000 e R$45.000. (D) R$95.000 e R$30.000. (E) R$125.000 e zero.
+Comentários:
+Para resolvermos essa questão, teremos que recorrer a legislação societária. De acordo com a Lei 6404/76, Art. 179, as contas serão classificadas do seguinte modo:
+I - no ativo circulante: as disponibilidades, os direitos realizáveis no curso do exercício social subsequente e as aplicações de recursos em despesas do exercício seguinte.
+Por sua vez, de acordo com Art. 179. II, da mesma lei, no ativo realizável a longo prazo teremos os direitos realizáveis após o término do exercício seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas (artigo 243), diretores, acionistas ou participantes no lucro da companhia, que não constituírem negócios usuais na exploração do objeto da companhia.
+Vejam esse esquema:
+
+Venda de Mercadoria para pessoas próximas (partes
+relacionadas)
+
+É negócio usual da empresa
+Não é negócio usual da empresa
+
+Circulante
+Não Circulante
+Não Circulante (independente do
+prazo)
+
+Agora, vamos classificar as contas apresentadas:
+Contas a receber de clientes: R$50.000 Ativo Circulante Contas a receber de partes relacionadas, decorrentes de transações operacionais: R$45.000 - Ativo Circulante, pois é negócio usual, operacional. Segue a regra geral. Contas a receber de partes relacionadas, não decorrentes de transações operacionais: R$30.000. Ativo Não Circulante, pois é não negócio usual, operacional da empresa.
+Total do Ativo Circulante = 50.000 + 45.000 = R$ 95.000
+Total do Ativo Não Circulante = R$ 30.000
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+71
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+Gabarito: D
+29. (FGV/Prefeitura de Caraguatatuba/Tec Contabilidade/2024) Uma sociedade empresária que trabalhava com a venda de livros adquiriu, em junho de 2022, R$20.000 em estoque, com a intenção de vendê-lo até janeiro de 2023. Ainda, adquiriu, por R$30.000, participação permanente em outra sociedade. As compras resultaram no aumento dos seguintes grupos de ativos, respectivamente,
+(A) Circulante e Investimentos. (B) Circulante e Imobilizado. (C) Realizável a Longo Prazo e Intangível. (D) Realizável a Longo Prazo e Imobilizado. (E) Realizável a Longo Prazo e Investimentos.
+Comentários:
+A aquisição de estoque de mercadorias para revenda, cuja intenção é a venda no curto prazo, representa um aumento no Ativo Circulante da Empresa.
+O CPC 26 Apresentação das Demonstrações Contábeis, item 66 afirma:
+O ativo deve ser classificado como circulante quando satisfizer qualquer dos seguintes critérios: (a) esperase que seja realizado, ou pretende-se que seja vendido ou consumido no decurso normal do ciclo operacional da entidade;
+(b) está mantido essencialmente com o propósito de ser negociado;
+(c) espera-se que seja realizado até doze meses após a data do balanço; ou
+(d) é caixa ou equivalente de caixa (conforme definido no Pronunciamento Técnico CPC 03 Demonstração dos Fluxos de Caixa), a menos que sua troca ou uso para liquidação de passivo se encontre vedada durante pelo menos doze meses após a data do balanço.
+Todos os demais ativos devem ser classificados como não circulantes
+Por sua vez, a aquisição de uma participação permanente em outra sociedade representa um ativo não circulante Investimentos.
+O art. 179. Da Lei 6404/76, III, afirma que serão classificadas como investimentos as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa;
+Gabarito: A
+30. (FGV/Exame de Suficiência/2024.1) Conforme a Lei no 6.404/76, no Balanço Patrimonial, as contas do ativo são apresentadas de acordo com a ordem decrescente de grau de
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+72
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+Luciano Rosa, Júlio Cardozo Aula 04
+A) liquidez. (B) relevância. (C) objetividade. (D) valor monetário.
+Comentários:
+A referida norma ensina que o ativo é disposto em ordem DECRESCENTE do grau de liquidez.
+A liquidez se refere à expectativa de conversão em dinheiro de um bem ou direito. Desta forma, começaremos a expor as contas no ativo pela maior conversibilidade em dinheiro, ou seja, pela conta caixa, que já representa o próprio numerário. Em seguida, classificaremos a conta bancos, aplicações financeiras de liquidez imediata e assim por diante, até a conta terrenos ou outra que tenha baixíssima liquidez.
+Observem o parágrafo 1 do art. 178 dessa lei:
+Art. 178. No balanço, as contas serão classificadas segundo os elementos do patrimônio que registrem, e agrupadas de modo a facilitar o conhecimento e a análise da situação financeira da companhia.
+§ 1º No ativo, as contas serão dispostas em ordem decrescente de grau de liquidez dos elementos nelas registrados, nos seguintes grupos:
+I ativo circulante; e
+II ativo não circulante, composto por ativo realizável a longo prazo, investimentos, imobilizado e intangível.
+Gabarito: A
+
+Concursos Contábeis - Contabilidade Geral - Curso Regular
+
+73
+
+83
+
+08155932443 - Natan Luiz Rodrigues Chaves
+
+
