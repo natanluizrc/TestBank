@@ -1,0 +1,42 @@
+{
+  "slug": "ingles-food",
+  "titulo": "Food Vocabulary",
+  "descricao": "Everyday food categories in English: meat, dairy, seafood, legumes, vegetables, fruits, junk food, sweets, drinks, grains, and herbs & spices.",
+  "lang": "en-US",
+  "secoes": [
+    {
+      "titulo": "Food Groups You Use Every Day",
+      "conteudo": "English speakers sort food into categories that make shopping and talking about meals much easier. In this lesson, you will learn the most common food groups and the words that appear in each one.\n\nThe main categories are: **meat**, **dairy**, **seafood**, **legumes**, **vegetables**, **fruits**, **grains**, **herbs & spices**, **drinks**, **sweets**, and **junk food**. Each group has its own vocabulary and the same words appear again and again in recipes and menus."
+    },
+    {
+      "titulo": "Animal-Based Foods: Meat, Dairy, Seafood",
+      "conteudo": "**Meat** includes beef, pork, chicken, turkey, lamb, sausage, bacon, ham, steak, ribs, and ground beef. When you buy meat, you often choose one type and then a cut, for example 'chicken breast' or 'pork chops'.\n\n**Dairy** comes from animals and includes milk, cheese, butter, yogurt, cream, ice cream, cottage cheese, and whey protein. In English, dairy is also the name of the food section in a supermarket.\n\n**Seafood** is food from the sea: fish, shrimp, crab, lobster, mussels, clams, oysters, squid, and octopus. Some people call all seafood **fish**, but when you want to be exact, use **seafood** for shellfish and other ocean foods."
+    },
+    {
+      "titulo": "Plant-Based Foods: Vegetables, Fruits, Grains, Legumes",
+      "conteudo": "**Vegetables** are the fresh plants you eat, like potato, tomato, onion, garlic, carrot, broccoli, lettuce, spinach, cabbage, cucumber, bell pepper, pumpkin, zucchini, eggplant, corn, and kale.\n\n**Fruits** are sweet or tart and often eaten raw: apple, banana, orange, lemon, lime, strawberry, blueberry, grape, watermelon, mango, papaya, peach, pear, kiwi, coconut, and avocado.\n\n**Grains & Carbs** are the foods that give you energy: rice, bread, pasta, noodles, oats, flour, cereal, quinoa, barley, wheat, tortilla, toast, bun, bagel, croissant, cracker, couscous, granola, and breadcrumbs.\n\n**Legumes** are the seeds and beans: beans, lentils, chickpeas, peas, soybeans, edamame, kidney beans, black beans, pinto beans, black-eyed peas, green beans, lima beans, peanuts, and tofu."
+    },
+    {
+      "titulo": "Treats, Drinks, and Flavor",
+      "conteudo": "**Junk food** is the category of tasty but not very healthy snacks: burger, fries, pizza, hot dog, fried chicken, nuggets, nachos, burrito, taco, sandwich, chips, popcorn, and instant noodles.\n\n**Sweets** include chocolate, candy, cake, cookie, brownie, cupcake, ice cream, pie, cheesecake, muffin, pudding, jam, honey, caramel, and gum. These are the foods you eat for dessert or to celebrate.\n\n**Drinks** are the liquids you drink: water, coffee, tea, juice, soda, milk, smoothie, lemonade, energy drink, beer, wine, whiskey, vodka, cocktail, hot chocolate, and coconut water. Some drinks are for breakfast, some are for parties, and some are for relaxing.\n\n**Herbs & spices** are the small ingredients that add flavor: salt, pepper, garlic powder, onion powder, paprika, oregano, basil, parsley, cilantro, rosemary, thyme, cinnamon, nutmeg, ginger, turmeric, curry powder, chili powder, vinegar, olive oil, and soy sauce. These words are essential when you talk about cooking."
+    },
+    {
+      "titulo": "Talking About Food in English",
+      "conteudo": "When you describe a meal, use the food category first. For example: 'I like **seafood**', 'This is a **vegetable** soup', or 'That restaurant sells good **burgers**'.\n\nYou can also describe food with simple adjectives: 'fresh fruit', 'spicy sauce', 'sweet dessert', 'healthy salad', 'fried chicken', 'cold drink', 'green vegetables'. Those combinations are common and very useful.\n\nFinally, remember that some foods belong to more than one group. **Cheese** is dairy, but you might also say it is a **snack**. **Tomato** is a vegetable in cooking, but it is a **fruit** in grammar. English speakers use the food category that fits the sentence best."
+    }
+  ],
+  "glossario": [
+    { "palavra": "meat", "significado": "animal-based food such as beef, chicken, pork, or lamb" },
+    { "palavra": "dairy", "significado": "milk-based food such as cheese, yogurt, and butter" },
+    { "palavra": "seafood", "significado": "food from the sea, like fish, shrimp, and crab" },
+    { "palavra": "vegetables", "significado": "plants or parts of plants eaten as food" },
+    { "palavra": "fruits", "significado": "sweet or tart plant foods usually eaten raw" },
+    { "palavra": "grains", "significado": "starchy foods like rice, bread, pasta, and cereal" },
+    { "palavra": "legumes", "significado": "beans and peas, including chickpeas, lentils, and soybeans" },
+    { "palavra": "junk food", "significado": "tasty food with little nutritional value" },
+    { "palavra": "sweets", "significado": "desserts and sugary treats" },
+    { "palavra": "drinks", "significado": "liquids you drink, such as water, juice, coffee, and soda" },
+    { "palavra": "herbs", "significado": "fresh or dried leaves used for flavor" },
+    { "palavra": "spices", "significado": "dried seeds or powders used to add strong flavor" }
+  ]
+}

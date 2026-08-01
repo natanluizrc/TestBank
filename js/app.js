@@ -329,6 +329,7 @@ const MATERIAIS_LISTA = [
   { slug: 'ingles-false-friends', titulo: 'False Friends', descricao: 'The 50 most common English words that Portuguese speakers consistently misinterpret — with explanations, context, and traps to avoid.' },
   { slug: 'ingles-linking-words-1', titulo: 'Linking Words — Part 1: Contrast and Concession', descricao: 'Whereas, although, despite, however, nevertheless — the words that show contrast and concession, with the grammar rules that tell you which structure each one requires.' },
   { slug: 'ingles-linking-words-2', titulo: 'Linking Words — Part 2: Addition, Cause and Sequence', descricao: 'Furthermore, therefore, meanwhile, for example, in conclusion — the complete toolkit for linking ideas, with a punctuation guide and the traps that catch even advanced learners.' },
+  { slug: 'ingles-food', titulo: 'Food Vocabulary', descricao: 'Everyday food categories in English: meat, dairy, seafood, legumes, vegetables, fruits, junk food, sweets, drinks, grains, and herbs & spices.' },
 ];
 
 let materialAtivo = null;
